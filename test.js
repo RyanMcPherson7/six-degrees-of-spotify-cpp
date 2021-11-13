@@ -1,5 +1,3 @@
-// const axios = require('axios').default;
-// const denque = require('denque');
 import axios from 'axios';
 import Queue from 'yocto-queue';
 
@@ -44,17 +42,19 @@ let artistIdSet = new Set();
 let idProcessingQueue = new Queue();
 
 // artistNameArray.push('Pitbull');
+// idProcessingQueue.enqueue('3sgFRtyBnxXD5ESfmbK4dl');
 idProcessingQueue.enqueue('0TnOYISbd1XYRBk9myaseg');
 
-while (artistIdSet.size < 1) {
-  const qSize = idProcessingQueue.size;
+(async () => {
+  while (artistIdSet.size < 200) {
+    const qSize = idProcessingQueue.size;
 
-  for (let i = 0; i < qSize; i++) {
-    const currentId = idProcessingQueue.dequeue();
-    if (!artistIdSet.has(currentId)) {
-      artistIdSet.add(currentId);
+    for (let i = 0; i < qSize; i++) {
+      const currentId = idProcessingQueue.dequeue();
+      if (!artistIdSet.has(currentId)) {
+        artistIdSet.add(currentId);
 
-      getRelatedArtists(currentId).then((res) => {
+        const res = await getRelatedArtists(currentId)
         const data = res.artists;
         data.forEach((artist) => {
           idProcessingQueue.enqueue(artist.id);
@@ -64,23 +64,16 @@ while (artistIdSet.size < 1) {
             artist.name,
           ]);
         });
-      });
+      }
+
+      // artistNameIndex++;
     }
-
-    // artistNameIndex++;
   }
-}
+})();
 
-// getRelatedArtists('0TnOYISbd1XYRBk9myaseg')
-// .then( (res) => {
-//   let data = res.artists;
 
-//   data.forEach((artist) => {
-//     console.log(artist.name);
-//   })
-// });
 
 setTimeout(() => {
   console.log(artistConnections);
   console.log(idProcessingQueue.size);
-}, 5000);
+}, 10000);
