@@ -36,39 +36,28 @@ const getRelatedArtists = async (artistId) => {
 };
 
 let artistConnections = [];
-let artistNameArray = [];
-let artistNameIndex = 0;
 let artistIdSet = new Set();
-let idProcessingQueue = new Queue();
+let processingQueue = new Queue();
 
-// artistNameArray.push('Pitbull');
-// idProcessingQueue.enqueue('0TnOYISbd1XYRBk9myaseg');
-artistNameArray.push('LMFAO');
-idProcessingQueue.enqueue('3sgFRtyBnxXD5ESfmbK4dl');
+processingQueue.enqueue(['LMFAO', '3sgFRtyBnxXD5ESfmbK4dl']);
 
 const connectionPopulator = async (numArtists) => {
   while (artistIdSet.size < numArtists) {
-    const qSize = idProcessingQueue.size;
+    const qSize = processingQueue.size;
 
     for (let i = 0; i < qSize; i++) {
-      const currentId = idProcessingQueue.dequeue();
+      let currentName, currentId;
+      [currentName, currentId] = processingQueue.dequeue();
       if (!artistIdSet.has(currentId)) {
         artistIdSet.add(currentId);
 
         const res = await getRelatedArtists(currentId);
         const data = res.artists;
         data.forEach((artist) => {
-          idProcessingQueue.enqueue(artist.id);
-          artistNameArray.push(artist.name);
-          artistConnections.push([
-            // currentId,
-            artistNameArray[artistNameIndex],
-            artist.name,
-          ]);
+          processingQueue.enqueue([artist.name, artist.id]);
+          artistConnections.push([currentName, artist.name]);
         });
       }
-
-      artistNameIndex++;
     }
   }
 };

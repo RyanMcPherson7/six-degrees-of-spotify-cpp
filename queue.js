@@ -2,9 +2,11 @@ import Queue from 'yocto-queue';
 
 const queue = new Queue();
 
-queue.enqueue('B');
-queue.enqueue('A');
+queue.enqueue(['LMFAO', 'ASDFASDF']);
+queue.enqueue(['Pitbull', '12341234']);
 
+let name, id;
+[name, id] = queue.dequeue();
 
-console.log(queue.dequeue());
-console.log(queue.size);
+console.log(name);
+console.log(id);
