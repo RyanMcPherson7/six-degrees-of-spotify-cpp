@@ -4,6 +4,7 @@ import fs from 'fs';
 import dotenv from 'dotenv';
 dotenv.config();
 
+// returns bearer token from Spotify
 const getToken = async () => {
   const res = await axios({
     method: 'post',
@@ -22,9 +23,9 @@ const getToken = async () => {
   return res.data.access_token;
 };
 
+// returns related artists list for specified artistId
 const getRelatedArtists = async (artistId) => {
   const token = await getToken();
-  // console.log(token);
 
   const res = await axios({
     method: 'get',
@@ -37,7 +38,6 @@ const getRelatedArtists = async (artistId) => {
   return res.data;
 };
 
-let artistConnections = [];
 let artistIdSet = new Set();
 let processingQueue = new Queue();
 
@@ -45,8 +45,11 @@ let processingQueue = new Queue();
 processingQueue.enqueue(['Justin Bieber', '1uNFoZAHBGtllmzznpCI3s']);
 processingQueue.enqueue(['Kanye West', '5K4W6rqBFWDnAN6FQUkS6x']);
 processingQueue.enqueue(['The Beatles', '3WrFJ7ztbogyGnTHbHJFl2']);
+processingQueue.enqueue(['Avicci', '1vCWHaC5f2uS3yhpwWbIA6']);
+processingQueue.enqueue(['Empire of the Sun', '67hb7towEyKvt5Z8Bx306c']);
 
-const connectionPopulator = async (numArtists) => {
+// writes specified # artists connections to connections.txt
+const populateConnections = async (numArtists) => {
   while (artistIdSet.size < numArtists) {
     const qSize = processingQueue.size;
 
@@ -60,22 +63,19 @@ const connectionPopulator = async (numArtists) => {
         const data = res.artists;
         data.forEach((artist) => {
           processingQueue.enqueue([artist.name, artist.id]);
-          artistConnections.push([currentName, artist.name]);
+
+          fs.appendFile(
+            'connections.txt',
+            `${currentName} -> ${artist.name}\n`,
+            (err) => {
+              if (err) throw err;
+            }
+          );
         });
       }
-      console.log('# connections found: ', artistConnections.length);
+      console.log('# artists found: ', artistIdSet.size);
     }
   }
 };
 
-connectionPopulator(1000);
-
-setTimeout(() => {
-  let data = '';
-  artistConnections.forEach((connection) => {
-    data += connection[0] + ' -> ' + connection[1] + '\n';
-  });
-
-  console.log('writing file');
-  fs.writeFileSync('data.txt', data);
-}, 1200000);
+populateConnections(100);
