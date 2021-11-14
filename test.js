@@ -66,7 +66,7 @@ const connectionPopulator = async (numArtists) => {
   }
 };
 
-connectionPopulator(150);
+connectionPopulator(1000);
 
 setTimeout(() => {
   let data = '';
@@ -76,4 +76,4 @@ setTimeout(() => {
 
   console.log('writing file');
   fs.writeFileSync('data.txt', data);
-}, 120000);
+}, 1200000);
