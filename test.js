@@ -1,5 +1,6 @@
 import axios from 'axios';
 import Queue from 'yocto-queue';
+import fs from 'fs';
 
 const clientSecret = 'b2ec1fbaf84b4afc92f821dd7cfff4f7';
 const clientId = 'ad1ed1cd0b5744fb81f3937fdf5db634';
@@ -39,7 +40,10 @@ let artistConnections = [];
 let artistIdSet = new Set();
 let processingQueue = new Queue();
 
-processingQueue.enqueue(['LMFAO', '3sgFRtyBnxXD5ESfmbK4dl']);
+// initial seeding
+processingQueue.enqueue(['Justin Bieber', '1uNFoZAHBGtllmzznpCI3s']);
+processingQueue.enqueue(['Kanye West', '5K4W6rqBFWDnAN6FQUkS6x']);
+processingQueue.enqueue(['The Beatles', '3WrFJ7ztbogyGnTHbHJFl2']);
 
 const connectionPopulator = async (numArtists) => {
   while (artistIdSet.size < numArtists) {
@@ -62,8 +66,14 @@ const connectionPopulator = async (numArtists) => {
   }
 };
 
-connectionPopulator(5);
+connectionPopulator(150);
 
 setTimeout(() => {
-  console.log(artistConnections);
-}, 10000);
+  let data = '';
+  artistConnections.forEach((connection) => {
+    data += connection[0] + ' -> ' + connection[1] + '\n';
+  });
+
+  console.log('writing file');
+  fs.writeFileSync('data.txt', data);
+}, 120000);
