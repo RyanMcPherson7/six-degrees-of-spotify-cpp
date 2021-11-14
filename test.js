@@ -41,12 +41,13 @@ let artistNameIndex = 0;
 let artistIdSet = new Set();
 let idProcessingQueue = new Queue();
 
-artistNameArray.push('Pitbull');
-// idProcessingQueue.enqueue('3sgFRtyBnxXD5ESfmbK4dl');
-idProcessingQueue.enqueue('0TnOYISbd1XYRBk9myaseg');
+// artistNameArray.push('Pitbull');
+// idProcessingQueue.enqueue('0TnOYISbd1XYRBk9myaseg');
+artistNameArray.push('LMFAO');
+idProcessingQueue.enqueue('3sgFRtyBnxXD5ESfmbK4dl');
 
-const connectionPopulator =  async () => {
-  while (artistIdSet.size < 5) {
+const connectionPopulator = async (numArtists) => {
+  while (artistIdSet.size < numArtists) {
     const qSize = idProcessingQueue.size;
 
     for (let i = 0; i < qSize; i++) {
@@ -54,7 +55,7 @@ const connectionPopulator =  async () => {
       if (!artistIdSet.has(currentId)) {
         artistIdSet.add(currentId);
 
-        const res = await getRelatedArtists(currentId)
+        const res = await getRelatedArtists(currentId);
         const data = res.artists;
         data.forEach((artist) => {
           idProcessingQueue.enqueue(artist.id);
@@ -70,9 +71,9 @@ const connectionPopulator =  async () => {
       artistNameIndex++;
     }
   }
-}
+};
 
-connectionPopulator();
+connectionPopulator(5);
 
 setTimeout(() => {
   console.log(artistConnections);
