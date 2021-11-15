@@ -20,8 +20,13 @@ const populateConnections = async (
       if (!artistIdSet.has(currentId)) {
         count++;
         artistIdSet.add(currentId);
+        fs.appendFile('artistIdSet.txt', `${currentId},`, (err) => {
+          if (err) throw err;
+        });
+
         const res = await getRelatedArtists(currentId);
         const data = res.artists;
+
         data.forEach((artist) => {
           processingQueue.enqueue([artist.name, artist.id]);
           fs.appendFile(

@@ -1,23 +1,31 @@
 import populateConnections from './populate-connections.js';
 import Queue from 'yocto-queue';
+import fs from 'fs';
+
+// reading already processed artists
+let artistIdSet = new Set();
+fs.readFile('artistIdSet.txt', 'utf8', (err, data) => {
+  if (err) throw err;
+
+  data = data.split(',');
+  data.forEach((id) => {
+    artistIdSet.add(id);
+  });
+});
 
 // initial seeding
 let processQ = new Queue();
-let artistIdSet = new Set();
-processQ.enqueue(['Justin Bieber', '1uNFoZAHBGtllmzznpCI3s']);
-processQ.enqueue(['Kanye West', '5K4W6rqBFWDnAN6FQUkS6x']);
-processQ.enqueue(['The Beatles', '3WrFJ7ztbogyGnTHbHJFl2']);
-processQ.enqueue(['Michael Jackson', '3fMbdgg4jU18AjLCKBhRSm']);
+// processQ.enqueue(['Justin Bieber', '1uNFoZAHBGtllmzznpCI3s']);
+// processQ.enqueue(['Vance Joy', '10exVja0key0uqUkk6LJRT']);
+// processQ.enqueue(['Ed Sheeran', '6eUKZXaKkcviH0Ku9w2n3V']);
 processQ.enqueue(['Tame Impala', '5INjqkS1o8h1imAzPqGZBb']);
-processQ.enqueue(['Bad Bunny', '4q3ewBCX7sLwd24euuV69X']);
+// processQ.enqueue(['Kanye West', '5K4W6rqBFWDnAN6FQUkS6x']);
+// processQ.enqueue(['The Beatles', '3WrFJ7ztbogyGnTHbHJFl2']);
+// processQ.enqueue(['Michael Jackson', '3fMbdgg4jU18AjLCKBhRSm']);
+// processQ.enqueue(['Bad Bunny', '4q3ewBCX7sLwd24euuV69X']);
 
-// populating data file
-const NUM_ARTISTS = 13000;
-const ARTIST_PER_REQUEST = 500;
-const MINUTE_DELAY = 10;
-
-for (let i = 0; i < NUM_ARTISTS / ARTIST_PER_REQUEST; i++) {
-  setTimeout(() => {
-    populateConnections(processQ, artistIdSet, ARTIST_PER_REQUEST);
-  }, MINUTE_DELAY * 60000 * i);
-}
+console.log('loading processed artists...');
+setTimeout(() => {
+  console.log('Initialize scraping');
+  populateConnections(processQ, artistIdSet, 2000);
+}, 10000);
