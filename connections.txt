@@ -1,0 +1,7060 @@
+Justin Bieber|ZAYN
+Justin Bieber|Shawn Mendes
+Justin Bieber|Niall Horan
+Justin Bieber|Fifth Harmony
+Justin Bieber|Selena Gomez
+Justin Bieber|Bazzi
+Justin Bieber|Demi Lovato
+Justin Bieber|Camila Cabello
+Justin Bieber|Alessia Cara
+Justin Bieber|The Vamps
+Justin Bieber|Zara Larsson
+Justin Bieber|Julia Michaels
+Justin Bieber|Nick Jonas
+Justin Bieber|Jonas Brothers
+Justin Bieber|Hailee Steinfeld
+Justin Bieber|PRETTYMUCH
+Justin Bieber|Ruel
+Justin Bieber|Liam Payne
+Justin Bieber|One Direction
+Justin Bieber|Khalid
+Kanye West|Big Sean
+Kanye West|Pusha T
+Kanye West|Kid Cudi
+Kanye West|Kendrick Lamar
+Kanye West|A$AP Rocky
+Kanye West|Joey Bada$$
+Kanye West|Frank Ocean
+Kanye West|ScHoolboy Q
+Kanye West|Chance the Rapper
+Kanye West|J. Cole
+Kanye West|KIDS SEE GHOSTS
+Kanye West|JAY-Z
+Kanye West|Vince Staples
+Kanye West|2 Chainz
+Kanye West|Isaiah Rashad
+Kanye West|Tyler, The Creator
+Kanye West|Meek Mill
+Kanye West|Baby Keem
+Kanye West|Childish Gambino
+Kanye West|Metro Boomin
+The Beatles|George Harrison
+The Beatles|John Lennon
+The Beatles|Paul McCartney
+The Beatles|Ringo Starr
+The Beatles|The Kinks
+The Beatles|The Beach Boys
+The Beatles|The Rolling Stones
+The Beatles|The Hollies
+The Beatles|The Byrds
+The Beatles|Simon & Garfunkel
+The Beatles|Bob Dylan
+The Beatles|Wings
+The Beatles|Buddy Holly
+The Beatles|Chuck Berry
+The Beatles|Donovan
+The Beatles|Badfinger
+The Beatles|Jimi Hendrix
+The Beatles|Roy Orbison
+The Beatles|Elvis Presley
+The Beatles|Eric Clapton
+Avicci|Afrojack
+Avicci|Nicky Romero
+Avicci|Alesso
+Avicci|Swedish House Mafia
+Avicci|Hardwell
+Avicci|Axwell /\ Ingrosso
+Avicci|Zedd
+Avicci|Galantis
+Avicci|Mike Perry
+Avicci|Jonas Blue
+Avicci|Martin Jensen
+Avicci|Martin Garrix
+Avicci|Vigiland
+Avicci|Lucas & Steve
+Avicci|R3HAB
+Avicci|Sebastian Ingrosso
+Avicci|Martin Solveig
+Avicci|Sigala
+Avicci|Don Diablo
+Avicci|Steve Aoki
+Empire of the Sun|Miike Snow
+Empire of the Sun|Miami Horror
+Empire of the Sun|The Presets
+Empire of the Sun|Passion Pit
+Empire of the Sun|PNAU
+Empire of the Sun|Bag Raiders
+Empire of the Sun|Cut Copy
+Empire of the Sun|Phoenix
+Empire of the Sun|Metronomy
+Empire of the Sun|MGMT
+Empire of the Sun|Hot Chip
+Empire of the Sun|The Temper Trap
+Empire of the Sun|Two Door Cinema Club
+Empire of the Sun|Chromeo
+Empire of the Sun|The Whitest Boy Alive
+Empire of the Sun|Digitalism
+Empire of the Sun|The Naked And Famous
+Empire of the Sun|M83
+Empire of the Sun|Foster The People
+Empire of the Sun|Capital Cities
+Michael Jackson|The Jacksons
+Michael Jackson|Janet Jackson
+Michael Jackson|The Pointer Sisters
+Michael Jackson|George Michael
+Michael Jackson|Kool & The Gang
+Michael Jackson|Wham!
+Michael Jackson|Billy Ocean
+Michael Jackson|Prince
+Michael Jackson|Bobby Brown
+Michael Jackson|Lionel Richie
+Michael Jackson|Earth, Wind & Fire
+Michael Jackson|Stevie Wonder
+Michael Jackson|Whitney Houston
+Michael Jackson|The Jackson 5
+Michael Jackson|Diana Ross
+Michael Jackson|Cyndi Lauper
+Michael Jackson|Daryl Hall & John Oates
+Michael Jackson|Kenny Loggins
+Michael Jackson|New Edition
+Michael Jackson|Madonna
+Tame Impala|Pond
+Tame Impala|Mild High Club
+Tame Impala|Khruangbin
+Tame Impala|Babe Rainbow
+Tame Impala|Mac DeMarco
+Tame Impala|Melody's Echo Chamber
+Tame Impala|Beach Fossils
+Tame Impala|King Gizzard & The Lizard Wizard
+Tame Impala|Toro y Moi
+Tame Impala|Beach House
+Tame Impala|The Growlers
+Tame Impala|Yellow Days
+Tame Impala|Foxygen
+Tame Impala|The Voidz
+Tame Impala|Temples
+Tame Impala|The Drums
+Tame Impala|Alvvays
+Tame Impala|Crumb
+Tame Impala|Unknown Mortal Orchestra
+Tame Impala|MGMT
+Bad Bunny|Ozuna
+Bad Bunny|Nio Garcia
+Bad Bunny|Mau y Ricky
+Bad Bunny|Anuel AA
+Bad Bunny|KAROL G
+Bad Bunny|Brytiago
+Bad Bunny|Lunay
+Bad Bunny|Rvssian
+Bad Bunny|Jhay Cortez
+Bad Bunny|Tainy
+Bad Bunny|Rauw Alejandro
+Bad Bunny|Lary Over
+Bad Bunny|Bryant Myers
+Bad Bunny|Myke Towers
+Bad Bunny|Casper Magico
+Bad Bunny|Alex Rose
+Bad Bunny|Ñengo Flow
+Bad Bunny|Noriel
+Bad Bunny|Amenazzy
+Bad Bunny|Miky Woodz
+ZAYN|Liam Payne
+ZAYN|Niall Horan
+ZAYN|Harry Styles
+ZAYN|Shawn Mendes
+ZAYN|Fifth Harmony
+ZAYN|DNCE
+ZAYN|The Vamps
+ZAYN|Camila Cabello
+ZAYN|Hailee Steinfeld
+ZAYN|Alessia Cara
+ZAYN|Zara Larsson
+ZAYN|Bazzi
+ZAYN|Louis Tomlinson
+ZAYN|PRETTYMUCH
+ZAYN|5 Seconds of Summer
+ZAYN|Julia Michaels
+ZAYN|Troye Sivan
+ZAYN|Demi Lovato
+ZAYN|Selena Gomez
+ZAYN|Halsey
+Shawn Mendes|ZAYN
+Shawn Mendes|Niall Horan
+Shawn Mendes|Alessia Cara
+Shawn Mendes|Bazzi
+Shawn Mendes|Liam Payne
+Shawn Mendes|Camila Cabello
+Shawn Mendes|DNCE
+Shawn Mendes|Fifth Harmony
+Shawn Mendes|Selena Gomez
+Shawn Mendes|Demi Lovato
+Shawn Mendes|Zara Larsson
+Shawn Mendes|Why Don't We
+Shawn Mendes|Julia Michaels
+Shawn Mendes|Troye Sivan
+Shawn Mendes|5 Seconds of Summer
+Shawn Mendes|The Vamps
+Shawn Mendes|Justin Bieber
+Shawn Mendes|PRETTYMUCH
+Shawn Mendes|Hailee Steinfeld
+Shawn Mendes|Meghan Trainor
+Niall Horan|Liam Payne
+Niall Horan|Harry Styles
+Niall Horan|ZAYN
+Niall Horan|The Vamps
+Niall Horan|Shawn Mendes
+Niall Horan|5 Seconds of Summer
+Niall Horan|Louis Tomlinson
+Niall Horan|New Hope Club
+Niall Horan|Why Don't We
+Niall Horan|Alessia Cara
+Niall Horan|One Direction
+Niall Horan|PRETTYMUCH
+Niall Horan|Hailee Steinfeld
+Niall Horan|HRVY
+Niall Horan|Nick Jonas
+Niall Horan|Jonas Brothers
+Niall Horan|AJ Mitchell
+Niall Horan|DNCE
+Niall Horan|THE DRIVER ERA
+Niall Horan|Anne-Marie
+Bazzi|Madison Beer
+Bazzi|Khalid
+Bazzi|PRETTYMUCH
+Bazzi|Julia Michaels
+Bazzi|Jack & Jack
+Bazzi|ZAYN
+Bazzi|Olivia O'Brien
+Bazzi|Ruel
+Bazzi|Bea Miller
+Bazzi|Jessie Reyez
+Bazzi|Lauv
+Bazzi|John K
+Bazzi|Chelsea Cutler
+Bazzi|Why Don't We
+Bazzi|MAX
+Bazzi|benny blanco
+Bazzi|Marc E. Bassy
+Bazzi|Troye Sivan
+Bazzi|Alessia Cara
+Bazzi|Sasha Alex Sloan
+Selena Gomez|Fifth Harmony
+Selena Gomez|Demi Lovato
+Selena Gomez|Camila Cabello
+Selena Gomez|Miley Cyrus
+Selena Gomez|Julia Michaels
+Selena Gomez|Selena Gomez & The Scene
+Selena Gomez|Bea Miller
+Selena Gomez|Alessia Cara
+Selena Gomez|Zara Larsson
+Selena Gomez|ZAYN
+Selena Gomez|Madison Beer
+Selena Gomez|Halsey
+Selena Gomez|Bridgit Mendler
+Selena Gomez|Hailee Steinfeld
+Selena Gomez|DNCE
+Selena Gomez|Pia Mia
+Selena Gomez|Nick Jonas
+Selena Gomez|Rita Ora
+Selena Gomez|Sabrina Carpenter
+Selena Gomez|Little Mix
+Fifth Harmony|Camila Cabello
+Fifth Harmony|Zara Larsson
+Fifth Harmony|Hailee Steinfeld
+Fifth Harmony|Demi Lovato
+Fifth Harmony|Bea Miller
+Fifth Harmony|Selena Gomez
+Fifth Harmony|Madison Beer
+Fifth Harmony|DNCE
+Fifth Harmony|Alessia Cara
+Fifth Harmony|Julia Michaels
+Fifth Harmony|Pia Mia
+Fifth Harmony|Meghan Trainor
+Fifth Harmony|Sofia Carson
+Fifth Harmony|Bridgit Mendler
+Fifth Harmony|Rita Ora
+Fifth Harmony|Dinah Jane
+Fifth Harmony|ZAYN
+Fifth Harmony|Cher Lloyd
+Fifth Harmony|Sabrina Carpenter
+Fifth Harmony|Nick Jonas
+Camila Cabello|Alessia Cara
+Camila Cabello|Fifth Harmony
+Camila Cabello|ZAYN
+Camila Cabello|Selena Gomez
+Camila Cabello|Zara Larsson
+Camila Cabello|Lauren Jauregui
+Camila Cabello|Madison Beer
+Camila Cabello|Julia Michaels
+Camila Cabello|DNCE
+Camila Cabello|Liam Payne
+Camila Cabello|AJ Mitchell
+Camila Cabello|Halsey
+Camila Cabello|Bea Miller
+Camila Cabello|Hailee Steinfeld
+Camila Cabello|The Vamps
+Camila Cabello|Demi Lovato
+Camila Cabello|Meghan Trainor
+Camila Cabello|Rita Ora
+Camila Cabello|Pia Mia
+Camila Cabello|Niall Horan
+Demi Lovato|Selena Gomez
+Demi Lovato|Fifth Harmony
+Demi Lovato|Selena Gomez & The Scene
+Demi Lovato|Alessia Cara
+Demi Lovato|Hailee Steinfeld
+Demi Lovato|Bridgit Mendler
+Demi Lovato|DNCE
+Demi Lovato|Victorious Cast
+Demi Lovato|Madison Beer
+Demi Lovato|Camila Cabello
+Demi Lovato|Julia Michaels
+Demi Lovato|Hannah Montana
+Demi Lovato|Miley Cyrus
+Demi Lovato|Meghan Trainor
+Demi Lovato|Nick Jonas
+Demi Lovato|Zara Larsson
+Demi Lovato|Cher Lloyd
+Demi Lovato|The Cheetah Girls
+Demi Lovato|Jonas Brothers
+Demi Lovato|Sabrina Carpenter
+Alessia Cara|Fifth Harmony
+Alessia Cara|Camila Cabello
+Alessia Cara|Julia Michaels
+Alessia Cara|Zara Larsson
+Alessia Cara|Bea Miller
+Alessia Cara|Madison Beer
+Alessia Cara|Astrid S
+Alessia Cara|Hailee Steinfeld
+Alessia Cara|Olivia O'Brien
+Alessia Cara|Rita Ora
+Alessia Cara|Demi Lovato
+Alessia Cara|DNCE
+Alessia Cara|Charlotte Lawrence
+Alessia Cara|Daya
+Alessia Cara|Niall Horan
+Alessia Cara|Tori Kelly
+Alessia Cara|AJ Mitchell
+Alessia Cara|ZAYN
+Alessia Cara|Jess Glynne
+Alessia Cara|Troye Sivan
+Zara Larsson|Fifth Harmony
+Zara Larsson|Julia Michaels
+Zara Larsson|Hailee Steinfeld
+Zara Larsson|Pia Mia
+Zara Larsson|Rita Ora
+Zara Larsson|Alessia Cara
+Zara Larsson|Camila Cabello
+Zara Larsson|Madison Beer
+Zara Larsson|Jess Glynne
+Zara Larsson|Charlotte Lawrence
+Zara Larsson|Astrid S
+Zara Larsson|Olivia O'Brien
+Zara Larsson|Bea Miller
+Zara Larsson|Mabel
+Zara Larsson|Daya
+Zara Larsson|Anne-Marie
+Zara Larsson|Maggie Lindemann
+Zara Larsson|Bebe Rexha
+Zara Larsson|DNCE
+Zara Larsson|Ellie Goulding
+The Vamps|Liam Payne
+The Vamps|Why Don't We
+The Vamps|New Hope Club
+The Vamps|AJ Mitchell
+The Vamps|Niall Horan
+The Vamps|Ruel
+The Vamps|Jack & Jack
+The Vamps|Alexander Stewart
+The Vamps|Rixton
+The Vamps|DNCE
+The Vamps|ZAYN
+The Vamps|HRVY
+The Vamps|Alessia Cara
+The Vamps|Ashton Irwin
+The Vamps|Cody Simpson
+The Vamps|Louis Tomlinson
+The Vamps|PRETTYMUCH
+The Vamps|Olly Murs
+The Vamps|Luke Hemmings
+The Vamps|Hailee Steinfeld
+Liam Payne|Niall Horan
+Liam Payne|Harry Styles
+Liam Payne|ZAYN
+Liam Payne|The Vamps
+Liam Payne|Shawn Mendes
+Liam Payne|Louis Tomlinson
+Liam Payne|PRETTYMUCH
+Liam Payne|New Hope Club
+Liam Payne|5 Seconds of Summer
+Liam Payne|Alessia Cara
+Liam Payne|Fifth Harmony
+Liam Payne|HRVY
+Liam Payne|Why Don't We
+Liam Payne|Nick Jonas
+Liam Payne|Austin Mahone
+Liam Payne|AJ Mitchell
+Liam Payne|Little Mix
+Liam Payne|One Direction
+Liam Payne|Anne-Marie
+Liam Payne|DNCE
+Julia Michaels|Hailee Steinfeld
+Julia Michaels|Madison Beer
+Julia Michaels|Astrid S
+Julia Michaels|Bea Miller
+Julia Michaels|Charlotte Lawrence
+Julia Michaels|Zara Larsson
+Julia Michaels|Olivia O'Brien
+Julia Michaels|Alexander 23
+Julia Michaels|Maggie Lindemann
+Julia Michaels|Fifth Harmony
+Julia Michaels|Camila Cabello
+Julia Michaels|FLETCHER
+Julia Michaels|Hey Violet
+Julia Michaels|AJ Mitchell
+Julia Michaels|Daya
+Julia Michaels|Carlie Hanson
+Julia Michaels|Tate McRae
+Julia Michaels|Olivia Holt
+Julia Michaels|Alessia Cara
+Julia Michaels|Pia Mia
+Nick Jonas|Nick Jonas & The Administration
+Nick Jonas|Jonas Brothers
+Nick Jonas|Joe Jonas
+Nick Jonas|Christopher Wilde
+Nick Jonas|Selena Gomez & The Scene
+Nick Jonas|Cody Simpson
+Nick Jonas|Bridgit Mendler
+Nick Jonas|Jesse McCartney
+Nick Jonas|DNCE
+Nick Jonas|Hannah Montana
+Nick Jonas|The Cheetah Girls
+Nick Jonas|Greyson Chance
+Nick Jonas|Ashley Tisdale
+Nick Jonas|Big Time Rush
+Nick Jonas|Sterling Knight
+Nick Jonas|Victorious Cast
+Nick Jonas|Vanessa Hudgens
+Nick Jonas|Fifth Harmony
+Nick Jonas|Hilary Duff
+Nick Jonas|Demi Lovato
+Jonas Brothers|Nick Jonas
+Jonas Brothers|Hannah Montana
+Jonas Brothers|Nick Jonas & The Administration
+Jonas Brothers|Selena Gomez & The Scene
+Jonas Brothers|Christopher Wilde
+Jonas Brothers|The Cheetah Girls
+Jonas Brothers|Jesse McCartney
+Jonas Brothers|Big Time Rush
+Jonas Brothers|Vanessa Hudgens
+Jonas Brothers|Ashley Tisdale
+Jonas Brothers|Bridgit Mendler
+Jonas Brothers|Cody Simpson
+Jonas Brothers|Hilary Duff
+Jonas Brothers|High School Musical Cast
+Jonas Brothers|Aly & AJ
+Jonas Brothers|Victorious Cast
+Jonas Brothers|Joe Jonas
+Jonas Brothers|Hot Chelle Rae
+Jonas Brothers|DNCE
+Jonas Brothers|Demi Lovato
+Hailee Steinfeld|Maggie Lindemann
+Hailee Steinfeld|Fifth Harmony
+Hailee Steinfeld|Julia Michaels
+Hailee Steinfeld|Astrid S
+Hailee Steinfeld|Charlotte Lawrence
+Hailee Steinfeld|Olivia Holt
+Hailee Steinfeld|Madison Beer
+Hailee Steinfeld|HRVY
+Hailee Steinfeld|Olivia O'Brien
+Hailee Steinfeld|Alessia Cara
+Hailee Steinfeld|Bea Miller
+Hailee Steinfeld|Zara Larsson
+Hailee Steinfeld|Daya
+Hailee Steinfeld|Sabrina Carpenter
+Hailee Steinfeld|Camila Cabello
+Hailee Steinfeld|The Vamps
+Hailee Steinfeld|MKTO
+Hailee Steinfeld|AJ Mitchell
+Hailee Steinfeld|Pia Mia
+Hailee Steinfeld|DNCE
+PRETTYMUCH|Why Don't We
+PRETTYMUCH|Alexander Stewart
+PRETTYMUCH|AJ Mitchell
+PRETTYMUCH|Ruel
+PRETTYMUCH|Alex Aiono
+PRETTYMUCH|New Hope Club
+PRETTYMUCH|Ansel Elgort
+PRETTYMUCH|Maggie Lindemann
+PRETTYMUCH|Jack & Jack
+PRETTYMUCH|John K
+PRETTYMUCH|Olivia O'Brien
+PRETTYMUCH|HRVY
+PRETTYMUCH|Fly By Midnight
+PRETTYMUCH|Charlotte Lawrence
+PRETTYMUCH|PLVTINUM
+PRETTYMUCH|In Real Life
+PRETTYMUCH|Madison Beer
+PRETTYMUCH|The Vamps
+PRETTYMUCH|ASTN
+PRETTYMUCH|Pia Mia
+Ruel|AJ Mitchell
+Ruel|PRETTYMUCH
+Ruel|Alexander Stewart
+Ruel|HRVY
+Ruel|Why Don't We
+Ruel|John K
+Ruel|Jack & Jack
+Ruel|Olivia O'Brien
+Ruel|Alec Benjamin
+Ruel|Charlotte Lawrence
+Ruel|Sasha Alex Sloan
+Ruel|New Hope Club
+Ruel|Ansel Elgort
+Ruel|Chelsea Cutler
+Ruel|Madison Beer
+Ruel|THE DRIVER ERA
+Ruel|Marc E. Bassy
+Ruel|Etham
+Ruel|PLVTINUM
+Ruel|FLETCHER
+Khalid|Bazzi
+Khalid|Kehlani
+Khalid|Kiana Ledé
+Khalid|Sabrina Claudio
+Khalid|Pink Sweat$
+Khalid|Jessie Reyez
+Khalid|Ella Mai
+Khalid|Alina Baraz
+Khalid|Marc E. Bassy
+Khalid|benny blanco
+Khalid|Daniel Caesar
+Khalid|UMI
+Khalid|H.E.R.
+Khalid|Summer Walker
+Khalid|Roy Woods
+Khalid|Bryson Tiller
+Khalid|6LACK
+Khalid|Normani
+Khalid|Jorja Smith
+Khalid|KYLE
+One Direction|Louis Tomlinson
+One Direction|The Wanted
+One Direction|Big Time Rush
+One Direction|Selena Gomez & The Scene
+One Direction|ZAYN
+One Direction|Jonas Brothers
+One Direction|5 Seconds of Summer
+One Direction|Bridgit Mendler
+One Direction|Little Mix
+One Direction|Demi Lovato
+One Direction|Olly Murs
+One Direction|Niall Horan
+One Direction|Cher Lloyd
+One Direction|Hannah Montana
+One Direction|Victorious Cast
+One Direction|The Vamps
+One Direction|Nick Jonas
+One Direction|Cody Simpson
+One Direction|Fifth Harmony
+One Direction|Liam Payne
+Big Sean|Wale
+Big Sean|2 Chainz
+Big Sean|Young Money
+Big Sean|Rick Ross
+Big Sean|ScHoolboy Q
+Big Sean|Ace Hood
+Big Sean|French Montana
+Big Sean|Meek Mill
+Big Sean|Pusha T
+Big Sean|Jay Rock
+Big Sean|Waka Flocka Flame
+Big Sean|Juicy J
+Big Sean|Ty Dolla $ign
+Big Sean|Mike WiLL Made-It
+Big Sean|Yo Gotti
+Big Sean|YG
+Big Sean|Jeremih
+Big Sean|VIC MENSA
+Big Sean|Kid Ink
+Big Sean|A$AP Ferg
+Kid Cudi|Pusha T
+Kid Cudi|ScHoolboy Q
+Kid Cudi|Lupe Fiasco
+Kid Cudi|Big Sean
+Kid Cudi|A$AP Rocky
+Kid Cudi|Vince Staples
+Kid Cudi|Earl Sweatshirt
+Kid Cudi|Joey Bada$$
+Kid Cudi|A$AP Mob
+Kid Cudi|Jay Rock
+Kid Cudi|Freddie Gibbs
+Kid Cudi|Isaiah Rashad
+Kid Cudi|Mac Miller
+Kid Cudi|KIDS SEE GHOSTS
+Kid Cudi|Denzel Curry
+Kid Cudi|Childish Gambino
+Kid Cudi|Chance the Rapper
+Kid Cudi|Kevin Abstract
+Kid Cudi|Bas
+Kid Cudi|Flatbush Zombies
+Pusha T|Freddie Gibbs
+Pusha T|Curren$y
+Pusha T|Big K.R.I.T.
+Pusha T|Jay Electronica
+Pusha T|Clipse
+Pusha T|Smoke DZA
+Pusha T|CyHi The Prynce
+Pusha T|Jay Rock
+Pusha T|Boldy James
+Pusha T|Royce Da 5'9"
+Pusha T|Ab-Soul
+Pusha T|The Alchemist
+Pusha T|Black Hippy
+Pusha T|Vince Staples
+Pusha T|Earl Sweatshirt
+Pusha T|The Diplomats
+Pusha T|Action Bronson
+Pusha T|Lupe Fiasco
+Pusha T|DJ Drama
+Pusha T|Danny Brown
+Kendrick Lamar|ScHoolboy Q
+Kendrick Lamar|A$AP Rocky
+Kendrick Lamar|Freddie Gibbs
+Kendrick Lamar|Pusha T
+Kendrick Lamar|Ab-Soul
+Kendrick Lamar|Big Sean
+Kendrick Lamar|Jay Rock
+Kendrick Lamar|Isaiah Rashad
+Kendrick Lamar|Frank Ocean
+Kendrick Lamar|Childish Gambino
+Kendrick Lamar|Joey Bada$$
+Kendrick Lamar|Vince Staples
+Kendrick Lamar|2 Chainz
+Kendrick Lamar|Earl Sweatshirt
+Kendrick Lamar|Big K.R.I.T.
+Kendrick Lamar|J. Cole
+Kendrick Lamar|Danny Brown
+Kendrick Lamar|Wale
+Kendrick Lamar|Chance the Rapper
+Kendrick Lamar|Kid Cudi
+A$AP Rocky|Vince Staples
+A$AP Rocky|ScHoolboy Q
+A$AP Rocky|Pusha T
+A$AP Rocky|Flatbush Zombies
+A$AP Rocky|Joey Bada$$
+A$AP Rocky|Earl Sweatshirt
+A$AP Rocky|Freddie Gibbs
+A$AP Rocky|Danny Brown
+A$AP Rocky|Chief Keef
+A$AP Rocky|Denzel Curry
+A$AP Rocky|Ab-Soul
+A$AP Rocky|A$AP Mob
+A$AP Rocky|Kendrick Lamar
+A$AP Rocky|Juicy J
+A$AP Rocky|Curren$y
+A$AP Rocky|Jay Rock
+A$AP Rocky|Isaiah Rashad
+A$AP Rocky|A$AP Ferg
+A$AP Rocky|2 Chainz
+A$AP Rocky|Frank Ocean
+ScHoolboy Q|Freddie Gibbs
+ScHoolboy Q|Ab-Soul
+ScHoolboy Q|Black Hippy
+ScHoolboy Q|Jay Rock
+ScHoolboy Q|Flatbush Zombies
+ScHoolboy Q|Pusha T
+ScHoolboy Q|Vince Staples
+ScHoolboy Q|Smoke DZA
+ScHoolboy Q|Dom Kennedy
+ScHoolboy Q|Big K.R.I.T.
+ScHoolboy Q|Isaiah Rashad
+ScHoolboy Q|Joey Bada$$
+ScHoolboy Q|A$AP Rocky
+ScHoolboy Q|Danny Brown
+ScHoolboy Q|A$AP Twelvyy
+ScHoolboy Q|Curren$y
+ScHoolboy Q|Action Bronson
+ScHoolboy Q|Dizzy Wright
+ScHoolboy Q|Boldy James
+ScHoolboy Q|REASON
+Frank Ocean|Childish Gambino
+Frank Ocean|Earl Sweatshirt
+Frank Ocean|A$AP Rocky
+Frank Ocean|Tyler, The Creator
+Frank Ocean|Vince Staples
+Frank Ocean|Pusha T
+Frank Ocean|Kevin Abstract
+Frank Ocean|Odd Future
+Frank Ocean|BROCKHAMPTON
+Frank Ocean|Miguel
+Frank Ocean|The Internet
+Frank Ocean|Kendrick Lamar
+Frank Ocean|Joey Bada$$
+Frank Ocean|Mac Miller
+Frank Ocean|JPEGMAFIA
+Frank Ocean|Steve Lacy
+Frank Ocean|Jhené Aiko
+Frank Ocean|Freddie Gibbs
+Frank Ocean|Chance the Rapper
+Frank Ocean|Solange
+Joey Bada$$|Flatbush Zombies
+Joey Bada$$|The Underachievers
+Joey Bada$$|Freddie Gibbs
+Joey Bada$$|Domo Genesis
+Joey Bada$$|Action Bronson
+Joey Bada$$|Danny Brown
+Joey Bada$$|Earl Sweatshirt
+Joey Bada$$|The Alchemist
+Joey Bada$$|Ab-Soul
+Joey Bada$$|A$AP Rocky
+Joey Bada$$|Isaiah Rashad
+Joey Bada$$|Black Hippy
+Joey Bada$$|ScHoolboy Q
+Joey Bada$$|Mick Jenkins
+Joey Bada$$|A$AP Twelvyy
+Joey Bada$$|Denzel Curry
+Joey Bada$$|Boldy James
+Joey Bada$$|Kirk Knight
+Joey Bada$$|Pusha T
+Joey Bada$$|Vince Staples
+J. Cole|Big Sean
+J. Cole|Kendrick Lamar
+J. Cole|Pusha T
+J. Cole|ScHoolboy Q
+J. Cole|Wale
+J. Cole|2 Chainz
+J. Cole|Meek Mill
+J. Cole|Jay Rock
+J. Cole|Rick Ross
+J. Cole|Freddie Gibbs
+J. Cole|Nipsey Hussle
+J. Cole|Kid Cudi
+J. Cole|Joey Bada$$
+J. Cole|Isaiah Rashad
+J. Cole|A$AP Rocky
+J. Cole|Chance the Rapper
+J. Cole|Curren$y
+J. Cole|Lupe Fiasco
+J. Cole|YG
+J. Cole|Cordae
+Chance the Rapper|Donnie Trumpet & The Social Experiment
+Chance the Rapper|Ab-Soul
+Chance the Rapper|Vince Staples
+Chance the Rapper|ScHoolboy Q
+Chance the Rapper|Mick Jenkins
+Chance the Rapper|Noname
+Chance the Rapper|BJ The Chicago Kid
+Chance the Rapper|Flatbush Zombies
+Chance the Rapper|Joey Bada$$
+Chance the Rapper|Aminé
+Chance the Rapper|Shelley FKA DRAM
+Chance the Rapper|Phony Ppl
+Chance the Rapper|Saba
+Chance the Rapper|Pusha T
+Chance the Rapper|Earl Sweatshirt
+Chance the Rapper|Childish Gambino
+Chance the Rapper|Taylor Bennett
+Chance the Rapper|Freddie Gibbs
+Chance the Rapper|Domo Genesis
+Chance the Rapper|Isaiah Rashad
+KIDS SEE GHOSTS|Injury Reserve
+KIDS SEE GHOSTS|Danny Brown
+KIDS SEE GHOSTS|Earl Sweatshirt
+KIDS SEE GHOSTS|Pusha T
+KIDS SEE GHOSTS|JPEGMAFIA
+KIDS SEE GHOSTS|Westside Gunn
+KIDS SEE GHOSTS|Freddie Gibbs
+KIDS SEE GHOSTS|Death Grips
+KIDS SEE GHOSTS|Kevin Abstract
+KIDS SEE GHOSTS|Spellling
+KIDS SEE GHOSTS|Madvillain
+KIDS SEE GHOSTS|Denzel Curry
+KIDS SEE GHOSTS|WZRD
+KIDS SEE GHOSTS|Jay Electronica
+KIDS SEE GHOSTS|Odd Future
+KIDS SEE GHOSTS|Vince Staples
+KIDS SEE GHOSTS|redveil
+KIDS SEE GHOSTS|JID
+KIDS SEE GHOSTS|MAVI
+KIDS SEE GHOSTS|Saba
+Vince Staples|Domo Genesis
+Vince Staples|Earl Sweatshirt
+Vince Staples|Denzel Curry
+Vince Staples|MellowHype
+Vince Staples|Casey Veggies
+Vince Staples|Flatbush Zombies
+Vince Staples|MellowHigh
+Vince Staples|JPEGMAFIA
+Vince Staples|Freddie Gibbs
+Vince Staples|Danny Brown
+Vince Staples|Joey Bada$$
+Vince Staples|Isaiah Rashad
+Vince Staples|Ab-Soul
+Vince Staples|Navy Blue
+Vince Staples|ScHoolboy Q
+Vince Staples|Big K.R.I.T.
+Vince Staples|MAVI
+Vince Staples|Action Bronson
+Vince Staples|Boldy James
+Vince Staples|Lil B
+JAY-Z|Fat Joe
+JAY-Z|The Carters
+JAY-Z|Beanie Sigel
+JAY-Z|Fabolous
+JAY-Z|Cam’ron
+JAY-Z|Memphis Bleek
+JAY-Z|Eminem
+JAY-Z|Kanye West
+JAY-Z|Rick Ross
+JAY-Z|Foxy Brown
+JAY-Z|Busta Rhymes
+JAY-Z|The LOX
+JAY-Z|Diddy
+JAY-Z|DMX
+JAY-Z|The Notorious B.I.G.
+JAY-Z|Nas
+JAY-Z|Jadakiss
+JAY-Z|Mobb Deep
+JAY-Z|Method Man
+JAY-Z|Big Pun
+Isaiah Rashad|Mick Jenkins
+Isaiah Rashad|REASON
+Isaiah Rashad|Childish Major
+Isaiah Rashad|Ab-Soul
+Isaiah Rashad|Saba
+Isaiah Rashad|Kirk Knight
+Isaiah Rashad|Freddie Gibbs
+Isaiah Rashad|Vince Staples
+Isaiah Rashad|Rejjie Snow
+Isaiah Rashad|IDK
+Isaiah Rashad|Smino
+Isaiah Rashad|Domo Genesis
+Isaiah Rashad|Noname
+Isaiah Rashad|SiR
+Isaiah Rashad|Joey Bada$$
+Isaiah Rashad|Kota the Friend
+Isaiah Rashad|Flatbush Zombies
+Isaiah Rashad|Lute
+Isaiah Rashad|D Smoke
+Isaiah Rashad|Jay Rock
+2 Chainz|Yo Gotti
+2 Chainz|Waka Flocka Flame
+2 Chainz|Young Money
+2 Chainz|DJ Drama
+2 Chainz|Ace Hood
+2 Chainz|Rick Ross
+2 Chainz|Jeezy
+2 Chainz|Birdman
+2 Chainz|Rich Homie Quan
+2 Chainz|Mike WiLL Made-It
+2 Chainz|Curren$y
+2 Chainz|Wale
+2 Chainz|Big K.R.I.T.
+2 Chainz|Juicy J
+2 Chainz|Gucci Mane
+2 Chainz|Young Scooter
+2 Chainz|French Montana
+2 Chainz|Quavo
+2 Chainz|Jay Rock
+2 Chainz|Young Dolph
+Childish Gambino|Frank Ocean
+Childish Gambino|Tyler, The Creator
+Childish Gambino|Chance the Rapper
+Childish Gambino|Earl Sweatshirt
+Childish Gambino|Vince Staples
+Childish Gambino|A$AP Rocky
+Childish Gambino|Kendrick Lamar
+Childish Gambino|Pusha T
+Childish Gambino|Joey Bada$$
+Childish Gambino|Odd Future
+Childish Gambino|ScHoolboy Q
+Childish Gambino|BROCKHAMPTON
+Childish Gambino|Mac Miller
+Childish Gambino|Lupe Fiasco
+Childish Gambino|Isaiah Rashad
+Childish Gambino|Kevin Abstract
+Childish Gambino|Freddie Gibbs
+Childish Gambino|Kid Cudi
+Childish Gambino|Domo Genesis
+Childish Gambino|N.E.R.D
+Tyler, The Creator|Earl Sweatshirt
+Tyler, The Creator|MellowHype
+Tyler, The Creator|Odd Future
+Tyler, The Creator|Vince Staples
+Tyler, The Creator|Childish Gambino
+Tyler, The Creator|Frank Ocean
+Tyler, The Creator|A$AP Rocky
+Tyler, The Creator|Pusha T
+Tyler, The Creator|Death Grips
+Tyler, The Creator|Danny Brown
+Tyler, The Creator|BROCKHAMPTON
+Tyler, The Creator|Freddie Gibbs
+Tyler, The Creator|Mike G
+Tyler, The Creator|Domo Genesis
+Tyler, The Creator|Isaiah Rashad
+Tyler, The Creator|Kevin Abstract
+Tyler, The Creator|Denzel Curry
+Tyler, The Creator|Joey Bada$$
+Tyler, The Creator|Madvillain
+Tyler, The Creator|JPEGMAFIA
+Meek Mill|DJ Drama
+Meek Mill|French Montana
+Meek Mill|Rick Ross
+Meek Mill|2 Chainz
+Meek Mill|Nipsey Hussle
+Meek Mill|Ace Hood
+Meek Mill|Fabolous
+Meek Mill|Pusha T
+Meek Mill|Young Money
+Meek Mill|Waka Flocka Flame
+Meek Mill|Jeezy
+Meek Mill|Jim Jones
+Meek Mill|Big Sean
+Meek Mill|Juicy J
+Meek Mill|Tory Lanez
+Meek Mill|Jay Rock
+Meek Mill|Gucci Mane
+Meek Mill|Dave East
+Meek Mill|Yo Gotti
+Meek Mill|Wale
+Baby Keem|Pi’erre Bourne
+Baby Keem|Isaiah Rashad
+Baby Keem|IDK
+Baby Keem|Westside Gunn
+Baby Keem|JID
+Baby Keem|Zack Fox
+Baby Keem|Young Nudy
+Baby Keem|LUCKI
+Baby Keem|Smino
+Baby Keem|A$AP Mob
+Baby Keem|Maxo Kream
+Baby Keem|Thouxanbanfauni
+Baby Keem|Cordae
+Baby Keem|JPEGMAFIA
+Baby Keem|Young Stoner Life
+Baby Keem|Vince Staples
+Baby Keem|MadeinTYO
+Baby Keem|Saba
+Baby Keem|Dreamville
+Baby Keem|Ken Car$on
+Metro Boomin|Quavo
+Metro Boomin|Sheck Wes
+Metro Boomin|21 Savage
+Metro Boomin|Huncho Jack
+Metro Boomin|Don Toliver
+Metro Boomin|Gunna
+Metro Boomin|Kodak Black
+Metro Boomin|NAV
+Metro Boomin|Lil Keed
+Metro Boomin|Young Nudy
+Metro Boomin|SahBabii
+Metro Boomin|Young Thug
+Metro Boomin|Lil Uzi Vert
+Metro Boomin|88GLAM
+Metro Boomin|Lil Baby
+Metro Boomin|Lil Yachty
+Metro Boomin|G Herbo
+Metro Boomin|A$AP Ferg
+Metro Boomin|YG
+Metro Boomin|Playboi Carti
+John Lennon|George Harrison
+John Lennon|Ringo Starr
+John Lennon|Harry Nilsson
+John Lennon|Paul McCartney
+John Lennon|The Kinks
+John Lennon|Todd Rundgren
+John Lennon|Yoko Ono
+John Lennon|The Beatles
+John Lennon|Bob Dylan
+John Lennon|The Who
+John Lennon|The Byrds
+John Lennon|Yusuf / Cat Stevens
+John Lennon|Simon & Garfunkel
+John Lennon|The Hollies
+John Lennon|Electric Light Orchestra
+John Lennon|David Bowie
+John Lennon|The Rolling Stones
+John Lennon|The Plastic Ono Band
+John Lennon|The Beach Boys
+John Lennon|Donovan
+George Harrison|Ringo Starr
+George Harrison|Traveling Wilburys
+George Harrison|Harry Nilsson
+George Harrison|Badfinger
+George Harrison|John Lennon
+George Harrison|Faces
+George Harrison|Paul McCartney
+George Harrison|The Zombies
+George Harrison|The Kinks
+George Harrison|Jeff Lynne
+George Harrison|Pete Townshend
+George Harrison|The Lovin' Spoonful
+George Harrison|The Band
+George Harrison|Donovan
+George Harrison|Crosby, Stills, Nash & Young
+George Harrison|Wings
+George Harrison|Derek & The Dominos
+George Harrison|The Byrds
+George Harrison|The Yardbirds
+George Harrison|Crosby, Stills & Nash
+Paul McCartney|Ringo Starr
+Paul McCartney|George Harrison
+Paul McCartney|Badfinger
+Paul McCartney|John Lennon
+Paul McCartney|George Martin
+Paul McCartney|The Beatles
+Paul McCartney|Wings
+Paul McCartney|Electric Light Orchestra
+Paul McCartney|Todd Rundgren
+Paul McCartney|The Beach Boys
+Paul McCartney|The Fireman
+Paul McCartney|Simon & Garfunkel
+Paul McCartney|The Who
+Paul McCartney|Bob Dylan
+Paul McCartney|The Hollies
+Paul McCartney|Yusuf / Cat Stevens
+Paul McCartney|Elton John
+Paul McCartney|James Taylor
+Paul McCartney|The Rolling Stones
+Paul McCartney|Billy Joel
+Ringo Starr|George Harrison
+Ringo Starr|Paul McCartney
+Ringo Starr|Harry Nilsson
+Ringo Starr|George Martin
+Ringo Starr|The Hollies
+Ringo Starr|The Beatles
+Ringo Starr|Joe Walsh
+Ringo Starr|Jeff Lynne
+Ringo Starr|John Lennon
+Ringo Starr|The Kinks
+Ringo Starr|Keith Moon
+Ringo Starr|The Plastic Ono Band
+Ringo Starr|The Byrds
+Ringo Starr|Leon Russell
+Ringo Starr|Peter Frampton
+Ringo Starr|The Who
+Ringo Starr|The Rolling Stones
+Ringo Starr|Electric Light Orchestra
+Ringo Starr|Stephen Stills
+Ringo Starr|Badfinger
+The Beach Boys|The Mamas & The Papas
+The Beach Boys|The Monkees
+The Beach Boys|The Lovin' Spoonful
+The Beach Boys|The Hollies
+The Beach Boys|The Zombies
+The Beach Boys|Harry Nilsson
+The Beach Boys|Herman's Hermits
+The Beach Boys|Brian Wilson
+The Beach Boys|The Turtles
+The Beach Boys|The Kinks
+The Beach Boys|Jan & Dean
+The Beach Boys|Tommy James & The Shondells
+The Beach Boys|Badfinger
+The Beach Boys|The Association
+The Beach Boys|George Harrison
+The Beach Boys|Frankie Valli & The Four Seasons
+The Beach Boys|The Byrds
+The Beach Boys|Buddy Holly
+The Beach Boys|The Everly Brothers
+The Beach Boys|Donovan
+The Kinks|Donovan
+The Kinks|Small Faces
+The Kinks|The Zombies
+The Kinks|The Lovin' Spoonful
+The Kinks|The Animals
+The Kinks|The Yardbirds
+The Kinks|T. Rex
+The Kinks|Love
+The Kinks|The Troggs
+The Kinks|The Monkees
+The Kinks|Badfinger
+The Kinks|The Spencer Davis Group
+The Kinks|Them
+The Kinks|The Byrds
+The Kinks|The Hollies
+The Kinks|The Pretty Things
+The Kinks|Faces
+The Kinks|Harry Nilsson
+The Kinks|Manfred Mann
+The Kinks|The Who
+The Rolling Stones|The Animals
+The Rolling Stones|Jimi Hendrix
+The Rolling Stones|Cream
+The Rolling Stones|The Who
+The Rolling Stones|Canned Heat
+The Rolling Stones|The Doors
+The Rolling Stones|The Kinks
+The Rolling Stones|George Harrison
+The Rolling Stones|Steve Miller Band
+The Rolling Stones|Faces
+The Rolling Stones|The Yardbirds
+The Rolling Stones|Led Zeppelin
+The Rolling Stones|Tom Petty and the Heartbreakers
+The Rolling Stones|Chuck Berry
+The Rolling Stones|The Band
+The Rolling Stones|Janis Joplin
+The Rolling Stones|Derek & The Dominos
+The Rolling Stones|Allman Brothers Band
+The Rolling Stones|Creedence Clearwater Revival
+The Rolling Stones|John Lennon
+Bob Dylan|Paul Simon
+Bob Dylan|Crosby, Stills & Nash
+Bob Dylan|Neil Young
+Bob Dylan|Crosby, Stills, Nash & Young
+Bob Dylan|Warren Zevon
+Bob Dylan|Leonard Cohen
+Bob Dylan|The Band
+Bob Dylan|Van Morrison
+Bob Dylan|Yusuf / Cat Stevens
+Bob Dylan|Donovan
+Bob Dylan|The Byrds
+Bob Dylan|Traveling Wilburys
+Bob Dylan|Lou Reed
+Bob Dylan|George Harrison
+Bob Dylan|Joan Baez
+Bob Dylan|Townes Van Zandt
+Bob Dylan|Simon & Garfunkel
+Bob Dylan|The Kinks
+Bob Dylan|Joni Mitchell
+Bob Dylan|Nick Drake
+The Hollies|Herman's Hermits
+The Hollies|The Lovin' Spoonful
+The Hollies|The Searchers
+The Hollies|Manfred Mann
+The Hollies|Gerry & The Pacemakers
+The Hollies|The Troggs
+The Hollies|The Dave Clark Five
+The Hollies|The Spencer Davis Group
+The Hollies|The Tremeloes
+The Hollies|Tommy James & The Shondells
+The Hollies|The Monkees
+The Hollies|The Fortunes
+The Hollies|The Grass Roots
+The Hollies|The Turtles
+The Hollies|The Association
+The Hollies|The Young Rascals
+The Hollies|The Mamas & The Papas
+The Hollies|The Buckinghams
+The Hollies|Paul Revere & The Raiders
+The Hollies|Badfinger
+The Byrds|Buffalo Springfield
+The Byrds|Gene Clark
+The Byrds|The Lovin' Spoonful
+The Byrds|The Flying Burrito Brothers
+The Byrds|Love
+The Byrds|Donovan
+The Byrds|Gram Parsons
+The Byrds|The Yardbirds
+The Byrds|The Pretty Things
+The Byrds|The Youngbloods
+The Byrds|David Crosby
+The Byrds|Traffic
+The Byrds|Stephen Stills
+The Byrds|Graham Nash
+The Byrds|Quicksilver Messenger Service
+The Byrds|Them
+The Byrds|The Troggs
+The Byrds|The Zombies
+The Byrds|Small Faces
+The Byrds|Crosby, Stills & Nash
+Simon & Garfunkel|Peter, Paul and Mary
+Simon & Garfunkel|Paul Simon
+Simon & Garfunkel|Yusuf / Cat Stevens
+Simon & Garfunkel|Harry Nilsson
+Simon & Garfunkel|Crosby, Stills & Nash
+Simon & Garfunkel|Don McLean
+Simon & Garfunkel|The Mamas & The Papas
+Simon & Garfunkel|Donovan
+Simon & Garfunkel|Jim Croce
+Simon & Garfunkel|Carole King
+Simon & Garfunkel|George Harrison
+Simon & Garfunkel|Gordon Lightfoot
+Simon & Garfunkel|Crosby, Stills, Nash & Young
+Simon & Garfunkel|Art Garfunkel
+Simon & Garfunkel|The Lovin' Spoonful
+Simon & Garfunkel|James Taylor
+Simon & Garfunkel|Joni Mitchell
+Simon & Garfunkel|The Hollies
+Simon & Garfunkel|Van Morrison
+Simon & Garfunkel|The Byrds
+Wings|Ringo Starr
+Wings|Paul McCartney
+Wings|George Harrison
+Wings|10cc
+Wings|John Lennon
+Wings|Traveling Wilburys
+Wings|Badfinger
+Wings|Todd Rundgren
+Wings|Peter Frampton
+Wings|The Monkees
+Wings|Harry Nilsson
+Wings|The Lovin' Spoonful
+Wings|Faces
+Wings|Leo Sayer
+Wings|Three Dog Night
+Wings|Little River Band
+Wings|The Zombies
+Wings|Jefferson Starship
+Wings|The Kinks
+Wings|The Hollies
+Buddy Holly|Jerry Lee Lewis
+Buddy Holly|The Everly Brothers
+Buddy Holly|Bill Haley & His Comets
+Buddy Holly|Buddy Holly & The Crickets
+Buddy Holly|Little Richard
+Buddy Holly|Chuck Berry
+Buddy Holly|Eddie Cochran
+Buddy Holly|Gene Vincent
+Buddy Holly|Ricky Nelson
+Buddy Holly|Carl Perkins
+Buddy Holly|Del Shannon
+Buddy Holly|Ritchie Valens
+Buddy Holly|Roy Orbison
+Buddy Holly|The Coasters
+Buddy Holly|Fats Domino
+Buddy Holly|Johnny Burnette
+Buddy Holly|Gene Vincent & His Blue Caps
+Buddy Holly|Chubby Checker
+Buddy Holly|Wanda Jackson
+Buddy Holly|Duane Eddy
+Chuck Berry|Little Richard
+Chuck Berry|Jerry Lee Lewis
+Chuck Berry|Buddy Holly
+Chuck Berry|Gene Vincent
+Chuck Berry|Bill Haley & His Comets
+Chuck Berry|The Everly Brothers
+Chuck Berry|Buddy Holly & The Crickets
+Chuck Berry|Fats Domino
+Chuck Berry|Carl Perkins
+Chuck Berry|Eddie Cochran
+Chuck Berry|Ritchie Valens
+Chuck Berry|Bo Diddley
+Chuck Berry|Chubby Checker
+Chuck Berry|The Coasters
+Chuck Berry|Ricky Nelson
+Chuck Berry|Wanda Jackson
+Chuck Berry|Gene Vincent & His Blue Caps
+Chuck Berry|Roy Orbison
+Chuck Berry|Stray Cats
+Chuck Berry|Duane Eddy
+Badfinger|Ringo Starr
+Badfinger|Todd Rundgren
+Badfinger|Raspberries
+Badfinger|Emitt Rhodes
+Badfinger|Harry Nilsson
+Badfinger|The Lovin' Spoonful
+Badfinger|The Hollies
+Badfinger|The Grass Roots
+Badfinger|The Guess Who
+Badfinger|The Zombies
+Badfinger|Faces
+Badfinger|The Association
+Badfinger|Big Star
+Badfinger|Tommy James & The Shondells
+Badfinger|The Move
+Badfinger|Three Dog Night
+Badfinger|The Turtles
+Badfinger|The Monkees
+Badfinger|Blood, Sweat & Tears
+Badfinger|Pete Townshend
+Donovan|Love
+Donovan|The Zombies
+Donovan|The Lovin' Spoonful
+Donovan|The Byrds
+Donovan|The Yardbirds
+Donovan|Buffalo Springfield
+Donovan|Strawberry Alarm Clock
+Donovan|Them
+Donovan|Jefferson Airplane
+Donovan|The Pretty Things
+Donovan|Country Joe & The Fish
+Donovan|Harry Nilsson
+Donovan|The Spencer Davis Group
+Donovan|Traffic
+Donovan|Small Faces
+Donovan|Quicksilver Messenger Service
+Donovan|The Troggs
+Donovan|The Turtles
+Donovan|The West Coast Pop Art Experimental Band
+Donovan|Tim Buckley
+Jimi Hendrix|Cream
+Jimi Hendrix|Canned Heat
+Jimi Hendrix|Steppenwolf
+Jimi Hendrix|Derek & The Dominos
+Jimi Hendrix|Janis Joplin
+Jimi Hendrix|Ten Years After
+Jimi Hendrix|Jefferson Airplane
+Jimi Hendrix|Big Brother & The Holding Company
+Jimi Hendrix|Stevie Ray Vaughan
+Jimi Hendrix|The Doors
+Jimi Hendrix|The Animals
+Jimi Hendrix|Rory Gallagher
+Jimi Hendrix|Allman Brothers Band
+Jimi Hendrix|Free
+Jimi Hendrix|The Yardbirds
+Jimi Hendrix|Led Zeppelin
+Jimi Hendrix|Jeff Beck
+Jimi Hendrix|John Mayall & The Bluesbreakers
+Jimi Hendrix|The Who
+Jimi Hendrix|Traffic
+Roy Orbison|Buddy Holly & The Crickets
+Roy Orbison|The Everly Brothers
+Roy Orbison|Buddy Holly
+Roy Orbison|Del Shannon
+Roy Orbison|Ricky Nelson
+Roy Orbison|Eddie Cochran
+Roy Orbison|Jerry Lee Lewis
+Roy Orbison|Gene Pitney
+Roy Orbison|Neil Sedaka
+Roy Orbison|Carl Perkins
+Roy Orbison|Bobby Vee
+Roy Orbison|The Righteous Brothers
+Roy Orbison|Bill Haley & His Comets
+Roy Orbison|Chubby Checker
+Roy Orbison|Fats Domino
+Roy Orbison|The Platters
+Roy Orbison|Brenda Lee
+Roy Orbison|The Shadows
+Roy Orbison|Connie Francis
+Roy Orbison|The Drifters
+Elvis Presley|Jerry Lee Lewis
+Elvis Presley|Buddy Holly
+Elvis Presley|Eddie Cochran
+Elvis Presley|Roy Orbison
+Elvis Presley|Little Richard
+Elvis Presley|Bill Haley & His Comets
+Elvis Presley|Chuck Berry
+Elvis Presley|The Everly Brothers
+Elvis Presley|Fats Domino
+Elvis Presley|The Platters
+Elvis Presley|Ritchie Valens
+Elvis Presley|Neil Sedaka
+Elvis Presley|Ricky Nelson
+Elvis Presley|The Drifters
+Elvis Presley|Chubby Checker
+Elvis Presley|Connie Francis
+Elvis Presley|Carl Perkins
+Elvis Presley|The Righteous Brothers
+Elvis Presley|Paul Anka
+Elvis Presley|Dion
+Eric Clapton|Derek & The Dominos
+Eric Clapton|Stevie Ray Vaughan
+Eric Clapton|J.J. Cale
+Eric Clapton|John Mayall & The Bluesbreakers
+Eric Clapton|B.B. King
+Eric Clapton|Joe Cocker
+Eric Clapton|Albert King
+Eric Clapton|Buddy Guy
+Eric Clapton|Allman Brothers Band
+Eric Clapton|Cream
+Eric Clapton|Johnny Winter
+Eric Clapton|Rory Gallagher
+Eric Clapton|Freddie King
+Eric Clapton|Gary Moore
+Eric Clapton|Jeff Beck
+Eric Clapton|Joe Bonamassa
+Eric Clapton|Canned Heat
+Eric Clapton|Muddy Waters
+Eric Clapton|Peter Frampton
+Eric Clapton|John Lee Hooker
+Afrojack|DubVision
+Afrojack|Nicky Romero
+Afrojack|Sick Individuals
+Afrojack|NERVO
+Afrojack|Quintino
+Afrojack|Firebeatz
+Afrojack|Laidback Luke
+Afrojack|Sebastian Ingrosso
+Afrojack|Borgeous
+Afrojack|Bingo Players
+Afrojack|Hardwell
+Afrojack|Jay Hardway
+Afrojack|Bassjackers
+Afrojack|Matisse & Sadko
+Afrojack|Dimitri Vangelis & Wyman
+Afrojack|Thomas Gold
+Afrojack|Sander van Doorn
+Afrojack|KAAZE
+Afrojack|Dada Life
+Afrojack|Mike Williams
+Alesso|Afrojack
+Alesso|Nicky Romero
+Alesso|Michael Calfan
+Alesso|Sebastian Ingrosso
+Alesso|Otto Knows
+Alesso|Third Party
+Alesso|Hardwell
+Alesso|DubVision
+Alesso|R3HAB
+Alesso|Syn Cole
+Alesso|Steve Angello
+Alesso|Martin Jensen
+Alesso|Yves V
+Alesso|John De Sohn
+Alesso|Sick Individuals
+Alesso|DVBBS
+Alesso|3LAU
+Alesso|Don Diablo
+Alesso|Seeb
+Alesso|NERVO
+Swedish House Mafia|Sebastian Ingrosso
+Swedish House Mafia|Axwell
+Swedish House Mafia|Afrojack
+Swedish House Mafia|Steve Angello
+Swedish House Mafia|Dada Life
+Swedish House Mafia|Otto Knows
+Swedish House Mafia|Nicky Romero
+Swedish House Mafia|Bingo Players
+Swedish House Mafia|Eric Prydz
+Swedish House Mafia|Axwell /\ Ingrosso
+Swedish House Mafia|DubVision
+Swedish House Mafia|NERVO
+Swedish House Mafia|Fedde Le Grand
+Swedish House Mafia|Alesso
+Swedish House Mafia|Hardwell
+Swedish House Mafia|Dimitri Vangelis & Wyman
+Swedish House Mafia|Laidback Luke
+Swedish House Mafia|Dirty South
+Swedish House Mafia|Martin Solveig
+Swedish House Mafia|Example
+Nicky Romero|Firebeatz
+Nicky Romero|Thomas Gold
+Nicky Romero|Jay Hardway
+Nicky Romero|Laidback Luke
+Nicky Romero|DubVision
+Nicky Romero|Third Party
+Nicky Romero|Sick Individuals
+Nicky Romero|Quintino
+Nicky Romero|Sandro Silva
+Nicky Romero|Dimitri Vangelis & Wyman
+Nicky Romero|Brooks
+Nicky Romero|Borgeous
+Nicky Romero|NERVO
+Nicky Romero|Alesso
+Nicky Romero|Matisse & Sadko
+Nicky Romero|Bingo Players
+Nicky Romero|Dyro
+Nicky Romero|Afrojack
+Nicky Romero|Julian Jordan
+Nicky Romero|Hardwell
+Hardwell|Nicky Romero
+Hardwell|Sick Individuals
+Hardwell|DubVision
+Hardwell|Laidback Luke
+Hardwell|Firebeatz
+Hardwell|W&W
+Hardwell|Borgeous
+Hardwell|KAAZE
+Hardwell|Jay Hardway
+Hardwell|KSHMR
+Hardwell|Blasterjaxx
+Hardwell|Sebastian Ingrosso
+Hardwell|Maddix
+Hardwell|Dimitri Vangelis & Wyman
+Hardwell|Showtek
+Hardwell|Brooks
+Hardwell|Bassjackers
+Hardwell|Sandro Silva
+Hardwell|Quintino
+Hardwell|Afrojack
+Zedd|Cash Cash
+Zedd|Krewella
+Zedd|Alesso
+Zedd|Afrojack
+Zedd|Madeon
+Zedd|Nicky Romero
+Zedd|NOTD
+Zedd|Cheat Codes
+Zedd|Galantis
+Zedd|Martin Jensen
+Zedd|3LAU
+Zedd|Gryffin
+Zedd|Lost Kings
+Zedd|Audien
+Zedd|Tritonal
+Zedd|Dillon Francis
+Zedd|Jonas Blue
+Zedd|Daya
+Zedd|Hailee Steinfeld
+Zedd|Seven Lions
+Axwell /\ Ingrosso|Lost Frequencies
+Axwell /\ Ingrosso|Martin Jensen
+Axwell /\ Ingrosso|Felix Jaehn
+Axwell /\ Ingrosso|Mike Perry
+Axwell /\ Ingrosso|Sigala
+Axwell /\ Ingrosso|Cheat Codes
+Axwell /\ Ingrosso|Lucas & Steve
+Axwell /\ Ingrosso|Wahlstedt
+Axwell /\ Ingrosso|Jonas Blue
+Axwell /\ Ingrosso|Matoma
+Axwell /\ Ingrosso|Kungs
+Axwell /\ Ingrosso|Seeb
+Axwell /\ Ingrosso|Brooks
+Axwell /\ Ingrosso|Steve Angello
+Axwell /\ Ingrosso|Sam Feldt
+Axwell /\ Ingrosso|Sebastian Ingrosso
+Axwell /\ Ingrosso|KSHMR
+Axwell /\ Ingrosso|Syn Cole
+Axwell /\ Ingrosso|Axwell
+Axwell /\ Ingrosso|Swedish House Mafia
+Galantis|Mike Perry
+Galantis|Cheat Codes
+Galantis|Matoma
+Galantis|Sigala
+Galantis|Martin Jensen
+Galantis|Seeb
+Galantis|Felix Jaehn
+Galantis|Alesso
+Galantis|Sam Feldt
+Galantis|Loud Luxury
+Galantis|Jonas Blue
+Galantis|Nicky Romero
+Galantis|Syn Cole
+Galantis|Lucas & Steve
+Galantis|Don Diablo
+Galantis|Felix Cartal
+Galantis|Otto Knows
+Galantis|Cash Cash
+Galantis|Gryffin
+Galantis|Afrojack
+Martin Garrix|AREA21
+Martin Garrix|Brooks
+Martin Garrix|DVBBS
+Martin Garrix|VINAI
+Martin Garrix|KSHMR
+Martin Garrix|Deorro
+Martin Garrix|KAAZE
+Martin Garrix|Dimitri Vegas & Like Mike
+Martin Garrix|Lucas & Steve
+Martin Garrix|Borgeous
+Martin Garrix|GRX
+Martin Garrix|Nicky Romero
+Martin Garrix|Mike Williams
+Martin Garrix|Yves V
+Martin Garrix|Don Diablo
+Martin Garrix|Julian Jordan
+Martin Garrix|Afrojack
+Martin Garrix|DubVision
+Martin Garrix|Alesso
+Martin Garrix|R3HAB
+Jonas Blue|Sigala
+Jonas Blue|Martin Jensen
+Jonas Blue|Sam Feldt
+Jonas Blue|Mike Perry
+Jonas Blue|Cheat Codes
+Jonas Blue|Felix Jaehn
+Jonas Blue|Jax Jones
+Jonas Blue|Starley
+Jonas Blue|Lost Frequencies
+Jonas Blue|Matoma
+Jonas Blue|Loud Luxury
+Jonas Blue|KREAM
+Jonas Blue|The Chainsmokers
+Jonas Blue|Kygo
+Jonas Blue|Becky Hill
+Jonas Blue|Seeb
+Jonas Blue|Kungs
+Jonas Blue|Galantis
+Jonas Blue|OMI
+Jonas Blue|Axwell /\ Ingrosso
+Mike Perry|Martin Jensen
+Mike Perry|Cheat Codes
+Mike Perry|Sigala
+Mike Perry|Seeb
+Mike Perry|Junge Junge
+Mike Perry|Felix Jaehn
+Mike Perry|Matoma
+Mike Perry|Axel Johansson
+Mike Perry|Sam Feldt
+Mike Perry|Davai
+Mike Perry|Wahlstedt
+Mike Perry|Lost Frequencies
+Mike Perry|Raaban
+Mike Perry|Jonas Blue
+Mike Perry|Hot Shade
+Mike Perry|GAMPER & DADONI
+Mike Perry|Joakim Lundell
+Mike Perry|Starley
+Mike Perry|Klingande
+Mike Perry|Syn Cole
+Martin Jensen|Sigala
+Martin Jensen|Mike Perry
+Martin Jensen|Cheat Codes
+Martin Jensen|Felix Jaehn
+Martin Jensen|Lost Frequencies
+Martin Jensen|Matoma
+Martin Jensen|Junge Junge
+Martin Jensen|Sam Feldt
+Martin Jensen|GAMPER & DADONI
+Martin Jensen|Loud Luxury
+Martin Jensen|Wahlstedt
+Martin Jensen|Lucas Estrada
+Martin Jensen|Raaban
+Martin Jensen|Jonas Blue
+Martin Jensen|Starley
+Martin Jensen|KREAM
+Martin Jensen|Syn Cole
+Martin Jensen|LVNDSCAPE
+Martin Jensen|Seeb
+Martin Jensen|Lucas & Steve
+R3HAB|Quintino
+R3HAB|Nicky Romero
+R3HAB|Laidback Luke
+R3HAB|Alesso
+R3HAB|Bassjackers
+R3HAB|KSHMR
+R3HAB|Yves V
+R3HAB|Afrojack
+R3HAB|VINAI
+R3HAB|Firebeatz
+R3HAB|NERVO
+R3HAB|Don Diablo
+R3HAB|DubVision
+R3HAB|Dimitri Vegas & Like Mike
+R3HAB|Sick Individuals
+R3HAB|Blasterjaxx
+R3HAB|Hardwell
+R3HAB|DVBBS
+R3HAB|Steve Aoki
+R3HAB|Borgeous
+Vigiland|Joakim Lundell
+Vigiland|Raaban
+Vigiland|Hogland
+Vigiland|John De Sohn
+Vigiland|AronChupa
+Vigiland|Tungevaag
+Vigiland|Behmer
+Vigiland|De Vet Du
+Vigiland|Hot Shade
+Vigiland|Alfons
+Vigiland|LBSB
+Vigiland|Mike Emilio
+Vigiland|ItaloBrothers
+Vigiland|Martin Jensen
+Vigiland|HEDEGAARD
+Vigiland|Broiler
+Vigiland|Den BB
+Vigiland|Helion
+Vigiland|BEK & Wallin
+Vigiland|Otto Knows
+Lucas & Steve|Madison Mars
+Lucas & Steve|Jay Hardway
+Lucas & Steve|Brooks
+Lucas & Steve|Mike Williams
+Lucas & Steve|LVNDSCAPE
+Lucas & Steve|VINAI
+Lucas & Steve|Martin Jensen
+Lucas & Steve|Wahlstedt
+Lucas & Steve|Mesto
+Lucas & Steve|Dastic
+Lucas & Steve|Syn Cole
+Lucas & Steve|The Him
+Lucas & Steve|Mike Perry
+Lucas & Steve|DVBBS
+Lucas & Steve|CALVO
+Lucas & Steve|Oliver Heldens
+Lucas & Steve|GAMPER & DADONI
+Lucas & Steve|JLV
+Lucas & Steve|Curbi
+Lucas & Steve|KSHMR
+Sebastian Ingrosso|Axwell /\ Ingrosso
+Sebastian Ingrosso|Steve Angello
+Sebastian Ingrosso|Dirty South
+Sebastian Ingrosso|Nicky Romero
+Sebastian Ingrosso|Axwell
+Sebastian Ingrosso|Otto Knows
+Sebastian Ingrosso|Third Party
+Sebastian Ingrosso|Dada Life
+Sebastian Ingrosso|Bingo Players
+Sebastian Ingrosso|DubVision
+Sebastian Ingrosso|Afrojack
+Sebastian Ingrosso|Dimitri Vangelis & Wyman
+Sebastian Ingrosso|Thomas Gold
+Sebastian Ingrosso|NERVO
+Sebastian Ingrosso|Deniz Koyu
+Sebastian Ingrosso|Tim Berg
+Sebastian Ingrosso|Laidback Luke
+Sebastian Ingrosso|Swedish House Mafia
+Sebastian Ingrosso|Matisse & Sadko
+Sebastian Ingrosso|Alesso
+Don Diablo|Madison Mars
+Don Diablo|Nicky Romero
+Don Diablo|Laidback Luke
+Don Diablo|Lucas & Steve
+Don Diablo|Jay Hardway
+Don Diablo|Quintino
+Don Diablo|Brooks
+Don Diablo|DubVision
+Don Diablo|Afrojack
+Don Diablo|DVBBS
+Don Diablo|Firebeatz
+Don Diablo|Mike Williams
+Don Diablo|KSHMR
+Don Diablo|Yves V
+Don Diablo|Syn Cole
+Don Diablo|Sick Individuals
+Don Diablo|MOTi
+Don Diablo|Oliver Heldens
+Don Diablo|VINAI
+Don Diablo|Curbi
+Martin Solveig|Michael Calfan
+Martin Solveig|Blonde
+Martin Solveig|Axwell
+Martin Solveig|Fedde Le Grand
+Martin Solveig|Disciples
+Martin Solveig|Bob Sinclar
+Martin Solveig|Philip George
+Martin Solveig|Mr. Belt & Wezol
+Martin Solveig|Bingo Players
+Martin Solveig|Armand Van Helden
+Martin Solveig|Kungs
+Martin Solveig|James Hype
+Martin Solveig|MK
+Martin Solveig|Jax Jones
+Martin Solveig|Eric Prydz
+Martin Solveig|Joe Stone
+Martin Solveig|Anton Powers
+Martin Solveig|The Magician
+Martin Solveig|Oliver Heldens
+Martin Solveig|M-22
+Steve Aoki|Laidback Luke
+Steve Aoki|Nicky Romero
+Steve Aoki|Dada Life
+Steve Aoki|Bassjackers
+Steve Aoki|Afrojack
+Steve Aoki|Don Diablo
+Steve Aoki|KSHMR
+Steve Aoki|Hardwell
+Steve Aoki|Dillon Francis
+Steve Aoki|Quintino
+Steve Aoki|NERVO
+Steve Aoki|Bingo Players
+Steve Aoki|DVBBS
+Steve Aoki|R3HAB
+Steve Aoki|W&W
+Steve Aoki|Borgeous
+Steve Aoki|MOTi
+Steve Aoki|Sick Individuals
+Steve Aoki|Firebeatz
+Steve Aoki|Blasterjaxx
+Sigala|Cheat Codes
+Sigala|Martin Jensen
+Sigala|Mike Perry
+Sigala|Seeb
+Sigala|Jonas Blue
+Sigala|Felix Jaehn
+Sigala|Sam Feldt
+Sigala|Starley
+Sigala|Lost Frequencies
+Sigala|Jax Jones
+Sigala|Loud Luxury
+Sigala|Matoma
+Sigala|GAMPER & DADONI
+Sigala|Kungs
+Sigala|Syn Cole
+Sigala|Becky Hill
+Sigala|KREAM
+Sigala|Gryffin
+Sigala|Klingande
+Sigala|M-22
+Miike Snow|Passion Pit
+Miike Snow|Broken Bells
+Miike Snow|Miami Horror
+Miike Snow|Empire of the Sun
+Miike Snow|Cut Copy
+Miike Snow|Yeasayer
+Miike Snow|Phoenix
+Miike Snow|The Naked And Famous
+Miike Snow|Bag Raiders
+Miike Snow|Peter Bjorn and John
+Miike Snow|The Temper Trap
+Miike Snow|Penguin Prison
+Miike Snow|STRFKR
+Miike Snow|Electric Guest
+Miike Snow|Hot Chip
+Miike Snow|Ra Ra Riot
+Miike Snow|Generationals
+Miike Snow|Santigold
+Miike Snow|Local Natives
+Miike Snow|Phantogram
+Miami Horror|Van She
+Miami Horror|Bag Raiders
+Miami Horror|Cut Copy
+Miami Horror|Holy Ghost!
+Miami Horror|Penguin Prison
+Miami Horror|Breakbot
+Miami Horror|Thieves Like Us
+Miami Horror|Anoraak
+Miami Horror|Midnight Juggernauts
+Miami Horror|Jupiter
+Miami Horror|Chromeo
+Miami Horror|The Presets
+Miami Horror|Empire of the Sun
+Miami Horror|PNAU
+Miami Horror|Classixx
+Miami Horror|Digitalism
+Miami Horror|Fred Falke
+Miami Horror|Miike Snow
+Miami Horror|Tesla Boy
+Miami Horror|Yuksek
+Passion Pit|Local Natives
+Passion Pit|Miike Snow
+Passion Pit|Broken Bells
+Passion Pit|Discovery
+Passion Pit|The Naked And Famous
+Passion Pit|Grouplove
+Passion Pit|Phoenix
+Passion Pit|Ra Ra Riot
+Passion Pit|Peter Bjorn and John
+Passion Pit|Two Door Cinema Club
+Passion Pit|Cold War Kids
+Passion Pit|Tokyo Police Club
+Passion Pit|Generationals
+Passion Pit|The Temper Trap
+Passion Pit|Empire of the Sun
+Passion Pit|The Postal Service
+Passion Pit|The Shins
+Passion Pit|Matt and Kim
+Passion Pit|Yeasayer
+Passion Pit|MGMT
+The Presets|PNAU
+The Presets|Midnight Juggernauts
+The Presets|Sneaky Sound System
+The Presets|Van She
+The Presets|Cut Copy
+The Presets|Digitalism
+The Presets|Simian Mobile Disco
+The Presets|Art vs Science
+The Presets|Miami Horror
+The Presets|Bluejuice
+The Presets|Hot Chip
+The Presets|Fischerspooner
+The Presets|Muscles
+The Presets|Bag Raiders
+The Presets|British India
+The Presets|Client Liaison
+The Presets|The Aston Shuffle
+The Presets|Confidence Man
+The Presets|Does It Offend You, Yeah?
+The Presets|Ladyhawke
+PNAU|The Presets
+PNAU|Sneaky Sound System
+PNAU|Van She
+PNAU|Miami Horror
+PNAU|Midnight Juggernauts
+PNAU|Client Liaison
+PNAU|Cut Copy
+PNAU|Flight Facilities
+PNAU|Empire of the Sun
+PNAU|Golden Features
+PNAU|Touch Sensitive
+PNAU|The Aston Shuffle
+PNAU|Bag Raiders
+PNAU|Running Touch
+PNAU|Peking Duk
+PNAU|The Kite String Tangle
+PNAU|Set Mo
+PNAU|Faul & Wad Ad
+PNAU|Hayden James
+PNAU|Northeast Party House
+Cut Copy|Van She
+Cut Copy|The Presets
+Cut Copy|Midnight Juggernauts
+Cut Copy|Miami Horror
+Cut Copy|Hot Chip
+Cut Copy|Junior Boys
+Cut Copy|Holy Ghost!
+Cut Copy|Bag Raiders
+Cut Copy|Digitalism
+Cut Copy|Hercules & Love Affair
+Cut Copy|Chromeo
+Cut Copy|Thieves Like Us
+Cut Copy|Simian Mobile Disco
+Cut Copy|!!!
+Cut Copy|Miike Snow
+Cut Copy|The Rapture
+Cut Copy|The Juan Maclean
+Cut Copy|Neon Indian
+Cut Copy|Ladyhawke
+Cut Copy|YACHT
+Bag Raiders|PNAU
+Bag Raiders|Van She
+Bag Raiders|Classixx
+Bag Raiders|The Presets
+Bag Raiders|Cut Copy
+Bag Raiders|Holy Ghost!
+Bag Raiders|Miami Horror
+Bag Raiders|Midnight Juggernauts
+Bag Raiders|Sneaky Sound System
+Bag Raiders|Penguin Prison
+Bag Raiders|Anoraak
+Bag Raiders|Flight Facilities
+Bag Raiders|Digitalism
+Bag Raiders|Breakbot
+Bag Raiders|Miike Snow
+Bag Raiders|Fenech-Soler
+Bag Raiders|Touch Sensitive
+Bag Raiders|Gypsy & The Cat
+Bag Raiders|Chromeo
+Bag Raiders|Fred Falke
+MGMT|Phoenix
+MGMT|Empire of the Sun
+MGMT|The Drums
+MGMT|Passion Pit
+MGMT|Two Door Cinema Club
+MGMT|Foster The People
+MGMT|Arcade Fire
+MGMT|Metronomy
+MGMT|Broken Bells
+MGMT|Peter Bjorn and John
+MGMT|Miike Snow
+MGMT|Grouplove
+MGMT|Crystal Castles
+MGMT|Interpol
+MGMT|STRFKR
+MGMT|LCD Soundsystem
+MGMT|of Montreal
+MGMT|Albert Hammond Jr
+MGMT|Neon Indian
+MGMT|Ariel Pink
+Phoenix|Two Door Cinema Club
+Phoenix|The Whitest Boy Alive
+Phoenix|Passion Pit
+Phoenix|Peter Bjorn and John
+Phoenix|Miami Horror
+Phoenix|Local Natives
+Phoenix|Albert Hammond Jr
+Phoenix|Miike Snow
+Phoenix|Bombay Bicycle Club
+Phoenix|Empire of the Sun
+Phoenix|The Temper Trap
+Phoenix|Tokyo Police Club
+Phoenix|The Shins
+Phoenix|Metronomy
+Phoenix|Cut Copy
+Phoenix|Hot Chip
+Phoenix|Bloc Party
+Phoenix|Arcade Fire
+Phoenix|Broken Bells
+Phoenix|MGMT
+Metronomy|The Rapture
+Metronomy|Thieves Like Us
+Metronomy|Klaxons
+Metronomy|The Whitest Boy Alive
+Metronomy|Hot Chip
+Metronomy|WhoMadeWho
+Metronomy|Miami Horror
+Metronomy|Sébastien Tellier
+Metronomy|Cut Copy
+Metronomy|Digitalism
+Metronomy|Hercules & Love Affair
+Metronomy|LCD Soundsystem
+Metronomy|The Horrors
+Metronomy|Caribou
+Metronomy|LA Priest
+Metronomy|!!!
+Metronomy|Soulwax
+Metronomy|Yuksek
+Metronomy|Erlend Øye
+Metronomy|Django Django
+Hot Chip|LCD Soundsystem
+Hot Chip|Simian Mobile Disco
+Hot Chip|Junior Boys
+Hot Chip|WhoMadeWho
+Hot Chip|The Rapture
+Hot Chip|Hercules & Love Affair
+Hot Chip|Fujiya & Miyagi
+Hot Chip|Metronomy
+Hot Chip|The Whitest Boy Alive
+Hot Chip|Digitalism
+Hot Chip|!!!
+Hot Chip|Cut Copy
+Hot Chip|The Juan Maclean
+Hot Chip|The Presets
+Hot Chip|Joe Goddard
+Hot Chip|Soulwax
+Hot Chip|Holy Ghost!
+Hot Chip|Yeasayer
+Hot Chip|YACHT
+Hot Chip|Caribou
+The Temper Trap|Eskimo Joe
+The Temper Trap|The Jezabels
+The Temper Trap|The Naked And Famous
+The Temper Trap|Cloud Control
+The Temper Trap|Bombay Bicycle Club
+The Temper Trap|Passion Pit
+The Temper Trap|British India
+The Temper Trap|White Lies
+The Temper Trap|Miike Snow
+The Temper Trap|San Cisco
+The Temper Trap|The Presets
+The Temper Trap|The Boxer Rebellion
+The Temper Trap|Bluejuice
+The Temper Trap|Bloc Party
+The Temper Trap|Josh Pyke
+The Temper Trap|Two Door Cinema Club
+The Temper Trap|Phoenix
+The Temper Trap|Birds Of Tokyo
+The Temper Trap|Ball Park Music
+The Temper Trap|Evermore
+Two Door Cinema Club|Passion Pit
+Two Door Cinema Club|Bombay Bicycle Club
+Two Door Cinema Club|The Temper Trap
+Two Door Cinema Club|Phoenix
+Two Door Cinema Club|Miike Snow
+Two Door Cinema Club|The Wombats
+Two Door Cinema Club|Foster The People
+Two Door Cinema Club|Everything Everything
+Two Door Cinema Club|Jamie T
+Two Door Cinema Club|Bloc Party
+Two Door Cinema Club|The Vaccines
+Two Door Cinema Club|The Pigeon Detectives
+Two Door Cinema Club|Courteeners
+Two Door Cinema Club|White Lies
+Two Door Cinema Club|Empire of the Sun
+Two Door Cinema Club|The Naked And Famous
+Two Door Cinema Club|Foals
+Two Door Cinema Club|Grouplove
+Two Door Cinema Club|The Maccabees
+Two Door Cinema Club|Mystery Jets
+The Whitest Boy Alive|Hot Chip
+The Whitest Boy Alive|Metronomy
+The Whitest Boy Alive|Erlend Øye
+The Whitest Boy Alive|Kings of Convenience
+The Whitest Boy Alive|Thieves Like Us
+The Whitest Boy Alive|The Rapture
+The Whitest Boy Alive|WhoMadeWho
+The Whitest Boy Alive|Fujiya & Miyagi
+The Whitest Boy Alive|Junior Boys
+The Whitest Boy Alive|Hercules & Love Affair
+The Whitest Boy Alive|Cut Copy
+The Whitest Boy Alive|!!!
+The Whitest Boy Alive|Miami Horror
+The Whitest Boy Alive|Peter Bjorn and John
+The Whitest Boy Alive|Miike Snow
+The Whitest Boy Alive|Holy Ghost!
+The Whitest Boy Alive|Kommode
+The Whitest Boy Alive|LCD Soundsystem
+The Whitest Boy Alive|Phoenix
+The Whitest Boy Alive|Broken Bells
+Chromeo|Breakbot
+Chromeo|Miami Horror
+Chromeo|Bag Raiders
+Chromeo|Digitalism
+Chromeo|Holy Ghost!
+Chromeo|Simian Mobile Disco
+Chromeo|Hot Chip
+Chromeo|MSTRKRFT
+Chromeo|Miike Snow
+Chromeo|Cut Copy
+Chromeo|Ghostland Observatory
+Chromeo|Yuksek
+Chromeo|Justice
+Chromeo|Penguin Prison
+Chromeo|!!!
+Chromeo|The Presets
+Chromeo|Classixx
+Chromeo|SebastiAn
+Chromeo|Empire of the Sun
+Chromeo|Kavinsky
+Digitalism|Soulwax
+Digitalism|MSTRKRFT
+Digitalism|Simian Mobile Disco
+Digitalism|Midnight Juggernauts
+Digitalism|Boys Noize
+Digitalism|Vitalic
+Digitalism|SebastiAn
+Digitalism|The Bloody Beetroots
+Digitalism|Kavinsky
+Digitalism|Does It Offend You, Yeah?
+Digitalism|The Presets
+Digitalism|Mr. Oizo
+Digitalism|Yuksek
+Digitalism|Danger
+Digitalism|Justice
+Digitalism|Étienne de Crécy
+Digitalism|Busy P
+Digitalism|Tiga
+Digitalism|Siriusmo
+Digitalism|The Toxic Avenger
+The Naked And Famous|Passion Pit
+The Naked And Famous|The Temper Trap
+The Naked And Famous|The Airborne Toxic Event
+The Naked And Famous|Grouplove
+The Naked And Famous|Ra Ra Riot
+The Naked And Famous|Atlas Genius
+The Naked And Famous|The Joy Formidable
+The Naked And Famous|St. Lucia
+The Naked And Famous|Metric
+The Naked And Famous|Matt and Kim
+The Naked And Famous|Silversun Pickups
+The Naked And Famous|Miike Snow
+The Naked And Famous|Cold War Kids
+The Naked And Famous|The Chain Gang Of 1974
+The Naked And Famous|Purity Ring
+The Naked And Famous|CHVRCHES
+The Naked And Famous|Bombay Bicycle Club
+The Naked And Famous|VHS Collection
+The Naked And Famous|Ladyhawke
+The Naked And Famous|RAC
+Foster The People|Grouplove
+Foster The People|Passion Pit
+Foster The People|Young the Giant
+Foster The People|Two Door Cinema Club
+Foster The People|Saint Motel
+Foster The People|Miike Snow
+Foster The People|Phoenix
+Foster The People|The Knocks
+Foster The People|Capital Cities
+Foster The People|MGMT
+Foster The People|Atlas Genius
+Foster The People|Broken Bells
+Foster The People|Cold War Kids
+Foster The People|The Naked And Famous
+Foster The People|Fitz and The Tantrums
+Foster The People|Empire of the Sun
+Foster The People|Electric Guest
+Foster The People|Portugal. The Man
+Foster The People|Local Natives
+Foster The People|Joywave
+M83|Beach House
+M83|Washed Out
+M83|Passion Pit
+M83|Wild Nothing
+M83|Sigur Rós
+M83|Small Black
+M83|Phantogram
+M83|Neon Indian
+M83|Grizzly Bear
+M83|Empire of the Sun
+M83|Hammock
+M83|Chromatics
+M83|The Naked And Famous
+M83|The Radio Dept.
+M83|Son Lux
+M83|Miike Snow
+M83|Twin Shadow
+M83|Youth Lagoon
+M83|Phoenix
+M83|MGMT
+Capital Cities|Penguin Prison
+Capital Cities|Atlas Genius
+Capital Cities|St. Lucia
+Capital Cities|Miami Horror
+Capital Cities|Saint Motel
+Capital Cities|Passion Pit
+Capital Cities|The Knocks
+Capital Cities|The Royal Concept
+Capital Cities|Foster The People
+Capital Cities|Joywave
+Capital Cities|Empire of the Sun
+Capital Cities|Bag Raiders
+Capital Cities|Electric Guest
+Capital Cities|Goldroom
+Capital Cities|Miike Snow
+Capital Cities|Two Door Cinema Club
+Capital Cities|Phoenix
+Capital Cities|WALK THE MOON
+Capital Cities|Technicolor Fabrics
+Capital Cities|Youngblood Hawke
+Janet Jackson|En Vogue
+Janet Jackson|Toni Braxton
+Janet Jackson|TLC
+Janet Jackson|Brandy
+Janet Jackson|Paula Abdul
+Janet Jackson|Amerie
+Janet Jackson|Faith Evans
+Janet Jackson|Monica
+Janet Jackson|Tamia
+Janet Jackson|Kelly Rowland
+Janet Jackson|SWV
+Janet Jackson|Aaliyah
+Janet Jackson|Bobby Brown
+Janet Jackson|Mýa
+Janet Jackson|Xscape
+Janet Jackson|Lil' Kim
+Janet Jackson|Jody Watley
+Janet Jackson|Deborah Cox
+Janet Jackson|Tony! Toni! Toné!
+Janet Jackson|702
+The Jacksons|The Emotions
+The Jacksons|Commodores
+The Jacksons|Rose Royce
+The Jacksons|Jermaine Jackson
+The Jacksons|The Spinners
+The Jacksons|The O'Jays
+The Jacksons|Heatwave
+The Jacksons|Harold Melvin & The Blue Notes
+The Jacksons|Tavares
+The Jacksons|The Brothers Johnson
+The Jacksons|Sister Sledge
+The Jacksons|CHIC
+The Jacksons|Gladys Knight & The Pips
+The Jacksons|The Jackson 5
+The Jacksons|DeBarge
+The Jacksons|Odyssey
+The Jacksons|The Isley Brothers
+The Jacksons|Chaka Khan
+The Jacksons|Shalamar
+The Jacksons|The Trammps
+Wham!|Culture Club
+Wham!|Paul Young
+Wham!|Nik Kershaw
+Wham!|Spandau Ballet
+Wham!|Alison Moyet
+Wham!|Level 42
+Wham!|Johnny Hates Jazz
+Wham!|Wet Wet Wet
+Wham!|Bananarama
+Wham!|Fine Young Cannibals
+Wham!|Go West
+Wham!|Rick Astley
+Wham!|Billy Ocean
+Wham!|The Pointer Sisters
+Wham!|Kim Wilde
+Wham!|Howard Jones
+Wham!|Frankie Goes To Hollywood
+Wham!|Robert Palmer
+Wham!|ABC
+Wham!|Belinda Carlisle
+The Pointer Sisters|Sister Sledge
+The Pointer Sisters|Irene Cara
+The Pointer Sisters|Billy Ocean
+The Pointer Sisters|Sheena Easton
+The Pointer Sisters|Donna Summer
+The Pointer Sisters|The Weather Girls
+The Pointer Sisters|Odyssey
+The Pointer Sisters|Taylor Dayne
+The Pointer Sisters|Wham!
+The Pointer Sisters|Dan Hartman
+The Pointer Sisters|The Trammps
+The Pointer Sisters|Gloria Gaynor
+The Pointer Sisters|Tavares
+The Pointer Sisters|Paula Abdul
+The Pointer Sisters|Miami Sound Machine
+The Pointer Sisters|Chaka Khan
+The Pointer Sisters|Bananarama
+The Pointer Sisters|Diana Ross
+The Pointer Sisters|CHIC
+The Pointer Sisters|Shalamar
+Kool & The Gang|Heatwave
+Kool & The Gang|Commodores
+Kool & The Gang|The Gap Band
+Kool & The Gang|The Brothers Johnson
+Kool & The Gang|Ohio Players
+Kool & The Gang|CHIC
+Kool & The Gang|Rick James
+Kool & The Gang|Average White Band
+Kool & The Gang|Cameo
+Kool & The Gang|Earth, Wind & Fire
+Kool & The Gang|KC & The Sunshine Band
+Kool & The Gang|Rose Royce
+Kool & The Gang|The Isley Brothers
+Kool & The Gang|Chaka Khan
+Kool & The Gang|Shalamar
+Kool & The Gang|Sister Sledge
+Kool & The Gang|The Whispers
+Kool & The Gang|Evelyn "Champagne" King
+Kool & The Gang|The Jacksons
+Kool & The Gang|The Emotions
+George Michael|Wham!
+George Michael|Simply Red
+George Michael|Paul Young
+George Michael|Lisa Stansfield
+George Michael|Seal
+George Michael|Tina Turner
+George Michael|Culture Club
+George Michael|Wet Wet Wet
+George Michael|Annie Lennox
+George Michael|M People
+George Michael|Alison Moyet
+George Michael|Robert Palmer
+George Michael|Eurythmics
+George Michael|Billy Ocean
+George Michael|Spandau Ballet
+George Michael|The Pointer Sisters
+George Michael|Lionel Richie
+George Michael|Texas
+George Michael|Bananarama
+George Michael|Level 42
+Billy Ocean|The Pointer Sisters
+Billy Ocean|Sheena Easton
+Billy Ocean|Irene Cara
+Billy Ocean|Taylor Dayne
+Billy Ocean|Mr. Mister
+Billy Ocean|Wet Wet Wet
+Billy Ocean|Go West
+Billy Ocean|Culture Club
+Billy Ocean|Johnny Hates Jazz
+Billy Ocean|Level 42
+Billy Ocean|Bananarama
+Billy Ocean|Robert Palmer
+Billy Ocean|Odyssey
+Billy Ocean|Paul Young
+Billy Ocean|Miami Sound Machine
+Billy Ocean|Wham!
+Billy Ocean|Nik Kershaw
+Billy Ocean|The Real Thing
+Billy Ocean|Alison Moyet
+Billy Ocean|Starship
+Prince|The Gap Band
+Prince|Cameo
+Prince|Sly & The Family Stone
+Prince|The Time
+Prince|Chaka Khan
+Prince|The Isley Brothers
+Prince|Rick James
+Prince|Teena Marie
+Prince|The Pointer Sisters
+Prince|DeBarge
+Prince|Curtis Mayfield
+Prince|Zapp
+Prince|The O'Jays
+Prince|Tony! Toni! Toné!
+Prince|Ohio Players
+Prince|Janet Jackson
+Prince|Kool & The Gang
+Prince|Parliament
+Prince|Bobby Brown
+Prince|Commodores
+Bobby Brown|Jodeci
+Bobby Brown|New Edition
+Bobby Brown|Bell Biv DeVoe
+Bobby Brown|Shai
+Bobby Brown|Soul For Real
+Bobby Brown|Hi-Five
+Bobby Brown|Al B. Sure!
+Bobby Brown|Troop
+Bobby Brown|Guy
+Bobby Brown|Ralph Tresvant
+Bobby Brown|Color Me Badd
+Bobby Brown|Aaron Hall
+Bobby Brown|Tevin Campbell
+Bobby Brown|Tony! Toni! Toné!
+Bobby Brown|Johnny Gill
+Bobby Brown|After 7
+Bobby Brown|Keith Sweat
+Bobby Brown|Pebbles
+Bobby Brown|Christopher Williams
+Bobby Brown|Ready For The World
+The Jackson 5|Four Tops
+The Jackson 5|The Jacksons
+The Jackson 5|Commodores
+The Jackson 5|Stevie Wonder
+The Jackson 5|The Temptations
+The Jackson 5|The Supremes
+The Jackson 5|Diana Ross
+The Jackson 5|Marvin Gaye
+The Jackson 5|Aretha Franklin
+The Jackson 5|Jackie Wilson
+The Jackson 5|Gladys Knight & The Pips
+The Jackson 5|Barry White
+The Jackson 5|Earth, Wind & Fire
+The Jackson 5|Edwin Starr
+The Jackson 5|James Brown
+The Jackson 5|Chaka Khan
+The Jackson 5|Martha Reeves & The Vandellas
+The Jackson 5|Sister Sledge
+The Jackson 5|Wild Cherry
+The Jackson 5|Natalie Cole
+Lionel Richie|Michael Bolton
+Lionel Richie|Peabo Bryson
+Lionel Richie|James Ingram
+Lionel Richie|Christopher Cross
+Lionel Richie|Richard Marx
+Lionel Richie|Peter Cetera
+Lionel Richie|The Pointer Sisters
+Lionel Richie|Billy Ocean
+Lionel Richie|Dionne Warwick
+Lionel Richie|Air Supply
+Lionel Richie|Simply Red
+Lionel Richie|Paul Young
+Lionel Richie|Eric Carmen
+Lionel Richie|Diana Ross
+Lionel Richie|Tina Turner
+Lionel Richie|Patti Austin
+Lionel Richie|Randy Crawford
+Lionel Richie|Dan Hill
+Lionel Richie|Wet Wet Wet
+Lionel Richie|Commodores
+Earth, Wind & Fire|The Gap Band
+Earth, Wind & Fire|Kool & The Gang
+Earth, Wind & Fire|Heatwave
+Earth, Wind & Fire|Commodores
+Earth, Wind & Fire|The Brothers Johnson
+Earth, Wind & Fire|CHIC
+Earth, Wind & Fire|The O'Jays
+Earth, Wind & Fire|The Isley Brothers
+Earth, Wind & Fire|Ohio Players
+Earth, Wind & Fire|Cameo
+Earth, Wind & Fire|Rose Royce
+Earth, Wind & Fire|KC & The Sunshine Band
+Earth, Wind & Fire|Average White Band
+Earth, Wind & Fire|Chaka Khan
+Earth, Wind & Fire|The Emotions
+Earth, Wind & Fire|The Whispers
+Earth, Wind & Fire|Rick James
+Earth, Wind & Fire|Tavares
+Earth, Wind & Fire|L.T.D.
+Earth, Wind & Fire|The Spinners
+Stevie Wonder|Commodores
+Stevie Wonder|The Isley Brothers
+Stevie Wonder|The Temptations
+Stevie Wonder|The Spinners
+Stevie Wonder|Bill Withers
+Stevie Wonder|Smokey Robinson & The Miracles
+Stevie Wonder|Marvin Gaye
+Stevie Wonder|Four Tops
+Stevie Wonder|Curtis Mayfield
+Stevie Wonder|Sly & The Family Stone
+Stevie Wonder|The Supremes
+Stevie Wonder|Gladys Knight & The Pips
+Stevie Wonder|The Jacksons
+Stevie Wonder|Roberta Flack
+Stevie Wonder|Al Green
+Stevie Wonder|The Miracles
+Stevie Wonder|The O'Jays
+Stevie Wonder|Diana Ross
+Stevie Wonder|Wilson Pickett
+Stevie Wonder|Kool & The Gang
+Diana Ross|Gladys Knight & The Pips
+Diana Ross|Commodores
+Diana Ross|The Supremes
+Diana Ross|Four Tops
+Diana Ross|The Miracles
+Diana Ross|Martha Reeves & The Vandellas
+Diana Ross|Roberta Flack
+Diana Ross|The Pointer Sisters
+Diana Ross|Smokey Robinson & The Miracles
+Diana Ross|The Spinners
+Diana Ross|The Temptations
+Diana Ross|The Stylistics
+Diana Ross|Dionne Warwick
+Diana Ross|Sister Sledge
+Diana Ross|Harold Melvin & The Blue Notes
+Diana Ross|Chaka Khan
+Diana Ross|Smokey Robinson
+Diana Ross|Tavares
+Diana Ross|Donna Summer
+Diana Ross|Randy Crawford
+Whitney Houston|Toni Braxton
+Whitney Houston|Janet Jackson
+Whitney Houston|En Vogue
+Whitney Houston|Brandy
+Whitney Houston|Jennifer Hudson
+Whitney Houston|Vanessa Williams
+Whitney Houston|Monica
+Whitney Houston|Luther Vandross
+Whitney Houston|Mariah Carey
+Whitney Houston|Patti LaBelle
+Whitney Houston|Paula Abdul
+Whitney Houston|TLC
+Whitney Houston|Tamia
+Whitney Houston|Céline Dion
+Whitney Houston|Lionel Richie
+Whitney Houston|Peabo Bryson
+Whitney Houston|Michael Bolton
+Whitney Houston|Diana Ross
+Whitney Houston|Tina Turner
+Whitney Houston|Leona Lewis
+Cyndi Lauper|The Bangles
+Cyndi Lauper|Belinda Carlisle
+Cyndi Lauper|Bananarama
+Cyndi Lauper|Culture Club
+Cyndi Lauper|Laura Branigan
+Cyndi Lauper|Bonnie Tyler
+Cyndi Lauper|Berlin
+Cyndi Lauper|Eurythmics
+Cyndi Lauper|Tina Turner
+Cyndi Lauper|The Go-Go's
+Cyndi Lauper|Pat Benatar
+Cyndi Lauper|Sheena Easton
+Cyndi Lauper|Kim Wilde
+Cyndi Lauper|Debbie Gibson
+Cyndi Lauper|Irene Cara
+Cyndi Lauper|Annie Lennox
+Cyndi Lauper|Cher
+Cyndi Lauper|The Pointer Sisters
+Cyndi Lauper|Paula Abdul
+Cyndi Lauper|Paul Young
+Daryl Hall & John Oates|Kenny Loggins
+Daryl Hall & John Oates|Huey Lewis & The News
+Daryl Hall & John Oates|Christopher Cross
+Daryl Hall & John Oates|Steve Winwood
+Daryl Hall & John Oates|Don Henley
+Daryl Hall & John Oates|Robert Palmer
+Daryl Hall & John Oates|Rick Springfield
+Daryl Hall & John Oates|Chicago
+Daryl Hall & John Oates|Eddie Money
+Daryl Hall & John Oates|Little River Band
+Daryl Hall & John Oates|Mr. Mister
+Daryl Hall & John Oates|The Doobie Brothers
+Daryl Hall & John Oates|Boz Scaggs
+Daryl Hall & John Oates|Michael McDonald
+Daryl Hall & John Oates|REO Speedwagon
+Daryl Hall & John Oates|TOTO
+Daryl Hall & John Oates|Ambrosia
+Daryl Hall & John Oates|Billy Ocean
+Daryl Hall & John Oates|The Cars
+Daryl Hall & John Oates|Glenn Frey
+New Edition|Jodeci
+New Edition|Soul For Real
+New Edition|Bobby Brown
+New Edition|Troop
+New Edition|Al B. Sure!
+New Edition|Hi-Five
+New Edition|After 7
+New Edition|Tevin Campbell
+New Edition|Aaron Hall
+New Edition|Ralph Tresvant
+New Edition|Johnny Gill
+New Edition|Christopher Williams
+New Edition|Tony! Toni! Toné!
+New Edition|H-Town
+New Edition|Keith Sweat
+New Edition|Case
+New Edition|Silk
+New Edition|Guy
+New Edition|Shai
+New Edition|Bell Biv DeVoe
+Kenny Loggins|Christopher Cross
+Kenny Loggins|Paul Davis
+Kenny Loggins|Ambrosia
+Kenny Loggins|Glenn Frey
+Kenny Loggins|Little River Band
+Kenny Loggins|Huey Lewis & The News
+Kenny Loggins|Eric Carmen
+Kenny Loggins|Starship
+Kenny Loggins|Mr. Mister
+Kenny Loggins|Steve Winwood
+Kenny Loggins|Rick Springfield
+Kenny Loggins|Daryl Hall & John Oates
+Kenny Loggins|Stephen Bishop
+Kenny Loggins|Don Henley
+Kenny Loggins|Michael McDonald
+Kenny Loggins|Richard Marx
+Kenny Loggins|Peter Cetera
+Kenny Loggins|Eddie Money
+Kenny Loggins|Chicago
+Kenny Loggins|Steve Perry
+Madonna|Spice Girls
+Madonna|Kylie Minogue
+Madonna|Cyndi Lauper
+Madonna|Paula Abdul
+Madonna|RuPaul
+Madonna|Gwen Stefani
+Madonna|Janet Jackson
+Madonna|Cher
+Madonna|Belinda Carlisle
+Madonna|Tina Turner
+Madonna|Jennifer Lopez
+Madonna|Bananarama
+Madonna|Nelly Furtado
+Madonna|Robyn
+Madonna|Sugababes
+Madonna|Donna Summer
+Madonna|The Pointer Sisters
+Madonna|Irene Cara
+Madonna|Roxette
+Madonna|Gloria Estefan
+Mild High Club|Crumb
+Mild High Club|Babe Rainbow
+Mild High Club|Loving
+Mild High Club|Post Animal
+Mild High Club|Sunbeam Sound Machine
+Mild High Club|Drugdealer
+Mild High Club|Sugar Candy Mountain
+Mild High Club|Moses Gunn Collective
+Mild High Club|Cosmo Pyke
+Mild High Club|Jerkcurb
+Mild High Club|Psychedelic Porn Crumpets
+Mild High Club|Kikagaku Moyo
+Mild High Club|Soft Hair
+Mild High Club|HOMESHAKE
+Mild High Club|Chaz Bundick Meets The Mattson 2
+Mild High Club|infinite bisous
+Mild High Club|Inner Wave
+Mild High Club|Swim Mountain
+Mild High Club|Yellow Days
+Mild High Club|TEMPOREX
+Pond|Melody's Echo Chamber
+Pond|Foxygen
+Pond|Babe Rainbow
+Pond|Kikagaku Moyo
+Pond|Post Animal
+Pond|Sunbeam Sound Machine
+Pond|Psychedelic Porn Crumpets
+Pond|Unknown Mortal Orchestra
+Pond|The Murlocs
+Pond|Ty Segall
+Pond|Thee Oh Sees
+Pond|Moses Gunn Collective
+Pond|Temples
+Pond|White Denim
+Pond|Sugar Candy Mountain
+Pond|King Gizzard & The Lizard Wizard
+Pond|Orions Belte
+Pond|GUM
+Pond|DIIV
+Pond|Parquet Courts
+Unknown Mortal Orchestra|Beach Fossils
+Unknown Mortal Orchestra|Foxygen
+Unknown Mortal Orchestra|Pond
+Unknown Mortal Orchestra|Real Estate
+Unknown Mortal Orchestra|King Krule
+Unknown Mortal Orchestra|Toro y Moi
+Unknown Mortal Orchestra|Melody's Echo Chamber
+Unknown Mortal Orchestra|Blood Orange
+Unknown Mortal Orchestra|Ariel Pink
+Unknown Mortal Orchestra|Deerhunter
+Unknown Mortal Orchestra|Connan Mockasin
+Unknown Mortal Orchestra|Grizzly Bear
+Unknown Mortal Orchestra|Neon Indian
+Unknown Mortal Orchestra|Washed Out
+Unknown Mortal Orchestra|Ty Segall
+Unknown Mortal Orchestra|Tennis
+Unknown Mortal Orchestra|Drugdealer
+Unknown Mortal Orchestra|White Denim
+Unknown Mortal Orchestra|Kurt Vile
+Unknown Mortal Orchestra|Wild Nothing
+Crumb|Mild High Club
+Crumb|Yellow Days
+Crumb|Loving
+Crumb|Inner Wave
+Crumb|Drugdealer
+Crumb|Cosmo Pyke
+Crumb|No Vacation
+Crumb|TEMPOREX
+Crumb|Vansire
+Crumb|Swim Mountain
+Crumb|BOYO
+Crumb|Gus Dapperton
+Crumb|Kid Bloom
+Crumb|HOMESHAKE
+Crumb|Puma Blue
+Crumb|Post Animal
+Crumb|Jakob
+Crumb|Brad stank
+Crumb|Good Morning
+Crumb|Sunbeam Sound Machine
+Khruangbin|Orions Belte
+Khruangbin|Kikagaku Moyo
+Khruangbin|Sugar Candy Mountain
+Khruangbin|Babe Rainbow
+Khruangbin|Mild High Club
+Khruangbin|Whitney
+Khruangbin|El Michels Affair
+Khruangbin|Unknown Mortal Orchestra
+Khruangbin|Allah-Las
+Khruangbin|Durand Jones & The Indications
+Khruangbin|Mildlife
+Khruangbin|Shuggie Otis
+Khruangbin|Lord Echo
+Khruangbin|Menahan Street Band
+Khruangbin|HNNY
+Khruangbin|Pond
+Khruangbin|Connan Mockasin
+Khruangbin|Skinshape
+Khruangbin|SAULT
+Khruangbin|Kevin Morby
+Babe Rainbow|Orions Belte
+Babe Rainbow|Kikagaku Moyo
+Babe Rainbow|Post Animal
+Babe Rainbow|Sugar Candy Mountain
+Babe Rainbow|Morgan Delt
+Babe Rainbow|Psychedelic Porn Crumpets
+Babe Rainbow|Chaz Bundick Meets The Mattson 2
+Babe Rainbow|Moses Gunn Collective
+Babe Rainbow|Sunbeam Sound Machine
+Babe Rainbow|Mild High Club
+Babe Rainbow|Mildlife
+Babe Rainbow|levitation room
+Babe Rainbow|Swim Mountain
+Babe Rainbow|Mystic Braves
+Babe Rainbow|The Murlocs
+Babe Rainbow|Pipe-eye
+Babe Rainbow|Pond
+Babe Rainbow|Khruangbin
+Babe Rainbow|Damaged Bug
+Babe Rainbow|King Gizzard & The Lizard Wizard
+Mac DeMarco|King Krule
+Mac DeMarco|Beach Fossils
+Mac DeMarco|Unknown Mortal Orchestra
+Mac DeMarco|The Growlers
+Mac DeMarco|Current Joys
+Mac DeMarco|Yellow Days
+Mac DeMarco|TV Girl
+Mac DeMarco|Surf Curse
+Mac DeMarco|Mild High Club
+Mac DeMarco|Beach House
+Mac DeMarco|Ariel Pink
+Mac DeMarco|Pond
+Mac DeMarco|Good Morning
+Mac DeMarco|Her's
+Mac DeMarco|Strawberry Guy
+Mac DeMarco|Eyedress
+Mac DeMarco|Joy Again
+Mac DeMarco|Melody's Echo Chamber
+Mac DeMarco|Foxygen
+Mac DeMarco|Crumb
+Beach Fossils|Real Estate
+Beach Fossils|Wild Nothing
+Beach Fossils|Small Black
+Beach Fossils|Craft Spells
+Beach Fossils|Best Coast
+Beach Fossils|DIIV
+Beach Fossils|Ducktails
+Beach Fossils|Cloud Nothings
+Beach Fossils|Washed Out
+Beach Fossils|Deerhunter
+Beach Fossils|Surfer Blood
+Beach Fossils|Wavves
+Beach Fossils|Ariel Pink
+Beach Fossils|Neon Indian
+Beach Fossils|Tennis
+Beach Fossils|The Drums
+Beach Fossils|Toro y Moi
+Beach Fossils|Unknown Mortal Orchestra
+Beach Fossils|The Growlers
+Beach Fossils|Day Wave
+Melody's Echo Chamber|Drugdealer
+Melody's Echo Chamber|Post Animal
+Melody's Echo Chamber|Foxygen
+Melody's Echo Chamber|Sunbeam Sound Machine
+Melody's Echo Chamber|Pond
+Melody's Echo Chamber|Moses Gunn Collective
+Melody's Echo Chamber|Deerhunter
+Melody's Echo Chamber|DIIV
+Melody's Echo Chamber|Chaz Bundick Meets The Mattson 2
+Melody's Echo Chamber|Wild Nothing
+Melody's Echo Chamber|Chris Cohen
+Melody's Echo Chamber|Unknown Mortal Orchestra
+Melody's Echo Chamber|Ariel Pink
+Melody's Echo Chamber|Atlas Sound
+Melody's Echo Chamber|Part Time
+Melody's Echo Chamber|Mild High Club
+Melody's Echo Chamber|GUM
+Melody's Echo Chamber|Temples
+Melody's Echo Chamber|TOPS
+Melody's Echo Chamber|Jacco Gardner
+King Gizzard & The Lizard Wizard|Psychedelic Porn Crumpets
+King Gizzard & The Lizard Wizard|Pipe-eye
+King Gizzard & The Lizard Wizard|Post Animal
+King Gizzard & The Lizard Wizard|The Murlocs
+King Gizzard & The Lizard Wizard|DZ Deathrays
+King Gizzard & The Lizard Wizard|Art of Sleeping
+King Gizzard & The Lizard Wizard|Courtney Barnett
+King Gizzard & The Lizard Wizard|Kikagaku Moyo
+King Gizzard & The Lizard Wizard|Babe Rainbow
+King Gizzard & The Lizard Wizard|The Chats
+King Gizzard & The Lizard Wizard|Moses Gunn Collective
+King Gizzard & The Lizard Wizard|Violent Soho
+King Gizzard & The Lizard Wizard|Chaz Bundick Meets The Mattson 2
+King Gizzard & The Lizard Wizard|levitation room
+King Gizzard & The Lizard Wizard|Sugar Candy Mountain
+King Gizzard & The Lizard Wizard|Sunbeam Sound Machine
+King Gizzard & The Lizard Wizard|The Claypool Lennon Delirium
+King Gizzard & The Lizard Wizard|YesYou
+King Gizzard & The Lizard Wizard|Meatbodies
+King Gizzard & The Lizard Wizard|Mild High Club
+Beach House|Real Estate
+Beach House|Grizzly Bear
+Beach House|Deerhunter
+Beach House|Wild Nothing
+Beach House|Beach Fossils
+Beach House|Animal Collective
+Beach House|Cults
+Beach House|Broadcast
+Beach House|Perfume Genius
+Beach House|Grouper
+Beach House|Tennis
+Beach House|Ariel Pink
+Beach House|Slowdive
+Beach House|Washed Out
+Beach House|The Radio Dept.
+Beach House|my bloody valentine
+Beach House|Alvvays
+Beach House|The Microphones
+Beach House|Broken Social Scene
+Beach House|DIIV
+Toro y Moi|Washed Out
+Toro y Moi|Neon Indian
+Toro y Moi|Twin Shadow
+Toro y Moi|Small Black
+Toro y Moi|Les Sins
+Toro y Moi|Tennis
+Toro y Moi|Craft Spells
+Toro y Moi|Real Estate
+Toro y Moi|Wild Nothing
+Toro y Moi|Blood Orange
+Toro y Moi|Ariel Pink
+Toro y Moi|Com Truise
+Toro y Moi|Beach Fossils
+Toro y Moi|Unknown Mortal Orchestra
+Toro y Moi|Little Dragon
+Toro y Moi|King Krule
+Toro y Moi|Bibio
+Toro y Moi|Baths
+Toro y Moi|Deerhunter
+Toro y Moi|TOKiMONSTA
+The Growlers|Ty Segall
+The Growlers|Tijuana Panthers
+The Growlers|Black Lips
+The Growlers|Allah-Las
+The Growlers|Thee Oh Sees
+The Growlers|Shannon & The Clams
+The Growlers|The King Khan & BBQ Show
+The Growlers|Harlem
+The Growlers|Beach Fossils
+The Growlers|King Tuff
+The Growlers|Together Pangea
+The Growlers|Night Beats
+The Growlers|Wavves
+The Growlers|Natural Child
+The Growlers|Dead Ghosts
+The Growlers|Jacuzzi Boys
+The Growlers|Beach Goons
+The Growlers|Bass Drum of Death
+The Growlers|BRONCHO
+The Growlers|The Babies
+Yellow Days|No Vacation
+Yellow Days|Crumb
+Yellow Days|Feng Suave
+Yellow Days|Banes World
+Yellow Days|Jakob
+Yellow Days|Mild High Club
+Yellow Days|TEMPOREX
+Yellow Days|Her's
+Yellow Days|Loving
+Yellow Days|Gus Dapperton
+Yellow Days|Brad stank
+Yellow Days|Mild Orange
+Yellow Days|HOMESHAKE
+Yellow Days|Cosmo Pyke
+Yellow Days|The Marías
+Yellow Days|Puma Blue
+Yellow Days|Vansire
+Yellow Days|infinite bisous
+Yellow Days|Good Morning
+Yellow Days|Inner Wave
+Foxygen|Melody's Echo Chamber
+Foxygen|Pond
+Foxygen|Woods
+Foxygen|Allah-Las
+Foxygen|Drugdealer
+Foxygen|Ty Segall
+Foxygen|Unknown Mortal Orchestra
+Foxygen|Ariel Pink
+Foxygen|White Denim
+Foxygen|Sugar Candy Mountain
+Foxygen|Real Estate
+Foxygen|Father John Misty
+Foxygen|Richard Swift
+Foxygen|The Lemon Twigs
+Foxygen|Grizzly Bear
+Foxygen|Deerhunter
+Foxygen|Cotton Jones
+Foxygen|Parquet Courts
+Foxygen|DIIV
+Foxygen|Thee Oh Sees
+The Voidz|Albert Hammond Jr
+The Voidz|CRX
+The Voidz|machinegum
+The Voidz|The Symposium
+The Voidz|Melody's Echo Chamber
+The Voidz|Pond
+The Voidz|Mini Mansions
+The Voidz|The Buttertones
+The Voidz|Inner Wave
+The Voidz|Post Animal
+The Voidz|Little Joy
+The Voidz|Sweet Trip
+The Voidz|The Growlers
+The Voidz|Ariel Pink
+The Voidz|Hot Flash Heat Wave
+The Voidz|Julian Casablancas
+The Voidz|The Last Shadow Puppets
+The Voidz|Foxygen
+The Voidz|Car Seat Headrest
+The Voidz|Enjoy
+Temples|Jacco Gardner
+Temples|Pond
+Temples|Post Animal
+Temples|Sugar Candy Mountain
+Temples|levitation room
+Temples|Melody's Echo Chamber
+Temples|Moses Gunn Collective
+Temples|Morgan Delt
+Temples|GUM
+Temples|Foxygen
+Temples|Psychedelic Porn Crumpets
+Temples|Sunbeam Sound Machine
+Temples|Mystic Braves
+Temples|The Holydrug Couple
+Temples|Chaz Bundick Meets The Mattson 2
+Temples|Jagwar Ma
+Temples|Swim Mountain
+Temples|Django Django
+Temples|Wand
+Temples|The Horrors
+The Drums|Craft Spells
+The Drums|DIIV
+The Drums|Wild Nothing
+The Drums|Beach Fossils
+The Drums|Best Coast
+The Drums|Cults
+The Drums|Thieves Like Us
+The Drums|Albert Hammond Jr
+The Drums|Real Estate
+The Drums|The Horrors
+The Drums|Acid Ghost
+The Drums|Wavves
+The Drums|Neon Indian
+The Drums|Los Blenders
+The Drums|Bombay Bicycle Club
+The Drums|The Buttertones
+The Drums|Surf Curse
+The Drums|The Growlers
+The Drums|Alvvays
+The Drums|Human Tetris
+Alvvays|Fazerdaze
+Alvvays|Jay Som
+Alvvays|Japanese Breakfast
+Alvvays|Hazel English
+Alvvays|Soccer Mommy
+Alvvays|Day Wave
+Alvvays|Snail Mail
+Alvvays|Frankie Cosmos
+Alvvays|Best Coast
+Alvvays|Tennis
+Alvvays|Craft Spells
+Alvvays|Real Estate
+Alvvays|Cherry Glazerr
+Alvvays|DIIV
+Alvvays|Wild Nothing
+Alvvays|Hatchie
+Alvvays|The Radio Dept.
+Alvvays|Beach Fossils
+Alvvays|Girlpool
+Alvvays|Alex G
+Ozuna|KAROL G
+Ozuna|Nio Garcia
+Ozuna|Manuel Turizo
+Ozuna|Chris Jedi
+Ozuna|Lunay
+Ozuna|Bad Bunny
+Ozuna|Rvssian
+Ozuna|Mau y Ricky
+Ozuna|Lalo Ebratt
+Ozuna|Amenazzy
+Ozuna|Tainy
+Ozuna|Jhay Cortez
+Ozuna|Bryant Myers
+Ozuna|Brytiago
+Ozuna|Myke Towers
+Ozuna|Rauw Alejandro
+Ozuna|Noriel
+Ozuna|Danny Ocean
+Ozuna|Kevin Roldan
+Ozuna|Lary Over
+Nio Garcia|Rvssian
+Nio Garcia|Brytiago
+Nio Garcia|Myke Towers
+Nio Garcia|Lunay
+Nio Garcia|Anuel AA
+Nio Garcia|Bryant Myers
+Nio Garcia|Lary Over
+Nio Garcia|KAROL G
+Nio Garcia|Noriel
+Nio Garcia|Kevin Roldan
+Nio Garcia|Jon Z
+Nio Garcia|Lalo Ebratt
+Nio Garcia|Casper Magico
+Nio Garcia|Ozuna
+Nio Garcia|Chris Jedi
+Nio Garcia|DJ Luian
+Nio Garcia|Amenazzy
+Nio Garcia|Manuel Turizo
+Nio Garcia|Miky Woodz
+Nio Garcia|Jhay Cortez
+KAROL G|Nio Garcia
+KAROL G|Lalo Ebratt
+KAROL G|Mau y Ricky
+KAROL G|Ozuna
+KAROL G|Lunay
+KAROL G|Greeicy
+KAROL G|Rvssian
+KAROL G|Sebastian Yatra
+KAROL G|Manuel Turizo
+KAROL G|Nacho
+KAROL G|Brytiago
+KAROL G|Myke Towers
+KAROL G|Jhay Cortez
+KAROL G|CNCO
+KAROL G|Bad Bunny
+KAROL G|Kevin Roldan
+KAROL G|Sofía Reyes
+KAROL G|Tainy
+KAROL G|Mario Bautista
+KAROL G|Casper Magico
+Anuel AA|Nio Garcia
+Anuel AA|Jon Z
+Anuel AA|Rvssian
+Anuel AA|Brytiago
+Anuel AA|Lunay
+Anuel AA|Myke Towers
+Anuel AA|Chris Jedi
+Anuel AA|Bryant Myers
+Anuel AA|Tainy
+Anuel AA|Noriel
+Anuel AA|Bad Bunny
+Anuel AA|Ovi
+Anuel AA|Jhay Cortez
+Anuel AA|Cauty
+Anuel AA|Mau y Ricky
+Anuel AA|Ñengo Flow
+Anuel AA|Lalo Ebratt
+Anuel AA|Revol
+Anuel AA|Lary Over
+Anuel AA|Mariah Angeliq
+Mau y Ricky|Greeicy
+Mau y Ricky|Lalo Ebratt
+Mau y Ricky|Sofía Reyes
+Mau y Ricky|CNCO
+Mau y Ricky|Danny Ocean
+Mau y Ricky|Manuel Turizo
+Mau y Ricky|KAROL G
+Mau y Ricky|Sebastian Yatra
+Mau y Ricky|Rvssian
+Mau y Ricky|Lunay
+Mau y Ricky|Mario Bautista
+Mau y Ricky|Mike Bahía
+Mau y Ricky|Nio Garcia
+Mau y Ricky|Joey Montana
+Mau y Ricky|Ventino
+Mau y Ricky|Piso 21
+Mau y Ricky|Andy Rivera
+Mau y Ricky|Nacho
+Mau y Ricky|Natti Natasha
+Mau y Ricky|Reykon
+Lunay|Brytiago
+Lunay|Nio Garcia
+Lunay|Lalo Ebratt
+Lunay|Rvssian
+Lunay|Amenazzy
+Lunay|DJ Luian
+Lunay|Cauty
+Lunay|Myke Towers
+Lunay|Anuel AA
+Lunay|Lary Over
+Lunay|Bryant Myers
+Lunay|Kevin Roldan
+Lunay|Tainy
+Lunay|Chris Jedi
+Lunay|Jory Boy
+Lunay|Casper Magico
+Lunay|Noriel
+Lunay|Jhay Cortez
+Lunay|Ozuna
+Lunay|Alex Rose
+Rvssian|Chris Jedi
+Rvssian|Brytiago
+Rvssian|Lary Over
+Rvssian|Revol
+Rvssian|Bryant Myers
+Rvssian|Lalo Ebratt
+Rvssian|Casper Magico
+Rvssian|Jory Boy
+Rvssian|Kevin Roldan
+Rvssian|Miky Woodz
+Rvssian|Noriel
+Rvssian|Jon Z
+Rvssian|Amenazzy
+Rvssian|Alex Rose
+Rvssian|Nio Garcia
+Rvssian|Anuel AA
+Rvssian|Lunay
+Rvssian|Myke Towers
+Rvssian|Cauty
+Rvssian|DJ Luian
+Brytiago|Bryant Myers
+Brytiago|Revol
+Brytiago|Noriel
+Brytiago|Lary Over
+Brytiago|Rvssian
+Brytiago|Jory Boy
+Brytiago|Casper Magico
+Brytiago|Miky Woodz
+Brytiago|Kevin Roldan
+Brytiago|Jon Z
+Brytiago|DJ Luian
+Brytiago|Lalo Ebratt
+Brytiago|Lunay
+Brytiago|Cauty
+Brytiago|Alex Rose
+Brytiago|Myke Towers
+Brytiago|Nio Garcia
+Brytiago|Darell
+Brytiago|Chris Jedi
+Brytiago|Amenazzy
+Tainy|Jowell & Randy
+Tainy|Randy
+Tainy|Lunay
+Tainy|DJ Nelson
+Tainy|Yandel
+Tainy|Zion & Lennox
+Tainy|Jhay Cortez
+Tainy|Brytiago
+Tainy|Alex Gargolas
+Tainy|De La Ghetto
+Tainy|Arcangel
+Tainy|Rvssian
+Tainy|Cauty
+Tainy|Noriel
+Tainy|Amenazzy
+Tainy|Lalo Ebratt
+Tainy|Ñejo
+Tainy|Zion
+Tainy|Wisin
+Tainy|Reykon
+Rauw Alejandro|Jhay Cortez
+Rauw Alejandro|Cauty
+Rauw Alejandro|DJ Luian
+Rauw Alejandro|Myke Towers
+Rauw Alejandro|Amenazzy
+Rauw Alejandro|Lunay
+Rauw Alejandro|Alex Rose
+Rauw Alejandro|Casper Magico
+Rauw Alejandro|Ozuna
+Rauw Alejandro|Miky Woodz
+Rauw Alejandro|Bad Bunny
+Rauw Alejandro|Bryant Myers
+Rauw Alejandro|Lary Over
+Rauw Alejandro|Nio Garcia
+Rauw Alejandro|Brytiago
+Rauw Alejandro|Rvssian
+Rauw Alejandro|KAROL G
+Rauw Alejandro|Jon Z
+Rauw Alejandro|Darell
+Rauw Alejandro|Noriel
+Jhay Cortez|DJ Luian
+Jhay Cortez|Amenazzy
+Jhay Cortez|Cauty
+Jhay Cortez|Casper Magico
+Jhay Cortez|Alex Rose
+Jhay Cortez|Myke Towers
+Jhay Cortez|Rauw Alejandro
+Jhay Cortez|Miky Woodz
+Jhay Cortez|Noriel
+Jhay Cortez|Lunay
+Jhay Cortez|Nio Garcia
+Jhay Cortez|Jon Z
+Jhay Cortez|Brytiago
+Jhay Cortez|Bryant Myers
+Jhay Cortez|Tainy
+Jhay Cortez|Rvssian
+Jhay Cortez|Lary Over
+Jhay Cortez|Darell
+Jhay Cortez|Kevin Roldan
+Jhay Cortez|DrefQuila
+Bryant Myers|Brytiago
+Bryant Myers|Lary Over
+Bryant Myers|Miky Woodz
+Bryant Myers|Revol
+Bryant Myers|Noriel
+Bryant Myers|Rvssian
+Bryant Myers|Casper Magico
+Bryant Myers|Jory Boy
+Bryant Myers|Kevin Roldan
+Bryant Myers|Jon Z
+Bryant Myers|Amenazzy
+Bryant Myers|Myke Towers
+Bryant Myers|DJ Luian
+Bryant Myers|Alex Rose
+Bryant Myers|Darell
+Bryant Myers|Lunay
+Bryant Myers|Cauty
+Bryant Myers|Ele A El Dominio
+Bryant Myers|Chris Jedi
+Bryant Myers|Ñengo Flow
+Myke Towers|Lary Over
+Myke Towers|Bryant Myers
+Myke Towers|Rvssian
+Myke Towers|Brytiago
+Myke Towers|Amenazzy
+Myke Towers|Nio Garcia
+Myke Towers|Alex Rose
+Myke Towers|Cauty
+Myke Towers|Miky Woodz
+Myke Towers|Noriel
+Myke Towers|Jhay Cortez
+Myke Towers|Casper Magico
+Myke Towers|Anuel AA
+Myke Towers|DJ Luian
+Myke Towers|Kevin Roldan
+Myke Towers|Rauw Alejandro
+Myke Towers|Jon Z
+Myke Towers|Darell
+Myke Towers|Lunay
+Myke Towers|Dalex
+Lary Over|Noriel
+Lary Over|Miky Woodz
+Lary Over|Bryant Myers
+Lary Over|Brytiago
+Lary Over|Revol
+Lary Over|Rvssian
+Lary Over|Casper Magico
+Lary Over|Jory Boy
+Lary Over|DJ Luian
+Lary Over|Cauty
+Lary Over|Amenazzy
+Lary Over|Kevin Roldan
+Lary Over|Jon Z
+Lary Over|Chris Jedi
+Lary Over|Luigi 21 Plus
+Lary Over|Darell
+Lary Over|Ñengo Flow
+Lary Over|Alex Rose
+Lary Over|Ele A El Dominio
+Lary Over|DJ Nelson
+Miky Woodz|Noriel
+Miky Woodz|Lary Over
+Miky Woodz|Casper Magico
+Miky Woodz|Revol
+Miky Woodz|Bryant Myers
+Miky Woodz|Cauty
+Miky Woodz|DJ Luian
+Miky Woodz|Brytiago
+Miky Woodz|Rvssian
+Miky Woodz|Jory Boy
+Miky Woodz|Jon Z
+Miky Woodz|Darell
+Miky Woodz|Alex Rose
+Miky Woodz|Amenazzy
+Miky Woodz|Kevin Roldan
+Miky Woodz|Ele A El Dominio
+Miky Woodz|Ñengo Flow
+Miky Woodz|KEVVO
+Miky Woodz|Ñejo
+Miky Woodz|Kendo Kaponi
+Ñengo Flow|Luigi 21 Plus
+Ñengo Flow|Jory Boy
+Ñengo Flow|Lary Over
+Ñengo Flow|Bryant Myers
+Ñengo Flow|Miky Woodz
+Ñengo Flow|Noriel
+Ñengo Flow|Gotay "El Autentiko"
+Ñengo Flow|Ñejo
+Ñengo Flow|Casper Magico
+Ñengo Flow|Nova y Jory
+Ñengo Flow|Brytiago
+Ñengo Flow|Ele A El Dominio
+Ñengo Flow|Revol
+Ñengo Flow|Cosculluela
+Ñengo Flow|Kendo Kaponi
+Ñengo Flow|Yaga & Mackie
+Ñengo Flow|DJ Luian
+Ñengo Flow|De La Ghetto
+Ñengo Flow|DJ Nelson
+Ñengo Flow|Darell
+Alex Rose|Cauty
+Alex Rose|Casper Magico
+Alex Rose|Amenazzy
+Alex Rose|Noriel
+Alex Rose|Rvssian
+Alex Rose|DJ Luian
+Alex Rose|Brytiago
+Alex Rose|Miky Woodz
+Alex Rose|Jhay Cortez
+Alex Rose|Lary Over
+Alex Rose|Myke Towers
+Alex Rose|Bryant Myers
+Alex Rose|Jon Z
+Alex Rose|Jory Boy
+Alex Rose|Lunay
+Alex Rose|Kevin Roldan
+Alex Rose|Revol
+Alex Rose|Darell
+Alex Rose|Chris Jedi
+Alex Rose|Lyanno
+Casper Magico|Miky Woodz
+Casper Magico|Cauty
+Casper Magico|DJ Luian
+Casper Magico|Lary Over
+Casper Magico|Noriel
+Casper Magico|Amenazzy
+Casper Magico|Rvssian
+Casper Magico|Jory Boy
+Casper Magico|Alex Rose
+Casper Magico|Jon Z
+Casper Magico|Darell
+Casper Magico|Bryant Myers
+Casper Magico|Brytiago
+Casper Magico|Chris Jedi
+Casper Magico|Jhay Cortez
+Casper Magico|Anonimus
+Casper Magico|Kevin Roldan
+Casper Magico|KEVVO
+Casper Magico|Pacho El Antifeka
+Casper Magico|Revol
+Noriel|Casper Magico
+Noriel|Brytiago
+Noriel|Miky Woodz
+Noriel|Revol
+Noriel|Rvssian
+Noriel|Lary Over
+Noriel|Bryant Myers
+Noriel|Jory Boy
+Noriel|Jon Z
+Noriel|Amenazzy
+Noriel|Alex Rose
+Noriel|Kevin Roldan
+Noriel|Darell
+Noriel|Cauty
+Noriel|DJ Luian
+Noriel|Chris Jedi
+Noriel|Jhay Cortez
+Noriel|Ñengo Flow
+Noriel|DJ Nelson
+Noriel|Lunay
+Amenazzy|Cauty
+Amenazzy|Casper Magico
+Amenazzy|Rvssian
+Amenazzy|Lary Over
+Amenazzy|Jhay Cortez
+Amenazzy|Alex Rose
+Amenazzy|KEVVO
+Amenazzy|Miky Woodz
+Amenazzy|Lunay
+Amenazzy|Darell
+Amenazzy|Brytiago
+Amenazzy|Jory Boy
+Amenazzy|Bryant Myers
+Amenazzy|Messiah
+Amenazzy|Lalo Ebratt
+Amenazzy|Kevin Roldan
+Amenazzy|Noriel
+Amenazzy|Revol
+Amenazzy|DJ Luian
+Amenazzy|Jon Z
+Harry Styles|Liam Payne
+Harry Styles|Niall Horan
+Harry Styles|Luke Hemmings
+Harry Styles|5 Seconds of Summer
+Harry Styles|The Vamps
+Harry Styles|Louis Tomlinson
+Harry Styles|ZAYN
+Harry Styles|One Direction
+Harry Styles|Alessia Cara
+Harry Styles|Halsey
+Harry Styles|Shawn Mendes
+Harry Styles|Fifth Harmony
+Harry Styles|Jonas Brothers
+Harry Styles|The 1975
+Harry Styles|Troye Sivan
+Harry Styles|Declan McKenna
+Harry Styles|King Princess
+Harry Styles|Julia Michaels
+Harry Styles|Lorde
+Harry Styles|Conan Gray
+DNCE|Liam Payne
+DNCE|Demi Lovato
+DNCE|Alessia Cara
+DNCE|Fifth Harmony
+DNCE|ZAYN
+DNCE|Niall Horan
+DNCE|Nick Jonas
+DNCE|Troye Sivan
+DNCE|Nick Jonas & The Administration
+DNCE|The Vamps
+DNCE|Jonas Brothers
+DNCE|Zara Larsson
+DNCE|Camila Cabello
+DNCE|Joe Jonas
+DNCE|Jess Glynne
+DNCE|Hailee Steinfeld
+DNCE|Meghan Trainor
+DNCE|Rita Ora
+DNCE|Cody Simpson
+DNCE|Rixton
+Louis Tomlinson|Liam Payne
+Louis Tomlinson|Niall Horan
+Louis Tomlinson|One Direction
+Louis Tomlinson|ZAYN
+Louis Tomlinson|Harry Styles
+Louis Tomlinson|Big Time Rush
+Louis Tomlinson|5 Seconds of Summer
+Louis Tomlinson|The Vamps
+Louis Tomlinson|Jonas Brothers
+Louis Tomlinson|Nick Jonas
+Louis Tomlinson|Shawn Mendes
+Louis Tomlinson|Demi Lovato
+Louis Tomlinson|DNCE
+Louis Tomlinson|Little Mix
+Louis Tomlinson|Bridgit Mendler
+Louis Tomlinson|Selena Gomez & The Scene
+Louis Tomlinson|Fifth Harmony
+Louis Tomlinson|Christopher Wilde
+Louis Tomlinson|Ross Lynch
+Louis Tomlinson|Cody Simpson
+Troye Sivan|Ruel
+Troye Sivan|Carly Rae Jepsen
+Troye Sivan|FINNEAS
+Troye Sivan|Sasha Alex Sloan
+Troye Sivan|THE DRIVER ERA
+Troye Sivan|Wrabel
+Troye Sivan|Chelsea Cutler
+Troye Sivan|Alessia Cara
+Troye Sivan|King Princess
+Troye Sivan|ZAYN
+Troye Sivan|Halsey
+Troye Sivan|Years & Years
+Troye Sivan|LANY
+Troye Sivan|Allie X
+Troye Sivan|Kim Petras
+Troye Sivan|Hayley Kiyoko
+Troye Sivan|Lorde
+Troye Sivan|DNCE
+Troye Sivan|Slayyyter
+Troye Sivan|Bea Miller
+5 Seconds of Summer|Niall Horan
+5 Seconds of Summer|Louis Tomlinson
+5 Seconds of Summer|ZAYN
+5 Seconds of Summer|Fifth Harmony
+5 Seconds of Summer|One Direction
+5 Seconds of Summer|The Vamps
+5 Seconds of Summer|Hot Chelle Rae
+5 Seconds of Summer|Big Time Rush
+5 Seconds of Summer|Jonas Brothers
+5 Seconds of Summer|Hailee Steinfeld
+5 Seconds of Summer|DNCE
+5 Seconds of Summer|Nick Jonas
+5 Seconds of Summer|Julia Michaels
+5 Seconds of Summer|Demi Lovato
+5 Seconds of Summer|Madison Beer
+5 Seconds of Summer|Liam Payne
+5 Seconds of Summer|Olivia O'Brien
+5 Seconds of Summer|Waterparks
+5 Seconds of Summer|Cody Simpson
+5 Seconds of Summer|THE DRIVER ERA
+Halsey|Camila Cabello
+Halsey|Fifth Harmony
+Halsey|Troye Sivan
+Halsey|Madison Beer
+Halsey|Melanie Martinez
+Halsey|Zara Larsson
+Halsey|Hailee Steinfeld
+Halsey|Bea Miller
+Halsey|Julia Michaels
+Halsey|Ellise
+Halsey|Hayley Kiyoko
+Halsey|Ellie Goulding
+Halsey|Alessia Cara
+Halsey|Charlotte Lawrence
+Halsey|Selena Gomez
+Halsey|Olivia O'Brien
+Halsey|Maggie Lindemann
+Halsey|Hey Violet
+Halsey|Demi Lovato
+Halsey|Lorde
+Why Don't We|Alexander Stewart
+Why Don't We|New Hope Club
+Why Don't We|AJ Mitchell
+Why Don't We|Ruel
+Why Don't We|In Real Life
+Why Don't We|PRETTYMUCH
+Why Don't We|Jack & Jack
+Why Don't We|Alec Benjamin
+Why Don't We|Fly By Midnight
+Why Don't We|Alex Aiono
+Why Don't We|John K
+Why Don't We|The Vamps
+Why Don't We|Liam Payne
+Why Don't We|Johnny Orlando
+Why Don't We|Lauv
+Why Don't We|Sasha Alex Sloan
+Why Don't We|Etham
+Why Don't We|MKTO
+Why Don't We|PLVTINUM
+Why Don't We|HRVY
+Meghan Trainor|Rixton
+Meghan Trainor|Nick Jonas
+Meghan Trainor|Jessie J
+Meghan Trainor|Shawn Mendes
+Meghan Trainor|Ariana Grande
+Meghan Trainor|The Vamps
+Meghan Trainor|Tori Kelly
+Meghan Trainor|Fifth Harmony
+Meghan Trainor|G.R.L.
+Meghan Trainor|Becky G
+Meghan Trainor|Ella Henderson
+Meghan Trainor|MAGIC!
+Meghan Trainor|Selena Gomez
+Meghan Trainor|Carly Rae Jepsen
+Meghan Trainor|MKTO
+Meghan Trainor|Maroon 5
+Meghan Trainor|5 Seconds of Summer
+Meghan Trainor|Katy Tiz
+Meghan Trainor|Andy Grammer
+Meghan Trainor|Sam Smith
+New Hope Club|Why Don't We
+New Hope Club|Alexander Stewart
+New Hope Club|AJ Mitchell
+New Hope Club|In Real Life
+New Hope Club|PRETTYMUCH
+New Hope Club|Jack & Jack
+New Hope Club|Ruel
+New Hope Club|The Vamps
+New Hope Club|Roadtrip
+New Hope Club|Alex Aiono
+New Hope Club|THE DRIVER ERA
+New Hope Club|Fly By Midnight
+New Hope Club|Jacob Whitesides
+New Hope Club|Etham
+New Hope Club|The Tide
+New Hope Club|Johnny Orlando
+New Hope Club|Charlotte Lawrence
+New Hope Club|James Smith
+New Hope Club|HRVY
+New Hope Club|Liam Payne
+HRVY|In Real Life
+HRVY|Alexander Stewart
+HRVY|Why Don't We
+HRVY|Jack & Jack
+HRVY|Boy In Space
+HRVY|New Hope Club
+HRVY|Ruel
+HRVY|Clara Mae
+HRVY|Roadtrip
+HRVY|AJ Mitchell
+HRVY|PRETTYMUCH
+HRVY|RAYE
+HRVY|The Vamps
+HRVY|Becky Hill
+HRVY|Hailee Steinfeld
+HRVY|Bars and Melody
+HRVY|Anna Clendening
+HRVY|Alex Aiono
+HRVY|Fly By Midnight
+HRVY|John K
+Anne-Marie|Zara Larsson
+Anne-Marie|Jess Glynne
+Anne-Marie|NOTD
+Anne-Marie|Rita Ora
+Anne-Marie|Ellie Goulding
+Anne-Marie|RAYE
+Anne-Marie|Ella Henderson
+Anne-Marie|Hailee Steinfeld
+Anne-Marie|Mabel
+Anne-Marie|Years & Years
+Anne-Marie|Liam Payne
+Anne-Marie|Niall Horan
+Anne-Marie|HRVY
+Anne-Marie|Ella Eyre
+Anne-Marie|Alessia Cara
+Anne-Marie|Jax Jones
+Anne-Marie|Bebe Rexha
+Anne-Marie|Fifth Harmony
+Anne-Marie|Julia Michaels
+Anne-Marie|Astrid S
+AJ Mitchell|Alexander Stewart
+AJ Mitchell|Ruel
+AJ Mitchell|PRETTYMUCH
+AJ Mitchell|Why Don't We
+AJ Mitchell|Jack & Jack
+AJ Mitchell|HRVY
+AJ Mitchell|Alex Aiono
+AJ Mitchell|In Real Life
+AJ Mitchell|Fly By Midnight
+AJ Mitchell|New Hope Club
+AJ Mitchell|Anna Clendening
+AJ Mitchell|Charlotte Lawrence
+AJ Mitchell|Etham
+AJ Mitchell|Boy In Space
+AJ Mitchell|Sasha Alex Sloan
+AJ Mitchell|Alec Benjamin
+AJ Mitchell|Clara Mae
+AJ Mitchell|Carlie Hanson
+AJ Mitchell|Elina
+AJ Mitchell|John K
+THE DRIVER ERA|Christian Leave
+THE DRIVER ERA|Wallows
+THE DRIVER ERA|Declan McKenna
+THE DRIVER ERA|HUNNY
+THE DRIVER ERA|FINNEAS
+THE DRIVER ERA|Kid Bloom
+THE DRIVER ERA|lovelytheband
+THE DRIVER ERA|half•alive
+THE DRIVER ERA|Ruel
+THE DRIVER ERA|Bad Suns
+THE DRIVER ERA|Hippo Campus
+THE DRIVER ERA|COIN
+THE DRIVER ERA|Weathers
+THE DRIVER ERA|Laura Marano
+THE DRIVER ERA|I DONT KNOW HOW BUT THEY FOUND ME
+THE DRIVER ERA|The Band CAMINO
+THE DRIVER ERA|Dayglow
+THE DRIVER ERA|R5
+THE DRIVER ERA|Austin Moon
+THE DRIVER ERA|New Hope Club
+Madison Beer|Ellise
+Madison Beer|Julia Michaels
+Madison Beer|Maggie Lindemann
+Madison Beer|Bea Miller
+Madison Beer|Charlotte Lawrence
+Madison Beer|Astrid S
+Madison Beer|Hey Violet
+Madison Beer|Hailee Steinfeld
+Madison Beer|Ruel
+Madison Beer|Jack & Jack
+Madison Beer|Camila Cabello
+Madison Beer|Pia Mia
+Madison Beer|Fifth Harmony
+Madison Beer|Bazzi
+Madison Beer|Alessia Cara
+Madison Beer|Zara Larsson
+Madison Beer|Olivia O'Brien
+Madison Beer|PLVTINUM
+Madison Beer|Tate McRae
+Madison Beer|PRETTYMUCH
+Jack & Jack|Why Don't We
+Jack & Jack|Alexander Stewart
+Jack & Jack|In Real Life
+Jack & Jack|Daniel Skye
+Jack & Jack|AJ Mitchell
+Jack & Jack|Jacob Whitesides
+Jack & Jack|Ruel
+Jack & Jack|PRETTYMUCH
+Jack & Jack|Cameron Dallas
+Jack & Jack|New Hope Club
+Jack & Jack|HRVY
+Jack & Jack|Jai Waetford
+Jack & Jack|Fly By Midnight
+Jack & Jack|Ansel Elgort
+Jack & Jack|Madison Beer
+Jack & Jack|Bea Miller
+Jack & Jack|Maggie Lindemann
+Jack & Jack|The Vamps
+Jack & Jack|Jack Gilinsky
+Jack & Jack|Alex Aiono
+Olivia O'Brien|Charlotte Lawrence
+Olivia O'Brien|Ellise
+Olivia O'Brien|Carlie Hanson
+Olivia O'Brien|Maggie Lindemann
+Olivia O'Brien|bülow
+Olivia O'Brien|Hey Violet
+Olivia O'Brien|Madison Beer
+Olivia O'Brien|Bea Miller
+Olivia O'Brien|Julia Michaels
+Olivia O'Brien|Ansel Elgort
+Olivia O'Brien|Anna Clendening
+Olivia O'Brien|FLETCHER
+Olivia O'Brien|Tate McRae
+Olivia O'Brien|Gabbie Hanna
+Olivia O'Brien|Ruel
+Olivia O'Brien|Maty Noyes
+Olivia O'Brien|AJ Mitchell
+Olivia O'Brien|Chelsea Cutler
+Olivia O'Brien|Astrid S
+Olivia O'Brien|Niykee Heaton
+Bea Miller|Maggie Lindemann
+Bea Miller|Hey Violet
+Bea Miller|Madison Beer
+Bea Miller|Julia Michaels
+Bea Miller|Gabbie Hanna
+Bea Miller|Olivia O'Brien
+Bea Miller|Jack & Jack
+Bea Miller|Ellise
+Bea Miller|Charlotte Lawrence
+Bea Miller|Kiiara
+Bea Miller|Carlie Hanson
+Bea Miller|bülow
+Bea Miller|Olivia Holt
+Bea Miller|Pia Mia
+Bea Miller|Jaira Burns
+Bea Miller|Anna Clendening
+Bea Miller|FLETCHER
+Bea Miller|Maty Noyes
+Bea Miller|Astrid S
+Bea Miller|Zolita
+Jessie Reyez|Kiana Ledé
+Jessie Reyez|Dounia
+Jessie Reyez|Alina Baraz
+Jessie Reyez|Niykee Heaton
+Jessie Reyez|Olivia O'Brien
+Jessie Reyez|Qveen Herby
+Jessie Reyez|TeaMarrr
+Jessie Reyez|Charlotte Lawrence
+Jessie Reyez|Bea Miller
+Jessie Reyez|Sabrina Claudio
+Jessie Reyez|Ella Mai
+Jessie Reyez|Kat Dahlia
+Jessie Reyez|Kehlani
+Jessie Reyez|Sinead Harnett
+Jessie Reyez|Lauren Sanderson
+Jessie Reyez|THEY.
+Jessie Reyez|Justine Skye
+Jessie Reyez|Mae Muller
+Jessie Reyez|Mahalia
+Jessie Reyez|Chloe x Halle
+John K|Chelsea Cutler
+John K|Elina
+John K|Forest Blakk
+John K|Clara Mae
+John K|Sasha Alex Sloan
+John K|Christian French
+John K|Wrabel
+John K|FLETCHER
+John K|Carlie Hanson
+John K|Fly By Midnight
+John K|Charlotte Lawrence
+John K|Ruel
+John K|ayokay
+John K|AJ Mitchell
+John K|Wingtip
+John K|Noah Kahan
+John K|Mokita
+John K|Virginia To Vegas
+John K|Boy In Space
+John K|HRVY
+Lauv|Jeremy Zucker
+Lauv|John K
+Lauv|Ruel
+Lauv|FLETCHER
+Lauv|Sasha Alex Sloan
+Lauv|Chelsea Cutler
+Lauv|Etham
+Lauv|Why Don't We
+Lauv|Carlie Hanson
+Lauv|AJ Mitchell
+Lauv|Charlotte Lawrence
+Lauv|FINNEAS
+Lauv|Noah Kahan
+Lauv|Boy In Space
+Lauv|Tate McRae
+Lauv|PRETTYMUCH
+Lauv|Olivia O'Brien
+Lauv|Anson Seabra
+Lauv|Alessia Cara
+Lauv|Christian French
+Chelsea Cutler|Christian French
+Chelsea Cutler|CVBZ
+Chelsea Cutler|FRENSHIP
+Chelsea Cutler|Quinn XCII
+Chelsea Cutler|Wingtip
+Chelsea Cutler|Lostboycrow
+Chelsea Cutler|Jeremy Zucker
+Chelsea Cutler|Xuitcasecity
+Chelsea Cutler|Lost Kings
+Chelsea Cutler|A R I Z O N A
+Chelsea Cutler|Noah Kahan
+Chelsea Cutler|Fly By Midnight
+Chelsea Cutler|Clara Mae
+Chelsea Cutler|FLETCHER
+Chelsea Cutler|Jai Wolf
+Chelsea Cutler|ayokay
+Chelsea Cutler|Sasha Alex Sloan
+Chelsea Cutler|Marc E. Bassy
+Chelsea Cutler|Wrabel
+Chelsea Cutler|John K
+benny blanco|Cheat Codes
+benny blanco|AJ Mitchell
+benny blanco|Lost Kings
+benny blanco|NOTD
+benny blanco|Internet Money
+benny blanco|Boy In Space
+benny blanco|Loud Luxury
+benny blanco|Yung Pinch
+benny blanco|Chelsea Cutler
+benny blanco|Xuitcasecity
+benny blanco|HRVY
+benny blanco|Gryffin
+benny blanco|Trevor Daniel
+benny blanco|Clara Mae
+benny blanco|Gracie Abrams
+benny blanco|Arizona Zervas
+benny blanco|gianni & kyle
+benny blanco|KYLE
+benny blanco|Landon Cube
+benny blanco|Tyla Yaweh
+MAX|Jake Miller
+MAX|Greyson Chance
+MAX|John K
+MAX|PRETTYMUCH
+MAX|Party Pupils
+MAX|Christian French
+MAX|Nick Jonas
+MAX|Loote
+MAX|Lost Kings
+MAX|Marc E. Bassy
+MAX|NOTD
+MAX|Mokita
+MAX|AJ Mitchell
+MAX|Timeflies
+MAX|Virginia To Vegas
+MAX|Chelsea Cutler
+MAX|Jake Scott
+MAX|Peach Tree Rascals
+MAX|Ruel
+MAX|HRVY
+Marc E. Bassy|Chelsea Cutler
+Marc E. Bassy|gianni & kyle
+Marc E. Bassy|Christian French
+Marc E. Bassy|Bryce Vine
+Marc E. Bassy|ayokay
+Marc E. Bassy|Xuitcasecity
+Marc E. Bassy|Anthony Russo
+Marc E. Bassy|mansionz
+Marc E. Bassy|Souly Had
+Marc E. Bassy|Quinn XCII
+Marc E. Bassy|Kid Quill
+Marc E. Bassy|PLVTINUM
+Marc E. Bassy|Luke Christopher
+Marc E. Bassy|John K
+Marc E. Bassy|Timeflies
+Marc E. Bassy|Jon Bellion
+Marc E. Bassy|Jack & Jack
+Marc E. Bassy|Ruel
+Marc E. Bassy|Skizzy Mars
+Marc E. Bassy|CVBZ
+Sasha Alex Sloan|Elina
+Sasha Alex Sloan|Charlotte Lawrence
+Sasha Alex Sloan|Carlie Hanson
+Sasha Alex Sloan|Anna Clendening
+Sasha Alex Sloan|John K
+Sasha Alex Sloan|Chelsea Cutler
+Sasha Alex Sloan|Boy In Space
+Sasha Alex Sloan|AJ Mitchell
+Sasha Alex Sloan|Clara Mae
+Sasha Alex Sloan|Ruel
+Sasha Alex Sloan|bülow
+Sasha Alex Sloan|Emily Burns
+Sasha Alex Sloan|Sody
+Sasha Alex Sloan|Olivia O'Brien
+Sasha Alex Sloan|Rhys Lewis
+Sasha Alex Sloan|James Smith
+Sasha Alex Sloan|FLETCHER
+Sasha Alex Sloan|FINNEAS
+Sasha Alex Sloan|Etham
+Sasha Alex Sloan|Wrabel
+Miley Cyrus|Avril Lavigne
+Miley Cyrus|Selena Gomez & The Scene
+Miley Cyrus|Selena Gomez
+Miley Cyrus|Fifth Harmony
+Miley Cyrus|Jonas Brothers
+Miley Cyrus|Kesha
+Miley Cyrus|Glee Cast
+Miley Cyrus|Hannah Montana
+Miley Cyrus|Jessie J
+Miley Cyrus|Bridgit Mendler
+Miley Cyrus|Nick Jonas
+Miley Cyrus|Kelly Clarkson
+Miley Cyrus|Carly Rae Jepsen
+Miley Cyrus|Fergie
+Miley Cyrus|Aly & AJ
+Miley Cyrus|Camila Cabello
+Miley Cyrus|Demi Lovato
+Miley Cyrus|Victorious Cast
+Miley Cyrus|Hilary Duff
+Miley Cyrus|Britney Spears
+Selena Gomez & The Scene|Emily Osment
+Selena Gomez & The Scene|Miranda Cosgrove
+Selena Gomez & The Scene|Ashley Tisdale
+Selena Gomez & The Scene|Bridgit Mendler
+Selena Gomez & The Scene|Vanessa Hudgens
+Selena Gomez & The Scene|Hilary Duff
+Selena Gomez & The Scene|Christopher Wilde
+Selena Gomez & The Scene|The Cheetah Girls
+Selena Gomez & The Scene|Jonas Brothers
+Selena Gomez & The Scene|Victoria Justice
+Selena Gomez & The Scene|Victorious Cast
+Selena Gomez & The Scene|Lindsay Lohan
+Selena Gomez & The Scene|Hannah Montana
+Selena Gomez & The Scene|Nick Jonas
+Selena Gomez & The Scene|Big Time Rush
+Selena Gomez & The Scene|Cody Simpson
+Selena Gomez & The Scene|China Anne McClain
+Selena Gomez & The Scene|Meaghan Martin
+Selena Gomez & The Scene|Avril Lavigne
+Selena Gomez & The Scene|Lucy Hale
+Bridgit Mendler|China Anne McClain
+Bridgit Mendler|Selena Gomez & The Scene
+Bridgit Mendler|Victorious Cast
+Bridgit Mendler|Meaghan Martin
+Bridgit Mendler|Victoria Justice
+Bridgit Mendler|Emily Osment
+Bridgit Mendler|Debby Ryan
+Bridgit Mendler|Mitchel Musso
+Bridgit Mendler|Christopher Wilde
+Bridgit Mendler|Miranda Cosgrove
+Bridgit Mendler|Zendaya
+Bridgit Mendler|The Cheetah Girls
+Bridgit Mendler|Big Time Rush
+Bridgit Mendler|Rags Cast
+Bridgit Mendler|Lucy Hale
+Bridgit Mendler|Ross Lynch
+Bridgit Mendler|Naomi Scott
+Bridgit Mendler|Hannah Montana
+Bridgit Mendler|Drew Seeley
+Bridgit Mendler|Cody Simpson
+Pia Mia|Kiiara
+Pia Mia|Tinashe
+Pia Mia|Kiana Ledé
+Pia Mia|Niykee Heaton
+Pia Mia|Mabel
+Pia Mia|Keke Palmer
+Pia Mia|Toni Romiti
+Pia Mia|Justine Skye
+Pia Mia|Maggie Lindemann
+Pia Mia|Bea Miller
+Pia Mia|M.O
+Pia Mia|Charlotte Lawrence
+Pia Mia|Olivia O'Brien
+Pia Mia|RAYE
+Pia Mia|Zara Larsson
+Pia Mia|Fifth Harmony
+Pia Mia|PRETTYMUCH
+Pia Mia|Madison Beer
+Pia Mia|Rita Ora
+Pia Mia|Astrid S
+Sabrina Carpenter|Sofia Carson
+Sabrina Carpenter|The Girl and The Dreamcatcher
+Sabrina Carpenter|Madison Beer
+Sabrina Carpenter|Laura Marano
+Sabrina Carpenter|Fifth Harmony
+Sabrina Carpenter|Hailee Steinfeld
+Sabrina Carpenter|Maggie Lindemann
+Sabrina Carpenter|Olivia Holt
+Sabrina Carpenter|Julia Michaels
+Sabrina Carpenter|Bella Thorne
+Sabrina Carpenter|Bea Miller
+Sabrina Carpenter|Charlotte Lawrence
+Sabrina Carpenter|Dove Cameron
+Sabrina Carpenter|Camila Cabello
+Sabrina Carpenter|Demi Lovato
+Sabrina Carpenter|China Anne McClain
+Sabrina Carpenter|Ellise
+Sabrina Carpenter|Zendaya
+Sabrina Carpenter|Olivia O'Brien
+Sabrina Carpenter|Astrid S
+Rita Ora|Anne-Marie
+Rita Ora|Jess Glynne
+Rita Ora|Zara Larsson
+Rita Ora|Ella Henderson
+Rita Ora|Pia Mia
+Rita Ora|Years & Years
+Rita Ora|Ellie Goulding
+Rita Ora|RAYE
+Rita Ora|Mabel
+Rita Ora|Fifth Harmony
+Rita Ora|Nicole Scherzinger
+Rita Ora|DNCE
+Rita Ora|The Saturdays
+Rita Ora|NOTD
+Rita Ora|Ella Eyre
+Rita Ora|Jessie J
+Rita Ora|Hailee Steinfeld
+Rita Ora|Jax Jones
+Rita Ora|Pixie Lott
+Rita Ora|Cheryl
+Little Mix|Olly Murs
+Little Mix|Fifth Harmony
+Little Mix|Jessie J
+Little Mix|The Saturdays
+Little Mix|Demi Lovato
+Little Mix|The Wanted
+Little Mix|Camila Cabello
+Little Mix|Liam Payne
+Little Mix|Zara Larsson
+Little Mix|JLS
+Little Mix|Jess Glynne
+Little Mix|Ella Henderson
+Little Mix|Cher Lloyd
+Little Mix|Cheryl
+Little Mix|Alessia Cara
+Little Mix|Bridgit Mendler
+Little Mix|Leona Lewis
+Little Mix|Girls Aloud
+Little Mix|Selena Gomez & The Scene
+Little Mix|ZAYN
+Sofia Carson|Olivia Holt
+Sofia Carson|Dove Cameron
+Sofia Carson|China Anne McClain
+Sofia Carson|Bella Thorne
+Sofia Carson|Cast of The Lodge
+Sofia Carson|The Girl and The Dreamcatcher
+Sofia Carson|Zendaya
+Sofia Carson|Laura Marano
+Sofia Carson|Karol Sevilla
+Sofia Carson|Elenco de Soy Luna
+Sofia Carson|Riverdale Cast
+Sofia Carson|Jordan Fisher
+Sofia Carson|Monster High
+Sofia Carson|Ross Lynch
+Sofia Carson|Lucy Hale
+Sofia Carson|Fifth Harmony
+Sofia Carson|Andi Mack
+Sofia Carson|Jorge Blanco
+Sofia Carson|Sarah Jeffery
+Sofia Carson|Sabrina Carpenter
+Cher Lloyd|Jessie J
+Cher Lloyd|Nicole Scherzinger
+Cher Lloyd|Pixie Lott
+Cher Lloyd|Alexandra Burke
+Cher Lloyd|The Saturdays
+Cher Lloyd|Selena Gomez & The Scene
+Cher Lloyd|Ashley Tisdale
+Cher Lloyd|Lucy Hale
+Cher Lloyd|Bridgit Mendler
+Cher Lloyd|The Veronicas
+Cher Lloyd|Karmin
+Cher Lloyd|The Wanted
+Cher Lloyd|Jordin Sparks
+Cher Lloyd|Miranda Cosgrove
+Cher Lloyd|Christina Grimmie
+Cher Lloyd|Cheryl
+Cher Lloyd|Vanessa Hudgens
+Cher Lloyd|Emily Osment
+Cher Lloyd|Austin Mahone
+Cher Lloyd|G.R.L.
+Dinah Jane|Lauren Jauregui
+Dinah Jane|DAY
+Dinah Jane|Four of Diamonds
+Dinah Jane|Camila Cabello
+Dinah Jane|Victoria Monét
+Dinah Jane|Carol Biazin
+Dinah Jane|Fifth Harmony
+Dinah Jane|Tayla Parx
+Dinah Jane|Normani
+Dinah Jane|Keke Palmer
+Dinah Jane|Ally Brooke
+Dinah Jane|Pia Mia
+Dinah Jane|Kika Boom
+Dinah Jane|Zhavia Ward
+Dinah Jane|Femme It Forward
+Dinah Jane|Tinashe
+Dinah Jane|Diane Warren
+Dinah Jane|June's Diary
+Dinah Jane|Justine Skye
+Dinah Jane|JoJo
+Lauren Jauregui|Ally Brooke
+Lauren Jauregui|Dinah Jane
+Lauren Jauregui|Camila Cabello
+Lauren Jauregui|Femme It Forward
+Lauren Jauregui|Diane Warren
+Lauren Jauregui|Fifth Harmony
+Lauren Jauregui|Urias
+Lauren Jauregui|Normani
+Lauren Jauregui|Hayley Kiyoko
+Lauren Jauregui|CHAMELEO
+Lauren Jauregui|Clarissa
+Lauren Jauregui|Manu Gavassi
+Lauren Jauregui|Karol Conká
+Lauren Jauregui|Alaina Castillo
+Lauren Jauregui|Lia Clark
+Lauren Jauregui|Jade Baraldo
+Lauren Jauregui|Niara
+Lauren Jauregui|Carol Biazin
+Lauren Jauregui|Victoria Monét
+Lauren Jauregui|DAY
+Victorious Cast|Victoria Justice
+Victorious Cast|China Anne McClain
+Victorious Cast|Ross Lynch
+Victorious Cast|Christopher Wilde
+Victorious Cast|Meaghan Martin
+Victorious Cast|Zendaya
+Victorious Cast|Rags Cast
+Victorious Cast|The Cheetah Girls
+Victorious Cast|Bridgit Mendler
+Victorious Cast|Selena Gomez & The Scene
+Victorious Cast|Hannah Montana
+Victorious Cast|Miranda Cosgrove
+Victorious Cast|Big Time Rush
+Victorious Cast|Mitchel Musso
+Victorious Cast|Bella Thorne
+Victorious Cast|Freddie Stroma
+Victorious Cast|Lucy Hale
+Victorious Cast|Cody Simpson
+Victorious Cast|Nick Jonas
+Victorious Cast|Naomi Scott
+Hannah Montana|Meaghan Martin
+Hannah Montana|The Cheetah Girls
+Hannah Montana|Miranda Cosgrove
+Hannah Montana|Vanessa Hudgens
+Hannah Montana|Selena Gomez & The Scene
+Hannah Montana|Ashley Tisdale
+Hannah Montana|Christopher Wilde
+Hannah Montana|Jonas Brothers
+Hannah Montana|Victorious Cast
+Hannah Montana|Emily Osment
+Hannah Montana|Mitchel Musso
+Hannah Montana|Nick Jonas
+Hannah Montana|Hilary Duff
+Hannah Montana|High School Musical Cast
+Hannah Montana|Bridgit Mendler
+Hannah Montana|Big Time Rush
+Hannah Montana|China Anne McClain
+Hannah Montana|Corbin Bleu
+Hannah Montana|Lucy Hale
+Hannah Montana|Aly & AJ
+The Cheetah Girls|Meaghan Martin
+The Cheetah Girls|Corbin Bleu
+The Cheetah Girls|Drew Seeley
+The Cheetah Girls|Emily Osment
+The Cheetah Girls|Jordan Pruitt
+The Cheetah Girls|Vanessa Hudgens
+The Cheetah Girls|Miranda Cosgrove
+The Cheetah Girls|Raven-Symoné
+The Cheetah Girls|Christopher Wilde
+The Cheetah Girls|Mitchel Musso
+The Cheetah Girls|Ashley Tisdale
+The Cheetah Girls|Everlife
+The Cheetah Girls|Victorious Cast
+The Cheetah Girls|Selena Gomez & The Scene
+The Cheetah Girls|Hilary Duff
+The Cheetah Girls|Hannah Montana
+The Cheetah Girls|High School Musical Cast
+The Cheetah Girls|Bridgit Mendler
+The Cheetah Girls|Jonas Brothers
+The Cheetah Girls|Bratz
+Astrid S|Hailee Steinfeld
+Astrid S|Charlotte Lawrence
+Astrid S|Kiiara
+Astrid S|Carlie Hanson
+Astrid S|Jesper Jenset
+Astrid S|Julie Bergan
+Astrid S|Julia Michaels
+Astrid S|Ina Wroldsen
+Astrid S|Maggie Lindemann
+Astrid S|Dagny
+Astrid S|Clara Mae
+Astrid S|Phoebe Ryan
+Astrid S|FLETCHER
+Astrid S|Daya
+Astrid S|AJ Mitchell
+Astrid S|Broiler
+Astrid S|CLMD
+Astrid S|Emma Steinbakken
+Astrid S|Emelie Hollow
+Astrid S|NOTD
+Charlotte Lawrence|Carlie Hanson
+Charlotte Lawrence|Olivia O'Brien
+Charlotte Lawrence|bülow
+Charlotte Lawrence|Jaira Burns
+Charlotte Lawrence|Maggie Lindemann
+Charlotte Lawrence|Clara Mae
+Charlotte Lawrence|Hey Violet
+Charlotte Lawrence|Anna Clendening
+Charlotte Lawrence|Ellise
+Charlotte Lawrence|Astrid S
+Charlotte Lawrence|EZI
+Charlotte Lawrence|Maty Noyes
+Charlotte Lawrence|Sasha Alex Sloan
+Charlotte Lawrence|Bea Miller
+Charlotte Lawrence|FLETCHER
+Charlotte Lawrence|Elina
+Charlotte Lawrence|Elley Duhé
+Charlotte Lawrence|Madison Beer
+Charlotte Lawrence|Robinson
+Charlotte Lawrence|Au/Ra
+Daya|Astrid S
+Daya|Hailee Steinfeld
+Daya|Maggie Lindemann
+Daya|Kiiara
+Daya|Carlie Hanson
+Daya|Charlotte Lawrence
+Daya|Olivia O'Brien
+Daya|Julia Michaels
+Daya|Bea Miller
+Daya|Pia Mia
+Daya|Olivia Holt
+Daya|Zara Larsson
+Daya|HRVY
+Daya|Clara Mae
+Daya|AJ Mitchell
+Daya|Cheat Codes
+Daya|NOTD
+Daya|bülow
+Daya|Hey Violet
+Daya|FLETCHER
+Tori Kelly|Jeremy Passion
+Tori Kelly|JoJo
+Tori Kelly|AJ Rafael
+Tori Kelly|Jordin Sparks
+Tori Kelly|Alessia Cara
+Tori Kelly|Jennifer Hudson
+Tori Kelly|Colbie Caillat
+Tori Kelly|Cher Lloyd
+Tori Kelly|Gabe Bondoc
+Tori Kelly|Jesse McCartney
+Tori Kelly|Us The Duo
+Tori Kelly|PJ Morton
+Tori Kelly|The Cheetah Girls
+Tori Kelly|Kiana Ledé
+Tori Kelly|Jonathan McReynolds
+Tori Kelly|Scarlett Johansson
+Tori Kelly|Madison Ryann Ward
+Tori Kelly|Alex & Sierra
+Tori Kelly|MAX
+Tori Kelly|Pia Mia
+Jess Glynne|Ella Eyre
+Jess Glynne|Ella Henderson
+Jess Glynne|Ellie Goulding
+Jess Glynne|Anne-Marie
+Jess Glynne|Emeli Sandé
+Jess Glynne|Sigala
+Jess Glynne|Olly Murs
+Jess Glynne|Years & Years
+Jess Glynne|RAYE
+Jess Glynne|Becky Hill
+Jess Glynne|JP Cooper
+Jess Glynne|The Saturdays
+Jess Glynne|Paloma Faith
+Jess Glynne|NOTD
+Jess Glynne|Pixie Lott
+Jess Glynne|Rudimental
+Jess Glynne|Mabel
+Jess Glynne|Zara Larsson
+Jess Glynne|Rita Ora
+Jess Glynne|Sigma
+Maggie Lindemann|Ellise
+Maggie Lindemann|Madison Beer
+Maggie Lindemann|Olivia O'Brien
+Maggie Lindemann|Charlotte Lawrence
+Maggie Lindemann|Hey Violet
+Maggie Lindemann|Anna Clendening
+Maggie Lindemann|Jaira Burns
+Maggie Lindemann|Olivia Holt
+Maggie Lindemann|Bea Miller
+Maggie Lindemann|Carlie Hanson
+Maggie Lindemann|Maty Noyes
+Maggie Lindemann|Astrid S
+Maggie Lindemann|Gabbie Hanna
+Maggie Lindemann|bülow
+Maggie Lindemann|AJ Mitchell
+Maggie Lindemann|Hailee Steinfeld
+Maggie Lindemann|Jack & Jack
+Maggie Lindemann|Au/Ra
+Maggie Lindemann|Zolita
+Maggie Lindemann|Julia Michaels
+Mabel|RAYE
+Mabel|Becky Hill
+Mabel|Pia Mia
+Mabel|Anton Powers
+Mabel|Jax Jones
+Mabel|Rita Ora
+Mabel|Ella Eyre
+Mabel|M-22
+Mabel|Blonde
+Mabel|Jess Glynne
+Mabel|Astrid S
+Mabel|HRVY
+Mabel|Sigala
+Mabel|M.O
+Mabel|Rak-Su
+Mabel|Anne-Marie
+Mabel|Ava Max
+Mabel|Zara Larsson
+Mabel|Nathan Dawe
+Mabel|Karen Harding
+Bebe Rexha|Fifth Harmony
+Bebe Rexha|Hailee Steinfeld
+Bebe Rexha|Camila Cabello
+Bebe Rexha|Rita Ora
+Bebe Rexha|Zara Larsson
+Bebe Rexha|Pia Mia
+Bebe Rexha|Alessia Cara
+Bebe Rexha|Bea Miller
+Bebe Rexha|Julia Michaels
+Bebe Rexha|Astrid S
+Bebe Rexha|Ellie Goulding
+Bebe Rexha|Anne-Marie
+Bebe Rexha|Mabel
+Bebe Rexha|Halsey
+Bebe Rexha|Jess Glynne
+Bebe Rexha|Demi Lovato
+Bebe Rexha|Charlotte Lawrence
+Bebe Rexha|Madison Beer
+Bebe Rexha|Hey Violet
+Bebe Rexha|RAYE
+Ellie Goulding|Years & Years
+Ellie Goulding|Jess Glynne
+Ellie Goulding|Rita Ora
+Ellie Goulding|Zara Larsson
+Ellie Goulding|Carly Rae Jepsen
+Ellie Goulding|Anne-Marie
+Ellie Goulding|Tove Lo
+Ellie Goulding|Bebe Rexha
+Ellie Goulding|Ella Henderson
+Ellie Goulding|Fifth Harmony
+Ellie Goulding|Alessia Cara
+Ellie Goulding|Mabel
+Ellie Goulding|Hailee Steinfeld
+Ellie Goulding|Jessie J
+Ellie Goulding|Clean Bandit
+Ellie Goulding|Julia Michaels
+Ellie Goulding|Astrid S
+Ellie Goulding|Bea Miller
+Ellie Goulding|NOTD
+Ellie Goulding|Zedd
+Alexander Stewart|AJ Mitchell
+Alexander Stewart|In Real Life
+Alexander Stewart|Why Don't We
+Alexander Stewart|Alex Aiono
+Alexander Stewart|Jack & Jack
+Alexander Stewart|Cameron Dallas
+Alexander Stewart|New Hope Club
+Alexander Stewart|Ruel
+Alexander Stewart|PRETTYMUCH
+Alexander Stewart|HRVY
+Alexander Stewart|Bars and Melody
+Alexander Stewart|Fly By Midnight
+Alexander Stewart|Daniel Skye
+Alexander Stewart|Anna Clendening
+Alexander Stewart|Roadtrip
+Alexander Stewart|Joel Adams
+Alexander Stewart|Clara Mae
+Alexander Stewart|Etham
+Alexander Stewart|Jacob Whitesides
+Alexander Stewart|Johnny Orlando
+Luke Hemmings|The Vamps
+Luke Hemmings|Ashton Irwin
+Luke Hemmings|Mali-Koa
+Luke Hemmings|Hey Violet
+Luke Hemmings|Liam Payne
+Luke Hemmings|Louis Tomlinson
+Luke Hemmings|THE DRIVER ERA
+Luke Hemmings|Ashe
+Luke Hemmings|Niall Horan
+Luke Hemmings|5 Seconds of Summer
+Luke Hemmings|Harry S Music
+Luke Hemmings|Joshua Bassett
+Luke Hemmings|Omar Rudberg
+Luke Hemmings|New Hope Club
+Luke Hemmings|ella jane
+Luke Hemmings|Jack & Jack
+Luke Hemmings|lovelytheband
+Luke Hemmings|The Aces
+Luke Hemmings|R5
+Luke Hemmings|We Three
+Rixton|The Vamps
+Rixton|Conor Maynard
+Rixton|Heffron Drive
+Rixton|push baby
+Rixton|MKTO
+Rixton|Union J
+Rixton|The Wanted
+Rixton|Cody Simpson
+Rixton|Olly Murs
+Rixton|Lawson
+Rixton|Nathan Sykes
+Rixton|Alex & Sierra
+Rixton|Alexander Stewart
+Rixton|HRVY
+Rixton|Jacob Whitesides
+Rixton|Austin Mahone
+Rixton|Hot Chelle Rae
+Rixton|Liam Payne
+Rixton|Emblem3
+Rixton|DNCE
+Ashton Irwin|Luke Hemmings
+Ashton Irwin|The Vamps
+Ashton Irwin|Mali-Koa
+Ashton Irwin|Hey Violet
+Ashton Irwin|THE DRIVER ERA
+Ashton Irwin|Almondmilkhunni
+Ashton Irwin|Liam Payne
+Ashton Irwin|Louis Tomlinson
+Ashton Irwin|Ashe
+Ashton Irwin|Harry S Music
+Ashton Irwin|Jagwar Twin
+Ashton Irwin|R5
+Ashton Irwin|Niall Horan
+Ashton Irwin|Only The Poets
+Ashton Irwin|Waterparks
+Ashton Irwin|5 Seconds of Summer
+Ashton Irwin|New Hope Club
+Ashton Irwin|lovelytheband
+Ashton Irwin|Jeremy Shada
+Ashton Irwin|YUNGBLUD
+Cody Simpson|Austin Mahone
+Cody Simpson|Selena Gomez & The Scene
+Cody Simpson|Miranda Cosgrove
+Cody Simpson|Big Time Rush
+Cody Simpson|Greyson Chance
+Cody Simpson|Christopher Wilde
+Cody Simpson|Shane Harper
+Cody Simpson|Allstar Weekend
+Cody Simpson|Mitchel Musso
+Cody Simpson|Bridgit Mendler
+Cody Simpson|Nick Jonas
+Cody Simpson|Victorious Cast
+Cody Simpson|Hannah Montana
+Cody Simpson|David Archuleta
+Cody Simpson|Jai Waetford
+Cody Simpson|Hot Chelle Rae
+Cody Simpson|Jesse McCartney
+Cody Simpson|Jonas Brothers
+Cody Simpson|Emblem3
+Cody Simpson|Rixton
+Olly Murs|Take That
+Olly Murs|Alexandra Burke
+Olly Murs|JLS
+Olly Murs|Will Young
+Olly Murs|Emeli Sandé
+Olly Murs|The Saturdays
+Olly Murs|The Wanted
+Olly Murs|Ella Henderson
+Olly Murs|Jessie J
+Olly Murs|Pixie Lott
+Olly Murs|Rizzle Kicks
+Olly Murs|Lawson
+Olly Murs|The Script
+Olly Murs|Scouting For Girls
+Olly Murs|Leona Lewis
+Olly Murs|Cheryl
+Olly Murs|Girls Aloud
+Olly Murs|Paloma Faith
+Olly Murs|McFly
+Olly Murs|Rixton
+Austin Mahone|Rags Cast
+Austin Mahone|Bridgit Mendler
+Austin Mahone|Jai Waetford
+Austin Mahone|Heffron Drive
+Austin Mahone|Cody Simpson
+Austin Mahone|Zendaya
+Austin Mahone|Victorious Cast
+Austin Mahone|Rixton
+Austin Mahone|Ross Lynch
+Austin Mahone|Cher Lloyd
+Austin Mahone|The Vamps
+Austin Mahone|Austin Moon
+Austin Mahone|China Anne McClain
+Austin Mahone|Emblem3
+Austin Mahone|Shane Harper
+Austin Mahone|Union J
+Austin Mahone|Big Time Rush
+Austin Mahone|Bars and Melody
+Austin Mahone|Cimorelli
+Austin Mahone|Selena Gomez & The Scene
+Alexander 23|ROLE MODEL
+Alexander 23|Christian French
+Alexander 23|Boy In Space
+Alexander 23|Gracie Abrams
+Alexander 23|Blake Rose
+Alexander 23|Chelsea Cutler
+Alexander 23|Zachary Knowles
+Alexander 23|Anson Seabra
+Alexander 23|Sara Kays
+Alexander 23|SHY Martin
+Alexander 23|Avery Lynch
+Alexander 23|Sody
+Alexander 23|John K
+Alexander 23|Hayd
+Alexander 23|Mokita
+Alexander 23|JP Saxe
+Alexander 23|Luz
+Alexander 23|carobae
+Alexander 23|Zach Hood
+Alexander 23|Clinton Kane
+FLETCHER|Charlotte Lawrence
+FLETCHER|Olivia O'Brien
+FLETCHER|John K
+FLETCHER|Anna Clendening
+FLETCHER|Chelsea Cutler
+FLETCHER|Phoebe Ryan
+FLETCHER|Clara Mae
+FLETCHER|Kiiara
+FLETCHER|VÉRITÉ
+FLETCHER|Carlie Hanson
+FLETCHER|Hey Violet
+FLETCHER|bülow
+FLETCHER|Maty Noyes
+FLETCHER|Lauren Sanderson
+FLETCHER|L Devine
+FLETCHER|Gracie Abrams
+FLETCHER|Maggie Lindemann
+FLETCHER|Bea Miller
+FLETCHER|Astrid S
+FLETCHER|King Princess
+Hey Violet|Maty Noyes
+Hey Violet|Ellise
+Hey Violet|Bea Miller
+Hey Violet|Charlotte Lawrence
+Hey Violet|Zolita
+Hey Violet|Kiiara
+Hey Violet|Jaira Burns
+Hey Violet|Carlie Hanson
+Hey Violet|Maggie Lindemann
+Hey Violet|Gabbie Hanna
+Hey Violet|Kailee Morgue
+Hey Violet|Au/Ra
+Hey Violet|XYLØ
+Hey Violet|Anna Clendening
+Hey Violet|Olivia O'Brien
+Hey Violet|Zella Day
+Hey Violet|VÉRITÉ
+Hey Violet|Bahari
+Hey Violet|Ashton Irwin
+Hey Violet|Transviolet
+Carlie Hanson|bülow
+Carlie Hanson|Charlotte Lawrence
+Carlie Hanson|Robinson
+Carlie Hanson|Lauren Sanderson
+Carlie Hanson|EZI
+Carlie Hanson|Emily Vaughn
+Carlie Hanson|Jaira Burns
+Carlie Hanson|L Devine
+Carlie Hanson|Ivy Adara
+Carlie Hanson|Elley Duhé
+Carlie Hanson|Kailee Morgue
+Carlie Hanson|Anna Clendening
+Carlie Hanson|Hey Violet
+Carlie Hanson|Delaney Jane
+Carlie Hanson|FLETCHER
+Carlie Hanson|Clara Mae
+Carlie Hanson|Maty Noyes
+Carlie Hanson|Stela Cole
+Carlie Hanson|Chloe Lilac
+Carlie Hanson|Kiiara
+Tate McRae|Olivia O'Brien
+Tate McRae|Anna Clendening
+Tate McRae|AJ Mitchell
+Tate McRae|Charlotte Lawrence
+Tate McRae|Ruel
+Tate McRae|Alec Benjamin
+Tate McRae|Astrid S
+Tate McRae|Bea Miller
+Tate McRae|Madison Beer
+Tate McRae|Alexander 23
+Tate McRae|Julia Michaels
+Tate McRae|John K
+Tate McRae|Ashe
+Tate McRae|Anson Seabra
+Tate McRae|Sasha Alex Sloan
+Tate McRae|Ellise
+Tate McRae|FLETCHER
+Tate McRae|Carlie Hanson
+Tate McRae|Chelsea Cutler
+Tate McRae|PRETTYMUCH
+Olivia Holt|Laura Marano
+Olivia Holt|The Girl and The Dreamcatcher
+Olivia Holt|Sofia Carson
+Olivia Holt|China Anne McClain
+Olivia Holt|Maggie Lindemann
+Olivia Holt|Skylar Stecker
+Olivia Holt|Bella Thorne
+Olivia Holt|Victoria Justice
+Olivia Holt|Dove Cameron
+Olivia Holt|Ross Lynch
+Olivia Holt|Zendaya
+Olivia Holt|Rags Cast
+Olivia Holt|Bridgit Mendler
+Olivia Holt|Miranda Cosgrove
+Olivia Holt|McClain Sisters
+Olivia Holt|Charlotte Lawrence
+Olivia Holt|Cast of The Lodge
+Olivia Holt|Bea Miller
+Olivia Holt|Lucy Hale
+Olivia Holt|Austin Moon
+Nick Jonas & The Administration|Mitchel Musso
+Nick Jonas & The Administration|Jonas Brothers
+Nick Jonas & The Administration|Honor Society
+Nick Jonas & The Administration|Christopher Wilde
+Nick Jonas & The Administration|Selena Gomez & The Scene
+Nick Jonas & The Administration|Meaghan Martin
+Nick Jonas & The Administration|Corbin Bleu
+Nick Jonas & The Administration|Emily Osment
+Nick Jonas & The Administration|Big Time Rush
+Nick Jonas & The Administration|Joe Jonas
+Nick Jonas & The Administration|Hannah Montana
+Nick Jonas & The Administration|Allstar Weekend
+Nick Jonas & The Administration|Nick Jonas
+Nick Jonas & The Administration|Miranda Cosgrove
+Nick Jonas & The Administration|Vanessa Hudgens
+Nick Jonas & The Administration|The Cheetah Girls
+Nick Jonas & The Administration|Drew Seeley
+Nick Jonas & The Administration|Ashley Tisdale
+Nick Jonas & The Administration|Jordan Pruitt
+Nick Jonas & The Administration|Drake Bell
+Joe Jonas|Jonas Brothers
+Joe Jonas|Meaghan Martin
+Joe Jonas|Selena Gomez & The Scene
+Joe Jonas|Nick Jonas & The Administration
+Joe Jonas|Nick Jonas
+Joe Jonas|Miranda Cosgrove
+Joe Jonas|Mitchel Musso
+Joe Jonas|Christopher Wilde
+Joe Jonas|Honor Society
+Joe Jonas|Corbin Bleu
+Joe Jonas|Vanessa Hudgens
+Joe Jonas|Drew Seeley
+Joe Jonas|Ashley Tisdale
+Joe Jonas|Cody Simpson
+Joe Jonas|Hannah Montana
+Joe Jonas|Hilary Duff
+Joe Jonas|Greyson Chance
+Joe Jonas|Jordan Pruitt
+Joe Jonas|Emily Osment
+Joe Jonas|Big Time Rush
+Christopher Wilde|Anna Margaret
+Christopher Wilde|Meaghan Martin
+Christopher Wilde|Sterling Knight
+Christopher Wilde|Nick Jonas & The Administration
+Christopher Wilde|Corbin Bleu
+Christopher Wilde|Debby Ryan
+Christopher Wilde|Drew Seeley
+Christopher Wilde|Hannah Montana
+Christopher Wilde|Stubby
+Christopher Wilde|Victorious Cast
+Christopher Wilde|Mitchel Musso
+Christopher Wilde|Nick Jonas
+Christopher Wilde|Bridgit Mendler
+Christopher Wilde|Miranda Cosgrove
+Christopher Wilde|The Cheetah Girls
+Christopher Wilde|Selena Gomez & The Scene
+Christopher Wilde|Jonas Brothers
+Christopher Wilde|Spectacular! Cast
+Christopher Wilde|Emily Osment
+Christopher Wilde|China Anne McClain
+Jesse McCartney|Hilary Duff
+Jesse McCartney|Vanessa Hudgens
+Jesse McCartney|Aly & AJ
+Jesse McCartney|JoJo
+Jesse McCartney|David Archuleta
+Jesse McCartney|Jessica Simpson
+Jesse McCartney|Lindsay Lohan
+Jesse McCartney|Jonas Brothers
+Jesse McCartney|Aaron Carter
+Jesse McCartney|Ashlee Simpson
+Jesse McCartney|The Cheetah Girls
+Jesse McCartney|Nick Jonas
+Jesse McCartney|Cody Simpson
+Jesse McCartney|Jordan Pruitt
+Jesse McCartney|Michelle Branch
+Jesse McCartney|Natasha Bedingfield
+Jesse McCartney|*NSYNC
+Jesse McCartney|Hannah Montana
+Jesse McCartney|Jordin Sparks
+Jesse McCartney|Ashley Tisdale
+Greyson Chance|Selena Gomez & The Scene
+Greyson Chance|Cody Simpson
+Greyson Chance|David Archuleta
+Greyson Chance|Nick Jonas
+Greyson Chance|Katelyn Tarver
+Greyson Chance|Christina Grimmie
+Greyson Chance|Joe Jonas
+Greyson Chance|Jesse McCartney
+Greyson Chance|Loote
+Greyson Chance|Parachute
+Greyson Chance|Carlie Hanson
+Greyson Chance|Cher Lloyd
+Greyson Chance|Jake Miller
+Greyson Chance|Jacob Whitesides
+Greyson Chance|Before You Exit
+Greyson Chance|Victoria Justice
+Greyson Chance|Aly & AJ
+Greyson Chance|Leighton Meester
+Greyson Chance|Emily Osment
+Greyson Chance|Miranda Cosgrove
+Ashley Tisdale|Vanessa Hudgens
+Ashley Tisdale|Selena Gomez & The Scene
+Ashley Tisdale|Corbin Bleu
+Ashley Tisdale|Emily Osment
+Ashley Tisdale|Jordan Pruitt
+Ashley Tisdale|Miranda Cosgrove
+Ashley Tisdale|Lindsay Lohan
+Ashley Tisdale|Meaghan Martin
+Ashley Tisdale|The Cheetah Girls
+Ashley Tisdale|Hilary Duff
+Ashley Tisdale|Ashlee Simpson
+Ashley Tisdale|Hannah Montana
+Ashley Tisdale|Paris Hilton
+Ashley Tisdale|Raven-Symoné
+Ashley Tisdale|Aly & AJ
+Ashley Tisdale|Mitchel Musso
+Ashley Tisdale|JoJo
+Ashley Tisdale|Leighton Meester
+Ashley Tisdale|Bratz
+Ashley Tisdale|Drew Seeley
+Big Time Rush|Jonas Brothers
+Big Time Rush|Allstar Weekend
+Big Time Rush|Mitchel Musso
+Big Time Rush|Selena Gomez & The Scene
+Big Time Rush|Cody Simpson
+Big Time Rush|Christopher Wilde
+Big Time Rush|Victorious Cast
+Big Time Rush|Nick Jonas
+Big Time Rush|Bridgit Mendler
+Big Time Rush|The Cheetah Girls
+Big Time Rush|Hannah Montana
+Big Time Rush|Rags Cast
+Big Time Rush|Hot Chelle Rae
+Big Time Rush|Miranda Cosgrove
+Big Time Rush|China Anne McClain
+Big Time Rush|Vanessa Hudgens
+Big Time Rush|Heffron Drive
+Big Time Rush|Ross Lynch
+Big Time Rush|Drake Bell
+Big Time Rush|Zendaya
+Vanessa Hudgens|Emily Osment
+Vanessa Hudgens|Hilary Duff
+Vanessa Hudgens|Corbin Bleu
+Vanessa Hudgens|Ashley Tisdale
+Vanessa Hudgens|Miranda Cosgrove
+Vanessa Hudgens|Lindsay Lohan
+Vanessa Hudgens|Selena Gomez & The Scene
+Vanessa Hudgens|Hannah Montana
+Vanessa Hudgens|The Cheetah Girls
+Vanessa Hudgens|Drew Seeley
+Vanessa Hudgens|Meaghan Martin
+Vanessa Hudgens|Jordan Pruitt
+Vanessa Hudgens|Mitchel Musso
+Vanessa Hudgens|Raven-Symoné
+Vanessa Hudgens|Ashlee Simpson
+Vanessa Hudgens|Aly & AJ
+Vanessa Hudgens|JoJo
+Vanessa Hudgens|Jordin Sparks
+Vanessa Hudgens|Nick Jonas & The Administration
+Vanessa Hudgens|Joe Jonas
+Sterling Knight|Christopher Wilde
+Sterling Knight|Disney's Friends For Change
+Sterling Knight|Anna Margaret
+Sterling Knight|Mitchel Musso
+Sterling Knight|Corbin Bleu
+Sterling Knight|Meaghan Martin
+Sterling Knight|Tiffany Thornton
+Sterling Knight|Emily Osment
+Sterling Knight|Debby Ryan
+Sterling Knight|Laura Marano
+Sterling Knight|China Anne McClain
+Sterling Knight|Allstar Weekend
+Sterling Knight|Jennette McCurdy
+Sterling Knight|The GGGG's
+Sterling Knight|Drew Seeley
+Sterling Knight|Miranda Cosgrove
+Sterling Knight|Stubby
+Sterling Knight|Annie Vincent
+Sterling Knight|Spectacular! Cast
+Sterling Knight|Austin Moon
+Hilary Duff|Lindsay Lohan
+Hilary Duff|Ashlee Simpson
+Hilary Duff|Miranda Cosgrove
+Hilary Duff|Emily Osment
+Hilary Duff|Jordan Pruitt
+Hilary Duff|Ashley Tisdale
+Hilary Duff|Selena Gomez & The Scene
+Hilary Duff|Paris Hilton
+Hilary Duff|Vanessa Hudgens
+Hilary Duff|Kelly Clarkson
+Hilary Duff|Fefe Dobson
+Hilary Duff|Hannah Montana
+Hilary Duff|Jessica Simpson
+Hilary Duff|Natasha Bedingfield
+Hilary Duff|JoJo
+Hilary Duff|Aly & AJ
+Hilary Duff|Jordin Sparks
+Hilary Duff|Joanna Pacitti
+Hilary Duff|The Cheetah Girls
+Hilary Duff|Stacie Orrico
+High School Musical Cast|Vanessa Hudgens
+High School Musical Cast|The Cheetah Girls
+High School Musical Cast|Christopher Wilde
+High School Musical Cast|Meaghan Martin
+High School Musical Cast|Ashley Tisdale
+High School Musical Cast|Victorious Cast
+High School Musical Cast|Kevin Quinn
+High School Musical Cast|Jonas Brothers
+High School Musical Cast|Corbin Bleu
+High School Musical Cast|Selena Gomez & The Scene
+High School Musical Cast|Nick Jonas
+High School Musical Cast|China Anne McClain
+High School Musical Cast|Miranda Cosgrove
+High School Musical Cast|Big Time Rush
+High School Musical Cast|Bridgit Mendler
+High School Musical Cast|Ross Lynch
+High School Musical Cast|Hilary Duff
+High School Musical Cast|Monique Coleman
+High School Musical Cast|Zac Efron
+High School Musical Cast|Hannah Montana
+Hot Chelle Rae|The Downtown Fiction
+Hot Chelle Rae|The Ready Set
+Hot Chelle Rae|Stereo Skyline
+Hot Chelle Rae|Artist Vs Poet
+Hot Chelle Rae|The Summer Set
+Hot Chelle Rae|Forever The Sickest Kids
+Hot Chelle Rae|Every Avenue
+Hot Chelle Rae|Allstar Weekend
+Hot Chelle Rae|We The Kings
+Hot Chelle Rae|A Rocket To The Moon
+Hot Chelle Rae|The Maine
+Hot Chelle Rae|The Cab
+Hot Chelle Rae|Boys Like Girls
+Hot Chelle Rae|Anarbor
+Hot Chelle Rae|Hey Monday
+Hot Chelle Rae|We Are The In Crowd
+Hot Chelle Rae|The Click Five
+Hot Chelle Rae|Marianas Trench
+Hot Chelle Rae|Parachute
+Hot Chelle Rae|Cobra Starship
+Aly & AJ|Hilary Duff
+Aly & AJ|The Veronicas
+Aly & AJ|Ashlee Simpson
+Aly & AJ|Ashley Tisdale
+Aly & AJ|Lindsay Lohan
+Aly & AJ|Jordan Pruitt
+Aly & AJ|Vanessa Hudgens
+Aly & AJ|Allie X
+Aly & AJ|Jesse McCartney
+Aly & AJ|Raven-Symoné
+Aly & AJ|Carly Rae Jepsen
+Aly & AJ|Michelle Branch
+Aly & AJ|The Cheetah Girls
+Aly & AJ|Miranda Cosgrove
+Aly & AJ|The Aces
+Aly & AJ|MUNA
+Aly & AJ|Vanessa Carlton
+Aly & AJ|Betty Who
+Aly & AJ|Emily Osment
+Aly & AJ|JoJo
+MKTO|Timeflies
+MKTO|AJ Mitchell
+MKTO|Emblem3
+MKTO|Why Don't We
+MKTO|Rixton
+MKTO|Hailee Steinfeld
+MKTO|Andy Grammer
+MKTO|Hot Chelle Rae
+MKTO|Anna Clendening
+MKTO|Jake Miller
+MKTO|Mitch James
+MKTO|DNCE
+MKTO|Parachute
+MKTO|Cody Simpson
+MKTO|The Vamps
+MKTO|Nico & Vinz
+MKTO|Jack & Jack
+MKTO|Reece Mastin
+MKTO|PRETTYMUCH
+MKTO|HRVY
+In Real Life|Why Don't We
+In Real Life|Alexander Stewart
+In Real Life|AJ Mitchell
+In Real Life|Cameron Dallas
+In Real Life|Alex Aiono
+In Real Life|New Hope Club
+In Real Life|Bars and Melody
+In Real Life|PRETTYMUCH
+In Real Life|HRVY
+In Real Life|Jacob Whitesides
+In Real Life|Ruel
+In Real Life|Roadtrip
+In Real Life|4th Ave
+In Real Life|Jai Waetford
+In Real Life|The Vamps
+In Real Life|Jordan Fisher
+In Real Life|Jonah Marais
+In Real Life|Fly By Midnight
+In Real Life|Daniel Skye
+In Real Life|Jack & Jack
+Alex Aiono|AJ Mitchell
+Alex Aiono|In Real Life
+Alex Aiono|Why Don't We
+Alex Aiono|Alexander Stewart
+Alex Aiono|Cameron Dallas
+Alex Aiono|Jacob Whitesides
+Alex Aiono|Jack & Jack
+Alex Aiono|Jai Waetford
+Alex Aiono|PRETTYMUCH
+Alex Aiono|Ruel
+Alex Aiono|New Hope Club
+Alex Aiono|Jordan Fisher
+Alex Aiono|Jake Miller
+Alex Aiono|SoMo
+Alex Aiono|Conor Maynard
+Alex Aiono|Daniel Skye
+Alex Aiono|Etham
+Alex Aiono|The Vamps
+Alex Aiono|Fly By Midnight
+Alex Aiono|HRVY
+Ansel Elgort|PLVTINUM
+Ansel Elgort|AJ Mitchell
+Ansel Elgort|Charlotte Lawrence
+Ansel Elgort|Olivia O'Brien
+Ansel Elgort|Jack & Jack
+Ansel Elgort|Maggie Lindemann
+Ansel Elgort|Madison Beer
+Ansel Elgort|Ruel
+Ansel Elgort|Gabbie Hanna
+Ansel Elgort|Carlie Hanson
+Ansel Elgort|Hailee Steinfeld
+Ansel Elgort|Bea Miller
+Ansel Elgort|PRETTYMUCH
+Ansel Elgort|Xuitcasecity
+Ansel Elgort|Kiiara
+Ansel Elgort|Hey Violet
+Ansel Elgort|Alec Benjamin
+Ansel Elgort|Marc E. Bassy
+Ansel Elgort|Lostboycrow
+Ansel Elgort|bülow
+Fly By Midnight|AJ Mitchell
+Fly By Midnight|Alexander Stewart
+Fly By Midnight|Wingtip
+Fly By Midnight|Virginia To Vegas
+Fly By Midnight|Quinn Lewis
+Fly By Midnight|Anthony Russo
+Fly By Midnight|Nightly
+Fly By Midnight|FRENSHIP
+Fly By Midnight|Conor Matthews
+Fly By Midnight|Wrabel
+Fly By Midnight|Boy In Space
+Fly By Midnight|John K
+Fly By Midnight|Timeflies
+Fly By Midnight|Jake Miller
+Fly By Midnight|Shoffy
+Fly By Midnight|Carlie Hanson
+Fly By Midnight|Mokita
+Fly By Midnight|Adam Turley
+Fly By Midnight|GOLDHOUSE
+Fly By Midnight|ayokay
+PLVTINUM|CVBZ
+PLVTINUM|Xuitcasecity
+PLVTINUM|Christian French
+PLVTINUM|Lostboycrow
+PLVTINUM|bülow
+PLVTINUM|Ansel Elgort
+PLVTINUM|Chelsea Cutler
+PLVTINUM|Carlie Hanson
+PLVTINUM|Jack & Jack
+PLVTINUM|Olivia O'Brien
+PLVTINUM|Maggie Lindemann
+PLVTINUM|ayokay
+PLVTINUM|AJ Mitchell
+PLVTINUM|Marc E. Bassy
+PLVTINUM|Madison Beer
+PLVTINUM|Charlotte Lawrence
+PLVTINUM|Alexander Stewart
+PLVTINUM|Ruel
+PLVTINUM|PRETTYMUCH
+PLVTINUM|Why Don't We
+ASTN|Christian French
+ASTN|Souly Had
+ASTN|Zachary Knowles
+ASTN|marcos g
+ASTN|Anthony Russo
+ASTN|Hojean
+ASTN|Sway Bleu
+ASTN|DYSN
+ASTN|CaRter
+ASTN|Alexander 23
+ASTN|Jake Hope
+ASTN|thuy
+ASTN|ZUHAIR
+ASTN|Alextbh
+ASTN|Christian Kuria
+ASTN|Luke Chiang
+ASTN|Josh Golden
+ASTN|RINI
+ASTN|Kid Travis
+ASTN|Milky Day
+Alec Benjamin|Ruel
+Alec Benjamin|Why Don't We
+Alec Benjamin|Anson Seabra
+Alec Benjamin|AJ Mitchell
+Alec Benjamin|Charlotte Lawrence
+Alec Benjamin|Tate McRae
+Alec Benjamin|Anna Clendening
+Alec Benjamin|Bea Miller
+Alec Benjamin|Dean Lewis
+Alec Benjamin|PRETTYMUCH
+Alec Benjamin|Ellise
+Alec Benjamin|John K
+Alec Benjamin|Sasha Alex Sloan
+Alec Benjamin|bülow
+Alec Benjamin|Clara Mae
+Alec Benjamin|Alexander Stewart
+Alec Benjamin|Chelsea Cutler
+Alec Benjamin|Boy In Space
+Alec Benjamin|Olivia O'Brien
+Alec Benjamin|Alexander 23
+Etham|Plested
+Etham|Rhys Lewis
+Etham|Tedy
+Etham|Alexander Stewart
+Etham|Elina
+Etham|Clara Mae
+Etham|Hearts & Colors
+Etham|AJ Mitchell
+Etham|Anson Seabra
+Etham|Anna Clendening
+Etham|James Smith
+Etham|Alex & Sierra
+Etham|Emily Burns
+Etham|Boy In Space
+Etham|Declan J Donovan
+Etham|Aidan Martin
+Etham|Dean Lewis
+Etham|Ruel
+Etham|Sody
+Etham|Joel Adams
+Sabrina Claudio|Kiana Ledé
+Sabrina Claudio|Sinead Harnett
+Sabrina Claudio|H.E.R.
+Sabrina Claudio|Jorja Smith
+Sabrina Claudio|Justine Skye
+Sabrina Claudio|Janine
+Sabrina Claudio|Alina Baraz
+Sabrina Claudio|Victoria Monét
+Sabrina Claudio|Mahalia
+Sabrina Claudio|TWENTY88
+Sabrina Claudio|Ella Mai
+Sabrina Claudio|Asiahn
+Sabrina Claudio|Kehlani
+Sabrina Claudio|Nao
+Sabrina Claudio|Xavier Omär
+Sabrina Claudio|UMI
+Sabrina Claudio|Mac Ayres
+Sabrina Claudio|Leven Kali
+Sabrina Claudio|Chloe x Halle
+Sabrina Claudio|Raveena
+Kiana Ledé|Victoria Monét
+Kiana Ledé|Janine
+Kiana Ledé|Justine Skye
+Kiana Ledé|Chloe x Halle
+Kiana Ledé|Ella Mai
+Kiana Ledé|Queen Naija
+Kiana Ledé|Sabrina Claudio
+Kiana Ledé|Mahalia
+Kiana Ledé|Sinead Harnett
+Kiana Ledé|Asiahn
+Kiana Ledé|Kehlani
+Kiana Ledé|DaniLeigh
+Kiana Ledé|Alina Baraz
+Kiana Ledé|Nao
+Kiana Ledé|H.E.R.
+Kiana Ledé|TWENTY88
+Kiana Ledé|Baby Tate
+Kiana Ledé|Jorja Smith
+Kiana Ledé|Tinashe
+Kiana Ledé|Arin Ray
+Kehlani|Victoria Monét
+Kehlani|Sabrina Claudio
+Kehlani|Kiana Ledé
+Kehlani|Chloe x Halle
+Kehlani|H.E.R.
+Kehlani|Ella Mai
+Kehlani|Queen Naija
+Kehlani|Justine Skye
+Kehlani|Normani
+Kehlani|DaniLeigh
+Kehlani|Nao
+Kehlani|Jorja Smith
+Kehlani|Janine
+Kehlani|Alina Baraz
+Kehlani|Sinead Harnett
+Kehlani|Tinashe
+Kehlani|TWENTY88
+Kehlani|Teyana Taylor
+Kehlani|Mahalia
+Kehlani|Summer Walker
+Pink Sweat$|RINI
+Pink Sweat$|Kiana Ledé
+Pink Sweat$|UMI
+Pink Sweat$|Marc E. Bassy
+Pink Sweat$|Jeff Bernat
+Pink Sweat$|slchld
+Pink Sweat$|Jeremy Passion
+Pink Sweat$|Luke Chiang
+Pink Sweat$|Johnny Stimson
+Pink Sweat$|NIKI
+Pink Sweat$|John K
+Pink Sweat$|Mac Ayres
+Pink Sweat$|KIRBY
+Pink Sweat$|Fiji Blue
+Pink Sweat$|Hojean
+Pink Sweat$|Christian Kuria
+Pink Sweat$|ASTN
+Pink Sweat$|JUNNY
+Pink Sweat$|Alina Baraz
+Pink Sweat$|Sam Kim
+Alina Baraz|Sabrina Claudio
+Alina Baraz|Janine
+Alina Baraz|Tinashe
+Alina Baraz|Justine Skye
+Alina Baraz|alayna
+Alina Baraz|Sinead Harnett
+Alina Baraz|Kiana Ledé
+Alina Baraz|Mahalia
+Alina Baraz|Jorja Smith
+Alina Baraz|Kehlani
+Alina Baraz|Ella Mai
+Alina Baraz|H.E.R.
+Alina Baraz|Nao
+Alina Baraz|Jessie Reyez
+Alina Baraz|Chloe x Halle
+Alina Baraz|Snoh Aalegra
+Alina Baraz|Rendezvous At Two
+Alina Baraz|Amber Mark
+Alina Baraz|Xavier Omär
+Alina Baraz|Victoria Monét
+Ella Mai|Kiana Ledé
+Ella Mai|Queen Naija
+Ella Mai|H.E.R.
+Ella Mai|Justine Skye
+Ella Mai|DaniLeigh
+Ella Mai|Sabrina Claudio
+Ella Mai|Summer Walker
+Ella Mai|Kehlani
+Ella Mai|TWENTY88
+Ella Mai|Toni Romiti
+Ella Mai|Mahalia
+Ella Mai|Sinead Harnett
+Ella Mai|Victoria Monét
+Ella Mai|Teyana Taylor
+Ella Mai|Janine
+Ella Mai|Jorja Smith
+Ella Mai|Asiahn
+Ella Mai|Jhené Aiko
+Ella Mai|Pia Mia
+Ella Mai|Sevyn Streeter
+H.E.R.|Sabrina Claudio
+H.E.R.|Jorja Smith
+H.E.R.|Justine Skye
+H.E.R.|Kehlani
+H.E.R.|TWENTY88
+H.E.R.|Summer Walker
+H.E.R.|Ella Mai
+H.E.R.|Kiana Ledé
+H.E.R.|Brent Faiyaz
+H.E.R.|Mahalia
+H.E.R.|DaniLeigh
+H.E.R.|Free Nationals
+H.E.R.|Queen Naija
+H.E.R.|Sinead Harnett
+H.E.R.|Nao
+H.E.R.|Victoria Monét
+H.E.R.|SZA
+H.E.R.|Janine
+H.E.R.|Alina Baraz
+H.E.R.|UMI
+Daniel Caesar|Brent Faiyaz
+Daniel Caesar|ODIE
+Daniel Caesar|Mac Ayres
+Daniel Caesar|Sabrina Claudio
+Daniel Caesar|Snoh Aalegra
+Daniel Caesar|Bruno Major
+Daniel Caesar|Omar Apollo
+Daniel Caesar|Xavier Omär
+Daniel Caesar|Jeff Bernat
+Daniel Caesar|SiR
+Daniel Caesar|Leven Kali
+Daniel Caesar|H.E.R.
+Daniel Caesar|Ryan Trey
+Daniel Caesar|Arin Ray
+Daniel Caesar|Kiana Ledé
+Daniel Caesar|UMI
+Daniel Caesar|Alina Baraz
+Daniel Caesar|Kyle Dion
+Daniel Caesar|Sinead Harnett
+Daniel Caesar|Raveena
+UMI|RINI
+UMI|Raveena
+UMI|Emotional Oranges
+UMI|Kyle Dion
+UMI|Alextbh
+UMI|ODIE
+UMI|Mac Ayres
+UMI|Omar Apollo
+UMI|Leven Kali
+UMI|Bruno Major
+UMI|Jeff Bernat
+UMI|Joyce Wrice
+UMI|Arin Ray
+UMI|Mereba
+UMI|Cautious Clay
+UMI|NIKI
+UMI|Sabrina Claudio
+UMI|Orion Sun
+UMI|Kiana Ledé
+UMI|Snoh Aalegra
+Roy Woods|Che Ecru
+Roy Woods|Ramriddlz
+Roy Woods|dvsn
+Roy Woods|K. Forest
+Roy Woods|PARTYNEXTDOOR
+Roy Woods|Majid Jordan
+Roy Woods|anders
+Roy Woods|Bryson Tiller
+Roy Woods|Aftertheparty
+Roy Woods|THEY.
+Roy Woods|11:11
+Roy Woods|Vory
+Roy Woods|Yo Trane
+Roy Woods|TYuS
+Roy Woods|Ryan Trey
+Roy Woods|Reo Cragun
+Roy Woods|6LACK
+Roy Woods|SAFE
+Roy Woods|Nbdy
+Roy Woods|24hrs
+Summer Walker|Queen Naija
+Summer Walker|Ella Mai
+Summer Walker|Kiana Ledé
+Summer Walker|H.E.R.
+Summer Walker|Sabrina Claudio
+Summer Walker|TWENTY88
+Summer Walker|Kehlani
+Summer Walker|DaniLeigh
+Summer Walker|Arin Ray
+Summer Walker|Justine Skye
+Summer Walker|Sinead Harnett
+Summer Walker|UMI
+Summer Walker|Kyle Dion
+Summer Walker|Asiahn
+Summer Walker|Ryan Trey
+Summer Walker|Tone Stith
+Summer Walker|Victoria Monét
+Summer Walker|Mahalia
+Summer Walker|Jorja Smith
+Summer Walker|Normani
+Normani|Ally Brooke
+Normani|Lauren Jauregui
+Normani|Dinah Jane
+Normani|Tinashe
+Normani|Chloe x Halle
+Normani|Victoria Monét
+Normani|Tayla Parx
+Normani|Justine Skye
+Normani|Kehlani
+Normani|Kiana Ledé
+Normani|Baby Tate
+Normani|Sabrina Claudio
+Normani|Keke Palmer
+Normani|Teyana Taylor
+Normani|The Carters
+Normani|Kelly Rowland
+Normani|Asiahn
+Normani|DaniLeigh
+Normani|Sevyn Streeter
+Normani|Pia Mia
+Bryson Tiller|Yo Trane
+Bryson Tiller|PARTYNEXTDOOR
+Bryson Tiller|Roy Woods
+Bryson Tiller|Majid Jordan
+Bryson Tiller|Ryan Trey
+Bryson Tiller|TWENTY88
+Bryson Tiller|6LACK
+Bryson Tiller|Jeremih
+Bryson Tiller|Brent Faiyaz
+Bryson Tiller|ELHAE
+Bryson Tiller|PnB Rock
+Bryson Tiller|August Alsina
+Bryson Tiller|TYuS
+Bryson Tiller|DaniLeigh
+Bryson Tiller|Tory Lanez
+Bryson Tiller|Miguel
+Bryson Tiller|Jacquees
+Bryson Tiller|Jhené Aiko
+Bryson Tiller|Che Ecru
+Bryson Tiller|Ella Mai
+6LACK|Majid Jordan
+6LACK|Yo Trane
+6LACK|Roy Woods
+6LACK|PARTYNEXTDOOR
+6LACK|Ryan Trey
+6LACK|TWENTY88
+6LACK|Eli Sostre
+6LACK|Bryson Tiller
+6LACK|Spillage Village
+6LACK|THEY.
+6LACK|Che Ecru
+6LACK|dvsn
+6LACK|anders
+6LACK|PnB Rock
+6LACK|Brent Faiyaz
+6LACK|88GLAM
+6LACK|EARTHGANG
+6LACK|Bas
+6LACK|Xavier Omär
+6LACK|SiR
+KYLE|Shelley FKA DRAM
+KYLE|Skizzy Mars
+KYLE|Kid Quill
+KYLE|gianni & kyle
+KYLE|mike.
+KYLE|Bryce Vine
+KYLE|Marc E. Bassy
+KYLE|mansionz
+KYLE|Hoodie Allen
+KYLE|Arizona Zervas
+KYLE|Futuristic
+KYLE|tobi lou
+KYLE|Aminé
+KYLE|VIC MENSA
+KYLE|Luke Christopher
+KYLE|MadeinTYO
+KYLE|Christian French
+KYLE|Chance the Rapper
+KYLE|Tyla Yaweh
+KYLE|Taylor Bennett
+Jorja Smith|Mahalia
+Jorja Smith|Kiana Ledé
+Jorja Smith|Amber Mark
+Jorja Smith|Sabrina Claudio
+Jorja Smith|Nao
+Jorja Smith|Sinead Harnett
+Jorja Smith|Free Nationals
+Jorja Smith|Chloe x Halle
+Jorja Smith|Justine Skye
+Jorja Smith|Alina Baraz
+Jorja Smith|H.E.R.
+Jorja Smith|Pip Millett
+Jorja Smith|Victoria Monét
+Jorja Smith|Ama Lou
+Jorja Smith|RAY BLK
+Jorja Smith|Snoh Aalegra
+Jorja Smith|Kehlani
+Jorja Smith|UMI
+Jorja Smith|RIMON
+Jorja Smith|Ella Mai
+The Wanted|Cher Lloyd
+The Wanted|Olly Murs
+The Wanted|Jessie J
+The Wanted|One Direction
+The Wanted|JLS
+The Wanted|The Saturdays
+The Wanted|Rita Ora
+The Wanted|Conor Maynard
+The Wanted|Cheryl
+The Wanted|Pixie Lott
+The Wanted|The Script
+The Wanted|Lawson
+The Wanted|Little Mix
+The Wanted|Jason Derulo
+The Wanted|Carly Rae Jepsen
+The Wanted|Kesha
+The Wanted|Ellie Goulding
+The Wanted|Katy Perry
+The Wanted|Bruno Mars
+The Wanted|Emeli Sandé
+Wale|DJ Drama
+Wale|Dom Kennedy
+Wale|Big K.R.I.T.
+Wale|BJ The Chicago Kid
+Wale|Rick Ross
+Wale|Young Money
+Wale|Ace Hood
+Wale|The-Dream
+Wale|Nipsey Hussle
+Wale|2 Chainz
+Wale|August Alsina
+Wale|K CAMP
+Wale|Fabolous
+Wale|Dave East
+Wale|Yo Gotti
+Wale|Jim Jones
+Wale|Sevyn Streeter
+Wale|Plies
+Wale|Curren$y
+Wale|Big Sean
+Rick Ross|DJ Drama
+Rick Ross|Young Money
+Rick Ross|Birdman
+Rick Ross|Ace Hood
+Rick Ross|Fabolous
+Rick Ross|Jim Jones
+Rick Ross|Jeezy
+Rick Ross|Juelz Santana
+Rick Ross|Bun B
+Rick Ross|Yo Gotti
+Rick Ross|Wale
+Rick Ross|Curren$y
+Rick Ross|Slim Thug
+Rick Ross|The Diplomats
+Rick Ross|Young Dro
+Rick Ross|Lloyd Banks
+Rick Ross|Beanie Sigel
+Rick Ross|Young Buck
+Rick Ross|2 Chainz
+Rick Ross|Waka Flocka Flame
+Young Money|DJ Drama
+Young Money|Gorilla Zoe
+Young Money|Yo Gotti
+Young Money|Yung Joc
+Young Money|David Banner
+Young Money|Travis Porter
+Young Money|Dem Franchize Boyz
+Young Money|Mike Jones
+Young Money|Hurricane Chris
+Young Money|Birdman
+Young Money|Lil Scrappy
+Young Money|Waka Flocka Flame
+Young Money|Young Dro
+Young Money|Gudda Gudda
+Young Money|Ace Hood
+Young Money|Plies
+Young Money|Rick Ross
+Young Money|Trick Daddy
+Young Money|Rocko
+Young Money|Soulja Boy
+Ace Hood|DJ Drama
+Ace Hood|Young Money
+Ace Hood|Yo Gotti
+Ace Hood|Gorilla Zoe
+Ace Hood|Rick Ross
+Ace Hood|Rocko
+Ace Hood|Birdman
+Ace Hood|Young Dro
+Ace Hood|Young Buck
+Ace Hood|Waka Flocka Flame
+Ace Hood|Slim Thug
+Ace Hood|Jim Jones
+Ace Hood|David Banner
+Ace Hood|Jeezy
+Ace Hood|Yung Joc
+Ace Hood|Lil Scrappy
+Ace Hood|Bun B
+Ace Hood|Webbie
+Ace Hood|Juelz Santana
+Ace Hood|Plies
+French Montana|Jim Jones
+French Montana|Meek Mill
+French Montana|Max B
+French Montana|DJ Drama
+French Montana|Rick Ross
+French Montana|Fabolous
+French Montana|Juelz Santana
+French Montana|Waka Flocka Flame
+French Montana|Yo Gotti
+French Montana|Kid Ink
+French Montana|The Diplomats
+French Montana|Young Money
+French Montana|Ace Hood
+French Montana|Uncle Murda
+French Montana|Juicy J
+French Montana|Lloyd Banks
+French Montana|Mike WiLL Made-It
+French Montana|Wale
+French Montana|2 Chainz
+French Montana|Nipsey Hussle
+Jay Rock|Black Hippy
+Jay Rock|Big K.R.I.T.
+Jay Rock|Dom Kennedy
+Jay Rock|Pusha T
+Jay Rock|Nipsey Hussle
+Jay Rock|Smoke DZA
+Jay Rock|Freddie Gibbs
+Jay Rock|REASON
+Jay Rock|Royce Da 5'9"
+Jay Rock|Curren$y
+Jay Rock|CyHi The Prynce
+Jay Rock|Cozz
+Jay Rock|Bas
+Jay Rock|ScHoolboy Q
+Jay Rock|Buddy
+Jay Rock|Problem
+Jay Rock|Jay Electronica
+Jay Rock|Isaiah Rashad
+Jay Rock|Dizzy Wright
+Jay Rock|Ab-Soul
+Waka Flocka Flame|Travis Porter
+Waka Flocka Flame|OJ Da Juiceman
+Waka Flocka Flame|Yo Gotti
+Waka Flocka Flame|DJ Drama
+Waka Flocka Flame|Gorilla Zoe
+Waka Flocka Flame|Young Dro
+Waka Flocka Flame|Young Money
+Waka Flocka Flame|Rocko
+Waka Flocka Flame|Yung Joc
+Waka Flocka Flame|Roscoe Dash
+Waka Flocka Flame|Rick Ross
+Waka Flocka Flame|Ace Hood
+Waka Flocka Flame|Trinidad James
+Waka Flocka Flame|Lil Scrappy
+Waka Flocka Flame|Birdman
+Waka Flocka Flame|Soulja Boy
+Waka Flocka Flame|Bankroll Fresh
+Waka Flocka Flame|2 Chainz
+Waka Flocka Flame|Juicy J
+Waka Flocka Flame|Ca$h Out
+Ty Dolla $ign|Tory Lanez
+Ty Dolla $ign|Kid Ink
+Ty Dolla $ign|French Montana
+Ty Dolla $ign|August Alsina
+Ty Dolla $ign|Wale
+Ty Dolla $ign|Jeremih
+Ty Dolla $ign|Mustard
+Ty Dolla $ign|Jacquees
+Ty Dolla $ign|Eric Bellinger
+Ty Dolla $ign|Young Money
+Ty Dolla $ign|2 Chainz
+Ty Dolla $ign|DJ Drama
+Ty Dolla $ign|K CAMP
+Ty Dolla $ign|Sage The Gemini
+Ty Dolla $ign|Roy Woods
+Ty Dolla $ign|Tyla Yaweh
+Ty Dolla $ign|Omarion
+Ty Dolla $ign|Tyga
+Ty Dolla $ign|Bryson Tiller
+Ty Dolla $ign|Mike WiLL Made-It
+Juicy J|Yo Gotti
+Juicy J|Project Pat
+Juicy J|Three 6 Mafia
+Juicy J|Gorilla Zoe
+Juicy J|Waka Flocka Flame
+Juicy J|Pimp C
+Juicy J|DJ Drama
+Juicy J|Slim Thug
+Juicy J|Curren$y
+Juicy J|Lil Wyte
+Juicy J|2 Chainz
+Juicy J|Tear Da Club Up Thugs
+Juicy J|OJ Da Juiceman
+Juicy J|Paul Wall
+Juicy J|Bun B
+Juicy J|Young Money
+Juicy J|Young Dro
+Juicy J|Birdman
+Juicy J|Ace Hood
+Juicy J|Frayser Boy
+Jeremih|Lloyd
+Jeremih|Mario
+Jeremih|Trey Songz
+Jeremih|Pleasure P
+Jeremih|Pretty Ricky
+Jeremih|Omarion
+Jeremih|The-Dream
+Jeremih|J. Holiday
+Jeremih|August Alsina
+Jeremih|Sammie
+Jeremih|Miguel
+Jeremih|T-Pain
+Jeremih|Keyshia Cole
+Jeremih|Jhené Aiko
+Jeremih|Ginuwine
+Jeremih|Baby Bash
+Jeremih|Bryson Tiller
+Jeremih|Young Money
+Jeremih|Bow Wow
+Jeremih|Bobby V.
+Mike WiLL Made-It|Swae Lee
+Mike WiLL Made-It|A$AP Ferg
+Mike WiLL Made-It|Desiigner
+Mike WiLL Made-It|Huncho Jack
+Mike WiLL Made-It|Quality Control
+Mike WiLL Made-It|Rich Gang
+Mike WiLL Made-It|Fetty Wap
+Mike WiLL Made-It|Rae Sremmurd
+Mike WiLL Made-It|French Montana
+Mike WiLL Made-It|Migos
+Mike WiLL Made-It|Zaytoven
+Mike WiLL Made-It|Rich Homie Quan
+Mike WiLL Made-It|Waka Flocka Flame
+Mike WiLL Made-It|Yo Gotti
+Mike WiLL Made-It|Rob $tone
+Mike WiLL Made-It|Juicy J
+Mike WiLL Made-It|O.T. Genasis
+Mike WiLL Made-It|Quavo
+Mike WiLL Made-It|Preme
+Mike WiLL Made-It|DJ Drama
+Yo Gotti|Rocko
+Yo Gotti|Young Dro
+Yo Gotti|Gorilla Zoe
+Yo Gotti|Webbie
+Yo Gotti|B.G.
+Yo Gotti|Pastor Troy
+Yo Gotti|Yung Joc
+Yo Gotti|OJ Da Juiceman
+Yo Gotti|DJ Drama
+Yo Gotti|Slim Thug
+Yo Gotti|Pimp C
+Yo Gotti|Shawty Lo
+Yo Gotti|Young Money
+Yo Gotti|David Banner
+Yo Gotti|Project Pat
+Yo Gotti|Bun B
+Yo Gotti|8Ball
+Yo Gotti|Travis Porter
+Yo Gotti|Plies
+Yo Gotti|Lil Scrappy
+YG|Jay Rock
+YG|ScHoolboy Q
+YG|The Game
+YG|Mustard
+YG|Ty Dolla $ign
+YG|2 Chainz
+YG|Gucci Mane
+YG|Meek Mill
+YG|Young Thug
+YG|Future
+YG|Pusha T
+YG|Isaiah Rashad
+YG|A$AP Ferg
+YG|Rae Sremmurd
+YG|YGTUT
+YG|Metro Boomin
+YG|Quavo
+YG|Travis Scott
+YG|Kamaiyah
+YG|Migos
+VIC MENSA|Taylor Bennett
+VIC MENSA|Joey Purp
+VIC MENSA|REASON
+VIC MENSA|IshDARR
+VIC MENSA|Towkio
+VIC MENSA|Caleborate
+VIC MENSA|Alex Wiley
+VIC MENSA|Kirk Knight
+VIC MENSA|Cozz
+VIC MENSA|Nyck Caution
+VIC MENSA|Lute
+VIC MENSA|Mick Jenkins
+VIC MENSA|Bas
+VIC MENSA|Sylvan LaCue
+VIC MENSA|Rexx Life Raj
+VIC MENSA|Ab-Soul
+VIC MENSA|Saba
+VIC MENSA|Pell
+VIC MENSA|Donnie Trumpet & The Social Experiment
+VIC MENSA|Jalen Santoy
+Kid Ink|French Montana
+Kid Ink|Tory Lanez
+Kid Ink|Wiz Khalifa
+Kid Ink|Kirko Bangz
+Kid Ink|Ty Dolla $ign
+Kid Ink|Tyga
+Kid Ink|DJ Drama
+Kid Ink|Young Money
+Kid Ink|Travis Porter
+Kid Ink|Fetty Wap
+Kid Ink|Ace Hood
+Kid Ink|Jonn Hart
+Kid Ink|Meek Mill
+Kid Ink|New Boyz
+Kid Ink|Rich Gang
+Kid Ink|Jeremih
+Kid Ink|Wale
+Kid Ink|Preme
+Kid Ink|Waka Flocka Flame
+Kid Ink|DJ Khaled
+A$AP Ferg|A$AP Mob
+A$AP Ferg|Mike WiLL Made-It
+A$AP Ferg|Quality Control
+A$AP Ferg|Sheck Wes
+A$AP Ferg|Cousin Stizz
+A$AP Ferg|Rae Sremmurd
+A$AP Ferg|Ugly God
+A$AP Ferg|Desiigner
+A$AP Ferg|Huncho Jack
+A$AP Ferg|Quavo
+A$AP Ferg|88GLAM
+A$AP Ferg|Lil Yachty
+A$AP Ferg|Bobby Shmurda
+A$AP Ferg|Waka Flocka Flame
+A$AP Ferg|Juicy J
+A$AP Ferg|2 Chainz
+A$AP Ferg|Maxo Kream
+A$AP Ferg|A$AP Twelvyy
+A$AP Ferg|Metro Boomin
+A$AP Ferg|YG
+Lupe Fiasco|Jay Electronica
+Lupe Fiasco|Asher Roth
+Lupe Fiasco|Talib Kweli
+Lupe Fiasco|Big K.R.I.T.
+Lupe Fiasco|Pusha T
+Lupe Fiasco|Royce Da 5'9"
+Lupe Fiasco|Clipse
+Lupe Fiasco|Big Boi
+Lupe Fiasco|Black Star
+Lupe Fiasco|Chiddy Bang
+Lupe Fiasco|Joe Budden
+Lupe Fiasco|Blu
+Lupe Fiasco|Common
+Lupe Fiasco|Mos Def
+Lupe Fiasco|The Cool Kids
+Lupe Fiasco|Little Brother
+Lupe Fiasco|Slaughterhouse
+Lupe Fiasco|N.E.R.D
+Lupe Fiasco|The Roots
+Lupe Fiasco|Black Thought
+Earl Sweatshirt|Domo Genesis
+Earl Sweatshirt|MellowHype
+Earl Sweatshirt|Vince Staples
+Earl Sweatshirt|Mike G
+Earl Sweatshirt|Odd Future
+Earl Sweatshirt|Danny Brown
+Earl Sweatshirt|Lil B
+Earl Sweatshirt|Death Grips
+Earl Sweatshirt|Tyler, The Creator
+Earl Sweatshirt|SpaceGhostPurrp
+Earl Sweatshirt|Ab-Soul
+Earl Sweatshirt|Freddie Gibbs
+Earl Sweatshirt|JPEGMAFIA
+Earl Sweatshirt|MellowHigh
+Earl Sweatshirt|Casey Veggies
+Earl Sweatshirt|Pusha T
+Earl Sweatshirt|BADBADNOTGOOD
+Earl Sweatshirt|Jet Age of Tomorrow
+Earl Sweatshirt|King Geedorah
+Earl Sweatshirt|Boldy James
+A$AP Mob|A$AP ANT
+A$AP Mob|A$AP Ferg
+A$AP Mob|A$AP Twelvyy
+A$AP Mob|Huncho Jack
+A$AP Mob|The Underachievers
+A$AP Mob|Kirk Knight
+A$AP Mob|Famous Dex
+A$AP Mob|Maxo Kream
+A$AP Mob|Sheck Wes
+A$AP Mob|Lil Yachty
+A$AP Mob|MadeinTYO
+A$AP Mob|Tay-K
+A$AP Mob|Ugly God
+A$AP Mob|Quality Control
+A$AP Mob|Beast Coast
+A$AP Mob|Cousin Stizz
+A$AP Mob|Flatbush Zombies
+A$AP Mob|Jay Critch
+A$AP Mob|UnoTheActivist
+A$AP Mob|Quavo
+Freddie Gibbs|Smoke DZA
+Freddie Gibbs|Curren$y
+Freddie Gibbs|Ab-Soul
+Freddie Gibbs|Big K.R.I.T.
+Freddie Gibbs|Jay Electronica
+Freddie Gibbs|Pusha T
+Freddie Gibbs|Boldy James
+Freddie Gibbs|The Alchemist
+Freddie Gibbs|Roc Marciano
+Freddie Gibbs|Action Bronson
+Freddie Gibbs|Clipse
+Freddie Gibbs|Danny Brown
+Freddie Gibbs|Jay Rock
+Freddie Gibbs|Earl Sweatshirt
+Freddie Gibbs|Blu
+Freddie Gibbs|Vince Staples
+Freddie Gibbs|Dom Kennedy
+Freddie Gibbs|Stalley
+Freddie Gibbs|Statik Selektah
+Freddie Gibbs|Domo Genesis
+Mac Miller|Pusha T
+Mac Miller|Childish Gambino
+Mac Miller|Freddie Gibbs
+Mac Miller|Frank Ocean
+Mac Miller|A$AP Rocky
+Mac Miller|Earl Sweatshirt
+Mac Miller|Isaiah Rashad
+Mac Miller|Curren$y
+Mac Miller|Kendrick Lamar
+Mac Miller|Vince Staples
+Mac Miller|Kid Cudi
+Mac Miller|ScHoolboy Q
+Mac Miller|Tyler, The Creator
+Mac Miller|Kevin Abstract
+Mac Miller|Chance the Rapper
+Mac Miller|Joey Bada$$
+Mac Miller|Wiz Khalifa
+Mac Miller|BROCKHAMPTON
+Mac Miller|Mick Jenkins
+Mac Miller|Jay Rock
+Denzel Curry|Vince Staples
+Denzel Curry|Flatbush Zombies
+Denzel Curry|JPEGMAFIA
+Denzel Curry|Ethelwulf
+Denzel Curry|Yung Simmie
+Denzel Curry|SpaceGhostPurrp
+Denzel Curry|Lil B
+Denzel Curry|Chief Keef
+Denzel Curry|Danny Brown
+Denzel Curry|Chris Travis
+Denzel Curry|Joey Bada$$
+Denzel Curry|Robb Bank$
+Denzel Curry|IDK
+Denzel Curry|Lil Ugly Mane
+Denzel Curry|Earl Sweatshirt
+Denzel Curry|Mick Jenkins
+Denzel Curry|ZillaKami
+Denzel Curry|A$AP Mob
+Denzel Curry|Isaiah Rashad
+Denzel Curry|Domo Genesis
+Kevin Abstract|JPEGMAFIA
+Kevin Abstract|BROCKHAMPTON
+Kevin Abstract|Duckwrth
+Kevin Abstract|Matt Champion
+Kevin Abstract|Injury Reserve
+Kevin Abstract|Jelani Aryeh
+Kevin Abstract|Ameer Vann
+Kevin Abstract|Dominic Fike
+Kevin Abstract|Noname
+Kevin Abstract|slowthai
+Kevin Abstract|Tierra Whack
+Kevin Abstract|MAVI
+Kevin Abstract|Zelooperz
+Kevin Abstract|Earl Sweatshirt
+Kevin Abstract|Saba
+Kevin Abstract|Omar Apollo
+Kevin Abstract|Ryan Beatty
+Kevin Abstract|Choker
+Kevin Abstract|Yeek
+Kevin Abstract|JOBA
+Bas|Lute
+Bas|REASON
+Bas|Cozz
+Bas|Spillage Village
+Bas|Omen
+Bas|EARTHGANG
+Bas|Caleborate
+Bas|Childish Major
+Bas|Rexx Life Raj
+Bas|Rapsody
+Bas|VIC MENSA
+Bas|WESTSIDE BOOGIE
+Bas|JID
+Bas|Mick Jenkins
+Bas|Sylvan LaCue
+Bas|Jay Rock
+Bas|Dreamville
+Bas|Saba
+Bas|Buddy
+Bas|Ab-Soul
+Flatbush Zombies|Bodega Bamz
+Flatbush Zombies|Joey Bada$$
+Flatbush Zombies|Vince Staples
+Flatbush Zombies|Ab-Soul
+Flatbush Zombies|A$AP Twelvyy
+Flatbush Zombies|Dizzy Wright
+Flatbush Zombies|Black Hippy
+Flatbush Zombies|Domo Genesis
+Flatbush Zombies|Erick the Architect
+Flatbush Zombies|Denzel Curry
+Flatbush Zombies|The Underachievers
+Flatbush Zombies|Danny Brown
+Flatbush Zombies|Kirk Knight
+Flatbush Zombies|Yung Simmie
+Flatbush Zombies|Nyck Caution
+Flatbush Zombies|AKTHESAVIOR
+Flatbush Zombies|Action Bronson
+Flatbush Zombies|Powers Pleasant
+Flatbush Zombies|CJ Fly
+Flatbush Zombies|Chuuwee
+Big K.R.I.T.|Curren$y
+Big K.R.I.T.|Stalley
+Big K.R.I.T.|Smoke DZA
+Big K.R.I.T.|Freddie Gibbs
+Big K.R.I.T.|CyHi The Prynce
+Big K.R.I.T.|Ab-Soul
+Big K.R.I.T.|Clipse
+Big K.R.I.T.|Jay Electronica
+Big K.R.I.T.|Dom Kennedy
+Big K.R.I.T.|Big Boi
+Big K.R.I.T.|Pusha T
+Big K.R.I.T.|Starlito
+Big K.R.I.T.|BJ The Chicago Kid
+Big K.R.I.T.|Bun B
+Big K.R.I.T.|Killer Mike
+Big K.R.I.T.|Casey Veggies
+Big K.R.I.T.|Boldy James
+Big K.R.I.T.|UGK
+Big K.R.I.T.|Devin The Dude
+Big K.R.I.T.|Blu
+Clipse|Beanie Sigel
+Clipse|The Cool Kids
+Clipse|Jay Electronica
+Clipse|Freeway
+Clipse|The Diplomats
+Clipse|Pusha T
+Clipse|Juelz Santana
+Clipse|Shyne
+Clipse|N.O.R.E.
+Clipse|Memphis Bleek
+Clipse|Big K.R.I.T.
+Clipse|Swizz Beatz
+Clipse|The LOX
+Clipse|Cam’ron
+Clipse|Big Boi
+Clipse|Ghostface Killah
+Clipse|Sheek Louch
+Clipse|AZ
+Clipse|Styles P
+Clipse|Jadakiss
+Curren$y|Big K.R.I.T.
+Curren$y|Freddie Gibbs
+Curren$y|Dom Kennedy
+Curren$y|Smoke DZA
+Curren$y|Trademark Da Skydiver
+Curren$y|Stalley
+Curren$y|Boldy James
+Curren$y|DJ Drama
+Curren$y|Clipse
+Curren$y|Le$
+Curren$y|Bun B
+Curren$y|Jim Jones
+Curren$y|Jay Electronica
+Curren$y|Pimp C
+Curren$y|Casey Veggies
+Curren$y|Willie The Kid
+Curren$y|Sir Michael Rocks
+Curren$y|Roc Marciano
+Curren$y|Ab-Soul
+Curren$y|Young Roddy
+CyHi The Prynce|Smoke DZA
+CyHi The Prynce|Big K.R.I.T.
+CyHi The Prynce|Curren$y
+CyHi The Prynce|Mickey Factz
+CyHi The Prynce|Fred the Godson
+CyHi The Prynce|Ab-Soul
+CyHi The Prynce|Joe Budden
+CyHi The Prynce|Clipse
+CyHi The Prynce|Pusha T
+CyHi The Prynce|Jay Electronica
+CyHi The Prynce|Sir Michael Rocks
+CyHi The Prynce|Stalley
+CyHi The Prynce|Casey Veggies
+CyHi The Prynce|Joell Ortiz
+CyHi The Prynce|Vado
+CyHi The Prynce|Dom Kennedy
+CyHi The Prynce|Willie The Kid
+CyHi The Prynce|Trademark Da Skydiver
+CyHi The Prynce|Don Trip
+CyHi The Prynce|Freddie Gibbs
+Smoke DZA|Stalley
+Smoke DZA|Curren$y
+Smoke DZA|Sir Michael Rocks
+Smoke DZA|Trademark Da Skydiver
+Smoke DZA|Dom Kennedy
+Smoke DZA|Skyzoo
+Smoke DZA|Willie The Kid
+Smoke DZA|Boldy James
+Smoke DZA|Big K.R.I.T.
+Smoke DZA|Freddie Gibbs
+Smoke DZA|Roc Marciano
+Smoke DZA|Ab-Soul
+Smoke DZA|Young Roddy
+Smoke DZA|Statik Selektah
+Smoke DZA|Chuuwee
+Smoke DZA|Casey Veggies
+Smoke DZA|Le$
+Smoke DZA|CyHi The Prynce
+Smoke DZA|LNDN DRGS
+Smoke DZA|Vado
+Jay Electronica|Skyzoo
+Jay Electronica|Little Brother
+Jay Electronica|Blu & Exile
+Jay Electronica|Blu
+Jay Electronica|Black Milk
+Jay Electronica|Elzhi
+Jay Electronica|Talib Kweli
+Jay Electronica|Black Thought
+Jay Electronica|Reflection Eternal
+Jay Electronica|The Alchemist
+Jay Electronica|Statik Selektah
+Jay Electronica|Slum Village
+Jay Electronica|9th Wonder
+Jay Electronica|Clipse
+Jay Electronica|J Dilla
+Jay Electronica|Black Star
+Jay Electronica|Roc Marciano
+Jay Electronica|Camp Lo
+Jay Electronica|The Foreign Exchange
+Jay Electronica|Pharoahe Monch
+Ab-Soul|Black Hippy
+Ab-Soul|Sir Michael Rocks
+Ab-Soul|Casey Veggies
+Ab-Soul|Chuuwee
+Ab-Soul|Smoke DZA
+Ab-Soul|Stalley
+Ab-Soul|ScHoolboy Q
+Ab-Soul|BJ The Chicago Kid
+Ab-Soul|Dom Kennedy
+Ab-Soul|Big K.R.I.T.
+Ab-Soul|Freddie Gibbs
+Ab-Soul|Jay Rock
+Ab-Soul|Danny Brown
+Ab-Soul|Flatbush Zombies
+Ab-Soul|CyHi The Prynce
+Ab-Soul|Isaiah Rashad
+Ab-Soul|Boldy James
+Ab-Soul|Domo Genesis
+Ab-Soul|Dizzy Wright
+Ab-Soul|Pusha T
+Danny Brown|Blu
+Danny Brown|Boldy James
+Danny Brown|Quelle Chris
+Danny Brown|Freddie Gibbs
+Danny Brown|Death Grips
+Danny Brown|Ab-Soul
+Danny Brown|SpaceGhostPurrp
+Danny Brown|Earl Sweatshirt
+Danny Brown|billy woods
+Danny Brown|Lil B
+Danny Brown|Blu & Exile
+Danny Brown|Action Bronson
+Danny Brown|Ka
+Danny Brown|JPEGMAFIA
+Danny Brown|King Geedorah
+Danny Brown|Jay Electronica
+Danny Brown|Vince Staples
+Danny Brown|The Alchemist
+Danny Brown|Shabazz Palaces
+Danny Brown|Killer Mike
+Boldy James|Sir Michael Rocks
+Boldy James|Freddie Gibbs
+Boldy James|Smoke DZA
+Boldy James|Danny Brown
+Boldy James|Willie The Kid
+Boldy James|Curren$y
+Boldy James|Ab-Soul
+Boldy James|Action Bronson
+Boldy James|Young Roddy
+Boldy James|Roc Marciano
+Boldy James|Stalley
+Boldy James|Quelle Chris
+Boldy James|Meyhem Lauren
+Boldy James|Big K.R.I.T.
+Boldy James|Jay Electronica
+Boldy James|Blu
+Boldy James|Vince Staples
+Boldy James|The Alchemist
+Boldy James|Clipse
+Boldy James|Lil B
+Royce Da 5'9"|Joell Ortiz
+Royce Da 5'9"|Slaughterhouse
+Royce Da 5'9"|KXNG Crooked
+Royce Da 5'9"|Joe Budden
+Royce Da 5'9"|Saigon
+Royce Da 5'9"|Obie Trice
+Royce Da 5'9"|Bad Meets Evil
+Royce Da 5'9"|Lloyd Banks
+Royce Da 5'9"|Papoose
+Royce Da 5'9"|AZ
+Royce Da 5'9"|Statik Selektah
+Royce Da 5'9"|Styles P
+Royce Da 5'9"|Elzhi
+Royce Da 5'9"|Sean Price
+Royce Da 5'9"|Jay Electronica
+Royce Da 5'9"|Beanie Sigel
+Royce Da 5'9"|Skyzoo
+Royce Da 5'9"|Freeway
+Royce Da 5'9"|Pharoahe Monch
+Royce Da 5'9"|Black Thought
+The Alchemist|Statik Selektah
+The Alchemist|Skyzoo
+The Alchemist|Jay Electronica
+The Alchemist|Roc Marciano
+The Alchemist|DJ Muggs
+The Alchemist|Blu
+The Alchemist|Sean Price
+The Alchemist|Freddie Gibbs
+The Alchemist|Planet Asia
+The Alchemist|Boldy James
+The Alchemist|Meyhem Lauren
+The Alchemist|Westside Gunn
+The Alchemist|9th Wonder
+The Alchemist|Smoke DZA
+The Alchemist|Conway the Machine
+The Alchemist|Havoc
+The Alchemist|Evidence
+The Alchemist|Navy Blue
+The Alchemist|MAVI
+The Alchemist|AZ
+Black Hippy|Ab-Soul
+Black Hippy|ScHoolboy Q
+Black Hippy|Jay Rock
+Black Hippy|Danny Brown
+Black Hippy|Freddie Gibbs
+Black Hippy|Smoke DZA
+Black Hippy|Pusha T
+Black Hippy|Dizzy Wright
+Black Hippy|A$AP Twelvyy
+Black Hippy|Flatbush Zombies
+Black Hippy|Chuuwee
+Black Hippy|Joey Bada$$
+Black Hippy|Cozz
+Black Hippy|Action Bronson
+Black Hippy|REASON
+Black Hippy|Domo Genesis
+Black Hippy|Big K.R.I.T.
+Black Hippy|Vince Staples
+Black Hippy|Kirk Knight
+Black Hippy|Boldy James
+Action Bronson|Meyhem Lauren
+Action Bronson|Freddie Gibbs
+Action Bronson|Ab-Soul
+Action Bronson|Danny Brown
+Action Bronson|Smoke DZA
+Action Bronson|Boldy James
+Action Bronson|Roc Marciano
+Action Bronson|The Alchemist
+Action Bronson|Flatbush Zombies
+Action Bronson|Curren$y
+Action Bronson|Statik Selektah
+Action Bronson|Westside Gunn
+Action Bronson|Jay Electronica
+Action Bronson|Domo Genesis
+Action Bronson|Pusha T
+Action Bronson|Big K.R.I.T.
+Action Bronson|Earl Sweatshirt
+Action Bronson|Vince Staples
+Action Bronson|Joey Bada$$
+Action Bronson|Chuuwee
+The Diplomats|Sheek Louch
+The Diplomats|Juelz Santana
+The Diplomats|JR Writer
+The Diplomats|Beanie Sigel
+The Diplomats|Uncle Murda
+The Diplomats|Memphis Bleek
+The Diplomats|Vado
+The Diplomats|Max B
+The Diplomats|Cam’ron
+The Diplomats|Stack Bundles
+The Diplomats|Styles P
+The Diplomats|Jim Jones
+The Diplomats|Shyne
+The Diplomats|Papoose
+The Diplomats|N.O.R.E.
+The Diplomats|Hell Rell
+The Diplomats|Young Gunz
+The Diplomats|The LOX
+The Diplomats|Joe Budden
+The Diplomats|Cassidy
+DJ Drama|Young Dro
+DJ Drama|Rocko
+DJ Drama|U.S.D.A.
+DJ Drama|Shawty Lo
+DJ Drama|Rich Boy
+DJ Drama|Boyz N Da Hood
+DJ Drama|Yung Joc
+DJ Drama|Pastor Troy
+DJ Drama|B.G.
+DJ Drama|Webbie
+DJ Drama|Lil Scrappy
+DJ Drama|OJ Da Juiceman
+DJ Drama|Yo Gotti
+DJ Drama|Bun B
+DJ Drama|Juelz Santana
+DJ Drama|Jim Jones
+DJ Drama|David Banner
+DJ Drama|Young Money
+DJ Drama|Birdman
+DJ Drama|Gorilla Zoe
+Chief Keef|Fredo Santana
+Chief Keef|Lil Durk
+Chief Keef|Lil Reese
+Chief Keef|Waka Flocka Flame
+Chief Keef|Doe Boy
+Chief Keef|Denzel Curry
+Chief Keef|SpaceGhostPurrp
+Chief Keef|G Herbo
+Chief Keef|Young Scooter
+Chief Keef|Juicy J
+Chief Keef|FBG Duck
+Chief Keef|Young Pappy
+Chief Keef|Rich Homie Quan
+Chief Keef|Shy Glizzy
+Chief Keef|Lil B
+Chief Keef|2 Chainz
+Chief Keef|A$AP Ferg
+Chief Keef|Cdot Honcho
+Chief Keef|Fat Trel
+Chief Keef|Young Dolph
+Dom Kennedy|Stalley
+Dom Kennedy|Casey Veggies
+Dom Kennedy|Sir Michael Rocks
+Dom Kennedy|Smoke DZA
+Dom Kennedy|Ab-Soul
+Dom Kennedy|Curren$y
+Dom Kennedy|Big K.R.I.T.
+Dom Kennedy|Trademark Da Skydiver
+Dom Kennedy|BJ The Chicago Kid
+Dom Kennedy|Polyester the Saint
+Dom Kennedy|Pac Div
+Dom Kennedy|Le$
+Dom Kennedy|Chuuwee
+Dom Kennedy|Young Roddy
+Dom Kennedy|CyHi The Prynce
+Dom Kennedy|Freddie Gibbs
+Dom Kennedy|Dizzy Wright
+Dom Kennedy|Nipsey Hussle
+Dom Kennedy|Chevy Woods
+Dom Kennedy|Hit-Boy
+REASON|Bas
+REASON|Lute
+REASON|Caleborate
+REASON|Rexx Life Raj
+REASON|Rapsody
+REASON|Buddy
+REASON|Deante' Hitchcock
+REASON|Ab-Soul
+REASON|Childish Major
+REASON|CJ Fly
+REASON|Mick Jenkins
+REASON|Sylvan LaCue
+REASON|Cozz
+REASON|Nyck Caution
+REASON|Smoke DZA
+REASON|Kirk Knight
+REASON|WESTSIDE BOOGIE
+REASON|Ray Vaughn
+REASON|Guapdad 4000
+REASON|Marlon Craft
+A$AP Twelvyy|Kirk Knight
+A$AP Twelvyy|AKTHESAVIOR
+A$AP Twelvyy|Powers Pleasant
+A$AP Twelvyy|Beast Coast
+A$AP Twelvyy|Nyck Caution
+A$AP Twelvyy|A$AP Mob
+A$AP Twelvyy|Joey Fatts
+A$AP Twelvyy|CJ Fly
+A$AP Twelvyy|A$AP Ferg
+A$AP Twelvyy|Mick Jenkins
+A$AP Twelvyy|Erick the Architect
+A$AP Twelvyy|The Underachievers
+A$AP Twelvyy|Bodega Bamz
+A$AP Twelvyy|Cousin Stizz
+A$AP Twelvyy|Flatbush Zombies
+A$AP Twelvyy|A$AP ANT
+A$AP Twelvyy|Reese LAFLARE
+A$AP Twelvyy|Cozz
+A$AP Twelvyy|REASON
+A$AP Twelvyy|Issa Gold
+Dizzy Wright|Jarren Benton
+Dizzy Wright|Casey Veggies
+Dizzy Wright|Rittz
+Dizzy Wright|Ab-Soul
+Dizzy Wright|Flatbush Zombies
+Dizzy Wright|Chevy Woods
+Dizzy Wright|Smoke DZA
+Dizzy Wright|Demrick
+Dizzy Wright|Mark Battles
+Dizzy Wright|Caskey
+Dizzy Wright|Chuuwee
+Dizzy Wright|Locksmith
+Dizzy Wright|Futuristic
+Dizzy Wright|CES Cru
+Dizzy Wright|Chris Webby
+Dizzy Wright|Stevie Stone
+Dizzy Wright|Stalley
+Dizzy Wright|¡MAYDAY!
+Dizzy Wright|Young Roddy
+Dizzy Wright|Dom Kennedy
+Odd Future|MellowHype
+Odd Future|Domo Genesis
+Odd Future|Casey Veggies
+Odd Future|Earl Sweatshirt
+Odd Future|Jet Age of Tomorrow
+Odd Future|Mike G
+Odd Future|MellowHigh
+Odd Future|Danny Brown
+Odd Future|Lil B
+Odd Future|JPEGMAFIA
+Odd Future|Matt Martians
+Odd Future|Vince Staples
+Odd Future|Kevin Abstract
+Odd Future|King Geedorah
+Odd Future|Madvillain
+Odd Future|The Internet
+Odd Future|Ameer Vann
+Odd Future|Viktor Vaughn
+Odd Future|MAVI
+Odd Future|Hodgy
+BROCKHAMPTON|JPEGMAFIA
+BROCKHAMPTON|Injury Reserve
+BROCKHAMPTON|Tierra Whack
+BROCKHAMPTON|Kevin Abstract
+BROCKHAMPTON|070 Shake
+BROCKHAMPTON|Duckwrth
+BROCKHAMPTON|Aminé
+BROCKHAMPTON|Ameer Vann
+BROCKHAMPTON|slowthai
+BROCKHAMPTON|Yeek
+BROCKHAMPTON|Choker
+BROCKHAMPTON|Saba
+BROCKHAMPTON|Denzel Curry
+BROCKHAMPTON|IDK
+BROCKHAMPTON|Bakar
+BROCKHAMPTON|Vince Staples
+BROCKHAMPTON|Danny Brown
+BROCKHAMPTON|Jaden
+BROCKHAMPTON|Smino
+BROCKHAMPTON|Noname
+Miguel|TWENTY88
+Miguel|Majid Jordan
+Miguel|dvsn
+Miguel|Brent Faiyaz
+Miguel|Jhené Aiko
+Miguel|H.E.R.
+Miguel|PARTYNEXTDOOR
+Miguel|Roy Woods
+Miguel|Ro James
+Miguel|Bryson Tiller
+Miguel|Xavier Omär
+Miguel|SiR
+Miguel|Jeremih
+Miguel|Teyana Taylor
+Miguel|Syd
+Miguel|Trey Songz
+Miguel|Jazmine Sullivan
+Miguel|Keyshia Cole
+Miguel|Lloyd
+Miguel|The-Dream
+The Internet|Matt Martians
+The Internet|Free Nationals
+The Internet|Ravyn Lenae
+The Internet|Syd
+The Internet|Solange
+The Internet|bLAck pARty
+The Internet|Noname
+The Internet|LION BABE
+The Internet|Leven Kali
+The Internet|Choker
+The Internet|SiR
+The Internet|Steve Lacy
+The Internet|Xavier Omär
+The Internet|Blood Orange
+The Internet|Domo Genesis
+The Internet|Kelela
+The Internet|Phony Ppl
+The Internet|Ari Lennox
+The Internet|GoldLink
+The Internet|NxWorries
+JPEGMAFIA|Injury Reserve
+JPEGMAFIA|Lil Ugly Mane
+JPEGMAFIA|Kevin Abstract
+JPEGMAFIA|IDK
+JPEGMAFIA|Ameer Vann
+JPEGMAFIA|Zelooperz
+JPEGMAFIA|BROCKHAMPTON
+JPEGMAFIA|Death Grips
+JPEGMAFIA|Danny Brown
+JPEGMAFIA|slowthai
+JPEGMAFIA|Denzel Curry
+JPEGMAFIA|clipping.
+JPEGMAFIA|Standing On The Corner
+JPEGMAFIA|MIKE
+JPEGMAFIA|Vince Staples
+JPEGMAFIA|Earl Sweatshirt
+JPEGMAFIA|MAVI
+JPEGMAFIA|Armand Hammer
+JPEGMAFIA|Navy Blue
+JPEGMAFIA|billy woods
+Jhené Aiko|Keyshia Cole
+Jhené Aiko|Sevyn Streeter
+Jhené Aiko|Teyana Taylor
+Jhené Aiko|Miguel
+Jhené Aiko|Jeremih
+Jhené Aiko|Jazmine Sullivan
+Jhené Aiko|K. Michelle
+Jhené Aiko|Trey Songz
+Jhené Aiko|Keri Hilson
+Jhené Aiko|The-Dream
+Jhené Aiko|TWENTY88
+Jhené Aiko|Solange
+Jhené Aiko|Bryson Tiller
+Jhené Aiko|Aaliyah
+Jhené Aiko|Mario
+Jhené Aiko|Mila J
+Jhené Aiko|August Alsina
+Jhené Aiko|Brandy
+Jhené Aiko|Queen Naija
+Jhené Aiko|Lloyd
+Steve Lacy|Free Nationals
+Steve Lacy|Matt Martians
+Steve Lacy|Choker
+Steve Lacy|Yeek
+Steve Lacy|The Internet
+Steve Lacy|Omar Apollo
+Steve Lacy|bLAck pARty
+Steve Lacy|Odd Future
+Steve Lacy|Ravyn Lenae
+Steve Lacy|Kevin Abstract
+Steve Lacy|Jakob
+Steve Lacy|Duckwrth
+Steve Lacy|Earl Sweatshirt
+Steve Lacy|Smino
+Steve Lacy|Blood Orange
+Steve Lacy|Paperboy Fabe
+Steve Lacy|Shelly
+Steve Lacy|TV Girl
+Steve Lacy|Cosmo Pyke
+Steve Lacy|Noname
+Solange|Jazmine Sullivan
+Solange|Teyana Taylor
+Solange|Tweet
+Solange|Teedra Moses
+Solange|Janelle Monáe
+Solange|Jill Scott
+Solange|Kelis
+Solange|Aaliyah
+Solange|Brandy
+Solange|Chloe x Halle
+Solange|Erykah Badu
+Solange|Mýa
+Solange|Kelly Rowland
+Solange|Amerie
+Solange|Lil' Kim
+Solange|Kelela
+Solange|Azealia Banks
+Solange|Blood Orange
+Solange|The Internet
+Solange|The Carters
+The Underachievers|Kirk Knight
+The Underachievers|Erick the Architect
+The Underachievers|Nyck Caution
+The Underachievers|CJ Fly
+The Underachievers|AKTHESAVIOR
+The Underachievers|A$AP Twelvyy
+The Underachievers|Powers Pleasant
+The Underachievers|Mick Jenkins
+The Underachievers|Issa Gold
+The Underachievers|Chuck Strangers
+The Underachievers|Bishop Nehru
+The Underachievers|Flatbush Zombies
+The Underachievers|YGTUT
+The Underachievers|Bodega Bamz
+The Underachievers|Chester Watson
+The Underachievers|A$AP Mob
+The Underachievers|Alex Wiley
+The Underachievers|A$AP ANT
+The Underachievers|Joey Bada$$
+The Underachievers|REASON
+Domo Genesis|MellowHigh
+Domo Genesis|Casey Veggies
+Domo Genesis|Jet Age of Tomorrow
+Domo Genesis|Vince Staples
+Domo Genesis|Odd Future
+Domo Genesis|Hodgy
+Domo Genesis|Sir Michael Rocks
+Domo Genesis|Danny Brown
+Domo Genesis|Flatbush Zombies
+Domo Genesis|Mike G
+Domo Genesis|Earl Sweatshirt
+Domo Genesis|Freddie Gibbs
+Domo Genesis|Ab-Soul
+Domo Genesis|Tyler, The Creator
+Domo Genesis|VRITRA
+Domo Genesis|MellowHype
+Domo Genesis|Big K.R.I.T.
+Domo Genesis|Syd
+Domo Genesis|Boldy James
+Domo Genesis|Chuuwee
+Mick Jenkins|Pivot Gang
+Mick Jenkins|Kirk Knight
+Mick Jenkins|CJ Fly
+Mick Jenkins|Saba
+Mick Jenkins|Rejjie Snow
+Mick Jenkins|Erick the Architect
+Mick Jenkins|Nyck Caution
+Mick Jenkins|Childish Major
+Mick Jenkins|Buddy
+Mick Jenkins|Sylvan LaCue
+Mick Jenkins|Isaiah Rashad
+Mick Jenkins|AKTHESAVIOR
+Mick Jenkins|NxWorries
+Mick Jenkins|Joey Purp
+Mick Jenkins|EARTHGANG
+Mick Jenkins|Dave B.
+Mick Jenkins|Smino
+Mick Jenkins|The Underachievers
+Mick Jenkins|Noname
+Mick Jenkins|Lute
+Kirk Knight|Nyck Caution
+Kirk Knight|Powers Pleasant
+Kirk Knight|Erick the Architect
+Kirk Knight|AKTHESAVIOR
+Kirk Knight|Lou From Paradise
+Kirk Knight|The Underachievers
+Kirk Knight|A$AP Twelvyy
+Kirk Knight|Bishop Nehru
+Kirk Knight|Mick Jenkins
+Kirk Knight|Aaron Rose
+Kirk Knight|Chester Watson
+Kirk Knight|Chuck Strangers
+Kirk Knight|Anonymuz
+Kirk Knight|Issa Gold
+Kirk Knight|Lord Lu C N
+Kirk Knight|CJ Fly
+Kirk Knight|Saba
+Kirk Knight|Lute
+Kirk Knight|Woodie Smalls
+Kirk Knight|YGTUT
+Nipsey Hussle|Dom Kennedy
+Nipsey Hussle|Big K.R.I.T.
+Nipsey Hussle|Rick Ross
+Nipsey Hussle|Fabolous
+Nipsey Hussle|DJ Drama
+Nipsey Hussle|Problem
+Nipsey Hussle|Juelz Santana
+Nipsey Hussle|Jay Rock
+Nipsey Hussle|Lloyd Banks
+Nipsey Hussle|Jim Jones
+Nipsey Hussle|Stalley
+Nipsey Hussle|The Diplomats
+Nipsey Hussle|CyHi The Prynce
+Nipsey Hussle|Styles P
+Nipsey Hussle|Beanie Sigel
+Nipsey Hussle|Curren$y
+Nipsey Hussle|Smoke DZA
+Nipsey Hussle|Pusha T
+Nipsey Hussle|The Game
+Nipsey Hussle|Wale
+Cordae|YBN Nahmir
+Cordae|Almighty Jay
+Cordae|Stunna 4 Vegas
+Cordae|Flipp Dinero
+Cordae|Kota the Friend
+Cordae|Ugly God
+Cordae|Joey Trap
+Cordae|Wifisfuneral
+Cordae|IDK
+Cordae|Famous Dex
+Cordae|Lil Gnar
+Cordae|Comethazine
+Cordae|Blueface
+Cordae|EARTHGANG
+Cordae|Nebu Kiniza
+Cordae|Lute
+Cordae|Smino
+Cordae|Denzel Curry
+Cordae|Saba
+Cordae|BlocBoy JB
+Donnie Trumpet & The Social Experiment|Towkio
+Donnie Trumpet & The Social Experiment|Shelley FKA DRAM
+Donnie Trumpet & The Social Experiment|Kids These Days
+Donnie Trumpet & The Social Experiment|Joey Purp
+Donnie Trumpet & The Social Experiment|Taylor Bennett
+Donnie Trumpet & The Social Experiment|Raury
+Donnie Trumpet & The Social Experiment|Alex Wiley
+Donnie Trumpet & The Social Experiment|NxWorries
+Donnie Trumpet & The Social Experiment|GoldLink
+Donnie Trumpet & The Social Experiment|Saba
+Donnie Trumpet & The Social Experiment|Smino
+Donnie Trumpet & The Social Experiment|VIC MENSA
+Donnie Trumpet & The Social Experiment|Noname
+Donnie Trumpet & The Social Experiment|Chance the Rapper
+Donnie Trumpet & The Social Experiment|Mick Jenkins
+Donnie Trumpet & The Social Experiment|Donnie Trumpet
+Donnie Trumpet & The Social Experiment|Peter CottonTale
+Donnie Trumpet & The Social Experiment|Pivot Gang
+Donnie Trumpet & The Social Experiment|Jamila Woods
+Donnie Trumpet & The Social Experiment|Pell
+Noname|Donnie Trumpet & The Social Experiment
+Noname|Rejjie Snow
+Noname|Mick Jenkins
+Noname|NxWorries
+Noname|Shelley FKA DRAM
+Noname|Choker
+Noname|GoldLink
+Noname|Jean Deaux
+Noname|Smino
+Noname|Injury Reserve
+Noname|Tierra Whack
+Noname|Duckwrth
+Noname|JPEGMAFIA
+Noname|Pivot Gang
+Noname|Phony Ppl
+Noname|monte booker
+Noname|Saba
+Noname|Ravyn Lenae
+Noname|Domo Genesis
+Noname|Jamila Woods
+Aminé|Mick Jenkins
+Aminé|Buddy
+Aminé|Injury Reserve
+Aminé|Duckwrth
+Aminé|BROCKHAMPTON
+Aminé|Kota the Friend
+Aminé|Tierra Whack
+Aminé|GoldLink
+Aminé|IDK
+Aminé|Saba
+Aminé|Smino
+Aminé|JPEGMAFIA
+Aminé|Ameer Vann
+Aminé|Rejjie Snow
+Aminé|Lute
+Aminé|Joey Purp
+Aminé|Noname
+Aminé|Isaiah Rashad
+Aminé|EARTHGANG
+Aminé|tobi lou
+Phony Ppl|Topaz Jones
+Phony Ppl|BJ The Chicago Kid
+Phony Ppl|Matt Martians
+Phony Ppl|NxWorries
+Phony Ppl|bLAck pARty
+Phony Ppl|Duckwrth
+Phony Ppl|Choker
+Phony Ppl|monte booker
+Phony Ppl|Rejjie Snow
+Phony Ppl|Domo Genesis
+Phony Ppl|Saba
+Phony Ppl|Elujay
+Phony Ppl|Terrace Martin
+Phony Ppl|Jay Prince
+Phony Ppl|Sunni Colón
+Phony Ppl|JMSN
+Phony Ppl|Iman Omari
+Phony Ppl|Noname
+Phony Ppl|Yeek
+Phony Ppl|GoldLink
+Shelley FKA DRAM|Taylor Bennett
+Shelley FKA DRAM|Ugly God
+Shelley FKA DRAM|Noname
+Shelley FKA DRAM|Donnie Trumpet & The Social Experiment
+Shelley FKA DRAM|VIC MENSA
+Shelley FKA DRAM|Maxo Kream
+Shelley FKA DRAM|NxWorries
+Shelley FKA DRAM|ILOVEMAKONNEN
+Shelley FKA DRAM|Saba
+Shelley FKA DRAM|Smino
+Shelley FKA DRAM|GoldLink
+Shelley FKA DRAM|Jidenna
+Shelley FKA DRAM|Deante' Hitchcock
+Shelley FKA DRAM|BJ The Chicago Kid
+Shelley FKA DRAM|Leven Kali
+Shelley FKA DRAM|Xavier Omär
+Shelley FKA DRAM|SiR
+Shelley FKA DRAM|MadeinTYO
+Shelley FKA DRAM|Childish Major
+Shelley FKA DRAM|VanJess
+BJ The Chicago Kid|Dom Kennedy
+BJ The Chicago Kid|Phony Ppl
+BJ The Chicago Kid|Terrace Martin
+BJ The Chicago Kid|Stalley
+BJ The Chicago Kid|Big K.R.I.T.
+BJ The Chicago Kid|Ab-Soul
+BJ The Chicago Kid|Casey Veggies
+BJ The Chicago Kid|JMSN
+BJ The Chicago Kid|Smoke DZA
+BJ The Chicago Kid|SiR
+BJ The Chicago Kid|Phonte
+BJ The Chicago Kid|CyHi The Prynce
+BJ The Chicago Kid|The Foreign Exchange
+BJ The Chicago Kid|Iman Omari
+BJ The Chicago Kid|NxWorries
+BJ The Chicago Kid|OverDoz.
+BJ The Chicago Kid|Curren$y
+BJ The Chicago Kid|Thurz
+BJ The Chicago Kid|Rapsody
+BJ The Chicago Kid|Blu
+Saba|Smino
+Saba|Joey Purp
+Saba|Donnie Trumpet & The Social Experiment
+Saba|Mick Jenkins
+Saba|Kota the Friend
+Saba|Buddy
+Saba|EARTHGANG
+Saba|Tierra Whack
+Saba|Pivot Gang
+Saba|Duckwrth
+Saba|Noname
+Saba|Lute
+Saba|NxWorries
+Saba|Lance Skiiiwalker
+Saba|Raury
+Saba|Caleborate
+Saba|Taylor Bennett
+Saba|IDK
+Saba|Dave B.
+Saba|Childish Major
+Taylor Bennett|Brian Fresco
+Taylor Bennett|Kweku Collins
+Taylor Bennett|VIC MENSA
+Taylor Bennett|Jay Prince
+Taylor Bennett|Shelley FKA DRAM
+Taylor Bennett|Donnie Trumpet & The Social Experiment
+Taylor Bennett|Supa Bwe
+Taylor Bennett|Towkio
+Taylor Bennett|Dave B.
+Taylor Bennett|Michael Christmas
+Taylor Bennett|Felly
+Taylor Bennett|MFnMelo
+Taylor Bennett|Jalen Santoy
+Taylor Bennett|Healy
+Taylor Bennett|Sylvan LaCue
+Taylor Bennett|Saba
+Taylor Bennett|Rexx Life Raj
+Taylor Bennett|Pell
+Taylor Bennett|Joey Purp
+Taylor Bennett|Caleborate
+Injury Reserve|JPEGMAFIA
+Injury Reserve|Ameer Vann
+Injury Reserve|Kevin Abstract
+Injury Reserve|Zelooperz
+Injury Reserve|Lil Ugly Mane
+Injury Reserve|slowthai
+Injury Reserve|clipping.
+Injury Reserve|Armand Hammer
+Injury Reserve|Duckwrth
+Injury Reserve|Danny Brown
+Injury Reserve|Joey Purp
+Injury Reserve|The Koreatown Oddity
+Injury Reserve|Little Simz
+Injury Reserve|Saba
+Injury Reserve|Backxwash
+Injury Reserve|Standing On The Corner
+Injury Reserve|Mick Jenkins
+Injury Reserve|MIKE
+Injury Reserve|billy woods
+Injury Reserve|Slauson Malone
+WZRD|Theophilus London
+WZRD|MellowHype
+WZRD|Pusha T
+WZRD|Asher Roth
+WZRD|Ab-Soul
+WZRD|Chip Tha Ripper
+WZRD|Lupe Fiasco
+WZRD|King Chip
+WZRD|N.E.R.D
+WZRD|A$AP Rocky
+WZRD|Earl Sweatshirt
+WZRD|Kid Cudi
+WZRD|Domo Genesis
+WZRD|Childish Gambino
+WZRD|Freddie Gibbs
+WZRD|Jay Electronica
+WZRD|Frank Ocean
+WZRD|ScHoolboy Q
+WZRD|Danny Brown
+WZRD|Flatbush Zombies
+Death Grips|Danny Brown
+Death Grips|JPEGMAFIA
+Death Grips|billy woods
+Death Grips|Lil B
+Death Grips|Shabazz Palaces
+Death Grips|The Microphones
+Death Grips|King Geedorah
+Death Grips|Lil Ugly Mane
+Death Grips|Swans
+Death Grips|clipping.
+Death Grips|Daughters
+Death Grips|Have A Nice Life
+Death Grips|Xiu Xiu
+Death Grips|Earl Sweatshirt
+Death Grips|Lightning Bolt
+Death Grips|Cities Aviv
+Death Grips|Sweet Trip
+Death Grips|Injury Reserve
+Death Grips|Viktor Vaughn
+Death Grips|SpaceGhostPurrp
+Westside Gunn|Elcamino
+Westside Gunn|Your Old Droog
+Westside Gunn|Conway the Machine
+Westside Gunn|Roc Marciano
+Westside Gunn|Tha God Fahim
+Westside Gunn|Flee Lord
+Westside Gunn|Hus KingPin
+Westside Gunn|Armand Hammer
+Westside Gunn|ANKHLEJOHN
+Westside Gunn|Benny The Butcher
+Westside Gunn|The Alchemist
+Westside Gunn|Zelooperz
+Westside Gunn|38 Spesh
+Westside Gunn|DJ Muggs
+Westside Gunn|Smoke DZA
+Westside Gunn|Boldy James
+Westside Gunn|MIKE
+Westside Gunn|Skyzoo
+Westside Gunn|Evidence
+Westside Gunn|CRIMEAPPLE
+Madvillain|King Geedorah
+Madvillain|MF DOOM
+Madvillain|Quasimoto
+Madvillain|Viktor Vaughn
+Madvillain|KMD
+Madvillain|DANGERDOOM
+Madvillain|Deltron 3030
+Madvillain|Jaylib
+Madvillain|Nehruviandoom
+Madvillain|Madlib
+Madvillain|Lootpack
+Madvillain|The Pharcyde
+Madvillain|Black Star
+Madvillain|J Dilla
+Madvillain|Del The Funky Homosapien
+Madvillain|CZARFACE
+Madvillain|A Tribe Called Quest
+Madvillain|Digable Planets
+Madvillain|MED
+Madvillain|JJ DOOM
+Spellling|Lingua Ignota
+Spellling|black midi
+Spellling|Injury Reserve
+Spellling|Black Country, New Road
+Spellling|Backxwash
+Spellling|Moor Mother
+Spellling|Xiu Xiu
+Spellling|Sweet Trip
+Spellling|Daughters
+Spellling|Genesis Owusu
+Spellling|Armand Hammer
+Spellling|Clarence Clarity
+Spellling|Julia Holter
+Spellling|Magdalena Bay
+Spellling|illuminati hotties
+Spellling|Swans
+Spellling|Alexis Marshall
+Spellling|Black Dresses
+Spellling|Parannoul
+Spellling|L'Rain
+JID|Bas
+JID|Lute
+JID|Spillage Village
+JID|IDK
+JID|EARTHGANG
+JID|Deante' Hitchcock
+JID|Beast Coast
+JID|Guapdad 4000
+JID|Cozz
+JID|REASON
+JID|Childish Major
+JID|Saba
+JID|Buddy
+JID|WESTSIDE BOOGIE
+JID|Smino
+JID|Mick Jenkins
+JID|Injury Reserve
+JID|The Underachievers
+JID|Isaiah Rashad
+JID|Kirk Knight
+redveil|MAVI
+redveil|Maxo
+redveil|Medhane
+redveil|MIKE
+redveil|Navy Blue
+redveil|Kenny Mason
+redveil|Femdot
+redveil|Young Wabo
+redveil|Ovrkast.
+redveil|Zelooperz
+redveil|Slauson Malone
+redveil|Pink Siifu
+redveil|Paris Texas
+redveil|ZekeUltra
+redveil|AG Club
+redveil|Knxwledge
+redveil|Trapo
+redveil|mezleaks
+redveil|The Alchemist
+redveil|Standing On The Corner
+MAVI|Standing On The Corner
+MAVI|Navy Blue
+MAVI|Maxo
+MAVI|MIKE
+MAVI|redveil
+MAVI|Pink Siifu
+MAVI|Medhane
+MAVI|Ovrkast.
+MAVI|Zelooperz
+MAVI|Slauson Malone
+MAVI|AKAI SOLO
+MAVI|Sideshow
+MAVI|Armand Hammer
+MAVI|mezleaks
+MAVI|ZekeUltra
+MAVI|Mach-Hommy
+MAVI|billy woods
+MAVI|Knxwledge
+MAVI|The Alchemist
+MAVI|Liv.e
+Casey Veggies|Mike G
+Casey Veggies|MellowHype
+Casey Veggies|Domo Genesis
+Casey Veggies|MellowHigh
+Casey Veggies|Sir Michael Rocks
+Casey Veggies|brandUn DeShay
+Casey Veggies|Vince Staples
+Casey Veggies|Jet Age of Tomorrow
+Casey Veggies|Dom Kennedy
+Casey Veggies|OverDoz.
+Casey Veggies|Stalley
+Casey Veggies|Pac Div
+Casey Veggies|Ab-Soul
+Casey Veggies|Trademark Da Skydiver
+Casey Veggies|Polyester the Saint
+Casey Veggies|Big K.R.I.T.
+Casey Veggies|Rockie Fresh
+Casey Veggies|Hodgy
+Casey Veggies|Chevy Woods
+Casey Veggies|Young Roddy
+MellowHype|Mike G
+MellowHype|MellowHigh
+MellowHype|Domo Genesis
+MellowHype|Casey Veggies
+MellowHype|Jet Age of Tomorrow
+MellowHype|Vince Staples
+MellowHype|Earl Sweatshirt
+MellowHype|SpaceGhostPurrp
+MellowHype|brandUn DeShay
+MellowHype|Odd Future
+MellowHype|Lil B
+MellowHype|Sir Michael Rocks
+MellowHype|Tyler, The Creator
+MellowHype|Left Brain
+MellowHype|Danny Brown
+MellowHype|Hodgy
+MellowHype|Matt Martians
+MellowHype|The Cool Kids
+MellowHype|Pusha T
+MellowHype|Death Grips
+MellowHigh|MellowHype
+MellowHigh|Casey Veggies
+MellowHigh|Domo Genesis
+MellowHigh|Vince Staples
+MellowHigh|Jet Age of Tomorrow
+MellowHigh|brandUn DeShay
+MellowHigh|Left Brain
+MellowHigh|Earl Sweatshirt
+MellowHigh|Sir Michael Rocks
+MellowHigh|VRITRA
+MellowHigh|SpaceGhostPurrp
+MellowHigh|Flatbush Zombies
+MellowHigh|Mike G
+MellowHigh|Danny Brown
+MellowHigh|Hodgy
+MellowHigh|Odd Future
+MellowHigh|Joey Bada$$
+MellowHigh|Action Bronson
+MellowHigh|Lil B
+MellowHigh|Ab-Soul
+Navy Blue|MIKE
+Navy Blue|Medhane
+Navy Blue|AKAI SOLO
+Navy Blue|Standing On The Corner
+Navy Blue|Maxo
+Navy Blue|Pink Siifu
+Navy Blue|MAVI
+Navy Blue|Ovrkast.
+Navy Blue|Sideshow
+Navy Blue|Zelooperz
+Navy Blue|Liv.e
+Navy Blue|Wiki
+Navy Blue|Tha God Fahim
+Navy Blue|Ka
+Navy Blue|Mach-Hommy
+Navy Blue|Chris Keys
+Navy Blue|Armand Hammer
+Navy Blue|Lord Apex
+Navy Blue|Slauson Malone
+Navy Blue|billy woods
+Lil B|Danny Brown
+Lil B|SpaceGhostPurrp
+Lil B|Yung Bruh
+Lil B|Lil Ugly Mane
+Lil B|Sickboyrari
+Lil B|Black Kray
+Lil B|Cities Aviv
+Lil B|Clams Casino
+Lil B|Sematary
+Lil B|Cartier God
+Lil B|Chris Travis
+Lil B|Thaiboy Digital
+Lil B|Ecco2k
+Lil B|RXKNephew
+Lil B|Duwap Kaine
+Lil B|CHXPO
+Lil B|Fredo Santana
+Lil B|jonatan leandoer96
+Lil B|Hi-C
+Lil B|Woesum
+Nas|Big L
+Nas|AZ
+Nas|Mobb Deep
+Nas|Big Pun
+Nas|Raekwon
+Nas|Mos Def
+Nas|The LOX
+Nas|Gang Starr
+Nas|Ghostface Killah
+Nas|Redman
+Nas|Method Man
+Nas|Jadakiss
+Nas|Styles P
+Nas|Royce Da 5'9"
+Nas|GZA
+Nas|Rakim
+Nas|Common
+Nas|Cam’ron
+Nas|Lloyd Banks
+Nas|Black Star
+Fat Joe|Fabolous
+Fat Joe|Big Pun
+Fat Joe|Beanie Sigel
+Fat Joe|The LOX
+Fat Joe|Lloyd Banks
+Fat Joe|Memphis Bleek
+Fat Joe|Juelz Santana
+Fat Joe|N.O.R.E.
+Fat Joe|DJ Clue
+Fat Joe|Cassidy
+Fat Joe|Styles P
+Fat Joe|Jim Jones
+Fat Joe|Jadakiss
+Fat Joe|G-Unit
+Fat Joe|Capone-N-Noreaga
+Fat Joe|AZ
+Fat Joe|Mase
+Fat Joe|The Diplomats
+Fat Joe|Sheek Louch
+Fat Joe|Cam’ron
+The Carters|Lil' Kim
+The Carters|Normani
+The Carters|Jazmine Sullivan
+The Carters|Kelly Rowland
+The Carters|JAY-Z
+The Carters|Solange
+The Carters|Trina
+The Carters|Teyana Taylor
+The Carters|Janelle Monáe
+The Carters|Amerie
+The Carters|Sevyn Streeter
+The Carters|Ari Lennox
+The Carters|Fantasia
+The Carters|Kash Doll
+The Carters|Chloe x Halle
+The Carters|Brandy
+The Carters|Victoria Monét
+The Carters|Tinashe
+The Carters|TWENTY88
+The Carters|Tamar Braxton
+Cam’ron|Jim Jones
+Cam’ron|Juelz Santana
+Cam’ron|Sheek Louch
+Cam’ron|Beanie Sigel
+Cam’ron|The Diplomats
+Cam’ron|The LOX
+Cam’ron|Memphis Bleek
+Cam’ron|Freeway
+Cam’ron|Styles P
+Cam’ron|N.O.R.E.
+Cam’ron|Shyne
+Cam’ron|Uncle Murda
+Cam’ron|Papoose
+Cam’ron|Jadakiss
+Cam’ron|Lloyd Banks
+Cam’ron|Joe Budden
+Cam’ron|Max B
+Cam’ron|JR Writer
+Cam’ron|Cassidy
+Cam’ron|DJ Clue
+Beanie Sigel|Sheek Louch
+Beanie Sigel|Memphis Bleek
+Beanie Sigel|Styles P
+Beanie Sigel|Shyne
+Beanie Sigel|N.O.R.E.
+Beanie Sigel|Juelz Santana
+Beanie Sigel|Papoose
+Beanie Sigel|Black Rob
+Beanie Sigel|Young Gunz
+Beanie Sigel|G. Dep
+Beanie Sigel|Drag-On
+Beanie Sigel|Freeway
+Beanie Sigel|Joe Budden
+Beanie Sigel|Uncle Murda
+Beanie Sigel|DJ Clue
+Beanie Sigel|The LOX
+Beanie Sigel|The Diplomats
+Beanie Sigel|Cassidy
+Beanie Sigel|Jadakiss
+Beanie Sigel|Vado
