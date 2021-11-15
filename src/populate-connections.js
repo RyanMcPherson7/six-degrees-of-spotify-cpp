@@ -2,12 +2,19 @@ import getRelatedArtists from './get-related-artists.js';
 import fs from 'fs';
 
 // writes specified # artists connections to connections.txt
-const populateConnections = async (processingQueue, numArtists) => {
-  let artistIdSet = new Set();
+const populateConnections = async (
+  processingQueue,
+  artistIdSet,
+  numArtists
+) => {
+  let count = 0;
 
-  while (artistIdSet.size < numArtists) {
+  while (count != numArtists) {
     const qSize = processingQueue.size;
     for (let i = 0; i < qSize; i++) {
+      if (count == numArtists) break;
+
+      count++;
       let currentName, currentId;
       [currentName, currentId] = processingQueue.dequeue();
 
