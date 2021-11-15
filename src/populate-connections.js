@@ -14,11 +14,11 @@ const populateConnections = async (
     for (let i = 0; i < qSize; i++) {
       if (count == numArtists) break;
 
-      count++;
       let currentName, currentId;
       [currentName, currentId] = processingQueue.dequeue();
 
       if (!artistIdSet.has(currentId)) {
+        count++;
         artistIdSet.add(currentId);
         const res = await getRelatedArtists(currentId);
         const data = res.artists;

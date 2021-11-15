@@ -14,11 +14,12 @@ processQ.enqueue(['Tame Impala', '5INjqkS1o8h1imAzPqGZBb']);
 processQ.enqueue(['Bad Bunny', '4q3ewBCX7sLwd24euuV69X']);
 
 // populating data file
-const NUM_ARTISTS = 2000;
-const ARTIST_PER_REQUEST = 100;
+const NUM_ARTISTS = 13000;
+const ARTIST_PER_REQUEST = 400;
+const MINUTE_DELAY = 5;
 
 for (let i = 0; i < NUM_ARTISTS / ARTIST_PER_REQUEST; i++) {
   setTimeout(() => {
     populateConnections(processQ, artistIdSet, ARTIST_PER_REQUEST);
-  }, 60000 * i);
+  }, MINUTE_DELAY * 60000 * i);
 }
