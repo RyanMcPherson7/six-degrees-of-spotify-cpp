@@ -4,7 +4,7 @@ import fs from 'fs';
 
 // reading already processed artists
 let artistIdSet = new Set();
-fs.readFile('artistIdSet.txt', 'utf8', (err, data) => {
+fs.readFile('./data/artist-set-id2.txt', 'utf8', (err, data) => {
   if (err) throw err;
 
   data = data.split(',');
@@ -38,11 +38,15 @@ let processQ = new Queue();
 // processQ.enqueue(['Post Malone', '246dkjvS1zLTtiykXe5h60']);
 // processQ.enqueue(['Imagine Dragons', '53XhwfbYqKCa1cC15pYq2q']);
 
+processQ.enqueue(['Cormega', '4vQLu6vYK0hp8k0fsAzsU8']);
+
+
+
 // TODO: lady gaga, pink floyd, and artists listed on this page
 // https://open.spotify.com/playlist/33Re55lSgkd5XzB6YMhFZA
 
 console.log('loading processed artists...');
 setTimeout(() => {
   console.log('Initialize scraping');
-  populateConnections(processQ, artistIdSet, 10000);
+  populateConnections(processQ, artistIdSet, 10000, 50);
 }, 10000);

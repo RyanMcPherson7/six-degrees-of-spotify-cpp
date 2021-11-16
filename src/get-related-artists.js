@@ -24,6 +24,7 @@ const getToken = async () => {
 // returns related artists list for specified artistId
 const getRelatedArtists = async (artistId) => {
   const token = await getToken();
+  // console.log(token);
 
   const res = await axios({
     method: 'get',
