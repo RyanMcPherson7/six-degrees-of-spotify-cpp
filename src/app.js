@@ -24,10 +24,22 @@ let processQ = new Queue();
 // processQ.enqueue(['Drake', '3TVXtAsR1Inumwj472S9r4']);
 // processQ.enqueue(['Anderson .Paak', '3jK9MiCrA42lLAdMGUZpwa']);
 // processQ.enqueue(['The Weeknd', '1Xyo4u8uXC1ZmMpatF05PJ']);
-processQ.enqueue(['Coldplay', '4gzpq5DPGxSnKTe4SA8HAU']);
+// processQ.enqueue(['Coldplay', '4gzpq5DPGxSnKTe4SA8HAU']);
+// processQ.enqueue(['Logic', '4xRYI6VqpkE3UwrDrAZL8L']);
+// processQ.enqueue(['Dua Lipa', '6M2wZ9GZgrQXHCFfjv46we']);
+// processQ.enqueue(['Doja Cat', '5cj0lLjcoR7YOSnhnX0Po5']);
+// processQ.enqueue(['Lil Nas X', '7jVv8c5Fj3E9VhNjxT4snq']);
 // processQ.enqueue(['The Beatles', '3WrFJ7ztbogyGnTHbHJFl2']);
 // processQ.enqueue(['Michael Jackson', '3fMbdgg4jU18AjLCKBhRSm']);
 // processQ.enqueue(['Bad Bunny', '4q3ewBCX7sLwd24euuV69X']);
+// processQ.enqueue(['Olivia Rodrigo', '1McMsnEElThX1knmY4oliG']);
+// processQ.enqueue(['Calvin Harris', '7CajNmpbOovFoOoasH2HaY']);
+// processQ.enqueue(['Billie Eilish', '6qqNVTkY8uBg9cP3Jd7DAH']);
+// processQ.enqueue(['Post Malone', '246dkjvS1zLTtiykXe5h60']);
+// processQ.enqueue(['Imagine Dragons', '53XhwfbYqKCa1cC15pYq2q']);
+
+// TODO: lady gaga, pink floyd, and artists listed on this page
+// https://open.spotify.com/playlist/33Re55lSgkd5XzB6YMhFZA
 
 console.log('loading processed artists...');
 setTimeout(() => {
