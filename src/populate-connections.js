@@ -17,13 +17,14 @@ const populateConnections = async (
     for (let i = 0; i < qSize; i++) {
       if (count === numArtists) break;
 
+      count++;
       let currentName, currentId;
       [currentName, currentId] = processingQueue.dequeue();
 
       // process id if not already processed
       if (!artistIdSet.has(currentId)) {
         artistIdSet.add(currentId);
-        fs.appendFile('./data/artist-set-id2.txt', `${currentId},`, (err) => {
+        fs.appendFile('./data/artist-set-id.txt', `${currentId},`, (err) => {
           if (err) throw err;
         });
 
@@ -34,10 +35,9 @@ const populateConnections = async (
         data.forEach((artist) => {
           // if popular enough, process artist id
           if (artist.popularity >= popularityThreshold) {
-            count++;
             processingQueue.enqueue([artist.name, artist.id]);
             fs.appendFile(
-              './data/connections2.txt',
+              './data/connections.txt',
               `${currentName} -> ${artist.name}\n`,
               (err) => {
                 if (err) throw err;
@@ -46,7 +46,7 @@ const populateConnections = async (
           } 
         });
       }
-      console.log('# artists found: ', count);
+      console.log('# artists processed: ', count);
     }
   }
 
