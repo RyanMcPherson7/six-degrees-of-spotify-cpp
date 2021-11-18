@@ -1588,7 +1588,7 @@ KYLE -> Marc E. Bassy
 KYLE -> mansionz
 KYLE -> Hoodie Allen
 KYLE -> VIC MENSA
-KYLE -> Futuristic
+KYLE -> turistic
 KYLE -> Arizona Zervas
 KYLE -> Christian French
 KYLE -> Chance the Rapper
@@ -35896,3 +35896,4517 @@ Adele -> Lady Gaga
 Adele -> Meghan Trainor
 Adele -> Lorde
 Adele -> Ellie Goulding
+XXXTENTACION -> Smokepurpp
+XXXTENTACION -> Ski Mask The Slump God
+XXXTENTACION -> Comethazine
+XXXTENTACION -> Wifisfuneral
+XXXTENTACION -> YBN Nahmir
+XXXTENTACION -> Trippie Redd
+XXXTENTACION -> $NOT
+XXXTENTACION -> Internet Money
+XXXTENTACION -> iann dior
+XXXTENTACION -> Lil Yachty
+XXXTENTACION -> Lil Pump
+XXXTENTACION -> Metro Boomin
+XXXTENTACION -> Blueface
+XXXTENTACION -> Lil Uzi Vert
+XXXTENTACION -> Lil Skies
+XXXTENTACION -> Scarlxrd
+XXXTENTACION -> DJ Scheme
+XXXTENTACION -> Tay-K
+XXXTENTACION -> YNW Melly
+XXXTENTACION -> Denzel Curry
+J Balvin -> Maluma
+J Balvin -> Reykon
+J Balvin -> Farruko
+J Balvin -> Zion & Lennox
+J Balvin -> Wisin
+J Balvin -> Arcangel
+J Balvin -> Nicky Jam
+J Balvin -> Manuel Turizo
+J Balvin -> Alexis y Fido
+J Balvin -> Cali Y El Dandee
+J Balvin -> Tainy
+J Balvin -> Yandel
+J Balvin -> Piso 21
+J Balvin -> Jowell & Randy
+J Balvin -> J Alvarez
+J Balvin -> Danny Ocean
+J Balvin -> Justin Quiles
+J Balvin -> De La Ghetto
+J Balvin -> Ñejo
+J Balvin -> Ozuna
+Maluma -> Wolfine
+Maluma -> Reykon
+Maluma -> J Balvin
+Maluma -> Manuel Turizo
+Maluma -> Cali Y El Dandee
+Maluma -> Alkilados
+Maluma -> Greeicy
+Maluma -> Ozuna
+Maluma -> Piso 21
+Maluma -> Sebastian Yatra
+Maluma -> Kevin Roldan
+Maluma -> Ñejo & Dalmata
+Maluma -> Danny Ocean
+Maluma -> Ñejo
+Maluma -> J Alvarez
+Maluma -> Nio Garcia
+Maluma -> Joey Montana
+Maluma -> Mau y Ricky
+Maluma -> Natti Natasha
+Farruko -> J Alvarez
+Farruko -> De La Ghetto
+Farruko -> Ñejo
+Farruko -> Wisin
+Farruko -> Tony Dize
+Farruko -> Jowell & Randy
+Farruko -> Zion & Lennox
+Farruko -> Trebol Clan
+Farruko -> Arcangel
+Farruko -> Alexis y Fido
+Farruko -> Baby Rasta & Gringo
+Farruko -> Cosculluela
+Farruko -> Tego Calderon
+Farruko -> Nicky Jam
+Farruko -> Yandel
+Farruko -> DJ Nelson
+Farruko -> Luny Tunes
+Farruko -> Tito "El Bambino"
+Farruko -> Zion
+Wisin -> Jowell & Randy
+Wisin -> Tony Dize
+Wisin -> De La Ghetto
+Wisin -> Trebol Clan
+Wisin -> Zion & Lennox
+Wisin -> DJ Nelson
+Wisin -> Alexis y Fido
+Wisin -> Tito "El Bambino"
+Wisin -> Zion
+Wisin -> Nicky Jam
+Wisin -> Arcangel
+Wisin -> Baby Rasta & Gringo
+Wisin -> Ñejo
+Wisin -> Tego Calderon
+Wisin -> Luny Tunes
+Wisin -> Hector & Tito
+Wisin -> Yandel
+Wisin -> Cosculluela
+Wisin -> Ivy Queen
+Wisin -> Farruko
+J Alvarez -> Ñejo
+J Alvarez -> De La Ghetto
+J Alvarez -> Baby Rasta & Gringo
+J Alvarez -> Trebol Clan
+J Alvarez -> Cosculluela
+J Alvarez -> Jowell & Randy
+J Alvarez -> Dalmata
+J Alvarez -> DJ Nelson
+J Alvarez -> Zion
+J Alvarez -> Farruko
+J Alvarez -> Tony Dize
+J Alvarez -> Ñejo & Dalmata
+J Alvarez -> Arcangel
+J Alvarez -> Alexis y Fido
+J Alvarez -> Yomo
+J Alvarez -> Zion & Lennox
+J Alvarez -> Yaga & Mackie
+Nicky Jam -> Ñejo
+Nicky Jam -> De La Ghetto
+Nicky Jam -> Zion & Lennox
+Nicky Jam -> Tony Dize
+Nicky Jam -> Alexis y Fido
+Nicky Jam -> Jowell & Randy
+Nicky Jam -> Arcangel
+Nicky Jam -> Luny Tunes
+Nicky Jam -> Trebol Clan
+Nicky Jam -> Wisin
+Nicky Jam -> DJ Nelson
+Nicky Jam -> Cosculluela
+Nicky Jam -> Baby Rasta & Gringo
+Nicky Jam -> Tito "El Bambino"
+Nicky Jam -> Yandel
+Nicky Jam -> Farruko
+Nicky Jam -> Ivy Queen
+Nicky Jam -> Tego Calderon
+Nicky Jam -> Zion
+Nicky Jam -> Yaga & Mackie
+Jowell & Randy -> Trebol Clan
+Jowell & Randy -> De La Ghetto
+Jowell & Randy -> Zion
+Jowell & Randy -> DJ Nelson
+Jowell & Randy -> Ñejo
+Jowell & Randy -> Baby Rasta & Gringo
+Jowell & Randy -> Yomo
+Jowell & Randy -> Alexis y Fido
+Jowell & Randy -> Luny Tunes
+Jowell & Randy -> Tego Calderon
+Jowell & Randy -> Tony Dize
+Jowell & Randy -> Tito "El Bambino"
+Jowell & Randy -> Eddie Dee
+Jowell & Randy -> Cosculluela
+Jowell & Randy -> Zion & Lennox
+Jowell & Randy -> Tempo
+Cosculluela -> Ñejo
+Cosculluela -> Trebol Clan
+Cosculluela -> Jowell & Randy
+Cosculluela -> Yomo
+Cosculluela -> De La Ghetto
+Cosculluela -> Tempo
+Cosculluela -> DJ Nelson
+Cosculluela -> Baby Rasta & Gringo
+Cosculluela -> Zion
+Cosculluela -> Alexis y Fido
+Cosculluela -> J Alvarez
+Cosculluela -> Tego Calderon
+Cosculluela -> Yaga & Mackie
+Cosculluela -> Arcangel
+Cosculluela -> Eddie Dee
+Cosculluela -> Tony Dize
+Baby Rasta & Gringo -> Trebol Clan
+Baby Rasta & Gringo -> Yomo
+Baby Rasta & Gringo -> Zion
+Baby Rasta & Gringo -> Dalmata
+Baby Rasta & Gringo -> De La Ghetto
+Baby Rasta & Gringo -> DJ Nelson
+Baby Rasta & Gringo -> Jowell & Randy
+Baby Rasta & Gringo -> Ñejo
+Baby Rasta & Gringo -> Eddie Dee
+Baby Rasta & Gringo -> Tempo
+Baby Rasta & Gringo -> Luny Tunes
+Baby Rasta & Gringo -> Alexis y Fido
+Baby Rasta & Gringo -> Baby Rasta
+Baby Rasta & Gringo -> Alberto Stylee
+DJ Nelson -> Trebol Clan
+DJ Nelson -> Zion
+DJ Nelson -> Eddie Dee
+DJ Nelson -> Don Chezina
+DJ Nelson -> Tempo
+DJ Nelson -> Luny Tunes
+DJ Nelson -> Alberto Stylee
+DJ Nelson -> Yomo
+DJ Nelson -> Ñejo
+DJ Nelson -> Baby Rasta
+DJ Nelson -> De La Ghetto
+DJ Nelson -> Baby Rasta & Gringo
+DJ Nelson -> Jowell & Randy
+DJ Nelson -> Tego Calderon
+DJ Nelson -> Dalmata
+Hector & Tito -> Ñejo & Dalmata
+Hector & Tito -> Trebol Clan
+Hector & Tito -> DJ Nelson
+Hector & Tito -> Luny Tunes
+Hector & Tito -> Zion
+Hector & Tito -> Jowell & Randy
+Hector & Tito -> Yomo
+Hector & Tito -> Tego Calderon
+Hector & Tito -> Yaga & Mackie
+Hector & Tito -> Tempo
+Hector & Tito -> Eddie Dee
+Hector & Tito -> Baby Rasta
+Yomo -> Tempo
+Yomo -> Eddie Dee
+Yomo -> De La Ghetto
+Yomo -> Zion
+Yomo -> Ñejo
+Yomo -> Baby Rasta
+Yomo -> Trebol Clan
+Yomo -> DJ Nelson
+Yomo -> Alberto Stylee
+Yomo -> Dalmata
+Yaga & Mackie -> Trebol Clan
+Yaga & Mackie -> Alberto Stylee
+Yaga & Mackie -> Eddie Dee
+Yaga & Mackie -> DJ Nelson
+Yaga & Mackie -> Luny Tunes
+Yaga & Mackie -> Yomo
+Yaga & Mackie -> Tempo
+Yaga & Mackie -> De La Ghetto
+Yaga & Mackie -> Don Chezina
+Yaga & Mackie -> Ñejo
+Yaga & Mackie -> Zion
+Yaga & Mackie -> Baby Rasta & Gringo
+Tempo -> Eddie Dee
+Tempo -> Don Chezina
+Tempo -> Trebol Clan
+Tempo -> Yomo
+Tempo -> Alberto Stylee
+Tempo -> Baby Rasta
+Tempo -> DJ Nelson
+Tempo -> Yaviah
+Tempo -> De La Ghetto
+Tempo -> Ñejo
+Tempo -> Tego Calderon
+Tempo -> Baby Rasta & Gringo
+Tempo -> Zion
+Baby Rasta -> Eddie Dee
+Baby Rasta -> Trebol Clan
+Baby Rasta -> Tempo
+Baby Rasta -> Zion
+Baby Rasta -> Yomo
+Baby Rasta -> Ñejo
+Baby Rasta -> Alberto Stylee
+Baby Rasta -> Dalmata
+Baby Rasta -> DJ Nelson
+Baby Rasta -> Don Chezina
+Baby Rasta -> Baby Rasta & Gringo
+Baby Rasta -> De La Ghetto
+Alberto Stylee -> Eddie Dee
+Alberto Stylee -> Don Chezina
+Alberto Stylee -> Yomo
+Alberto Stylee -> Ñejo
+Alberto Stylee -> Baby Rasta
+Alberto Stylee -> Trebol Clan
+Alberto Stylee -> Dalmata
+Alberto Stylee -> John Eric
+Alberto Stylee -> Tego Calderon
+Alberto Stylee -> Tempo
+Alberto Stylee -> De La Ghetto
+Alberto Stylee -> Yaviah
+Don Chezina -> Alberto Stylee
+Don Chezina -> Tempo
+Don Chezina -> Trebol Clan
+Don Chezina -> DJ Nelson
+Don Chezina -> Eddie Dee
+Don Chezina -> Tego Calderon
+Don Chezina -> Baby Rasta
+Don Chezina -> Ñejo
+Don Chezina -> Ivy Queen
+Don Chezina -> Yomo
+Don Chezina -> Yaviah
+Don Chezina -> Zion
+Yaviah -> John Eric
+Yaviah -> Alberto Stylee
+Yaviah -> Yomo
+Yaviah -> Eddie Dee
+Yaviah -> Ñejo
+Yaviah -> Don Chezina
+Yaviah -> Trebol Clan
+Yaviah -> Tempo
+John Eric -> Yaviah
+John Eric -> Alberto Stylee
+John Eric -> Trebol Clan
+John Eric -> Eddie Dee
+John Eric -> Yomo
+John Eric -> Tempo
+Daddy Yankee -> De La Ghetto
+Daddy Yankee -> Alexis y Fido
+Daddy Yankee -> Zion & Lennox
+Daddy Yankee -> Tony Dize
+Daddy Yankee -> Jowell & Randy
+Daddy Yankee -> Nicky Jam
+Daddy Yankee -> Tego Calderon
+Daddy Yankee -> Tito "El Bambino"
+Daddy Yankee -> Wisin
+Daddy Yankee -> Trebol Clan
+Daddy Yankee -> Arcangel
+Daddy Yankee -> Ivy Queen
+Daddy Yankee -> Luny Tunes
+Daddy Yankee -> Yandel
+Daddy Yankee -> Don Omar
+Daddy Yankee -> Wisin & Yandel
+Daddy Yankee -> Baby Rasta & Gringo
+Daddy Yankee -> Zion
+Daddy Yankee -> Ñejo
+Daddy Yankee -> Cosculluela
+Don Omar -> De La Ghetto
+Don Omar -> Tego Calderon
+Don Omar -> Tony Dize
+Don Omar -> Trebol Clan
+Don Omar -> Alexis y Fido
+Don Omar -> Tito "El Bambino"
+Don Omar -> Zion & Lennox
+Don Omar -> Jowell & Randy
+Don Omar -> Ivy Queen
+Don Omar -> Luny Tunes
+Don Omar -> Ñejo
+Don Omar -> Wisin & Yandel
+Don Omar -> Zion
+Don Omar -> Wisin
+Don Omar -> Arcangel
+Don Omar -> Nicky Jam
+Don Omar -> Angel Y Khriz
+Don Omar -> Baby Rasta & Gringo
+Don Omar -> Yandel
+Don Omar -> DJ Nelson
+Wisin & Yandel -> Trebol Clan
+Wisin & Yandel -> Alexis y Fido
+Wisin & Yandel -> De La Ghetto
+Wisin & Yandel -> Tony Dize
+Wisin & Yandel -> Zion & Lennox
+Wisin & Yandel -> Tito "El Bambino"
+Wisin & Yandel -> Zion
+Wisin & Yandel -> Jowell & Randy
+Wisin & Yandel -> Ivy Queen
+Wisin & Yandel -> Luny Tunes
+Wisin & Yandel -> Tego Calderon
+Wisin & Yandel -> DJ Nelson
+Wisin & Yandel -> Ñejo
+Wisin & Yandel -> Angel Y Khriz
+Wisin & Yandel -> Wisin
+Wisin & Yandel -> Baby Rasta & Gringo
+Wisin & Yandel -> Yandel
+Wisin & Yandel -> Arcangel
+Wisin & Yandel -> Cosculluela
+Wisin & Yandel -> Don Omar
+Bradley Cooper -> Tony Bennett
+Bradley Cooper -> Lady Gaga
+Bradley Cooper -> Taron Egerton
+Bradley Cooper -> Hugh Jackman
+Bradley Cooper -> Lily James
+Bradley Cooper -> Emeli Sandé
+Bradley Cooper -> Justin Hurwitz
+Bradley Cooper -> James Bay
+Bradley Cooper -> Rag'n'Bone Man
+Bradley Cooper -> James Morrison
+Bradley Cooper -> Calum Scott
+Bradley Cooper -> Barbra Streisand
+Bradley Cooper -> Paloma Faith
+Tony Bennett -> Julie London
+Tony Bennett -> Dinah Washington
+Tony Bennett -> Sarah Vaughan
+Tony Bennett -> Perry Como
+Tony Bennett -> Diana Krall
+Tony Bennett -> Peggy Lee
+Tony Bennett -> Bobby Darin
+Hugh Jackman -> Andrew Lloyd Webber
+Hugh Jackman -> Josh Gad
+Hugh Jackman -> Idina Menzel
+Hugh Jackman -> Kristin Chenoweth
+Hugh Jackman -> Keala Settle
+Hugh Jackman -> Jonathan Groff
+Hugh Jackman -> Loren Allred
+Hugh Jackman -> Zac Efron
+Justin Hurwitz -> Thomas Newman
+Justin Hurwitz -> Nicholas Britell
+Justin Hurwitz -> Alexandre Desplat
+Justin Hurwitz -> Ludwig Goransson
+Justin Hurwitz -> John Williams
+Justin Hurwitz -> Craig Armstrong
+Justin Hurwitz -> Michael Giacchino
+Justin Hurwitz -> Harry Gregson-Williams
+Justin Hurwitz -> Patrick Doyle
+Justin Hurwitz -> James Newton Howard
+Justin Hurwitz -> Nicholas Hooper
+Justin Hurwitz -> Jean-Yves Thibaudet
+Justin Hurwitz -> Abel Korzeniowski
+Justin Hurwitz -> Dario Marianelli
+Taron Egerton -> Lily James
+Taron Egerton -> Amanda Seyfried
+Taron Egerton -> Zac Efron
+Taron Egerton -> McFly
+Lily James -> Christine Baranski
+Lily James -> Zac Efron
+Lily James -> Meryl Streep
+Lily James -> John Travolta
+Lily James -> Amanda Seyfried
+Lily James -> Keala Settle
+Lily James -> Kristin Chenoweth
+Lily James -> Cher
+Rag'n'Bone Man -> Tom Grennan
+Rag'n'Bone Man -> Ella Henderson
+Rag'n'Bone Man -> Tom Walker
+Rag'n'Bone Man -> Gavin James
+Rag'n'Bone Man -> Emeli Sandé
+Rag'n'Bone Man -> JP Cooper
+Rag'n'Bone Man -> Jacob Banks
+Rag'n'Bone Man -> Paloma Faith
+Rag'n'Bone Man -> James Bay
+Rag'n'Bone Man -> Welshly Arms
+Rag'n'Bone Man -> Bishop Briggs
+Rag'n'Bone Man -> James Morrison
+Rag'n'Bone Man -> Ella Eyre
+Rag'n'Bone Man -> Freya Ridings
+Rag'n'Bone Man -> Rudimental
+Andrew Lloyd Webber -> Kristin Chenoweth
+Andrew Lloyd Webber -> Julie Andrews
+Thomas Newman -> Alexandre Desplat
+Thomas Newman -> Craig Armstrong
+Thomas Newman -> James Newton Howard
+Thomas Newman -> James Horner
+Thomas Newman -> Harry Gregson-Williams
+Thomas Newman -> John Williams
+Thomas Newman -> Dario Marianelli
+Thomas Newman -> John Powell
+Thomas Newman -> Alan Silvestri
+Thomas Newman -> Michael Giacchino
+Thomas Newman -> Patrick Doyle
+Nicholas Britell -> Abel Korzeniowski
+Nicholas Britell -> Craig Armstrong
+Nicholas Britell -> Dario Marianelli
+Nicholas Britell -> Alexandre Desplat
+Nicholas Britell -> Thomas Newman
+Dario Marianelli -> Craig Armstrong
+Dario Marianelli -> Alexandre Desplat
+Dario Marianelli -> Patrick Doyle
+Dario Marianelli -> Abel Korzeniowski
+Dario Marianelli -> Thomas Newman
+Dario Marianelli -> John Powell
+Dario Marianelli -> Nicholas Hooper
+Dario Marianelli -> James Newton Howard
+Alexandre Desplat -> John Powell
+Alexandre Desplat -> Dario Marianelli
+Alexandre Desplat -> Michael Giacchino
+Alexandre Desplat -> Patrick Doyle
+Alexandre Desplat -> Nicholas Hooper
+Alexandre Desplat -> Alan Silvestri
+Alexandre Desplat -> James Newton Howard
+Alexandre Desplat -> Harry Gregson-Williams
+Alexandre Desplat -> Abel Korzeniowski
+Alexandre Desplat -> Craig Armstrong
+Ludwig Goransson -> Alan Silvestri
+Ludwig Goransson -> Thomas Newman
+Ludwig Goransson -> Brian Tyler
+Ludwig Goransson -> Harry Gregson-Williams
+Ludwig Goransson -> John Powell
+Ludwig Goransson -> Lorne Balfe
+Ludwig Goransson -> John Williams
+Ludwig Goransson -> Michael Giacchino
+Ludwig Goransson -> Steve Jablonsky
+John Williams -> Thomas Newman
+John Williams -> Alan Silvestri
+John Williams -> Alexandre Desplat
+John Williams -> Michael Giacchino
+John Williams -> Harry Gregson-Williams
+John Williams -> Dario Marianelli
+John Williams -> Patrick Doyle
+John Williams -> James Newton Howard
+John Williams -> John Powell
+John Williams -> Nicholas Hooper
+John Williams -> Klaus Badelt
+John Williams -> Ludwig Goransson
+John Williams -> James Horner
+Craig Armstrong -> John Powell
+Craig Armstrong -> Alexandre Desplat
+Craig Armstrong -> Patrick Doyle
+Craig Armstrong -> Dario Marianelli
+Craig Armstrong -> Harry Gregson-Williams
+Craig Armstrong -> Bear McCreary
+Craig Armstrong -> Abel Korzeniowski
+Craig Armstrong -> James Newton Howard
+Michael Giacchino -> John Powell
+Michael Giacchino -> Alan Silvestri
+Michael Giacchino -> Brian Tyler
+Michael Giacchino -> Dario Marianelli
+Michael Giacchino -> Patrick Doyle
+Michael Giacchino -> Harry Gregson-Williams
+Michael Giacchino -> James Newton Howard
+Michael Giacchino -> Alexandre Desplat
+Michael Giacchino -> Klaus Badelt
+Harry Gregson-Williams -> Alan Silvestri
+Harry Gregson-Williams -> John Powell
+Harry Gregson-Williams -> Alexandre Desplat
+Harry Gregson-Williams -> Steve Jablonsky
+Harry Gregson-Williams -> Dario Marianelli
+Harry Gregson-Williams -> Michael Giacchino
+Harry Gregson-Williams -> James Newton Howard
+Harry Gregson-Williams -> Brian Tyler
+Harry Gregson-Williams -> Nicholas Hooper
+Harry Gregson-Williams -> Bear McCreary
+Harry Gregson-Williams -> Klaus Badelt
+Harry Gregson-Williams -> Patrick Doyle
+Patrick Doyle -> John Powell
+Patrick Doyle -> Michael Giacchino
+Patrick Doyle -> Alexandre Desplat
+Patrick Doyle -> James Newton Howard
+Patrick Doyle -> Dario Marianelli
+Patrick Doyle -> Harry Gregson-Williams
+Patrick Doyle -> Alan Silvestri
+Patrick Doyle -> Nicholas Hooper
+Patrick Doyle -> Klaus Badelt
+James Newton Howard -> John Powell
+James Newton Howard -> Alexandre Desplat
+James Newton Howard -> Patrick Doyle
+James Newton Howard -> Michael Giacchino
+James Newton Howard -> Harry Gregson-Williams
+James Newton Howard -> Dario Marianelli
+James Newton Howard -> Brian Tyler
+James Newton Howard -> Alan Silvestri
+James Newton Howard -> Steve Jablonsky
+James Newton Howard -> James Horner
+Nicholas Hooper -> Alexandre Desplat
+Nicholas Hooper -> Michael Giacchino
+Nicholas Hooper -> Dario Marianelli
+Nicholas Hooper -> John Powell
+Nicholas Hooper -> Patrick Doyle
+Nicholas Hooper -> James Newton Howard
+Nicholas Hooper -> Harry Gregson-Williams
+Nicholas Hooper -> Klaus Badelt
+Nicholas Hooper -> Alan Silvestri
+Nicholas Hooper -> Craig Armstrong
+Nicholas Hooper -> Brian Tyler
+Nicholas Hooper -> Bear McCreary
+Jean-Yves Thibaudet -> Dario Marianelli
+Jean-Yves Thibaudet -> Craig Armstrong
+Jean-Yves Thibaudet -> Alexandre Desplat
+Jean-Yves Thibaudet -> Patrick Doyle
+Jean-Yves Thibaudet -> Abel Korzeniowski
+Jean-Yves Thibaudet -> Alexandre Tharaud
+Jean-Yves Thibaudet -> Daniel Barenboim
+Abel Korzeniowski -> Dario Marianelli
+Abel Korzeniowski -> Alexandre Desplat
+Abel Korzeniowski -> James Newton Howard
+Abel Korzeniowski -> Harry Gregson-Williams
+Abel Korzeniowski -> Craig Armstrong
+Meryl Streep -> Lily James
+Meryl Streep -> Christine Baranski
+Meryl Streep -> Amanda Seyfried
+Meryl Streep -> John Travolta
+Meryl Streep -> Kristin Chenoweth
+Meryl Streep -> Zac Efron
+John Travolta -> Meryl Streep
+John Travolta -> Frankie Valli
+John Travolta -> Amanda Seyfried
+John Travolta -> Christine Baranski
+John Travolta -> Irene Cara
+John Travolta -> Lily James
+John Travolta -> Zac Efron
+John Travolta -> Julie Andrews
+John Travolta -> Olivia Newton-John
+Welshly Arms -> Barns Courtney
+Welshly Arms -> Jamie N Commons
+Welshly Arms -> Bishop Briggs
+Welshly Arms -> Adam Jensen
+Freya Ridings -> Ella Henderson
+Freya Ridings -> Gabrielle Aplin
+Freya Ridings -> Declan J Donovan
+Freya Ridings -> Picture This
+Freya Ridings -> Grace Carter
+Freya Ridings -> Rhys Lewis
+Freya Ridings -> Tom Walker
+Freya Ridings -> Gavin James
+Freya Ridings -> Nina Nesbitt
+Freya Ridings -> JC Stewart
+Freya Ridings -> Emeli Sandé
+Freya Ridings -> Ella Eyre
+Freya Ridings -> Jess Glynne
+Freya Ridings -> Elina
+Freya Ridings -> Maisie Peters
+Freya Ridings -> Sody
+Freya Ridings -> Sigma
+Freya Ridings -> Dermot Kennedy
+Freya Ridings -> James Smith
+Julie Andrews -> Samuel E. Wright
+Julie Andrews -> Lea Salonga
+James Horner -> Alan Silvestri
+James Horner -> John Powell
+James Horner -> Dario Marianelli
+James Horner -> Michael Giacchino
+James Horner -> James Newton Howard
+James Horner -> Alexandre Desplat
+John Powell -> Alan Silvestri
+John Powell -> Michael Giacchino
+John Powell -> Brian Tyler
+John Powell -> Alexandre Desplat
+John Powell -> James Newton Howard
+John Powell -> Harry Gregson-Williams
+John Powell -> Steve Jablonsky
+John Powell -> Patrick Doyle
+John Powell -> Dario Marianelli
+John Powell -> Klaus Badelt
+Alan Silvestri -> Brian Tyler
+Alan Silvestri -> James Newton Howard
+Alan Silvestri -> Alexandre Desplat
+Alan Silvestri -> Steve Jablonsky
+Alan Silvestri -> Harry Gregson-Williams
+Alan Silvestri -> James Horner
+Alan Silvestri -> Michael Giacchino
+Alan Silvestri -> John Powell
+Brian Tyler -> John Powell
+Brian Tyler -> Steve Jablonsky
+Brian Tyler -> James Newton Howard
+Brian Tyler -> Klaus Badelt
+Brian Tyler -> Harry Gregson-Williams
+Brian Tyler -> Bear McCreary
+Brian Tyler -> Trevor Morris
+Brian Tyler -> Alan Silvestri
+Brian Tyler -> Michael Giacchino
+Lorne Balfe -> Brian Tyler
+Lorne Balfe -> Harry Gregson-Williams
+Lorne Balfe -> Steve Jablonsky
+Lorne Balfe -> Alan Silvestri
+Steve Jablonsky -> John Powell
+Steve Jablonsky -> Alan Silvestri
+Steve Jablonsky -> Ramin Djawadi
+Steve Jablonsky -> Harry Gregson-Williams
+Steve Jablonsky -> James Newton Howard
+Steve Jablonsky -> Michael Giacchino
+Steve Jablonsky -> Brian Tyler
+Steve Jablonsky -> Klaus Badelt
+Steve Jablonsky -> Bear McCreary
+Klaus Badelt -> Michael Giacchino
+Klaus Badelt -> John Powell
+Klaus Badelt -> Alexandre Desplat
+Klaus Badelt -> Brian Tyler
+Klaus Badelt -> Alan Silvestri
+Klaus Badelt -> Steve Jablonsky
+Klaus Badelt -> James Newton Howard
+Klaus Badelt -> Harry Gregson-Williams
+Klaus Badelt -> Dario Marianelli
+Klaus Badelt -> Nicholas Hooper
+Klaus Badelt -> Patrick Doyle
+Bear McCreary -> Brian Tyler
+Bear McCreary -> Steve Jablonsky
+Bear McCreary -> John Powell
+Bear McCreary -> Dario Marianelli
+Bear McCreary -> Harry Gregson-Williams
+Bear McCreary -> Craig Armstrong
+Bear McCreary -> Ramin Djawadi
+Bear McCreary -> Alan Silvestri
+Bear McCreary -> Alexandre Desplat
+Bear McCreary -> Trevor Morris
+Bear McCreary -> James Newton Howard
+Bear McCreary -> Michael Giacchino
+Alexandre Tharaud -> Daniel Barenboim
+Alexandre Tharaud -> Philippe Entremont
+Barns Courtney -> Bryce Fox
+Barns Courtney -> Adam Jensen
+Barns Courtney -> grandson
+Barns Courtney -> Zayde Wølf
+Barns Courtney -> Bohnes
+Barns Courtney -> MISSIO
+Barns Courtney -> Des Rocs
+Trevor Morris -> Steve Jablonsky
+Trevor Morris -> Dario Marianelli
+Trevor Morris -> Harry Gregson-Williams
+Trevor Morris -> Ramin Djawadi
+Trevor Morris -> Bear McCreary
+Trevor Morris -> James Newton Howard
+Trevor Morris -> John Powell
+Trevor Morris -> Alan Silvestri
+Trevor Morris -> Alexandre Desplat
+Trevor Morris -> Brian Tyler
+Ramin Djawadi -> Bear McCreary
+Ramin Djawadi -> Steve Jablonsky
+Ramin Djawadi -> Alan Silvestri
+Ramin Djawadi -> Brian Tyler
+Ramin Djawadi -> Alexandre Desplat
+Ramin Djawadi -> John Powell
+Ramin Djawadi -> Michael Giacchino
+Ramin Djawadi -> Dario Marianelli
+Ramin Djawadi -> James Newton Howard
+Ramin Djawadi -> Harry Gregson-Williams
+Ramin Djawadi -> Klaus Badelt
+Ramin Djawadi -> Craig Armstrong
+Ramin Djawadi -> Trevor Morris
+Philippe Entremont -> Daniel Barenboim
+Philippe Entremont -> Alexandre Tharaud
+Philippe Entremont -> Lang Lang
+Philippe Entremont -> Glenn Gould
+Zayde Wølf -> Bryce Fox
+Zayde Wølf -> Adam Jensen
+Zayde Wølf -> Barns Courtney
+Zayde Wølf -> Bohnes
+Zayde Wølf -> grandson
+Zayde Wølf -> Sam Tinnesz
+Zayde Wølf -> The Score
+Zayde Wølf -> Ruelle
+Lang Lang -> Daniel Barenboim
+Lang Lang -> Alexandre Tharaud
+Glenn Gould -> Daniel Barenboim
+The Score -> Bohnes
+The Score -> Adam Jensen
+The Score -> grandson
+The Score -> Barns Courtney
+The Score -> MISSIO
+The Score -> Bishop Briggs
+The Score -> AViVA
+The Score -> Zayde Wølf
+The Score -> Bryce Fox
+Beyoncé -> Kelly Rowland
+Beyoncé -> Jennifer Lopez
+Beyoncé -> Chloe x Halle
+Beyoncé -> Solange
+Beyoncé -> Destiny's Child
+Beyoncé -> Tinashe
+Beyoncé -> The Pussycat Dolls
+Beyoncé -> Normani
+Beyoncé -> JoJo
+Beyoncé -> Fergie
+Beyoncé -> Alicia Keys
+Beyoncé -> Ciara
+Beyoncé -> Keyshia Cole
+Beyoncé -> Jazmine Sullivan
+Beyoncé -> Brandy
+Beyoncé -> Rihanna
+Beyoncé -> Jordin Sparks
+Beyoncé -> Christina Aguilera
+Beyoncé -> Kehlani
+Rihanna -> Nicki Minaj
+Rihanna -> The Pussycat Dolls
+Rihanna -> Jennifer Lopez
+Rihanna -> Fergie
+Rihanna -> Kesha
+Rihanna -> Jessie J
+Rihanna -> Nelly Furtado
+Rihanna -> Justin Timberlake
+Rihanna -> Gwen Stefani
+Rihanna -> Demi Lovato
+Rihanna -> Miley Cyrus
+Rihanna -> Destiny's Child
+Rihanna -> Ciara
+Rihanna -> Iggy Azalea
+Rihanna -> Christina Aguilera
+Rihanna -> Beyoncé
+Rihanna -> Britney Spears
+Rihanna -> Sean Kingston
+Rihanna -> Normani
+Rihanna -> Tinashe
+Pop Smoke -> Fivio Foreign
+Pop Smoke -> Lil Tjay
+Pop Smoke -> Polo G
+Pop Smoke -> Huncho Jack
+Pop Smoke -> Metro Boomin
+Pop Smoke -> Lil Baby
+Pop Smoke -> Roddy Ricch
+Pop Smoke -> 21 Savage
+Pop Smoke -> Lil Tecca
+Pop Smoke -> PnB Rock
+Pop Smoke -> Russ Millions
+Pop Smoke -> NAV
+Pop Smoke -> Blueface
+Pop Smoke -> Sheff G
+Pop Smoke -> Gunna
+Pop Smoke -> Offset
+Pop Smoke -> DDG
+Pop Smoke -> DUSTY LOCANE
+Pop Smoke -> Kodak Black
+Pop Smoke -> Tee Grizzley
+Offset -> Quavo
+Offset -> Gunna
+Offset -> NAV
+Offset -> Flipp Dinero
+Offset -> Stunna 4 Vegas
+Offset -> Quality Control
+Offset -> Kodak Black
+Offset -> Tee Grizzley
+Offset -> Cordae
+Offset -> Metro Boomin
+Offset -> Mike WiLL Made-It
+Offset -> Sheck Wes
+Offset -> 21 Savage
+Offset -> Young Nudy
+Offset -> Blueface
+Offset -> Jay Critch
+Offset -> Huncho Jack
+Offset -> Rich The Kid
+Måneskin -> Irama
+Måneskin -> Ultimo
+Måneskin -> Takagi & Ketra
+Måneskin -> J-AX
+Måneskin -> Marco Mengoni
+Måneskin -> Fedez
+Måneskin -> Annalisa
+Måneskin -> Cesare Cremonini
+Måneskin -> Pinguini Tattici Nucleari
+Måneskin -> Gazzelle
+Måneskin -> Carl Brave
+Måneskin -> Elettra Lamborghini
+Måneskin -> Francesca Michielin
+Måneskin -> Negramaro
+Irama -> Takagi & Ketra
+Irama -> Elettra Lamborghini
+Irama -> Francesca Michielin
+Irama -> Baby K
+Irama -> Alessandra Amoroso
+Irama -> Annalisa
+Irama -> Marco Mengoni
+Irama -> Noemi
+Irama -> J-AX
+Irama -> Ultimo
+Ultimo -> Irama
+Ultimo -> Takagi & Ketra
+Ultimo -> J-AX
+Ultimo -> Alessandra Amoroso
+Ultimo -> Francesca Michielin
+Ultimo -> Annalisa
+Ultimo -> Elettra Lamborghini
+Ultimo -> Elisa
+Ultimo -> Marco Mengoni
+Ultimo -> Noemi
+J-AX -> Irama
+J-AX -> Ultimo
+J-AX -> Fred De Palma
+J-AX -> Takagi & Ketra
+J-AX -> Fedez
+J-AX -> Baby K
+J-AX -> Elettra Lamborghini
+J-AX -> 883
+J-AX -> Carl Brave
+J-AX -> Ligabue
+Takagi & Ketra -> Irama
+Takagi & Ketra -> Elettra Lamborghini
+Takagi & Ketra -> Alessandra Amoroso
+Takagi & Ketra -> Baby K
+Takagi & Ketra -> Marco Mengoni
+Takagi & Ketra -> Annalisa
+Takagi & Ketra -> J-AX
+Takagi & Ketra -> Ultimo
+Elettra Lamborghini -> Takagi & Ketra
+Elettra Lamborghini -> Irama
+Elettra Lamborghini -> Alessandra Amoroso
+Elettra Lamborghini -> J-AX
+Elettra Lamborghini -> Il Pagante
+Elettra Lamborghini -> Annalisa
+Elettra Lamborghini -> Fedez
+Elettra Lamborghini -> Baby K
+Elettra Lamborghini -> Marco Mengoni
+Elettra Lamborghini -> Ultimo
+Cesare Cremonini -> 883
+Cesare Cremonini -> Negramaro
+Cesare Cremonini -> Jovanotti
+Marco Mengoni -> Alessandra Amoroso
+Marco Mengoni -> Francesca Michielin
+Marco Mengoni -> Cesare Cremonini
+Marco Mengoni -> Negramaro
+Marco Mengoni -> Annalisa
+Marco Mengoni -> Tiziano Ferro
+Marco Mengoni -> Noemi
+Fedez -> Guè
+Fedez -> Fred De Palma
+Fedez -> Marracash
+Fedez -> Nayt
+Fedez -> Salmo
+Fedez -> Rocco Hunt
+Fedez -> Baby K
+Fedez -> Noyz Narcos
+Fedez -> Fabri Fibra
+Fedez -> Emis Killa
+Carl Brave -> Tedua
+Carl Brave -> Achille Lauro
+Carl Brave -> Ketama126
+Carl Brave -> Lazza
+Carl Brave -> Dark Polo Gang
+Carl Brave -> Frah Quintale
+Carl Brave -> Ghali
+Carl Brave -> MadMan
+Carl Brave -> Vegas Jones
+Carl Brave -> Gazzelle
+Carl Brave -> Ernia
+Carl Brave -> Gemitaiz
+Carl Brave -> Rkomi
+Carl Brave -> Coez
+Annalisa -> Alessandra Amoroso
+Annalisa -> Francesca Michielin
+Annalisa -> Noemi
+Annalisa -> Cesare Cremonini
+Annalisa -> Marco Mengoni
+Negramaro -> 883
+Negramaro -> Cesare Cremonini
+Negramaro -> Alessandra Amoroso
+Negramaro -> Jovanotti
+Pinguini Tattici Nucleari -> Gazzelle
+Pinguini Tattici Nucleari -> Frah Quintale
+Pinguini Tattici Nucleari -> Thegiornalisti
+Pinguini Tattici Nucleari -> Franco126
+Pinguini Tattici Nucleari -> Carl Brave
+Gazzelle -> Pinguini Tattici Nucleari
+Gazzelle -> Frah Quintale
+Gazzelle -> Achille Lauro
+Gazzelle -> Coez
+Gazzelle -> Franco126
+Gazzelle -> Carl Brave
+Gazzelle -> Thegiornalisti
+Francesca Michielin -> Alessandra Amoroso
+Francesca Michielin -> Marco Mengoni
+Francesca Michielin -> Annalisa
+Francesca Michielin -> Cesare Cremonini
+Francesca Michielin -> Noemi
+Baby K -> Fedez
+Baby K -> Jake La Furia
+Baby K -> J-AX
+Baby K -> Rocco Hunt
+Baby K -> Fred De Palma
+Baby K -> Takagi & Ketra
+Baby K -> Irama
+Baby K -> Coez
+Baby K -> Mecna
+Baby K -> Boomdabash
+Baby K -> Salmo
+Baby K -> Guè
+Alessandra Amoroso -> Marco Mengoni
+Alessandra Amoroso -> Francesca Michielin
+Alessandra Amoroso -> Gigi D'Alessio
+Alessandra Amoroso -> Cesare Cremonini
+Alessandra Amoroso -> Noemi
+Alessandra Amoroso -> Tiziano Ferro
+Noemi -> Marco Mengoni
+Noemi -> Alessandra Amoroso
+Noemi -> Annalisa
+Noemi -> Tiziano Ferro
+Noemi -> Cesare Cremonini
+Noemi -> Francesca Michielin
+Elisa -> Negramaro
+Elisa -> Cesare Cremonini
+Elisa -> Francesca Michielin
+Elisa -> Alessandra Amoroso
+Elisa -> Marco Mengoni
+Elisa -> Noemi
+Fred De Palma -> Rocco Hunt
+Fred De Palma -> Rkomi
+Fred De Palma -> Tedua
+Fred De Palma -> Lazza
+Fred De Palma -> Vegas Jones
+Fred De Palma -> Achille Lauro
+Fred De Palma -> Ghali
+Fred De Palma -> Emis Killa
+Fred De Palma -> MadMan
+Fred De Palma -> Capo Plaza
+Fred De Palma -> Fedez
+Fred De Palma -> Sfera Ebbasta
+Fred De Palma -> Guè
+Fred De Palma -> J-AX
+883 -> Jovanotti
+883 -> Cesare Cremonini
+883 -> Negramaro
+883 -> Vasco Rossi
+Ligabue -> 883
+Ligabue -> Negramaro
+Ligabue -> Jovanotti
+Ligabue -> Cesare Cremonini
+Ligabue -> Antonello Venditti
+Jovanotti -> 883
+Jovanotti -> Cesare Cremonini
+Jovanotti -> Ligabue
+Jovanotti -> Neffa
+Jovanotti -> Vasco Rossi
+Jovanotti -> Negramaro
+Tiziano Ferro -> Cesare Cremonini
+Tiziano Ferro -> Alessandra Amoroso
+Tiziano Ferro -> Negramaro
+Tiziano Ferro -> Gigi D'Alessio
+Tiziano Ferro -> Noemi
+Tiziano Ferro -> 883
+Tiziano Ferro -> Marco Mengoni
+Tiziano Ferro -> Nek
+Emis Killa -> Guè
+Emis Killa -> Fedez
+Emis Killa -> Noyz Narcos
+Emis Killa -> Vegas Jones
+Emis Killa -> MadMan
+Emis Killa -> Marracash
+Emis Killa -> Lazza
+Emis Killa -> Fred De Palma
+Emis Killa -> Salmo
+Emis Killa -> Rocco Hunt
+Emis Killa -> Tedua
+Emis Killa -> Fabri Fibra
+Emis Killa -> Nayt
+Guè -> Marracash
+Guè -> Noyz Narcos
+Guè -> Don Joe
+Guè -> Emis Killa
+Guè -> Vegas Jones
+Guè -> Fedez
+Guè -> MadMan
+Guè -> Salmo
+Guè -> Tedua
+Guè -> Nayt
+Guè -> Lazza
+Marracash -> Fabri Fibra
+Marracash -> Noyz Narcos
+Marracash -> Guè
+Marracash -> Emis Killa
+Marracash -> Vegas Jones
+Marracash -> Salmo
+Rocco Hunt -> Emis Killa
+Rocco Hunt -> Vegas Jones
+Rocco Hunt -> Fedez
+Rocco Hunt -> Fred De Palma
+Rocco Hunt -> Ghali
+Rocco Hunt -> MadMan
+Rocco Hunt -> Noyz Narcos
+Rocco Hunt -> Guè
+Rocco Hunt -> Lazza
+Rocco Hunt -> Baby K
+Rocco Hunt -> Gemitaiz
+Rocco Hunt -> Nayt
+Rocco Hunt -> Salmo
+Rocco Hunt -> Marracash
+Rocco Hunt -> Mecna
+Rocco Hunt -> Tedua
+Salmo -> Noyz Narcos
+Salmo -> Marracash
+Salmo -> Nayt
+Salmo -> Gemitaiz
+Salmo -> Coez
+Salmo -> Mecna
+Salmo -> MadMan
+Salmo -> Don Joe
+Salmo -> Emis Killa
+Salmo -> Fabri Fibra
+Salmo -> Guè
+Salmo -> Vegas Jones
+Salmo -> Rocco Hunt
+Nayt -> Salmo
+Nayt -> Noyz Narcos
+Nayt -> Guè
+Nayt -> Emis Killa
+Nayt -> Marracash
+Nayt -> Fedez
+Nayt -> Don Joe
+Noyz Narcos -> Marracash
+Noyz Narcos -> Vegas Jones
+Noyz Narcos -> Don Joe
+Noyz Narcos -> Fabri Fibra
+Noyz Narcos -> Emis Killa
+Noyz Narcos -> Guè
+Fabri Fibra -> Noyz Narcos
+Fabri Fibra -> Neffa
+Fabri Fibra -> Marracash
+Achille Lauro -> Dark Polo Gang
+Achille Lauro -> Vegas Jones
+Achille Lauro -> Tedua
+Achille Lauro -> Ketama126
+Achille Lauro -> Carl Brave
+Achille Lauro -> MadMan
+Achille Lauro -> Lazza
+Achille Lauro -> Ghali
+Achille Lauro -> Rkomi
+Achille Lauro -> Noyz Narcos
+Achille Lauro -> Coez
+Achille Lauro -> Ernia
+Achille Lauro -> Sfera Ebbasta
+Achille Lauro -> Gazzelle
+Achille Lauro -> Capo Plaza
+Achille Lauro -> Marracash
+Achille Lauro -> Gemitaiz
+Tedua -> MadMan
+Tedua -> Vegas Jones
+Tedua -> Capo Plaza
+Tedua -> Ghali
+Tedua -> Lazza
+Tedua -> Ketama126
+Tedua -> Dark Polo Gang
+Tedua -> Ernia
+Tedua -> Carl Brave
+Tedua -> Achille Lauro
+Tedua -> Noyz Narcos
+Tedua -> Emis Killa
+Tedua -> Rkomi
+Tedua -> Sfera Ebbasta
+Tedua -> Don Joe
+Tedua -> Marracash
+Tedua -> Gemitaiz
+Tedua -> Guè
+Lazza -> Ketama126
+Lazza -> Vegas Jones
+Lazza -> MadMan
+Lazza -> Dark Polo Gang
+Lazza -> Rkomi
+Lazza -> Ghali
+Lazza -> Achille Lauro
+Lazza -> Ernia
+Lazza -> Sfera Ebbasta
+Lazza -> Capo Plaza
+Lazza -> Carl Brave
+Lazza -> Gemitaiz
+Lazza -> Noyz Narcos
+Lazza -> Guè
+Lazza -> Marracash
+Lazza -> Don Joe
+Lazza -> Tedua
+Lazza -> Emis Killa
+Ketama126 -> Lazza
+Ketama126 -> MadMan
+Ketama126 -> Vegas Jones
+Ketama126 -> Rkomi
+Ketama126 -> Capo Plaza
+Ketama126 -> Achille Lauro
+Ketama126 -> Ghali
+Ketama126 -> Dark Polo Gang
+Ketama126 -> Tedua
+Ketama126 -> Noyz Narcos
+Ketama126 -> Ernia
+Ketama126 -> Sfera Ebbasta
+Ketama126 -> Carl Brave
+Ketama126 -> Bresh
+Vegas Jones -> Dark Polo Gang
+Vegas Jones -> MadMan
+Vegas Jones -> Ketama126
+Vegas Jones -> Lazza
+Vegas Jones -> Ghali
+Vegas Jones -> Capo Plaza
+Vegas Jones -> Achille Lauro
+Vegas Jones -> Ernia
+Vegas Jones -> Rkomi
+Vegas Jones -> Noyz Narcos
+Vegas Jones -> Tedua
+Vegas Jones -> Sfera Ebbasta
+Vegas Jones -> Gemitaiz
+Vegas Jones -> Carl Brave
+Vegas Jones -> Guè
+Vegas Jones -> Don Joe
+Vegas Jones -> Emis Killa
+Ghali -> Tedua
+Ghali -> MadMan
+Ghali -> Capo Plaza
+Ghali -> Vegas Jones
+Ghali -> Achille Lauro
+Ghali -> Dark Polo Gang
+Ghali -> Lazza
+Ghali -> Carl Brave
+Ghali -> Gemitaiz
+Ghali -> Rkomi
+Ghali -> Emis Killa
+Ghali -> Ernia
+Ghali -> Ketama126
+Ghali -> Sfera Ebbasta
+Ghali -> Guè
+Ghali -> Fred De Palma
+Ghali -> Marracash
+Ghali -> Salmo
+Frah Quintale -> Gazzelle
+Frah Quintale -> Carl Brave
+Frah Quintale -> Pinguini Tattici Nucleari
+Frah Quintale -> Ernia
+Frah Quintale -> Franco126
+Frah Quintale -> Achille Lauro
+Frah Quintale -> Mecna
+Frah Quintale -> Coez
+Dark Polo Gang -> Vegas Jones
+Dark Polo Gang -> Lazza
+Dark Polo Gang -> Tedua
+Dark Polo Gang -> Capo Plaza
+Dark Polo Gang -> Achille Lauro
+Dark Polo Gang -> Ketama126
+Dark Polo Gang -> Ghali
+Dark Polo Gang -> Sfera Ebbasta
+Dark Polo Gang -> Carl Brave
+Dark Polo Gang -> MadMan
+Dark Polo Gang -> Rkomi
+Dark Polo Gang -> Ernia
+Dark Polo Gang -> Emis Killa
+Dark Polo Gang -> Noyz Narcos
+Dark Polo Gang -> MamboLosco
+Dark Polo Gang -> Guè
+Dark Polo Gang -> Gemitaiz
+Ernia -> Tedua
+Ernia -> Vegas Jones
+Ernia -> Lazza
+Ernia -> MadMan
+Ernia -> Ketama126
+Ernia -> Carl Brave
+Ernia -> Dark Polo Gang
+Ernia -> Achille Lauro
+Ernia -> Rkomi
+Ernia -> Bresh
+Ernia -> Dani Faiv
+Ernia -> MamboLosco
+MadMan -> Vegas Jones
+MadMan -> Lazza
+MadMan -> Tedua
+MadMan -> Ghali
+MadMan -> Ketama126
+MadMan -> Capo Plaza
+MadMan -> Rkomi
+MadMan -> Achille Lauro
+MadMan -> Sfera Ebbasta
+MadMan -> Noyz Narcos
+MadMan -> Gemitaiz
+MadMan -> Ernia
+MadMan -> Carl Brave
+MadMan -> Dark Polo Gang
+MadMan -> Guè
+MadMan -> Emis Killa
+MadMan -> Don Joe
+MadMan -> Nayt
+Rkomi -> Ketama126
+Rkomi -> Capo Plaza
+Rkomi -> Vegas Jones
+Rkomi -> Lazza
+Rkomi -> MadMan
+Rkomi -> Achille Lauro
+Rkomi -> Ghali
+Rkomi -> Tedua
+Rkomi -> Carl Brave
+Rkomi -> Dark Polo Gang
+Rkomi -> Sfera Ebbasta
+Rkomi -> Gemitaiz
+Rkomi -> Emis Killa
+Rkomi -> Guè
+Rkomi -> Marracash
+Rkomi -> Fred De Palma
+Rkomi -> Rocco Hunt
+Rkomi -> Ernia
+Coez -> Jake La Furia
+Coez -> Mecna
+Coez -> Gemitaiz
+Coez -> Achille Lauro
+Coez -> Carl Brave
+Coez -> Frah Quintale
+Coez -> Rocco Hunt
+Coez -> Salmo
+Coez -> Marracash
+Coez -> Tedua
+Coez -> Baby K
+Coez -> Fedez
+Coez -> Ghali
+Gemitaiz -> Coez
+Gemitaiz -> MadMan
+Gemitaiz -> Mecna
+Gemitaiz -> Tedua
+Gemitaiz -> Vegas Jones
+Gemitaiz -> Ghali
+Gemitaiz -> Capo Plaza
+Gemitaiz -> Salmo
+Gemitaiz -> Guè
+Gemitaiz -> Lazza
+Gemitaiz -> Noyz Narcos
+Gemitaiz -> Emis Killa
+Gemitaiz -> Rkomi
+Gemitaiz -> Marracash
+Gemitaiz -> Rocco Hunt
+Gemitaiz -> Dark Polo Gang
+Gemitaiz -> Ketama126
+Thegiornalisti -> Gazzelle
+Thegiornalisti -> Pinguini Tattici Nucleari
+Thegiornalisti -> Frah Quintale
+Thegiornalisti -> Carl Brave
+Franco126 -> Venerus
+Mecna -> Coez
+Mecna -> Gemitaiz
+Mecna -> Night Skinny
+Mecna -> Don Joe
+Mecna -> Salmo
+Mecna -> Nayt
+Boomdabash -> Rocco Hunt
+Boomdabash -> Fred De Palma
+Boomdabash -> Jake La Furia
+Boomdabash -> J-AX
+Boomdabash -> Thegiornalisti
+Boomdabash -> Neffa
+Boomdabash -> Fedez
+Boomdabash -> Fabri Fibra
+Boomdabash -> Baby K
+Gigi D'Alessio -> Alessandra Amoroso
+Capo Plaza -> Lazza
+Capo Plaza -> MadMan
+Capo Plaza -> Ketama126
+Capo Plaza -> Vegas Jones
+Capo Plaza -> Tedua
+Capo Plaza -> Dark Polo Gang
+Capo Plaza -> Rkomi
+Capo Plaza -> Emis Killa
+Capo Plaza -> Achille Lauro
+Capo Plaza -> Carl Brave
+Capo Plaza -> Sfera Ebbasta
+Capo Plaza -> Ernia
+Capo Plaza -> Ghali
+Capo Plaza -> Gemitaiz
+Capo Plaza -> Guè
+Capo Plaza -> Noyz Narcos
+Capo Plaza -> Rocco Hunt
+Capo Plaza -> Marracash
+Sfera Ebbasta -> Vegas Jones
+Sfera Ebbasta -> Dark Polo Gang
+Sfera Ebbasta -> Achille Lauro
+Sfera Ebbasta -> Ghali
+Sfera Ebbasta -> MadMan
+Sfera Ebbasta -> Lazza
+Sfera Ebbasta -> Capo Plaza
+Sfera Ebbasta -> Carl Brave
+Sfera Ebbasta -> Emis Killa
+Sfera Ebbasta -> Ketama126
+Sfera Ebbasta -> Rkomi
+Sfera Ebbasta -> Ernia
+Sfera Ebbasta -> Gemitaiz
+Sfera Ebbasta -> Marracash
+Sfera Ebbasta -> Noyz Narcos
+Sfera Ebbasta -> Tedua
+Sfera Ebbasta -> Guè
+Sfera Ebbasta -> Salmo
+Vasco Rossi -> Cesare Cremonini
+Vasco Rossi -> Antonello Venditti
+Vasco Rossi -> 883
+Vasco Rossi -> Negramaro
+Vasco Rossi -> Jovanotti
+Antonello Venditti -> 883
+Neffa -> Cesare Cremonini
+Neffa -> Fabri Fibra
+Neffa -> Caparezza
+Nek -> Tiziano Ferro
+Nek -> Gianluca Grignani
+Nek -> Alessandra Amoroso
+Nek -> 883
+Don Joe -> Guè
+Don Joe -> Jake La Furia
+Don Joe -> Emis Killa
+Don Joe -> Noyz Narcos
+Don Joe -> Nayt
+Don Joe -> Marracash
+Bresh -> Silent Bob
+Bresh -> Chris Nolan
+Bresh -> Nashley
+Bresh -> Dani Faiv
+MamboLosco -> Boro Boro
+MamboLosco -> tha Supreme
+MamboLosco -> Nashley
+MamboLosco -> Dani Faiv
+Dani Faiv -> tha Supreme
+Dani Faiv -> Bresh
+Dani Faiv -> MamboLosco
+Venerus -> Franco126
+Night Skinny -> Don Joe
+Night Skinny -> Noyz Narcos
+Night Skinny -> Nayt
+Night Skinny -> Dani Faiv
+Night Skinny -> Mecna
+Night Skinny -> Salmo
+Caparezza -> Neffa
+Caparezza -> Fabri Fibra
+Gianluca Grignani -> 883
+Gianluca Grignani -> Cesare Cremonini
+Nashley -> Bresh
+Nashley -> Dani Faiv
+Nashley -> Silent Bob
+Nashley -> MamboLosco
+Nashley -> Boro Boro
+Silent Bob -> Nashley
+Silent Bob -> Dani Faiv
+Silent Bob -> Bresh
+Chris Nolan -> Dani Faiv
+Chris Nolan -> Night Skinny
+Chris Nolan -> Bresh
+Chris Nolan -> Nashley
+Chris Nolan -> Boro Boro
+Chris Nolan -> MamboLosco
+Chris Nolan -> Mecna
+Boro Boro -> MamboLosco
+Boro Boro -> Nashley
+Boro Boro -> Dani Faiv
+Boro Boro -> tha Supreme
+Boro Boro -> Bresh
+tha Supreme -> MamboLosco
+tha Supreme -> Dani Faiv
+tha Supreme -> Boro Boro
+tha Supreme -> Bresh
+Glass Animals -> Saint Motel
+Glass Animals -> Electric Guest
+Glass Animals -> Rainbow Kitten Surprise
+Glass Animals -> Big Wild
+Glass Animals -> Goth Babe
+Glass Animals -> Hippo Campus
+Glass Animals -> Whethan
+Glass Animals -> Louis The Child
+Glass Animals -> Local Natives
+Glass Animals -> NoMBe
+Glass Animals -> Joywave
+Glass Animals -> Young the Giant
+Glass Animals -> The Jungle Giants
+Glass Animals -> Grouplove
+Glass Animals -> Still Woozy
+Crystal Fighters -> Metronomy
+Crystal Fighters -> Miike Snow
+Crystal Fighters -> La Maravillosa Orquesta del Alcohol
+La Maravillosa Orquesta del Alcohol -> Vetusta Morla
+La Maravillosa Orquesta del Alcohol -> Love of Lesbian
+La Maravillosa Orquesta del Alcohol -> IZAL
+La Maravillosa Orquesta del Alcohol -> Taburete
+Vetusta Morla -> IZAL
+Vetusta Morla -> Zahara
+Vetusta Morla -> Love of Lesbian
+IZAL -> Vetusta Morla
+IZAL -> Love of Lesbian
+IZAL -> Zahara
+Taburete -> Maldita Nerea
+Taburete -> La Maravillosa Orquesta del Alcohol
+Taburete -> Dvicio
+Taburete -> David Otero
+Taburete -> Pereza
+Taburete -> Despistaos
+Taburete -> Dani Martín
+Taburete -> Beret
+Taburete -> Dani Fernández
+Taburete -> Leiva
+Taburete -> Efecto Pasillo
+Love of Lesbian -> Vetusta Morla
+Love of Lesbian -> Zahara
+Love of Lesbian -> IZAL
+Zahara -> IZAL
+Zahara -> Love of Lesbian
+Zahara -> Vetusta Morla
+Dani Fernández -> Nil Moliner
+Dani Fernández -> Álvaro De Luna
+Dani Fernández -> David Otero
+Dani Fernández -> Maldita Nerea
+Dani Fernández -> Despistaos
+Dani Fernández -> Nyno Vargas
+Leiva -> Despistaos
+Leiva -> Maldita Nerea
+Leiva -> David Otero
+Leiva -> Dani Martín
+Leiva -> Vetusta Morla
+Leiva -> La Maravillosa Orquesta del Alcohol
+Leiva -> Pereza
+Leiva -> IZAL
+Nil Moliner -> David Otero
+Nil Moliner -> Dani Fernández
+Nil Moliner -> Álvaro De Luna
+Nyno Vargas -> Moncho Chavea
+Nyno Vargas -> Lennis Rodriguez
+Nyno Vargas -> Dani Fernández
+Nyno Vargas -> Keen Levy
+Nyno Vargas -> Original Elias
+Nyno Vargas -> Daviles de Novelda
+Nyno Vargas -> Los Rebujitos
+Nyno Vargas -> Maka
+Nyno Vargas -> Maki
+Álvaro De Luna -> David Otero
+Álvaro De Luna -> Dani Fernández
+Álvaro De Luna -> Danny Romero
+Álvaro De Luna -> Chema Rivas
+Álvaro De Luna -> Despistaos
+Álvaro De Luna -> Nil Moliner
+Álvaro De Luna -> Efecto Pasillo
+Álvaro De Luna -> Lérica
+Moncho Chavea -> Galvan Real
+Moncho Chavea -> Original Elias
+Moncho Chavea -> Omar Montes
+Moncho Chavea -> Lennis Rodriguez
+Moncho Chavea -> Nyno Vargas
+Moncho Chavea -> Maka
+Lennis Rodriguez -> Original Elias
+Lennis Rodriguez -> Maka
+Lennis Rodriguez -> Moncho Chavea
+Lennis Rodriguez -> Nyno Vargas
+Lennis Rodriguez -> Galvan Real
+Lennis Rodriguez -> JC el Diamante
+Lennis Rodriguez -> Keen Levy
+Lennis Rodriguez -> Omar Montes
+Keen Levy -> JC el Diamante
+Keen Levy -> Daviles de Novelda
+Keen Levy -> Moncho Chavea
+Keen Levy -> Nyno Vargas
+Daviles de Novelda -> Keen Levy
+Daviles de Novelda -> Nyno Vargas
+Daviles de Novelda -> JC el Diamante
+Daviles de Novelda -> Galvan Real
+Daviles de Novelda -> Moncho Chavea
+Daviles de Novelda -> Original Elias
+Original Elias -> Galvan Real
+Original Elias -> Moncho Chavea
+Original Elias -> Lennis Rodriguez
+Original Elias -> Omar Montes
+Original Elias -> Maka
+Maka -> Galvan Real
+Maka -> Original Elias
+Maka -> Moncho Chavea
+Maka -> Hard GZ
+Maka -> Omar Montes
+Maka -> Lennis Rodriguez
+Maka -> FERNANDOCOSTA
+Maka -> Recycled J
+Chema Rivas -> Lérica
+Chema Rivas -> Danny Romero
+Chema Rivas -> Pole.
+Chema Rivas -> Lennis Rodriguez
+Chema Rivas -> Funzo & Baby Loud
+Chema Rivas -> Hens
+Chema Rivas -> Omar Montes
+Chema Rivas -> Álvaro De Luna
+Chema Rivas -> Dani Fernández
+Chema Rivas -> Efecto Pasillo
+Lérica -> Danny Romero
+Lérica -> Álvaro De Luna
+Lérica -> Lennis Rodriguez
+Lérica -> Chema Rivas
+Lérica -> Dani Fernández
+Lérica -> Nil Moliner
+Lérica -> Nyno Vargas
+Lérica -> Maki
+Lérica -> Ana Mena
+Lérica -> Efecto Pasillo
+Lérica -> Omar Montes
+Lérica -> David Otero
+Omar Montes -> Galvan Real
+Omar Montes -> Moncho Chavea
+Omar Montes -> Original Elias
+Omar Montes -> Maka
+Omar Montes -> FERNANDOCOSTA
+Omar Montes -> El Jincho
+Omar Montes -> Recycled J
+Omar Montes -> Delaossa
+Omar Montes -> Lennis Rodriguez
+Omar Montes -> Daviles de Novelda
+Galvan Real -> Moncho Chavea
+Galvan Real -> Original Elias
+Galvan Real -> Daviles de Novelda
+Galvan Real -> Keen Levy
+Galvan Real -> Nyno Vargas
+Galvan Real -> Maki
+Galvan Real -> Maka
+Galvan Real -> Omar Montes
+JC el Diamante -> Camin
+JC el Diamante -> JC Reyes
+JC el Diamante -> Daviles de Novelda
+JC el Diamante -> Original Elias
+JC el Diamante -> Moncho Chavea
+JC el Diamante -> Keen Levy
+Recycled J -> Hard GZ
+Recycled J -> FERNANDOCOSTA
+Recycled J -> Delaossa
+Hard GZ -> Recycled J
+Hard GZ -> Natos y Waor
+Hard GZ -> El Jincho
+Hard GZ -> FERNANDOCOSTA
+FERNANDOCOSTA -> El Jincho
+FERNANDOCOSTA -> Recycled J
+FERNANDOCOSTA -> Hard GZ
+FERNANDOCOSTA -> Delaossa
+Pole. -> Hens
+Pole. -> Funzo & Baby Loud
+Pole. -> Chema Rivas
+Pole. -> Walls
+Hens -> Walls
+Hens -> Funzo & Baby Loud
+Hens -> Pole.
+Funzo & Baby Loud -> Pole.
+Funzo & Baby Loud -> Chema Rivas
+Funzo & Baby Loud -> Hens
+Funzo & Baby Loud -> Walls
+El Jincho -> FERNANDOCOSTA
+El Jincho -> Hard GZ
+El Jincho -> Omar Montes
+El Jincho -> Delaossa
+Delaossa -> FERNANDOCOSTA
+Delaossa -> Recycled J
+Delaossa -> El Jincho
+Camin -> JC Reyes
+Camin -> JC el Diamante
+Camin -> Moncho Chavea
+Camin -> El Bobe
+Camin -> Keen Levy
+Camin -> Maka
+JC Reyes -> JC el Diamante
+JC Reyes -> Keen Levy
+JC Reyes -> El Bobe
+JC Reyes -> Moncho Chavea
+JC Reyes -> Camin
+Natos y Waor -> Ayax y Prok
+Natos y Waor -> Cruz Cafuné
+Natos y Waor -> FERNANDOCOSTA
+Natos y Waor -> DELLAFUENTE
+Natos y Waor -> Hard GZ
+Walls -> Hens
+Walls -> Pole.
+El Bobe -> Nickzzy
+El Bobe -> Skinny Flex
+El Bobe -> Elpatron970
+Ayax y Prok -> Don Patricio
+Ayax y Prok -> FERNANDOCOSTA
+Ayax y Prok -> DELLAFUENTE
+Ayax y Prok -> Natos y Waor
+Ayax y Prok -> Cruz Cafuné
+Ayax y Prok -> SFDK
+Ayax y Prok -> Hard GZ
+Ayax y Prok -> Kase.O
+DELLAFUENTE -> Yung Beef
+DELLAFUENTE -> Don Patricio
+DELLAFUENTE -> Maikel Delacalle
+DELLAFUENTE -> Cruz Cafuné
+DELLAFUENTE -> Natos y Waor
+DELLAFUENTE -> Kaydy Cain
+DELLAFUENTE -> Ayax y Prok
+DELLAFUENTE -> Kidd Keo
+DELLAFUENTE -> Israel B
+DELLAFUENTE -> Hard GZ
+DELLAFUENTE -> Delaossa
+Cruz Cafuné -> DELLAFUENTE
+Cruz Cafuné -> Maikel Delacalle
+Cruz Cafuné -> Recycled J
+Cruz Cafuné -> Natos y Waor
+Cruz Cafuné -> Kaydy Cain
+Cruz Cafuné -> Don Patricio
+Elpatron970 -> El Bobe
+Elpatron970 -> Skinny Flex
+Skinny Flex -> Elpatron970
+Skinny Flex -> Nickzzy
+Skinny Flex -> El Bobe
+Nickzzy -> Elpatron970
+Nickzzy -> Skinny Flex
+Nickzzy -> El Bobe
+Nickzzy -> Beny Jr
+Don Patricio -> DELLAFUENTE
+Don Patricio -> Maikel Delacalle
+Don Patricio -> Ayax y Prok
+Don Patricio -> Cruz Cafuné
+Don Patricio -> Kaydy Cain
+Don Patricio -> Hard GZ
+Don Patricio -> Kidd Keo
+Don Patricio -> Natos y Waor
+Don Patricio -> Alizzz
+Don Patricio -> Rels B
+Don Patricio -> Yung Beef
+Don Patricio -> Recycled J
+Yung Beef -> Kaydy Cain
+Yung Beef -> DELLAFUENTE
+Yung Beef -> Cruz Cafuné
+Yung Beef -> Pablo Chill-E
+Yung Beef -> Rojuu
+Kaydy Cain -> Yung Beef
+Kaydy Cain -> DELLAFUENTE
+Kaydy Cain -> Don Patricio
+Kaydy Cain -> Maikel Delacalle
+Kaydy Cain -> Cruz Cafuné
+Kaydy Cain -> Kidd Keo
+Kaydy Cain -> Rojuu
+Maikel Delacalle -> Cruz Cafuné
+Maikel Delacalle -> Don Patricio
+Maikel Delacalle -> Yung Beef
+Maikel Delacalle -> Kaydy Cain
+Maikel Delacalle -> Lennis Rodriguez
+Maikel Delacalle -> Recycled J
+Maikel Delacalle -> DELLAFUENTE
+Maikel Delacalle -> Danny Romero
+Maikel Delacalle -> Rels B
+Maikel Delacalle -> Natos y Waor
+Kidd Keo -> Kaydy Cain
+Kidd Keo -> DELLAFUENTE
+Kidd Keo -> Cruz Cafuné
+Kidd Keo -> Yung Beef
+Kidd Keo -> Don Patricio
+Kidd Keo -> Ayax y Prok
+Kidd Keo -> Rels B
+Kidd Keo -> Natos y Waor
+Kidd Keo -> Maikel Delacalle
+Kidd Keo -> Duki
+Kidd Keo -> DrefQuila
+Kidd Keo -> Bhavi
+Kidd Keo -> Big Soto
+Kidd Keo -> Seven Kayne
+Kidd Keo -> Jon Z
+Kidd Keo -> Lucho SSJ
+Kidd Keo -> Rojuu
+Beny Jr -> Elpatron970
+Beny Jr -> Skinny Flex
+Beny Jr -> Camin
+Beny Jr -> Nickzzy
+Beny Jr -> El Bobe
+Rels B -> DELLAFUENTE
+Rels B -> Don Patricio
+Rels B -> Maikel Delacalle
+Rels B -> Kidd Keo
+Rels B -> Yung Beef
+Rels B -> Charles Ans
+Rels B -> Ayax y Prok
+Rels B -> Natos y Waor
+Rels B -> Aleman
+Rels B -> Cruz Cafuné
+Rels B -> Simpson Ahuevo
+Rels B -> Kaydy Cain
+Rels B -> Alvaro Diaz
+Rels B -> Adan Cruz
+Rels B -> Sabino
+Rels B -> Hard GZ
+Alizzz -> Don Patricio
+Alizzz -> Sen Senra
+Alizzz -> Cruz Cafuné
+Alizzz -> DELLAFUENTE
+Rojuu -> Kaydy Cain
+Rojuu -> Yung Beef
+Pablo Chill-E -> Young Cister
+Pablo Chill-E -> Julianno Sosa
+Pablo Chill-E -> Polimá Westcoast
+Pablo Chill-E -> Yung Beef
+Pablo Chill-E -> Harry Nach
+Pablo Chill-E -> ITHAN NY
+Pablo Chill-E -> DrefQuila
+Pablo Chill-E -> Galee Galee
+Bhavi -> Seven Kayne
+Bhavi -> Blunted Vato
+Bhavi -> WOS
+Bhavi -> Duki
+Bhavi -> YSY A
+Bhavi -> KHEA
+Bhavi -> Trueno
+Bhavi -> DrefQuila
+Bhavi -> LIT killah
+Bhavi -> Neo Pistea
+Seven Kayne -> WOS
+Seven Kayne -> Bhavi
+Seven Kayne -> Blunted Vato
+Seven Kayne -> Neo Pistea
+Seven Kayne -> LIT killah
+Seven Kayne -> YSY A
+Seven Kayne -> Duki
+Seven Kayne -> FMK
+Seven Kayne -> Frijo
+Seven Kayne -> Trueno
+Seven Kayne -> KHEA
+Lucho SSJ -> Mesita
+Lucho SSJ -> Neo Pistea
+Lucho SSJ -> Rei
+Lucho SSJ -> Tobi
+Lucho SSJ -> Bhavi
+Lucho SSJ -> John C
+Lucho SSJ -> Seven Kayne
+Lucho SSJ -> Blunted Vato
+Lucho SSJ -> Asan
+Charles Ans -> Simpson Ahuevo
+Charles Ans -> Sabino
+Charles Ans -> Alvaro Diaz
+Charles Ans -> Aleman
+Charles Ans -> La Santa Grifa
+Charles Ans -> Rels B
+Charles Ans -> Adan Cruz
+Charles Ans -> Dharius
+Charles Ans -> Gera MX
+Aleman -> Charles Ans
+Aleman -> Simpson Ahuevo
+Aleman -> Millonario & W. Corona
+Aleman -> Adan Cruz
+Aleman -> Alvaro Diaz
+Aleman -> Sabino
+Aleman -> La Santa Grifa
+Aleman -> Gera MX
+Aleman -> Millonario
+Aleman -> Dharius
+Adan Cruz -> Simpson Ahuevo
+Adan Cruz -> Alvaro Diaz
+Adan Cruz -> Charles Ans
+Adan Cruz -> Fntxy
+Adan Cruz -> Sabino
+Adan Cruz -> Aleman
+Adan Cruz -> La Santa Grifa
+Alvaro Diaz -> Fntxy
+Alvaro Diaz -> Simpson Ahuevo
+Alvaro Diaz -> Aleman
+Alvaro Diaz -> Adan Cruz
+Simpson Ahuevo -> Sabino
+Simpson Ahuevo -> Adan Cruz
+Simpson Ahuevo -> Alvaro Diaz
+Simpson Ahuevo -> Aleman
+Simpson Ahuevo -> Fntxy
+Simpson Ahuevo -> Charles Ans
+Sabino -> Adan Cruz
+Sabino -> Charles Ans
+Sabino -> Simpson Ahuevo
+Sabino -> Dharius
+Sabino -> Aleman
+Sabino -> Alvaro Diaz
+Sen Senra -> Alizzz
+Sen Senra -> Natalia Lacunza
+Young Cister -> Pablo Chill-E
+Young Cister -> DrefQuila
+Young Cister -> Harry Nach
+Young Cister -> Polimá Westcoast
+Julianno Sosa -> ITHAN NY
+Julianno Sosa -> Galee Galee
+Julianno Sosa -> Simon la Letra
+Julianno Sosa -> Cris Mj
+Julianno Sosa -> Drago200
+Julianno Sosa -> El BAI
+Julianno Sosa -> Balbi El Chamako
+Julianno Sosa -> Jairo Vera
+Galee Galee -> Julianno Sosa
+Galee Galee -> ITHAN NY
+Galee Galee -> Simon la Letra
+Galee Galee -> Young Cister
+Galee Galee -> Drago200
+Galee Galee -> Pailita
+Galee Galee -> Harry Nach
+Galee Galee -> Cris Mj
+Galee Galee -> El BAI
+Polimá Westcoast -> Harry Nach
+Polimá Westcoast -> Young Cister
+Polimá Westcoast -> Pablo Chill-E
+Polimá Westcoast -> Drago200
+Polimá Westcoast -> Galee Galee
+Polimá Westcoast -> Julianno Sosa
+Polimá Westcoast -> ITHAN NY
+Polimá Westcoast -> DrefQuila
+ITHAN NY -> Julianno Sosa
+ITHAN NY -> Jairo Vera
+ITHAN NY -> Pailita
+ITHAN NY -> Cris Mj
+ITHAN NY -> Simon la Letra
+ITHAN NY -> Galee Galee
+ITHAN NY -> El BAI
+Harry Nach -> Young Cister
+Harry Nach -> Julianno Sosa
+Harry Nach -> ITHAN NY
+Harry Nach -> Galee Galee
+Harry Nach -> Drago200
+Harry Nach -> Cris Mj
+Harry Nach -> Pablo Chill-E
+Harry Nach -> Polimá Westcoast
+Blunted Vato -> Seven Kayne
+Blunted Vato -> Bhavi
+Blunted Vato -> Frijo
+Blunted Vato -> YSY A
+Blunted Vato -> Neo Pistea
+WOS -> Seven Kayne
+WOS -> Bhavi
+WOS -> Blunted Vato
+WOS -> KHEA
+WOS -> Trueno
+WOS -> LIT killah
+WOS -> YSY A
+WOS -> Duki
+WOS -> Bizarrap
+WOS -> Neo Pistea
+WOS -> Frijo
+Neo Pistea -> YSY A
+Neo Pistea -> Trueno
+Neo Pistea -> Blunted Vato
+Neo Pistea -> Seven Kayne
+Neo Pistea -> FMK
+Neo Pistea -> Bhavi
+Neo Pistea -> Frijo
+YSY A -> Trueno
+YSY A -> Neo Pistea
+YSY A -> Seven Kayne
+YSY A -> Blunted Vato
+YSY A -> FMK
+YSY A -> Bhavi
+YSY A -> Frijo
+Trueno -> FMK
+Trueno -> Neo Pistea
+Trueno -> YSY A
+Trueno -> Frijo
+Trueno -> Eladio Carrion
+Trueno -> Nicki Nicole
+Trueno -> Bizarrap
+Trueno -> LIT killah
+Trueno -> Seven Kayne
+Trueno -> WOS
+Trueno -> KHEA
+Trueno -> Bhavi
+Trueno -> L-Gante
+Trueno -> Ecko
+Trueno -> Duki
+Frijo -> FMK
+Frijo -> Neo Pistea
+Frijo -> Trueno
+Frijo -> Papichamp
+Frijo -> Eladio Carrion
+Frijo -> Bizarrap
+Frijo -> Blunted Vato
+Frijo -> Ecko
+Frijo -> YSY A
+FMK -> Neo Pistea
+FMK -> Trueno
+FMK -> Frijo
+FMK -> YSY A
+FMK -> Bizarrap
+FMK -> Ecko
+FMK -> LIT killah
+FMK -> Seven Kayne
+FMK -> Papichamp
+FMK -> Eladio Carrion
+FMK -> L-Gante
+FMK -> Axel Caram
+FMK -> Bhavi
+FMK -> Alan Gomez
+FMK -> KHEA
+FMK -> Maty Deejay
+Asan -> Rei
+Asan -> Tobi
+Asan -> John C
+Asan -> Seven Kayne
+Asan -> Lucho SSJ
+Asan -> Neo Pistea
+Mesita -> Rei
+Mesita -> Neo Pistea
+Mesita -> Asan
+Mesita -> Blunted Vato
+Mesita -> Lucho SSJ
+Mesita -> Bhavi
+Mesita -> YSY A
+Mesita -> John C
+Mesita -> Tobi
+Rei -> Asan
+Rei -> Mesita
+Rei -> Lucho SSJ
+Rei -> John C
+Rei -> Neo Pistea
+Rei -> Tobi
+Rei -> Luck Ra
+Rei -> Seven Kayne
+Rei -> Blunted Vato
+Rei -> Ecko
+Tobi -> Asan
+Tobi -> Seven Kayne
+Tobi -> Lucho SSJ
+Tobi -> Neo Pistea
+Tobi -> Rei
+Tobi -> Mesita
+Tobi -> Luck Ra
+John C -> Mesita
+John C -> Blunted Vato
+John C -> Rei
+John C -> Ecko
+La Santa Grifa -> Adan Cruz
+La Santa Grifa -> TREN LOKOTE
+La Santa Grifa -> Charles Ans
+La Santa Grifa -> Millonario & W. Corona
+La Santa Grifa -> Aleman
+La Santa Grifa -> Simpson Ahuevo
+La Santa Grifa -> Dharius
+La Santa Grifa -> Millonario
+La Santa Grifa -> Zimple
+Dharius -> Millonario
+Dharius -> Millonario & W. Corona
+Dharius -> Bipo Montana
+Dharius -> Santa Fe Klan
+Dharius -> Zimple
+Dharius -> TREN LOKOTE
+Dharius -> Remik Gonzalez
+Dharius -> Neto Peña
+Gera MX -> Nanpa Básico
+Gera MX -> Bipo Montana
+Gera MX -> Santa Fe Klan
+Gera MX -> Jay Romero
+Gera MX -> Remik Gonzalez
+Gera MX -> TREN LOKOTE
+Gera MX -> Geassassin
+Gera MX -> Neto Peña
+Gera MX -> Millonario
+Gera MX -> Dharius
+Gera MX -> Zimple
+Millonario & W. Corona -> Dharius
+Millonario & W. Corona -> Adan Cruz
+Millonario & W. Corona -> TREN LOKOTE
+Millonario & W. Corona -> La Santa Grifa
+Millonario & W. Corona -> C-Kan
+Millonario & W. Corona -> Millonario
+Millonario & W. Corona -> Simpson Ahuevo
+Millonario & W. Corona -> Zimple
+Millonario & W. Corona -> Remik Gonzalez
+Millonario & W. Corona -> Aleman
+Millonario -> Zimple
+Millonario -> TREN LOKOTE
+Millonario -> Dharius
+Millonario -> Neto Peña
+Millonario -> Remik Gonzalez
+Millonario -> Bipo Montana
+Millonario -> El Makabelico
+Millonario -> Santa Fe Klan
+Millonario -> Gera MX
+Fntxy -> Alvaro Diaz
+Fntxy -> Geassassin
+Fntxy -> Adan Cruz
+Natalia Lacunza -> Alizzz
+Natalia Lacunza -> Guitarricadelafuente
+El BAI -> ITHAN NY
+El BAI -> Simon la Letra
+El BAI -> Balbi El Chamako
+El BAI -> Jairo Vera
+Cris Mj -> El BAI
+Cris Mj -> ITHAN NY
+Cris Mj -> Galee Galee
+Cris Mj -> Simon la Letra
+Cris Mj -> Jairo Vera
+Cris Mj -> Julianno Sosa
+Cris Mj -> Balbi El Chamako
+Cris Mj -> Pailita
+Simon la Letra -> Balbi El Chamako
+Simon la Letra -> Julianno Sosa
+Simon la Letra -> Jairo Vera
+Simon la Letra -> El BAI
+Simon la Letra -> ITHAN NY
+Jairo Vera -> El BAI
+Jairo Vera -> Simon la Letra
+Jairo Vera -> Balbi El Chamako
+Drago200 -> ITHAN NY
+Drago200 -> Julianno Sosa
+Drago200 -> Galee Galee
+Drago200 -> Young Cister
+Drago200 -> Harry Nach
+Drago200 -> El BAI
+Drago200 -> Cris Mj
+Drago200 -> Simon la Letra
+Drago200 -> Pablo Chill-E
+Drago200 -> Balbi El Chamako
+Drago200 -> Pailita
+Drago200 -> Polimá Westcoast
+Balbi El Chamako -> El BAI
+Balbi El Chamako -> Cris Mj
+Balbi El Chamako -> ITHAN NY
+Balbi El Chamako -> Jairo Vera
+Balbi El Chamako -> Simon la Letra
+Pailita -> El BAI
+Pailita -> ITHAN NY
+Pailita -> Jairo Vera
+Pailita -> Galee Galee
+Pailita -> Cris Mj
+Bizarrap -> Trueno
+Bizarrap -> Neo Pistea
+Bizarrap -> Frijo
+Bizarrap -> YSY A
+Bizarrap -> Eladio Carrion
+Bizarrap -> Duki
+Bizarrap -> WOS
+Bizarrap -> KHEA
+Bizarrap -> FMK
+Bizarrap -> Nicki Nicole
+Bizarrap -> Bhavi
+Bizarrap -> Seven Kayne
+Bizarrap -> L-Gante
+Bizarrap -> Ecko
+Bizarrap -> Cazzu
+Bizarrap -> Paulo Londra
+Bizarrap -> LIT killah
+Eladio Carrion -> Gigolo Y La Exce
+Eladio Carrion -> Neo Pistea
+Eladio Carrion -> Trueno
+Eladio Carrion -> Jamby El Favo
+Eladio Carrion -> Trap Capos
+Eladio Carrion -> Lyanno
+Eladio Carrion -> Juanka
+Eladio Carrion -> FMK
+Eladio Carrion -> Frijo
+Eladio Carrion -> Brray
+Eladio Carrion -> Super Yei
+Eladio Carrion -> Juhn
+Eladio Carrion -> Lenny Tavárez
+Eladio Carrion -> Rafa Pabön
+Eladio Carrion -> Joyce Santana
+Eladio Carrion -> Pusho
+Eladio Carrion -> Jon Z
+L-Gante -> Papichamp
+L-Gante -> Axel Caram
+L-Gante -> Maty Deejay
+L-Gante -> Alan Gomez
+L-Gante -> Fer Palacio
+L-Gante -> FMK
+L-Gante -> Neo Pistea
+L-Gante -> Frijo
+L-Gante -> YSY A
+L-Gante -> La Kuppe
+L-Gante -> DJ Pirata
+Papichamp -> Axel Caram
+Papichamp -> Fer Palacio
+Papichamp -> Frijo
+Papichamp -> Neo Pistea
+Papichamp -> Alan Gomez
+Papichamp -> Maty Deejay
+Papichamp -> L-Gante
+Axel Caram -> Maty Deejay
+Axel Caram -> Fer Palacio
+Axel Caram -> La Kuppe
+Axel Caram -> Papichamp
+Axel Caram -> L-Gante
+Axel Caram -> DJ Pirata
+Axel Caram -> Alan Gomez
+Alan Gomez -> Axel Caram
+Alan Gomez -> Maty Deejay
+Alan Gomez -> Papichamp
+Alan Gomez -> L-Gante
+Alan Gomez -> La Kuppe
+Alan Gomez -> Fer Palacio
+Alan Gomez -> DJ Pirata
+Maty Deejay -> Axel Caram
+Maty Deejay -> Fer Palacio
+Maty Deejay -> L-Gante
+Maty Deejay -> La Kuppe
+Maty Deejay -> Jona Mix
+Maty Deejay -> DJ Pirata
+Maty Deejay -> Alan Gomez
+Maty Deejay -> Papichamp
+Luck Ra -> Tobi
+Luck Ra -> Seven Kayne
+Luck Ra -> Asan
+Luck Ra -> Mesita
+Luck Ra -> Neo Pistea
+Luck Ra -> Dani Ribba
+Luck Ra -> Bhavi
+Luck Ra -> Lucho SSJ
+Luck Ra -> Oscu
+Luck Ra -> Ecko
+Luck Ra -> Rei
+TREN LOKOTE -> Zimple
+TREN LOKOTE -> Millonario
+TREN LOKOTE -> Dharius
+TREN LOKOTE -> Bipo Montana
+TREN LOKOTE -> Remik Gonzalez
+TREN LOKOTE -> El Makabelico
+TREN LOKOTE -> Santa Fe Klan
+TREN LOKOTE -> Neto Peña
+TREN LOKOTE -> Geassassin
+Zimple -> Bipo Montana
+Zimple -> TREN LOKOTE
+Zimple -> Jay Romero
+Zimple -> Remik Gonzalez
+Zimple -> Geassassin
+Zimple -> Neto Peña
+Remik Gonzalez -> Zimple
+Remik Gonzalez -> TREN LOKOTE
+Remik Gonzalez -> Jay Romero
+Remik Gonzalez -> Millonario
+Remik Gonzalez -> Santa Fe Klan
+Remik Gonzalez -> Bipo Montana
+Bipo Montana -> Zimple
+Bipo Montana -> Jay Romero
+Bipo Montana -> Geassassin
+Bipo Montana -> Neto Peña
+Bipo Montana -> TREN LOKOTE
+Bipo Montana -> Remik Gonzalez
+Bipo Montana -> Gera MX
+Santa Fe Klan -> Neto Peña
+Santa Fe Klan -> Bipo Montana
+Santa Fe Klan -> Remik Gonzalez
+Santa Fe Klan -> TREN LOKOTE
+Santa Fe Klan -> Nanpa Básico
+Santa Fe Klan -> Zimple
+Santa Fe Klan -> Gera MX
+Santa Fe Klan -> El Makabelico
+Santa Fe Klan -> Dharius
+Santa Fe Klan -> Millonario
+Neto Peña -> Jay Romero
+Neto Peña -> Nanpa Básico
+Neto Peña -> Zimple
+Neto Peña -> Santa Fe Klan
+Neto Peña -> Gera MX
+Neto Peña -> TREN LOKOTE
+Neto Peña -> Bipo Montana
+Neto Peña -> Geassassin
+Neto Peña -> Millonario
+Nanpa Básico -> Bipo Montana
+Nanpa Básico -> Gera MX
+Nanpa Básico -> Jay Romero
+Nanpa Básico -> TREN LOKOTE
+Nanpa Básico -> Santa Fe Klan
+Nanpa Básico -> Remik Gonzalez
+Nanpa Básico -> Afaz Natural
+Nanpa Básico -> Geassassin
+Nanpa Básico -> Neto Peña
+Nanpa Básico -> Millonario
+Nanpa Básico -> Zimple
+Jay Romero -> Bipo Montana
+Jay Romero -> Nanpa Básico
+Jay Romero -> Neto Peña
+Jay Romero -> Geassassin
+Jay Romero -> Remik Gonzalez
+Jay Romero -> Zimple
+Jay Romero -> Gera MX
+Geassassin -> Jay Romero
+Geassassin -> Bipo Montana
+Geassassin -> Neto Peña
+Geassassin -> Zimple
+C-Kan -> Millonario & W. Corona
+C-Kan -> Dharius
+C-Kan -> Banda Tierra Sagrada
+C-Kan -> MC Davo
+C-Kan -> Zimple
+C-Kan -> Millonario
+C-Kan -> TREN LOKOTE
+El Makabelico -> Millonario
+El Makabelico -> TREN LOKOTE
+El Makabelico -> Grupo Codiciado
+El Makabelico -> Los Minis de Caborca
+El Makabelico -> Remik Gonzalez
+El Makabelico -> El de La Guitarra
+El Makabelico -> Neto Peña
+El Makabelico -> Diferente Nivel
+El Makabelico -> Dharius
+El Makabelico -> Abraham Vazquez
+El Makabelico -> Zimple
+Guitarricadelafuente -> Natalia Lacunza
+Guitarricadelafuente -> La Maravillosa Orquesta del Alcohol
+Guitarricadelafuente -> Alizzz
+Guitarricadelafuente -> Taburete
+Paulo Londra -> LIT killah
+Paulo Londra -> Seven Kayne
+Paulo Londra -> KHEA
+Paulo Londra -> Kidd Keo
+Paulo Londra -> DrefQuila
+Paulo Londra -> WOS
+Paulo Londra -> Bhavi
+Paulo Londra -> FMK
+Paulo Londra -> Bizarrap
+Paulo Londra -> Brytiago
+Paulo Londra -> Duki
+Paulo Londra -> Trueno
+Paulo Londra -> Neo Pistea
+Paulo Londra -> Lary Over
+Paulo Londra -> Frijo
+Paulo Londra -> Cazzu
+Paulo Londra -> Bryant Myers
+Paulo Londra -> YSY A
+Paulo Londra -> Kevin Roldan
+Paulo Londra -> Jon Z
+Trap Capos -> Jamby El Favo
+Trap Capos -> Juanka
+Trap Capos -> Lenny Tavárez
+Trap Capos -> Gigolo Y La Exce
+Trap Capos -> Pusho
+Trap Capos -> Joyce Santana
+Trap Capos -> Brray
+Trap Capos -> Super Yei
+Trap Capos -> Rafa Pabön
+Trap Capos -> Juhn
+Trap Capos -> Lyanno
+Jamby El Favo -> Juanka
+Jamby El Favo -> Gigolo Y La Exce
+Jamby El Favo -> Super Yei
+Jamby El Favo -> Pusho
+Jamby El Favo -> Lenny Tavárez
+Jamby El Favo -> Rafa Pabön
+Jamby El Favo -> Brray
+Jamby El Favo -> Eladio Carrion
+Jamby El Favo -> Lyanno
+Jamby El Favo -> Ele A El Dominio
+Jamby El Favo -> Juhn
+Jamby El Favo -> Joyce Santana
+Jamby El Favo -> Trap Capos
+Gigolo Y La Exce -> Lenny Tavárez
+Gigolo Y La Exce -> Trap Capos
+Gigolo Y La Exce -> Jamby El Favo
+Gigolo Y La Exce -> Lyanno
+Gigolo Y La Exce -> Pusho
+Gigolo Y La Exce -> Juanka
+Gigolo Y La Exce -> Super Yei
+Gigolo Y La Exce -> Joyce Santana
+Gigolo Y La Exce -> Brray
+Gigolo Y La Exce -> Rafa Pabön
+Gigolo Y La Exce -> Dayme y El High
+Juanka -> Super Yei
+Juanka -> Gigolo Y La Exce
+Juanka -> Lenny Tavárez
+Juanka -> Jamby El Favo
+Juanka -> Trap Capos
+Juanka -> Joyce Santana
+Juanka -> Pusho
+Juanka -> Brray
+Juanka -> Rafa Pabön
+Brray -> Pj Sin Suela
+Brray -> Joyce Santana
+Brray -> Juanka
+Brray -> Gigolo Y La Exce
+Brray -> Jamby El Favo
+Brray -> Rafa Pabön
+Brray -> Super Yei
+Brray -> Lyanno
+Brray -> Dayme y El High
+Brray -> Pusho
+Brray -> Trap Capos
+Lenny Tavárez -> Gigolo Y La Exce
+Lenny Tavárez -> Trap Capos
+Lenny Tavárez -> Super Yei
+Lenny Tavárez -> Jamby El Favo
+Lenny Tavárez -> Juanka
+Lenny Tavárez -> Pusho
+Lenny Tavárez -> Rafa Pabön
+Lenny Tavárez -> Dayme y El High
+Lenny Tavárez -> Jerry Di
+Lenny Tavárez -> Lyanno
+Lenny Tavárez -> Darkiel
+Lenny Tavárez -> Joyce Santana
+Lenny Tavárez -> Juhn
+Super Yei -> Juanka
+Super Yei -> Gigolo Y La Exce
+Super Yei -> Pusho
+Super Yei -> Jamby El Favo
+Super Yei -> Rafa Pabön
+Super Yei -> Lenny Tavárez
+Super Yei -> Trap Capos
+Super Yei -> Joyce Santana
+Super Yei -> Dayme y El High
+Super Yei -> Brray
+Super Yei -> Lyanno
+Super Yei -> Héctor "El Father"
+Joyce Santana -> Juanka
+Joyce Santana -> Rafa Pabön
+Joyce Santana -> Pj Sin Suela
+Joyce Santana -> Brray
+Joyce Santana -> Jamby El Favo
+Joyce Santana -> Lyanno
+Joyce Santana -> Trap Capos
+Joyce Santana -> Gigolo Y La Exce
+Joyce Santana -> Super Yei
+Joyce Santana -> Pusho
+Rafa Pabön -> Brray
+Rafa Pabön -> Joyce Santana
+Rafa Pabön -> Lyanno
+Rafa Pabön -> Super Yei
+Rafa Pabön -> Juanka
+Rafa Pabön -> Gigolo Y La Exce
+Rafa Pabön -> Pusho
+Rafa Pabön -> Trap Capos
+Rafa Pabön -> Lenny Tavárez
+Rafa Pabön -> Jerry Di
+Rafa Pabön -> Jamby El Favo
+Pusho -> Joyce Santana
+Pusho -> Gigolo Y La Exce
+Pusho -> Trap Capos
+Pusho -> Rafa Pabön
+Pusho -> Super Yei
+Pusho -> Juanka
+Fer Palacio -> Axel Caram
+Fer Palacio -> Maty Deejay
+Fer Palacio -> Alan Gomez
+Fer Palacio -> L-Gante
+Fer Palacio -> Papichamp
+Fer Palacio -> DJ Alex
+Fer Palacio -> DJ Pirata
+Fer Palacio -> La Kuppe
+La Kuppe -> Axel Caram
+La Kuppe -> Maty Deejay
+La Kuppe -> Alan Gomez
+La Kuppe -> Q' Lokura
+La Kuppe -> El Reja
+DJ Pirata -> Maty Deejay
+DJ Pirata -> Fer Palacio
+DJ Pirata -> Axel Caram
+DJ Pirata -> Alan Gomez
+Jona Mix -> DJ Pirata
+Jona Mix -> DJ Roma Oficial
+Jona Mix -> Eme Sarav
+Jona Mix -> Maty Deejay
+Jona Mix -> Axel Caram
+Jona Mix -> Jupa Necasek
+Dani Ribba -> Seven Kayne
+Dani Ribba -> Rei
+Dani Ribba -> Luck Ra
+Dani Ribba -> Asan
+Dani Ribba -> Neo Pistea
+Dani Ribba -> Lucho SSJ
+Dani Ribba -> Mesita
+Dani Ribba -> Ecko
+Dani Ribba -> Bhavi
+Dani Ribba -> John C
+Dani Ribba -> Tobi
+Oscu -> Luck Ra
+Oscu -> Seven Kayne
+Oscu -> Asan
+Oscu -> Tobi
+Oscu -> Rei
+Oscu -> Bhavi
+Oscu -> Lucho SSJ
+Oscu -> John C
+Oscu -> Dani Ribba
+Oscu -> Dillom
+Oscu -> Neo Pistea
+Oscu -> Mesita
+Oscu -> Frijo
+Afaz Natural -> Nanpa Básico
+MC Davo -> Neto Peña
+MC Davo -> Remik Gonzalez
+MC Davo -> Zimple
+MC Davo -> TREN LOKOTE
+MC Davo -> Dharius
+MC Davo -> Millonario
+MC Davo -> Bipo Montana
+MC Davo -> Nanpa Básico
+MC Davo -> Gera MX
+MC Davo -> Santa Fe Klan
+Grupo Codiciado -> Los Minis de Caborca
+Grupo Codiciado -> Los Nuevos Ilegales
+Grupo Codiciado -> Lenin Ramírez
+Grupo Codiciado -> El de La Guitarra
+Grupo Codiciado -> Edicion Especial
+Grupo Codiciado -> Grupo Recluta
+Grupo Codiciado -> Abraham Vazquez
+Grupo Codiciado -> Diferente Nivel
+Grupo Codiciado -> Omar Ruiz
+Grupo Codiciado -> Fuerza Regida
+Grupo Codiciado -> La Ventaja
+El de La Guitarra -> Los Minis de Caborca
+El de La Guitarra -> Fuerza Regida
+El de La Guitarra -> Grupo Codiciado
+El de La Guitarra -> Los Nuevos Ilegales
+El de La Guitarra -> Edicion Especial
+El de La Guitarra -> Kanales
+El de La Guitarra -> Abraham Vazquez
+El de La Guitarra -> Lenin Ramírez
+El de La Guitarra -> Omar Ruiz
+El de La Guitarra -> Diferente Nivel
+Los Minis de Caborca -> Los Nuevos Ilegales
+Los Minis de Caborca -> La Ventaja
+Los Minis de Caborca -> Grupo Codiciado
+Los Minis de Caborca -> Grupo Recluta
+Los Minis de Caborca -> Diferente Nivel
+Diferente Nivel -> Los Nuevos Ilegales
+Diferente Nivel -> Grupo Codiciado
+Diferente Nivel -> Grupo Recluta
+Diferente Nivel -> Los Minis de Caborca
+Diferente Nivel -> Abraham Vazquez
+Diferente Nivel -> Grupo Marca Registrada
+Diferente Nivel -> Fuerza Regida
+Diferente Nivel -> La Ventaja
+Diferente Nivel -> Lenin Ramírez
+Diferente Nivel -> Edicion Especial
+Abraham Vazquez -> Diferente Nivel
+Abraham Vazquez -> El de La Guitarra
+Abraham Vazquez -> Edicion Especial
+Abraham Vazquez -> Los Nuevos Ilegales
+Abraham Vazquez -> Los Minis de Caborca
+Abraham Vazquez -> Grupo Recluta
+Abraham Vazquez -> Grupo Codiciado
+Abraham Vazquez -> Lenin Ramírez
+Abraham Vazquez -> Fuerza Regida
+Abraham Vazquez -> Los Parras
+Ele A El Dominio -> KEVVO
+Ele A El Dominio -> Darkiel
+Ele A El Dominio -> Juanka
+Ele A El Dominio -> Jon Z
+Ele A El Dominio -> Dayme y El High
+Ele A El Dominio -> Pusho
+Ele A El Dominio -> Brray
+Ele A El Dominio -> Trap Capos
+Ele A El Dominio -> Lary Over
+Ele A El Dominio -> Ñengo Flow
+Ele A El Dominio -> Joyce Santana
+Ele A El Dominio -> Gotay "El Autentiko"
+Ele A El Dominio -> Juhn
+Ele A El Dominio -> Gigolo Y La Exce
+Ele A El Dominio -> Super Yei
+Ele A El Dominio -> Miky Woodz
+Dayme y El High -> Juhn
+Dayme y El High -> Darkiel
+Dayme y El High -> Gigolo Y La Exce
+Dayme y El High -> Ele A El Dominio
+Dayme y El High -> Brray
+Dayme y El High -> Pusho
+Dayme y El High -> Gotay "El Autentiko"
+Dayme y El High -> Mambo Kingz
+Pj Sin Suela -> Joyce Santana
+Pj Sin Suela -> Rafa Pabön
+Pj Sin Suela -> Brray
+Pj Sin Suela -> Lyanno
+Pj Sin Suela -> Pusho
+Jerry Di -> ADSO
+Jerry Di -> Lyanno
+Jerry Di -> Rafa Pabön
+Jerry Di -> Gigolo Y La Exce
+Jerry Di -> Jeeiph
+Jerry Di -> Neutro Shorty
+Jerry Di -> Lenny Tavárez
+Jerry Di -> Micro TDH
+Jerry Di -> Big Soto
+Jerry Di -> Yera
+Darkiel -> Pusho
+Darkiel -> Dayme y El High
+Darkiel -> Gigolo Y La Exce
+Darkiel -> Gotay "El Autentiko"
+Darkiel -> Juhn
+Darkiel -> Juanka
+Darkiel -> Ele A El Dominio
+Darkiel -> Kendo Kaponi
+Darkiel -> Jory Boy
+Darkiel -> Trap Capos
+Héctor "El Father" -> Super Yei
+Héctor "El Father" -> Gigolo Y La Exce
+Héctor "El Father" -> DJ Nelson
+Héctor "El Father" -> Trap Capos
+Héctor "El Father" -> Zion
+Héctor "El Father" -> Juanka
+Héctor "El Father" -> Yaga & Mackie
+Héctor "El Father" -> Pusho
+Héctor "El Father" -> Darkiel
+Héctor "El Father" -> Trebol Clan
+Héctor "El Father" -> Hector & Tito
+Héctor "El Father" -> Luny Tunes
+DJ Alex -> Maty Deejay
+DJ Alex -> Axel Caram
+DJ Alex -> Jona Mix
+DJ Alex -> DJ Tao
+DJ Alex -> DJ Pirata
+DJ Alex -> Locura Mix
+DJ Alex -> Jupa Necasek
+DJ Alex -> DJ Roma Oficial
+DJ Alex -> Eme Sarav
+DJ Alex -> Perro Primo
+DJ Alex -> Bruno LC
+El Reja -> Marama
+El Reja -> Migrantes
+El Reja -> Lucas Sugo
+Q' Lokura -> La K'onga
+Q' Lokura -> Ulises Bueno
+DJ Roma Oficial -> Jona Mix
+DJ Roma Oficial -> Jupa Necasek
+DJ Roma Oficial -> Maty Deejay
+Jupa Necasek -> DJ Roma Oficial
+Jupa Necasek -> Eme Sarav
+Jupa Necasek -> Maty Deejay
+Jupa Necasek -> Jona Mix
+Eme Sarav -> Jupa Necasek
+Eme Sarav -> DJ Roma Oficial
+Eme Sarav -> Jona Mix
+Eme Sarav -> Axel Caram
+Eme Sarav -> DJ Pirata
+Eme Sarav -> Maty Deejay
+Dillom -> Bhavi
+Dillom -> Mesita
+Dillom -> Rei
+Dillom -> YSY A
+Dillom -> John C
+Dillom -> Blunted Vato
+Dillom -> Lucho SSJ
+Dillom -> Neo Pistea
+Dillom -> Asan
+Dillom -> CA7RIEL
+Los Nuevos Ilegales -> Los Minis de Caborca
+Los Nuevos Ilegales -> Diferente Nivel
+Los Nuevos Ilegales -> Abraham Vazquez
+Los Nuevos Ilegales -> Grupo Recluta
+Los Nuevos Ilegales -> Grupo Codiciado
+Los Nuevos Ilegales -> La Ventaja
+Los Nuevos Ilegales -> Edicion Especial
+Lenin Ramírez -> Grupo Codiciado
+Lenin Ramírez -> Los Minis de Caborca
+Lenin Ramírez -> El de La Guitarra
+Lenin Ramírez -> Los Nuevos Ilegales
+Lenin Ramírez -> El Fantasma
+Lenin Ramírez -> Diferente Nivel
+Lenin Ramírez -> Edicion Especial
+Lenin Ramírez -> Kanales
+Lenin Ramírez -> Grupo Marca Registrada
+Lenin Ramírez -> La Ventaja
+Lenin Ramírez -> Abraham Vazquez
+Lenin Ramírez -> Omar Ruiz
+Lenin Ramírez -> Grupo Recluta
+Lenin Ramírez -> Los Parras
+Edicion Especial -> Abraham Vazquez
+Edicion Especial -> Los Nuevos Ilegales
+Edicion Especial -> Los Minis de Caborca
+Edicion Especial -> El de La Guitarra
+Edicion Especial -> Diferente Nivel
+Edicion Especial -> Grupo Marca Registrada
+Edicion Especial -> Grupo Recluta
+Edicion Especial -> Lenin Ramírez
+Edicion Especial -> Grupo Codiciado
+Grupo Recluta -> Los Minis de Caborca
+Grupo Recluta -> Grupo Marca Registrada
+Grupo Recluta -> Los Nuevos Ilegales
+Grupo Recluta -> Edicion Especial
+Grupo Recluta -> La Ventaja
+Grupo Recluta -> Diferente Nivel
+Grupo Recluta -> Kanales
+Omar Ruiz -> Grupo Codiciado
+Omar Ruiz -> Los Minis de Caborca
+Omar Ruiz -> El de La Guitarra
+Omar Ruiz -> Diferente Nivel
+Omar Ruiz -> Los Nuevos Ilegales
+Omar Ruiz -> Grupo Marca Registrada
+Omar Ruiz -> Lenin Ramírez
+Omar Ruiz -> Kanales
+Fuerza Regida -> El de La Guitarra
+Fuerza Regida -> Abraham Vazquez
+Fuerza Regida -> Los Minis de Caborca
+Fuerza Regida -> Grupo Codiciado
+Fuerza Regida -> Diferente Nivel
+Fuerza Regida -> Edicion Especial
+Fuerza Regida -> Los Nuevos Ilegales
+Fuerza Regida -> Lenin Ramírez
+Fuerza Regida -> Kanales
+Fuerza Regida -> Omar Ruiz
+Fuerza Regida -> Grupo Recluta
+Fuerza Regida -> Grupo Marca Registrada
+Fuerza Regida -> La Ventaja
+La Ventaja -> Los Minis de Caborca
+La Ventaja -> Grupo Recluta
+La Ventaja -> Kanales
+La Ventaja -> Grupo Marca Registrada
+La Ventaja -> Los Nuevos Ilegales
+Kanales -> Los Nuevos Ilegales
+Kanales -> Los Minis de Caborca
+Kanales -> Grupo Codiciado
+Kanales -> Grupo Recluta
+Kanales -> La Ventaja
+Grupo Marca Registrada -> Grupo Recluta
+Grupo Marca Registrada -> Los Minis de Caborca
+Grupo Marca Registrada -> La Ventaja
+Grupo Marca Registrada -> Edicion Especial
+Grupo Marca Registrada -> Diferente Nivel
+Grupo Marca Registrada -> Los Nuevos Ilegales
+Grupo Marca Registrada -> Grupo Codiciado
+Grupo Marca Registrada -> Lenin Ramírez
+Los Parras -> Perdidos De Sinaloa
+Los Parras -> Cornelio Vega y su Dinastia
+Los Parras -> Jovanny Cadena Y Su Estilo Privado
+Los Parras -> Virlan Garcia
+Los Parras -> Alta Consigna
+Los Parras -> Chayín Rubio
+Los Parras -> Abraham Vazquez
+Los Parras -> Edicion Especial
+Los Parras -> La Zenda Norteña
+Los Parras -> Los Nuevos Ilegales
+Los Parras -> Joss Favela
+Los Parras -> Gerardo Coronel
+KEVVO -> Jon Z
+KEVVO -> Cauty
+KEVVO -> Casper Magico
+KEVVO -> DJ Luian
+KEVVO -> Noriel
+KEVVO -> Darell
+KEVVO -> Ele A El Dominio
+KEVVO -> Brray
+KEVVO -> Miky Woodz
+KEVVO -> Amenazzy
+KEVVO -> Gigolo Y La Exce
+KEVVO -> Omy de Oro
+KEVVO -> Jory Boy
+KEVVO -> Lary Over
+KEVVO -> Juanka
+Ñengo Flow -> Jory Boy
+Ñengo Flow -> Lary Over
+Ñengo Flow -> Luigi 21 Plus
+Ñengo Flow -> Bryant Myers
+Ñengo Flow -> Noriel
+Ñengo Flow -> Miky Woodz
+Ñengo Flow -> Gotay "El Autentiko"
+Ñengo Flow -> Casper Magico
+Ñengo Flow -> Brytiago
+Ñengo Flow -> Ele A El Dominio
+Ñengo Flow -> Ñejo
+Ñengo Flow -> Cosculluela
+Ñengo Flow -> Revol
+Ñengo Flow -> Kendo Kaponi
+Ñengo Flow -> Yaga & Mackie
+Ñengo Flow -> DJ Luian
+Ñengo Flow -> Darell
+Ñengo Flow -> Tempo
+Ñengo Flow -> De La Ghetto
+Gotay "El Autentiko" -> Luigi 21 Plus
+Gotay "El Autentiko" -> Kendo Kaponi
+Gotay "El Autentiko" -> Darkiel
+Gotay "El Autentiko" -> Jory Boy
+Gotay "El Autentiko" -> J Alvarez
+Gotay "El Autentiko" -> DJ Nelson
+Gotay "El Autentiko" -> Ñejo
+Miky Woodz -> Casper Magico
+Miky Woodz -> Lary Over
+Miky Woodz -> Bryant Myers
+Miky Woodz -> Cauty
+Miky Woodz -> Noriel
+Miky Woodz -> Brytiago
+Miky Woodz -> Rvssian
+Miky Woodz -> Revol
+Miky Woodz -> Jory Boy
+Miky Woodz -> DJ Luian
+Miky Woodz -> Jon Z
+Miky Woodz -> Darell
+Miky Woodz -> Alex Rose
+Miky Woodz -> Kevin Roldan
+Miky Woodz -> Ele A El Dominio
+Miky Woodz -> Ñengo Flow
+Miky Woodz -> Ñejo
+Miky Woodz -> Kendo Kaponi
+Miky Woodz -> Amenazzy
+Miky Woodz -> KEVVO
+Mambo Kingz -> Pusho
+Mambo Kingz -> Darkiel
+Mambo Kingz -> Gotay "El Autentiko"
+Mambo Kingz -> Juhn
+Mambo Kingz -> Dayme y El High
+Yera -> Jerry Di
+Yera -> Lalo Ebratt
+Yera -> Llane
+Kendo Kaponi -> Gotay "El Autentiko"
+Kendo Kaponi -> Tempo
+Kendo Kaponi -> Jory Boy
+Kendo Kaponi -> J Alvarez
+Kendo Kaponi -> Ñejo
+Kendo Kaponi -> Cosculluela
+Kendo Kaponi -> Yomo
+Kendo Kaponi -> DJ Nelson
+Kendo Kaponi -> Luigi 21 Plus
+Locura Mix -> Bruno LC
+Locura Mix -> Maty Deejay
+Locura Mix -> DJ Tao
+Locura Mix -> Jona Mix
+Locura Mix -> DJ Pirata
+Locura Mix -> Papu DJ
+Locura Mix -> EL NOBA
+Locura Mix -> DJ Alex
+DJ Tao -> Locura Mix
+DJ Tao -> Maty Deejay
+DJ Tao -> DJ Alex
+DJ Tao -> Jona Mix
+DJ Tao -> Perro Primo
+DJ Tao -> Bruno LC
+DJ Tao -> Axel Caram
+DJ Tao -> DJ Roma Oficial
+DJ Tao -> EL NOBA
+DJ Tao -> DJ Pirata
+Perro Primo -> Locura Mix
+Perro Primo -> EL NOBA
+Perro Primo -> DT.Bilardo
+Perro Primo -> Bruno LC
+Perro Primo -> BANDIDO
+Perro Primo -> Papu DJ
+Perro Primo -> DJ Tao
+Perro Primo -> DJ Alex
+Perro Primo -> Maty Deejay
+Perro Primo -> DJ Pirata
+Bruno LC -> Locura Mix
+Bruno LC -> Perro Primo
+Bruno LC -> Maty Deejay
+Bruno LC -> DJ Tao
+Bruno LC -> DJ Pirata
+Bruno LC -> EL NOBA
+Bruno LC -> DJ Alex
+Migrantes -> Lucas Sugo
+Migrantes -> Marama
+Migrantes -> El Reja
+Lucas Sugo -> El Reja
+Lucas Sugo -> Migrantes
+Marama -> El Reja
+Marama -> Migrantes
+Marama -> Agapornis
+Marama -> Rombai
+La K'onga -> Ulises Bueno
+La K'onga -> Q' Lokura
+Ulises Bueno -> La K'onga
+CA7RIEL -> Dillom
+El Fantasma -> Grupo Codiciado
+El Fantasma -> Grupo Marca Registrada
+El Fantasma -> Lenin Ramírez
+El Fantasma -> Edicion Especial
+El Fantasma -> El de La Guitarra
+El Fantasma -> Carin Leon
+El Fantasma -> Diferente Nivel
+El Fantasma -> Los Parras
+El Fantasma -> Grupo Recluta
+El Fantasma -> Abraham Vazquez
+El Fantasma -> Kanales
+El Fantasma -> Los Nuevos Ilegales
+El Fantasma -> Omar Ruiz
+El Fantasma -> Virlan Garcia
+El Fantasma -> Fuerza Regida
+Perdidos De Sinaloa -> Alta Consigna
+Perdidos De Sinaloa -> Jovanny Cadena Y Su Estilo Privado
+Perdidos De Sinaloa -> Gerardo Coronel
+Perdidos De Sinaloa -> Virlan Garcia
+Perdidos De Sinaloa -> Chayín Rubio
+Perdidos De Sinaloa -> Cornelio Vega y su Dinastia
+Perdidos De Sinaloa -> Los Parras
+Perdidos De Sinaloa -> Joss Favela
+Perdidos De Sinaloa -> Hijos De Barron
+Perdidos De Sinaloa -> Diferente Nivel
+Cornelio Vega y su Dinastia -> Alta Consigna
+Cornelio Vega y su Dinastia -> Jovanny Cadena Y Su Estilo Privado
+Cornelio Vega y su Dinastia -> Los Parras
+Cornelio Vega y su Dinastia -> Perdidos De Sinaloa
+Cornelio Vega y su Dinastia -> Gerardo Coronel
+Cornelio Vega y su Dinastia -> Virlan Garcia
+Cornelio Vega y su Dinastia -> Joss Favela
+Cornelio Vega y su Dinastia -> Diferente Nivel
+Cornelio Vega y su Dinastia -> Abraham Vazquez
+Cornelio Vega y su Dinastia -> Chayín Rubio
+Alta Consigna -> Perdidos De Sinaloa
+Alta Consigna -> Cornelio Vega y su Dinastia
+Alta Consigna -> Jovanny Cadena Y Su Estilo Privado
+Alta Consigna -> Virlan Garcia
+Alta Consigna -> Chayín Rubio
+Alta Consigna -> Joss Favela
+Alta Consigna -> Diferente Nivel
+Alta Consigna -> Abraham Vazquez
+Alta Consigna -> Gerardo Coronel
+Alta Consigna -> Los Parras
+Gerardo Coronel -> Chayín Rubio
+Gerardo Coronel -> Perdidos De Sinaloa
+Gerardo Coronel -> Los Parras
+Gerardo Coronel -> Jovanny Cadena Y Su Estilo Privado
+Gerardo Coronel -> Alta Consigna
+Gerardo Coronel -> Joss Favela
+Gerardo Coronel -> Virlan Garcia
+Gerardo Coronel -> Hijos De Barron
+Gerardo Coronel -> Cornelio Vega y su Dinastia
+Jovanny Cadena Y Su Estilo Privado -> Perdidos De Sinaloa
+Jovanny Cadena Y Su Estilo Privado -> Chayín Rubio
+Jovanny Cadena Y Su Estilo Privado -> Cornelio Vega y su Dinastia
+Jovanny Cadena Y Su Estilo Privado -> Alta Consigna
+Jovanny Cadena Y Su Estilo Privado -> Gerardo Coronel
+Jovanny Cadena Y Su Estilo Privado -> Los Parras
+Jovanny Cadena Y Su Estilo Privado -> Hijos De Barron
+Jovanny Cadena Y Su Estilo Privado -> La Ventaja
+Jovanny Cadena Y Su Estilo Privado -> Diferente Nivel
+Jovanny Cadena Y Su Estilo Privado -> Joss Favela
+Jovanny Cadena Y Su Estilo Privado -> Virlan Garcia
+Chayín Rubio -> Jovanny Cadena Y Su Estilo Privado
+Chayín Rubio -> Perdidos De Sinaloa
+Chayín Rubio -> Cornelio Vega y su Dinastia
+Chayín Rubio -> Alta Consigna
+Chayín Rubio -> Gerardo Coronel
+Chayín Rubio -> Joss Favela
+Chayín Rubio -> Los Parras
+Chayín Rubio -> Virlan Garcia
+Virlan Garcia -> Los Parras
+Virlan Garcia -> Cornelio Vega y su Dinastia
+Virlan Garcia -> Perdidos De Sinaloa
+Virlan Garcia -> Chayín Rubio
+Virlan Garcia -> Alta Consigna
+Virlan Garcia -> Gerardo Coronel
+Virlan Garcia -> Jovanny Cadena Y Su Estilo Privado
+Virlan Garcia -> Joss Favela
+Virlan Garcia -> Lenin Ramírez
+Virlan Garcia -> Edicion Especial
+Virlan Garcia -> Abraham Vazquez
+Virlan Garcia -> El de La Guitarra
+Virlan Garcia -> Diferente Nivel
+Virlan Garcia -> Adriel Favela
+Virlan Garcia -> Carin Leon
+Joss Favela -> Gerardo Coronel
+Joss Favela -> Perdidos De Sinaloa
+Joss Favela -> Los Parras
+Joss Favela -> Cornelio Vega y su Dinastia
+Joss Favela -> Jovanny Cadena Y Su Estilo Privado
+Joss Favela -> Chayín Rubio
+Joss Favela -> Virlan Garcia
+Joss Favela -> Alta Consigna
+La Zenda Norteña -> Los Parras
+La Zenda Norteña -> Gerardo Coronel
+La Zenda Norteña -> La Fiera de Ojinaga
+Darell -> Miky Woodz
+Darell -> Casper Magico
+Darell -> DJ Luian
+Darell -> Lary Over
+Darell -> Bryant Myers
+Darell -> Noriel
+Darell -> Revol
+Darell -> Jon Z
+Darell -> Amenazzy
+Darell -> Rvssian
+Darell -> Jory Boy
+Darell -> Alex Rose
+Darell -> Jhay Cortez
+Darell -> KEVVO
+Darell -> Brytiago
+Darell -> Ñengo Flow
+Darell -> Ele A El Dominio
+Darell -> Kevin Roldan
+Darell -> Chris Jedi
+Darell -> Cauty
+Omy de Oro -> Brray
+Omy de Oro -> Luar La L
+Omy de Oro -> Joyce Santana
+Omy de Oro -> Juanka
+Omy de Oro -> KEVVO
+Omy de Oro -> Almighty
+Omy de Oro -> Casper Magico
+Omy de Oro -> Pusho
+Omy de Oro -> Javiielo
+Luigi 21 Plus -> Jory Boy
+Luigi 21 Plus -> Gotay "El Autentiko"
+Luigi 21 Plus -> Ñejo & Dalmata
+Luigi 21 Plus -> Kendo Kaponi
+Luigi 21 Plus -> Dalmata
+Luigi 21 Plus -> J Alvarez
+Luigi 21 Plus -> Ñejo
+Luigi 21 Plus -> Lary Over
+Luigi 21 Plus -> Alberto Stylee
+Luigi 21 Plus -> Ñengo Flow
+Luigi 21 Plus -> De La Ghetto
+Luigi 21 Plus -> Randy
+Luigi 21 Plus -> Trebol Clan
+Revol -> Lary Over
+Revol -> Miky Woodz
+Revol -> Brytiago
+Revol -> Casper Magico
+Revol -> Rvssian
+Revol -> DJ Luian
+Revol -> Bryant Myers
+Revol -> Noriel
+Revol -> Cauty
+Revol -> Chris Jedi
+Revol -> Kevin Roldan
+Revol -> Jory Boy
+Revol -> Jon Z
+Revol -> Amenazzy
+Revol -> DJ Nelson
+Revol -> Luigi 21 Plus
+Revol -> Juhn
+Revol -> Nio Garcia
+Revol -> Darell
+Llane -> Yera
+Llane -> Beéle
+Llane -> Jerry Di
+Llane -> Ovy On The Drums
+Llane -> Lalo Ebratt
+Llane -> DEKKO
+Llane -> ChocQuibTown
+EL NOBA -> DJ Tao
+EL NOBA -> Perro Primo
+EL NOBA -> Bruno LC
+EL NOBA -> BANDIDO
+EL NOBA -> Papu DJ
+EL NOBA -> Locura Mix
+Papu DJ -> Perro Primo
+Papu DJ -> DT.Bilardo
+Papu DJ -> DJ Pirata
+Papu DJ -> Locura Mix
+DT.Bilardo -> Perro Primo
+DT.Bilardo -> Papu DJ
+DT.Bilardo -> DJ Tao
+DT.Bilardo -> DJ Alex
+DT.Bilardo -> Locura Mix
+DT.Bilardo -> Bruno LC
+DT.Bilardo -> DJ Pirata
+DT.Bilardo -> ZARAMAY
+DT.Bilardo -> EL NOBA
+BANDIDO -> Rei
+BANDIDO -> DJ Tao
+BANDIDO -> EL NOBA
+BANDIDO -> Locura Mix
+BANDIDO -> Ecko
+BANDIDO -> Jona Mix
+BANDIDO -> Maty Deejay
+BANDIDO -> Bruno LC
+BANDIDO -> Perro Primo
+Rombai -> Marama
+Rombai -> El Reja
+Rombai -> Migrantes
+Rombai -> Lucas Sugo
+Agapornis -> Marama
+Agapornis -> Banda XXI
+Agapornis -> Los del Fuego
+Agapornis -> El Reja
+Carin Leon -> Grupo Firme
+Carin Leon -> Lenin Ramírez
+Carin Leon -> Los Parras
+Carin Leon -> Jovanny Cadena Y Su Estilo Privado
+Carin Leon -> El Fantasma
+Carin Leon -> Cornelio Vega y su Dinastia
+Carin Leon -> Gerardo Coronel
+Carin Leon -> Chayín Rubio
+Carin Leon -> Grupo Codiciado
+Carin Leon -> La Zenda Norteña
+Carin Leon -> Perdidos De Sinaloa
+Carin Leon -> Virlan Garcia
+Carin Leon -> Edicion Especial
+Carin Leon -> Alta Consigna
+Carin Leon -> Joss Favela
+Carin Leon -> Grupo Marca Registrada
+Hijos De Barron -> Gerardo Coronel
+Hijos De Barron -> Perdidos De Sinaloa
+Hijos De Barron -> Jovanny Cadena Y Su Estilo Privado
+Adriel Favela -> Virlan Garcia
+Adriel Favela -> Lenin Ramírez
+Adriel Favela -> Los Parras
+Adriel Favela -> Revolver Cannabis
+Adriel Favela -> Grupo Codiciado
+Adriel Favela -> Perdidos De Sinaloa
+Adriel Favela -> Remmy Valenzuela
+Adriel Favela -> Enigma Norteño
+Adriel Favela -> Jovanny Cadena Y Su Estilo Privado
+Adriel Favela -> Aldo Trujillo
+Adriel Favela -> Alta Consigna
+Adriel Favela -> Cornelio Vega y su Dinastia
+La Fiera de Ojinaga -> Los Pescadores Del Rio Conchos
+La Fiera de Ojinaga -> La Zenda Norteña
+La Fiera de Ojinaga -> La Maquinaria Norteña
+Luar La L -> Joyce Santana
+Luar La L -> Omy de Oro
+Luar La L -> Brray
+Luar La L -> Almighty
+Almighty -> Kendo Kaponi
+Almighty -> Joyce Santana
+Almighty -> Pusho
+Almighty -> Luar La L
+Almighty -> Brray
+Almighty -> Omy de Oro
+Almighty -> Tempo
+Almighty -> Juanka
+Almighty -> Trap Capos
+Javiielo -> Juanka
+Javiielo -> Gigolo Y La Exce
+Javiielo -> Omy de Oro
+Javiielo -> Casper Magico
+Javiielo -> Cauty
+Javiielo -> Darkiel
+Javiielo -> Milly
+Javiielo -> Noriel
+Javiielo -> Rafa Pabön
+Javiielo -> El BAI
+Javiielo -> Simon la Letra
+Javiielo -> Eix
+Javiielo -> Pusho
+Randy -> Tainy
+Randy -> Jowell & Randy
+Randy -> Gotay "El Autentiko"
+Randy -> De La Ghetto
+Randy -> Yomo
+Randy -> Yaga & Mackie
+Randy -> DJ Nelson
+Randy -> Alex Gargolas
+Randy -> Zion
+Randy -> Luigi 21 Plus
+Randy -> Jory Boy
+Randy -> Trebol Clan
+Randy -> Ñejo
+Randy -> Tempo
+Ovy On The Drums -> Llane
+Ovy On The Drums -> Beéle
+Ovy On The Drums -> Lalo Ebratt
+Ovy On The Drums -> Yera
+Ovy On The Drums -> Abraham Mateo
+Ovy On The Drums -> DEKKO
+Ovy On The Drums -> Sael
+Ovy On The Drums -> Joey Montana
+Ovy On The Drums -> Leon Leiden
+Ovy On The Drums -> Mike Bahía
+Ovy On The Drums -> Jerry Di
+Ovy On The Drums -> Andy Rivera
+Ovy On The Drums -> Nacho
+Ovy On The Drums -> MYA
+Ovy On The Drums -> Lasso
+Beéle -> Llane
+Beéle -> Ovy On The Drums
+Beéle -> DEKKO
+Beéle -> Yera
+Beéle -> Sael
+Beéle -> Lalo Ebratt
+Beéle -> Jerry Di
+Beéle -> Dímelo Flow
+Beéle -> Lyanno
+Beéle -> Milly
+Beéle -> Boza
+DEKKO -> Beéle
+DEKKO -> Javiielo
+DEKKO -> Ovy On The Drums
+DEKKO -> 3AM
+DEKKO -> Sael
+DEKKO -> Big Soto
+DEKKO -> Yera
+DEKKO -> Jerry Di
+DEKKO -> ADSO
+DEKKO -> Jeeiph
+DEKKO -> Totoy El Frio
+DEKKO -> Blessd
+DEKKO -> Ryan Castro
+DEKKO -> Llane
+ZARAMAY -> Homer El Mero Mero
+ZARAMAY -> Blunted Vato
+ZARAMAY -> Ecko
+ZARAMAY -> BANDIDO
+ZARAMAY -> Perro Primo
+ZARAMAY -> Rei
+ZARAMAY -> DJ Tao
+ZARAMAY -> Neo Pistea
+ZARAMAY -> Mesita
+ZARAMAY -> EL NOBA
+ZARAMAY -> Lucho SSJ
+Los del Fuego -> Leo Mattioli
+Los del Fuego -> Dalila
+Los del Fuego -> La Nueva Luna
+Los del Fuego -> Mario Luis
+Banda XXI -> Leo Mattioli
+Banda XXI -> Nestor En Bloque
+Banda XXI -> La Nueva Luna
+Banda XXI -> Dalila
+Banda XXI -> Rodrigo
+Banda XXI -> Gilda
+Grupo Firme -> Carin Leon
+Grupo Firme -> Virlan Garcia
+Grupo Firme -> Grupo Codiciado
+Grupo Firme -> Perdidos De Sinaloa
+Grupo Firme -> Lenin Ramírez
+Grupo Firme -> Cornelio Vega y su Dinastia
+Grupo Firme -> Los Parras
+Grupo Firme -> El Fantasma
+Grupo Firme -> Jovanny Cadena Y Su Estilo Privado
+Grupo Firme -> Alta Consigna
+Grupo Firme -> Edicion Especial
+Grupo Firme -> Gerardo Coronel
+Grupo Firme -> Chayín Rubio
+Grupo Firme -> Grupo Recluta
+Grupo Firme -> La Zenda Norteña
+Grupo Firme -> Joss Favela
+Grupo Firme -> Diferente Nivel
+Grupo Firme -> Fuerza Regida
+Revolver Cannabis -> Los Alegres Del Barranco
+Revolver Cannabis -> Traviezoz de la Zierra
+Revolver Cannabis -> Adriel Favela
+Revolver Cannabis -> Enigma Norteño
+Revolver Cannabis -> Régulo Caro
+Remmy Valenzuela -> Javier Rosas Y Su Artillería Pesada
+Remmy Valenzuela -> Banda Los Sebastianes
+Remmy Valenzuela -> Revolver Cannabis
+Remmy Valenzuela -> Código FN
+Remmy Valenzuela -> Enigma Norteño
+Remmy Valenzuela -> Régulo Caro
+Remmy Valenzuela -> Colmillo Norteño
+Remmy Valenzuela -> Adriel Favela
+Remmy Valenzuela -> Voz De Mando
+Enigma Norteño -> Régulo Caro
+Enigma Norteño -> Colmillo Norteño
+Enigma Norteño -> Voz De Mando
+Enigma Norteño -> Los Nuevos Rebeldes
+Enigma Norteño -> Los Buitres De Culiacan Sinaloa
+Enigma Norteño -> Los Titanes De Durango
+Enigma Norteño -> Los Alegres Del Barranco
+Enigma Norteño -> El As De La Sierra
+Aldo Trujillo -> LEGADO 7
+Aldo Trujillo -> Grupo Maximo Grado
+Aldo Trujillo -> Javier Rosas Y Su Artillería Pesada
+Aldo Trujillo -> Traviezoz de la Zierra
+Aldo Trujillo -> Código FN
+Aldo Trujillo -> Grupo 360
+Aldo Trujillo -> Revolver Cannabis
+Aldo Trujillo -> Grupo Codiciado
+Aldo Trujillo -> Edicion Especial
+Aldo Trujillo -> Ariel Camacho y Los Plebes Del Rancho
+Aldo Trujillo -> Panchito Arredondo
+Aldo Trujillo -> T3R Elemento
+Los Pescadores Del Rio Conchos -> La Maquinaria Norteña
+La Maquinaria Norteña -> Los Pescadores Del Rio Conchos
+Eix -> Milly
+Eix -> Jossef
+Eix -> Rafa Pabön
+Eix -> Pusho
+Eix -> Gigolo Y La Exce
+Eix -> Joyce Santana
+Eix -> Javiielo
+Eix -> Cauty
+Eix -> Lyanno
+Milly -> Rafa Pabön
+Milly -> Eix
+Milly -> Gigolo Y La Exce
+Milly -> Pusho
+Milly -> Casper Magico
+Milly -> Javiielo
+Milly -> Lyanno
+Milly -> Noriel
+Milly -> Lary Over
+Milly -> Juhn
+Milly -> Cauty
+Alex Gargolas -> Trebol Clan
+Alex Gargolas -> Yomo
+Alex Gargolas -> Franco "El Gorilla"
+Alex Gargolas -> De La Ghetto
+Alex Gargolas -> Eddie Dee
+Alex Gargolas -> Zion
+Alex Gargolas -> Jory Boy
+Alex Gargolas -> Luny Tunes
+Alex Gargolas -> Jowell & Randy
+Alex Gargolas -> DJ Nelson
+Alex Gargolas -> Baby Rasta & Gringo
+Alex Gargolas -> Gotay "El Autentiko"
+Alex Gargolas -> Yaga & Mackie
+Alex Gargolas -> Tempo
+Alex Gargolas -> Hector & Tito
+MYA -> Emilia
+MYA -> Migrantes
+MYA -> Ovy On The Drums
+MYA -> Agapornis
+MYA -> El Reja
+MYA -> Abraham Mateo
+MYA -> Lali
+MYA -> Natalie Perez
+MYA -> FMK
+MYA -> Luck Ra
+MYA -> TINI
+MYA -> Rombai
+Sael -> BANDIDO
+Sael -> Luck Ra
+Sael -> Beéle
+Sael -> DEKKO
+Sael -> Rafa Pabön
+Sael -> Eix
+Sael -> Ecko
+Sael -> Alvaro Diaz
+Leon Leiden -> Ghetto Kids
+Leon Leiden -> Mario Bautista
+Leon Leiden -> The Change
+Leon Leiden -> Ovy On The Drums
+Leon Leiden -> Humbe
+Leon Leiden -> Kenia OS
+Leon Leiden -> Marcos Menchaca
+Leon Leiden -> Lasso
+Leon Leiden -> KURT
+Leon Leiden -> Llane
+Leon Leiden -> DEKKO
+Leon Leiden -> Elsa y Elmar
+Dímelo Flow -> Cauty
+Dímelo Flow -> Gigolo Y La Exce
+Dímelo Flow -> Casper Magico
+Dímelo Flow -> Juhn
+Dímelo Flow -> DJ Luian
+Dímelo Flow -> Milly
+Dímelo Flow -> Noriel
+Dímelo Flow -> Lyanno
+Dímelo Flow -> Rvssian
+Dímelo Flow -> Lenny Tavárez
+Dímelo Flow -> Rafa Pabön
+Dímelo Flow -> KEVVO
+Dímelo Flow -> Randy
+Dímelo Flow -> Lalo Ebratt
+Dímelo Flow -> Eix
+Dímelo Flow -> Rich Music LTD
+Dímelo Flow -> Dayme y El High
+3AM -> Tobi
+3AM -> Luck Ra
+3AM -> Seven Kayne
+3AM -> Dani Ribba
+3AM -> DEKKO
+3AM -> Asan
+Totoy El Frio -> Natan & Shander
+Totoy El Frio -> DEKKO
+Totoy El Frio -> Crissin
+Blessd -> Ryan Castro
+Blessd -> Luigi 21 Plus
+Blessd -> Javiielo
+Blessd -> DEKKO
+Blessd -> Reykon
+Blessd -> Ñejo
+Blessd -> Ñejo & Dalmata
+Blessd -> Feid
+Blessd -> Yeison Jimenez
+Blessd -> Sael
+Blessd -> Crissin
+Blessd -> Andy Rivera
+Ryan Castro -> Blessd
+Ryan Castro -> Andy Rivera
+Ryan Castro -> Yeison Jimenez
+Ryan Castro -> Ñejo & Dalmata
+Ryan Castro -> Luigi 21 Plus
+Ryan Castro -> Reykon
+Ryan Castro -> Ñejo
+Homer El Mero Mero -> Blunted Vato
+Homer El Mero Mero -> Neo Pistea
+Homer El Mero Mero -> ZARAMAY
+Dalila -> Los Palmeras
+Dalila -> La Nueva Luna
+Dalila -> Leo Mattioli
+Dalila -> Mario Luis
+Leo Mattioli -> Gilda
+Leo Mattioli -> Dalila
+Leo Mattioli -> Banda XXI
+Leo Mattioli -> Los Palmeras
+Leo Mattioli -> Mario Luis
+Leo Mattioli -> Nestor En Bloque
+Leo Mattioli -> Amar Azul
+Leo Mattioli -> La Nueva Luna
+Mario Luis -> Los Palmeras
+Mario Luis -> Dalila
+Mario Luis -> Leo Mattioli
+La Nueva Luna -> Leo Mattioli
+La Nueva Luna -> Dalila
+La Nueva Luna -> Los Palmeras
+La Nueva Luna -> Mario Luis
+La Nueva Luna -> Banda XXI
+La Nueva Luna -> Nestor En Bloque
+La Nueva Luna -> Gilda
+La Nueva Luna -> Damas Gratis
+La Nueva Luna -> Amar Azul
+Gilda -> Leo Mattioli
+Gilda -> Los Palmeras
+Gilda -> Amar Azul
+Gilda -> Banda XXI
+Gilda -> Dalila
+Gilda -> Damas Gratis
+Gilda -> Rafaga
+Gilda -> Nestor En Bloque
+Gilda -> La Nueva Luna
+Gilda -> Rodrigo
+Gilda -> Callejeros
+Nestor En Bloque -> Damas Gratis
+Nestor En Bloque -> La Nueva Luna
+Nestor En Bloque -> Leo Mattioli
+Nestor En Bloque -> Dalila
+Rodrigo -> Banda XXI
+Rodrigo -> Leo Mattioli
+Rodrigo -> La Nueva Luna
+Rodrigo -> Los Palmeras
+Rodrigo -> Dalila
+Rodrigo -> Callejeros
+Rodrigo -> Ciro y los Persas
+Rodrigo -> Intoxicados
+Rodrigo -> Guasones
+Rodrigo -> Gilda
+Machine Gun Kelly -> Chris Webby
+Machine Gun Kelly -> POORSTACY
+Machine Gun Kelly -> Yelawolf
+Machine Gun Kelly -> KennyHoopla
+Machine Gun Kelly -> Hopsin
+Machine Gun Kelly -> Ryan Caraveo
+Machine Gun Kelly -> YUNGBLUD
+Machine Gun Kelly -> Witt Lowry
+Machine Gun Kelly -> iann dior
+Machine Gun Kelly -> MOD SUN
+Machine Gun Kelly -> jxdn
+Machine Gun Kelly -> mike.
+Machine Gun Kelly -> Hoodie Allen
+Machine Gun Kelly -> Rittz
+Machine Gun Kelly -> Jelly Roll
+Machine Gun Kelly -> Bryce Vine
+Machine Gun Kelly -> Futuristic
+Machine Gun Kelly -> nothing,nowhere.
+Machine Gun Kelly -> Merkules
+Machine Gun Kelly -> Tech N9ne
+John Newman -> Ella Eyre
+John Newman -> X Ambassadors
+John Newman -> Example
+John Newman -> Rudimental
+John Newman -> Naughty Boy
+John Newman -> Years & Years
+John Newman -> Olly Murs
+John Newman -> Capital Cities
+John Newman -> Bastille
+John Newman -> Paloma Faith
+John Newman -> Emeli Sandé
+John Newman -> The Wanted
+John Newman -> Zak Abel
+John Newman -> Sigala
+John Newman -> MistaJam
+John Newman -> Martin Solveig
+John Newman -> Sigma
+John Newman -> Foxes
+Bastille -> American Authors
+Bastille -> WALK THE MOON
+Bastille -> Of Monsters and Men
+Bastille -> Sheppard
+Bastille -> X Ambassadors
+Bastille -> Smallpools
+Bastille -> The Mowgli's
+Bastille -> BANNERS
+Bastille -> Noah Kahan
+Bastille -> Tom Grennan
+Bastille -> Amber Run
+Bastille -> Kodaline
+Bastille -> Neon Trees
+Bastille -> The Wombats
+Bastille -> Scouting For Girls
+Bastille -> Wrabel
+Bastille -> Tom Walker
+MistaJam -> John Newman
+MistaJam -> Karen Harding
+MistaJam -> Black Caviar
+Twenty One Pilots -> Neon Trees
+Twenty One Pilots -> X Ambassadors
+Twenty One Pilots -> Young the Giant
+Twenty One Pilots -> AWOLNATION
+Twenty One Pilots -> Foster The People
+Twenty One Pilots -> Saint Motel
+Twenty One Pilots -> Panic! At The Disco
+Twenty One Pilots -> WALK THE MOON
+Twenty One Pilots -> I DONT KNOW HOW BUT THEY FOUND ME
+Twenty One Pilots -> half•alive
+Twenty One Pilots -> Grouplove
+Twenty One Pilots -> Waterparks
+Twenty One Pilots -> Fitz and The Tantrums
+Twenty One Pilots -> AJR
+Twenty One Pilots -> Jon Bellion
+Twenty One Pilots -> Palaye Royale
+Twenty One Pilots -> American Authors
+Twenty One Pilots -> MISSIO
+Twenty One Pilots -> Bad Suns
+Twenty One Pilots -> grandson
+AWOLNATION -> Grouplove
+AWOLNATION -> Young the Giant
+AWOLNATION -> Fitz and The Tantrums
+AWOLNATION -> Joywave
+AWOLNATION -> Foster The People
+AWOLNATION -> The Naked And Famous
+AWOLNATION -> Saint Motel
+AWOLNATION -> Cold War Kids
+AWOLNATION -> Matt and Kim
+AWOLNATION -> WALK THE MOON
+AWOLNATION -> Passion Pit
+AWOLNATION -> X Ambassadors
+Panic! At The Disco -> I DONT KNOW HOW BUT THEY FOUND ME
+Panic! At The Disco -> All Time Low
+Panic! At The Disco -> Paramore
+Panic! At The Disco -> My Chemical Romance
+Panic! At The Disco -> Fall Out Boy
+Panic! At The Disco -> Mayday Parade
+Panic! At The Disco -> Boys Like Girls
+Panic! At The Disco -> We The Kings
+Panic! At The Disco -> The All-American Rejects
+Panic! At The Disco -> The Cab
+Panic! At The Disco -> The Maine
+Panic! At The Disco -> Anarbor
+Panic! At The Disco -> Marianas Trench
+Panic! At The Disco -> 3OH!3
+Panic! At The Disco -> Cobra Starship
+Panic! At The Disco -> Palaye Royale
+Panic! At The Disco -> You Me At Six
+Panic! At The Disco -> Set It Off
+AJR -> American Authors
+AJR -> Fitz and The Tantrums
+AJR -> MisterWives
+AJR -> The Mowgli's
+AJR -> Jukebox The Ghost
+AJR -> half•alive
+AJR -> Weathers
+AJR -> Jon Bellion
+AJR -> Christian French
+AJR -> lovelytheband
+AJR -> The Band CAMINO
+AJR -> COIN
+AJR -> Smallpools
+AJR -> Neon Trees
+AJR -> DREAMERS
+Fall Out Boy -> All Time Low
+Fall Out Boy -> The All-American Rejects
+Fall Out Boy -> My Chemical Romance
+Fall Out Boy -> We The Kings
+Fall Out Boy -> Panic! At The Disco
+Fall Out Boy -> Boys Like Girls
+Fall Out Boy -> Good Charlotte
+Fall Out Boy -> Mayday Parade
+Fall Out Boy -> You Me At Six
+Fall Out Boy -> Yellowcard
+Fall Out Boy -> Cobra Starship
+Fall Out Boy -> The Maine
+Fall Out Boy -> The Cab
+Fall Out Boy -> Paramore
+Fall Out Boy -> Marianas Trench
+Fall Out Boy -> 3OH!3
+Fall Out Boy -> The Used
+Fall Out Boy -> The Red Jumpsuit Apparatus
+Fall Out Boy -> Anarbor
+Paramore -> Hayley Williams
+Paramore -> Panic! At The Disco
+Paramore -> Mayday Parade
+Paramore -> PVRIS
+Paramore -> All Time Low
+Paramore -> Boys Like Girls
+Paramore -> Fall Out Boy
+Paramore -> My Chemical Romance
+Paramore -> The All-American Rejects
+Paramore -> The Maine
+Paramore -> You Me At Six
+Paramore -> The Red Jumpsuit Apparatus
+Paramore -> We The Kings
+Paramore -> Good Charlotte
+Paramore -> Flyleaf
+Paramore -> Yellowcard
+Paramore -> Sleeping With Sirens
+Paramore -> 3OH!3
+Set It Off -> Anarbor
+Set It Off -> Marianas Trench
+Set It Off -> All Time Low
+Set It Off -> Get Scared
+Set It Off -> We The Kings
+Set It Off -> Waterparks
+Set It Off -> NateWantsToBattle
+Set It Off -> Falling In Reverse
+Set It Off -> The Cab
+Set It Off -> The Maine
+Set It Off -> Mayday Parade
+Set It Off -> Bohnes
+Hayley Williams -> PVRIS
+Hayley Williams -> Paramore
+Hayley Williams -> The Maine
+Hayley Williams -> You Me At Six
+Hayley Williams -> The Pretty Reckless
+Hayley Williams -> Allie X
+Hayley Williams -> Lights
+Hayley Williams -> Julien Baker
+Hayley Williams -> Caroline Polachek
+Hayley Williams -> MUNA
+Joji -> Hobo Johnson
+Joji -> Yeek
+Joji -> Aries
+Joji -> Rich Brian
+Joji -> Jaden
+Joji -> Dominic Fike
+Joji -> Kevin Abstract
+Joji -> boy pablo
+Joji -> Phum Viphurit
+Joji -> Oliver Tree
+Joji -> Omar Apollo
+Joji -> BROCKHAMPTON
+Joji -> Rex Orange County
+Joji -> Cuco
+Joji -> UMI
+Joji -> 88rising
+Joji -> Verzache
+Joji -> Bruno Major
+Joji -> ilyTOMMY
+Hobo Johnson -> Oliver Tree
+Hobo Johnson -> Tiny Meat Gang
+Hobo Johnson -> Modern Baseball
+Hobo Johnson -> The Front Bottoms
+Hobo Johnson -> The Wrecks
+Hobo Johnson -> McCafferty
+Hobo Johnson -> Rav
+Oliver Tree -> bbno$
+Oliver Tree -> Hobo Johnson
+Oliver Tree -> Tiny Meat Gang
+Oliver Tree -> Billy Marchiafava
+Oliver Tree -> Aries
+Oliver Tree -> Terror Reid
+Oliver Tree -> Yung Gravy
+Oliver Tree -> Joji
+Oliver Tree -> iamjakehill
+Oliver Tree -> Rav
+Oliver Tree -> Yeek
+Oliver Tree -> Josh A
+Oliver Tree -> Freddie Dredd
+Oliver Tree -> ilyTOMMY
+Oliver Tree -> Jack Stauber
+Oliver Tree -> Dominic Fike
+Cuco -> Her's
+Cuco -> Clairo
+Cuco -> Vansire
+Cuco -> boy pablo
+Cuco -> Gus Dapperton
+Cuco -> The Marías
+Cuco -> Christian Leave
+Cuco -> SALES
+Cuco -> beabadoobee
+Cuco -> Current Joys
+Cuco -> Jakob
+Cuco -> Men I Trust
+Cuco -> Inner Wave
+Verzache -> khai dreams
+Verzache -> Monty Datta
+Verzache -> Peachy!
+Verzache -> Sarcastic Sounds
+Verzache -> Yeek
+The Front Bottoms -> Turnover
+The Front Bottoms -> Modern Baseball
+The Front Bottoms -> McCafferty
+Modern Baseball -> The Front Bottoms
+Men I Trust -> Jakob
+Men I Trust -> Snail Mail
+Men I Trust -> The Marías
+Men I Trust -> Gus Dapperton
+Men I Trust -> Her's
+Men I Trust -> Strawberry Guy
+Men I Trust -> Vansire
+Men I Trust -> Good Morning
+Men I Trust -> Inner Wave
+BTS -> j-hope
+BTS -> RM
+BTS -> V
+BTS -> Stray Kids
+BTS -> SEVENTEEN
+BTS -> Monsta X
+BTS -> NCT 127
+BTS -> GOT7
+BTS -> Eric Nam
+BTS -> The Rose
+BTS -> MAMAMOO
+BTS -> PENTAGON
+BTS -> NCT
+BTS -> DAY6
+BTS -> TAEMIN
+BTS -> Agust D
+BTS -> TOMORROW X TOGETHER
+BTS -> THE BOYZ
+BTS -> Jackson Wang
+BTS -> ATEEZ
+j-hope -> V
+j-hope -> RM
+j-hope -> Jackson Wang
+j-hope -> JIN
+j-hope -> Agust D
+j-hope -> Eric Nam
+j-hope -> Monsta X
+j-hope -> TAEMIN
+j-hope -> GOT7
+j-hope -> SEVENTEEN
+j-hope -> KARD
+j-hope -> Hwa Sa
+j-hope -> PENTAGON
+j-hope -> ZICO
+j-hope -> WOODZ
+j-hope -> The Rose
+j-hope -> NCT
+RM -> j-hope
+RM -> Agust D
+RM -> Eric Nam
+RM -> JIN
+RM -> The Rose
+RM -> Jackson Wang
+RM -> GOT7
+RM -> Monsta X
+RM -> PENTAGON
+RM -> WOODZ
+RM -> MINO
+RM -> Epik High
+RM -> HEIZE
+RM -> TAEMIN
+RM -> Hwa Sa
+RM -> V
+V -> j-hope
+V -> Agust D
+V -> JIN
+V -> Hwa Sa
+V -> Smyang Piano
+V -> Jackson Wang
+V -> Gaho
+V -> Eric Nam
+V -> BOL4
+V -> RM
+Stray Kids -> SEVENTEEN
+Stray Kids -> Monsta X
+Stray Kids -> THE BOYZ
+Stray Kids -> NCT
+Stray Kids -> GOT7
+Stray Kids -> The Rose
+Stray Kids -> DAY6
+Stray Kids -> NCT 127
+Stray Kids -> NCT U
+Stray Kids -> NCT DREAM
+Stray Kids -> WOODZ
+Stray Kids -> PENTAGON
+Stray Kids -> TAEMIN
+SEVENTEEN -> NCT
+SEVENTEEN -> DAY6
+SEVENTEEN -> NCT 127
+SEVENTEEN -> NCT DREAM
+SEVENTEEN -> Stray Kids
+SEVENTEEN -> Monsta X
+SEVENTEEN -> PENTAGON
+SEVENTEEN -> GOT7
+SEVENTEEN -> THE BOYZ
+SEVENTEEN -> The Rose
+SEVENTEEN -> TAEMIN
+SEVENTEEN -> NCT U
+Eric Nam -> Jamie
+Eric Nam -> The Rose
+Eric Nam -> Monsta X
+Eric Nam -> THE BOYZ
+Eric Nam -> Gaho
+Eric Nam -> WOODZ
+Eric Nam -> PENTAGON
+Eric Nam -> Henry
+Eric Nam -> GOT7
+Eric Nam -> AKMU
+Monsta X -> SEVENTEEN
+Monsta X -> The Rose
+Monsta X -> Stray Kids
+Monsta X -> GOT7
+Monsta X -> DAY6
+Monsta X -> THE BOYZ
+Monsta X -> NCT
+Monsta X -> NCT U
+Monsta X -> PENTAGON
+Monsta X -> WINNER
+Monsta X -> NCT 127
+Monsta X -> Eric Nam
+NCT 127 -> NCT
+NCT 127 -> NCT DREAM
+NCT 127 -> SEVENTEEN
+NCT 127 -> THE BOYZ
+NCT 127 -> Stray Kids
+NCT 127 -> NCT U
+NCT 127 -> TAEMIN
+NCT 127 -> DAY6
+NCT 127 -> Monsta X
+NCT 127 -> BAEKHYUN
+NCT 127 -> PENTAGON
+NCT 127 -> GOT7
+NCT 127 -> SuperM
+NCT 127 -> The Rose
+NCT 127 -> aespa
+GOT7 -> DAY6
+GOT7 -> Monsta X
+GOT7 -> WINNER
+GOT7 -> WOODZ
+GOT7 -> The Rose
+GOT7 -> PENTAGON
+GOT7 -> Stray Kids
+GOT7 -> THE BOYZ
+GOT7 -> SEVENTEEN
+GOT7 -> NCT
+NCT -> NCT 127
+NCT -> SEVENTEEN
+NCT -> NCT DREAM
+NCT -> Monsta X
+NCT -> TAEMIN
+NCT -> DAY6
+NCT -> NCT U
+NCT -> THE BOYZ
+NCT -> PENTAGON
+NCT -> The Rose
+NCT -> GOT7
+NCT -> SuperM
+NCT -> BAEKHYUN
+NCT -> Stray Kids
+DAY6 -> SEVENTEEN
+DAY6 -> Monsta X
+DAY6 -> THE BOYZ
+DAY6 -> NCT U
+DAY6 -> Stray Kids
+DAY6 -> NCT
+DAY6 -> TAEMIN
+DAY6 -> GOT7
+DAY6 -> PENTAGON
+DAY6 -> NCT 127
+DAY6 -> The Rose
+DAY6 -> NCT DREAM
+DAY6 -> WINNER
+The Rose -> THE BOYZ
+The Rose -> Eric Nam
+The Rose -> NCT
+The Rose -> DAY6
+The Rose -> WOODZ
+The Rose -> SEVENTEEN
+The Rose -> Stray Kids
+The Rose -> Monsta X
+The Rose -> PENTAGON
+The Rose -> Jamie
+The Rose -> GOT7
+MAMAMOO -> JEON SOYEON
+MAMAMOO -> (G)I-DLE
+MAMAMOO -> LOONA
+MAMAMOO -> Red Velvet
+MAMAMOO -> TWICE
+MAMAMOO -> CLC
+MAMAMOO -> OH MY GIRL
+MAMAMOO -> MOMOLAND
+MAMAMOO -> Jamie
+MAMAMOO -> Hwa Sa
+PENTAGON -> SEVENTEEN
+PENTAGON -> GOT7
+PENTAGON -> Monsta X
+PENTAGON -> TAEMIN
+PENTAGON -> THE BOYZ
+PENTAGON -> The Rose
+PENTAGON -> NCT
+PENTAGON -> DAY6
+THE BOYZ -> Monsta X
+THE BOYZ -> Stray Kids
+THE BOYZ -> The Rose
+THE BOYZ -> SEVENTEEN
+THE BOYZ -> WOODZ
+THE BOYZ -> PENTAGON
+THE BOYZ -> NCT 127
+THE BOYZ -> NCT
+THE BOYZ -> NCT U
+THE BOYZ -> DAY6
+TAEMIN -> KEY
+TAEMIN -> SuperM
+TAEMIN -> NCT
+TAEMIN -> NCT U
+TAEMIN -> NCT 127
+TAEMIN -> BAEKHYUN
+TAEMIN -> PENTAGON
+TAEMIN -> THE BOYZ
+TAEMIN -> SHINee
+TAEMIN -> NCT DREAM
+TAEMIN -> Monsta X
+TAEMIN -> SEVENTEEN
+TAEMIN -> DAY6
+TAEMIN -> GOT7
+Agust D -> RM
+Agust D -> j-hope
+Agust D -> V
+Agust D -> JIN
+Agust D -> Smyang Piano
+Agust D -> The Rose
+Agust D -> TOMORROW X TOGETHER
+Agust D -> Monsta X
+Agust D -> Jackson Wang
+Agust D -> TAEMIN
+Agust D -> GOT7
+Agust D -> Eric Nam
+Agust D -> ATEEZ
+Agust D -> Jessi
+TOMORROW X TOGETHER -> Monsta X
+TOMORROW X TOGETHER -> THE BOYZ
+TOMORROW X TOGETHER -> PENTAGON
+TOMORROW X TOGETHER -> ENHYPEN
+TOMORROW X TOGETHER -> RM
+TOMORROW X TOGETHER -> j-hope
+TOMORROW X TOGETHER -> The Rose
+TOMORROW X TOGETHER -> Stray Kids
+TOMORROW X TOGETHER -> ONEUS
+TOMORROW X TOGETHER -> TAEMIN
+TOMORROW X TOGETHER -> ASTRO
+TOMORROW X TOGETHER -> ATEEZ
+TOMORROW X TOGETHER -> SEVENTEEN
+TOMORROW X TOGETHER -> WOODZ
+TOMORROW X TOGETHER -> WayV
+Jackson Wang -> SuperM
+Jackson Wang -> Monsta X
+Jackson Wang -> MINO
+Jackson Wang -> WINNER
+Jackson Wang -> WOODZ
+Jackson Wang -> RM
+Jackson Wang -> GOT7
+Jackson Wang -> j-hope
+Jackson Wang -> LAY
+ATEEZ -> Monsta X
+ATEEZ -> PENTAGON
+ATEEZ -> SuperM
+ATEEZ -> THE BOYZ
+ATEEZ -> TAEMIN
+ATEEZ -> ONEUS
+JIN -> V
+JIN -> RM
+JIN -> Smyang Piano
+JIN -> Agust D
+JIN -> TOMORROW X TOGETHER
+JIN -> The Rose
+JIN -> j-hope
+JIN -> Epik High
+Hwa Sa -> MAMAMOO
+Hwa Sa -> (G)I-DLE
+Hwa Sa -> Jamie
+Hwa Sa -> MOMOLAND
+Hwa Sa -> JEON SOYEON
+Hwa Sa -> WOODZ
+Hwa Sa -> Jessi
+Hwa Sa -> CL
+Hwa Sa -> Eric Nam
+Hwa Sa -> CLC
+Hwa Sa -> MINO
+KARD -> CHUNG HA
+KARD -> Dreamcatcher
+KARD -> CLC
+KARD -> HyunA
+KARD -> PENTAGON
+ZICO -> Jay Park
+ZICO -> GIRIBOY
+ZICO -> G-DRAGON
+ZICO -> WINNER
+ZICO -> Block B
+ZICO -> Epik High
+ZICO -> BTOB
+ZICO -> Hoody
+ZICO -> Zion.T
+ZICO -> MINO
+WOODZ -> THE BOYZ
+WOODZ -> The Rose
+WOODZ -> Gaho
+WOODZ -> Jamie
+WOODZ -> Eric Nam
+MINO -> WINNER
+MINO -> Epik High
+MINO -> GIRIBOY
+MINO -> Block B
+MINO -> Sik-K
+MINO -> ZICO
+Epik High -> G-DRAGON
+Epik High -> MINO
+Epik High -> WINNER
+Epik High -> ZICO
+Epik High -> HEIZE
+Epik High -> Jay Park
+Epik High -> 2NE1
+HEIZE -> Hoody
+HEIZE -> DEAN
+HEIZE -> BOL4
+HEIZE -> Yerin Baek
+HEIZE -> Zion.T
+HEIZE -> Colde
+HEIZE -> DPR LIVE
+HEIZE -> AKMU
+HEIZE -> Epik High
+HEIZE -> Crush
+HEIZE -> Sik-K
+Smyang Piano -> RM
+Smyang Piano -> V
+Smyang Piano -> j-hope
+Smyang Piano -> JIN
+Gaho -> Hoody
+Gaho -> WOODZ
+Gaho -> DEAN
+Gaho -> Colde
+Gaho -> GSoul
+Gaho -> HEIZE
+Gaho -> Eric Nam
+Gaho -> Henry
+Gaho -> Crush
+BOL4 -> AKMU
+BOL4 -> HEIZE
+BOL4 -> Crush
+BOL4 -> Yerin Baek
+BOL4 -> OH MY GIRL
+BOL4 -> fromis_9
+BOL4 -> Jamie
+NCT U -> NCT 127
+NCT U -> NCT DREAM
+NCT U -> THE BOYZ
+NCT U -> TAEMIN
+NCT U -> NCT
+NCT U -> SuperM
+NCT U -> Monsta X
+NCT U -> SEVENTEEN
+NCT U -> DAY6
+NCT U -> PENTAGON
+NCT U -> Stray Kids
+NCT U -> The Rose
+NCT U -> GOT7
+NCT DREAM -> SEVENTEEN
+NCT DREAM -> NCT 127
+NCT DREAM -> NCT
+NCT DREAM -> NCT U
+NCT DREAM -> TAEMIN
+NCT DREAM -> Monsta X
+NCT DREAM -> SuperM
+NCT DREAM -> The Rose
+NCT DREAM -> THE BOYZ
+NCT DREAM -> Stray Kids
+NCT DREAM -> BAEKHYUN
+NCT DREAM -> aespa
+NCT DREAM -> DAY6
+NCT DREAM -> PENTAGON
+Jamie -> Yerin Baek
+Jamie -> JEON SOYEON
+Jamie -> Eric Nam
+Jamie -> WOODZ
+Jamie -> Hoody
+Henry -> AILEE
+Henry -> Eric Nam
+Henry -> Gaho
+Henry -> BTOB
+AKMU -> BOL4
+AKMU -> Crush
+AKMU -> Yerin Baek
+AKMU -> LeeHi
+AKMU -> Eric Nam
+AKMU -> WINNER
+AKMU -> Epik High
+AKMU -> HEIZE
+AKMU -> Sam Kim
+AKMU -> Zion.T
+AKMU -> Jamie
+AKMU -> MINO
+AKMU -> Hoody
+WINNER -> GOT7
+WINNER -> Block B
+WINNER -> MINO
+WINNER -> Monsta X
+WINNER -> Epik High
+WINNER -> G-DRAGON
+WINNER -> BTOB
+BAEKHYUN -> CHANYEOL
+BAEKHYUN -> CHEN
+BAEKHYUN -> TAEMIN
+BAEKHYUN -> D.O.
+BAEKHYUN -> SuperM
+BAEKHYUN -> KEY
+BAEKHYUN -> NCT U
+BAEKHYUN -> LAY
+BAEKHYUN -> NCT 127
+BAEKHYUN -> NCT DREAM
+BAEKHYUN -> NCT
+BAEKHYUN -> WENDY
+BAEKHYUN -> WOODZ
+BAEKHYUN -> JOY
+aespa -> JOY
+aespa -> Red Velvet
+aespa -> STAYC
+aespa -> fromis_9
+aespa -> OH MY GIRL
+aespa -> TAEYEON
+aespa -> KEY
+aespa -> WENDY
+aespa -> IZ*ONE
+aespa -> Weeekly
+aespa -> JEON SOMI
+aespa -> Brave Girls
+aespa -> NCT 127
+aespa -> CLC
+SuperM -> LAY
+SuperM -> NCT U
+SuperM -> CHANYEOL
+SuperM -> TAEMIN
+SuperM -> BAEKHYUN
+SuperM -> CHEN
+SuperM -> NCT
+SuperM -> NCT DREAM
+SuperM -> THE BOYZ
+SuperM -> WayV
+SuperM -> NCT 127
+SuperM -> KAI
+SuperM -> KEY
+JEON SOYEON -> LOONA
+JEON SOYEON -> (G)I-DLE
+JEON SOYEON -> MAMAMOO
+JEON SOYEON -> OH MY GIRL
+JEON SOYEON -> Jamie
+JEON SOYEON -> MOMOLAND
+MOMOLAND -> TWICE
+MOMOLAND -> JEON SOYEON
+MOMOLAND -> LOONA
+MOMOLAND -> (G)I-DLE
+MOMOLAND -> MAMAMOO
+MOMOLAND -> CHUNG HA
+MOMOLAND -> Red Velvet
+MOMOLAND -> CLC
+MOMOLAND -> OH MY GIRL
+MOMOLAND -> fromis_9
+(G)I-DLE -> JEON SOYEON
+(G)I-DLE -> Hwa Sa
+(G)I-DLE -> LOONA
+(G)I-DLE -> MAMAMOO
+(G)I-DLE -> TWICE
+(G)I-DLE -> MOMOLAND
+(G)I-DLE -> fromis_9
+(G)I-DLE -> OH MY GIRL
+(G)I-DLE -> K/DA
+(G)I-DLE -> CLC
+(G)I-DLE -> Red Velvet
+LOONA -> JEON SOYEON
+LOONA -> Jamie
+LOONA -> Red Velvet
+LOONA -> fromis_9
+LOONA -> MOMOLAND
+LOONA -> (G)I-DLE
+LOONA -> OH MY GIRL
+LOONA -> TWICE
+LOONA -> MAMAMOO
+Red Velvet -> MOMOLAND
+Red Velvet -> LOONA
+Red Velvet -> MAMAMOO
+Red Velvet -> fromis_9
+Red Velvet -> TWICE
+Red Velvet -> WENDY
+Red Velvet -> JEON SOYEON
+Red Velvet -> aespa
+Red Velvet -> (G)I-DLE
+Red Velvet -> OH MY GIRL
+Red Velvet -> CHUNG HA
+Red Velvet -> TAEYEON
+Red Velvet -> CLC
+Red Velvet -> JOY
+TWICE -> (G)I-DLE
+TWICE -> LOONA
+TWICE -> MOMOLAND
+TWICE -> MAMAMOO
+TWICE -> BLACKPINK
+TWICE -> Red Velvet
+TWICE -> OH MY GIRL
+TWICE -> fromis_9
+TWICE -> CHUNG HA
+TWICE -> JEON SOYEON
+TWICE -> Hwa Sa
+TWICE -> BOL4
+TWICE -> SUNMI
+TWICE -> CLC
+TWICE -> K/DA
+CLC -> MOMOLAND
+CLC -> OH MY GIRL
+CLC -> JEON SOYEON
+CLC -> fromis_9
+CLC -> CHUNG HA
+CLC -> HyunA
+CLC -> (G)I-DLE
+OH MY GIRL -> fromis_9
+OH MY GIRL -> MOMOLAND
+OH MY GIRL -> CHUNG HA
+OH MY GIRL -> JEON SOYEON
+OH MY GIRL -> LOONA
+KEY -> SuperM
+KEY -> SHINee
+KEY -> WOODZ
+KEY -> TAEMIN
+SHINee -> SUPER JUNIOR
+SHINee -> 2PM
+SHINee -> G-DRAGON
+SHINee -> BTOB
+SHINee -> 2NE1
+Jessi -> CL
+Jessi -> HyunA
+Jessi -> JEON SOYEON
+Jessi -> KARD
+Jessi -> Hwa Sa
+Jessi -> Sik-K
+Jessi -> Jamie
+Jessi -> Jay Park
+Jessi -> CHUNG HA
+Jessi -> CLC
+Jessi -> MINO
+Jessi -> ZICO
+ENHYPEN -> THE BOYZ
+ENHYPEN -> ONEUS
+ENHYPEN -> ATEEZ
+ENHYPEN -> TOMORROW X TOGETHER
+ENHYPEN -> WayV
+ENHYPEN -> WOODZ
+ENHYPEN -> PENTAGON
+ENHYPEN -> TREASURE
+ASTRO -> Dreamcatcher
+ASTRO -> BTOB
+ASTRO -> PENTAGON
+ASTRO -> KARD
+WayV -> SuperM
+WayV -> THE BOYZ
+WayV -> NCT
+WayV -> ONEUS
+WayV -> NCT 127
+WayV -> NCT U
+LAY -> Jackson Wang
+LAY -> BAEKHYUN
+LAY -> CHEN
+LAY -> SuperM
+LAY -> TAEMIN
+LAY -> CHANYEOL
+LAY -> KEY
+LAY -> D.O.
+CL -> 2NE1
+CL -> G-DRAGON
+CL -> HyunA
+CL -> Jay Park
+CL -> Epik High
+CL -> WINNER
+CL -> JEON SOYEON
+CL -> ZICO
+CL -> MINO
+CHUNG HA -> JEON SOYEON
+CHUNG HA -> MOMOLAND
+CHUNG HA -> fromis_9
+CHUNG HA -> JEON SOMI
+CHUNG HA -> LOONA
+CHUNG HA -> CLC
+CHUNG HA -> (G)I-DLE
+CHUNG HA -> OH MY GIRL
+CHUNG HA -> KARD
+HyunA -> 2NE1
+Dreamcatcher -> KARD
+Dreamcatcher -> HyunA
+Dreamcatcher -> fromis_9
+Dreamcatcher -> CLC
+Dreamcatcher -> Brave Girls
+Dreamcatcher -> ASTRO
+Jay Park -> G-DRAGON
+Jay Park -> 2PM
+Jay Park -> 2NE1
+Jay Park -> Epik High
+Jay Park -> ZICO
+Jay Park -> SHINee
+Jay Park -> BTOB
+GIRIBOY -> Colde
+GIRIBOY -> Sik-K
+G-DRAGON -> 2NE1
+G-DRAGON -> Jay Park
+G-DRAGON -> SHINee
+G-DRAGON -> BIGBANG
+G-DRAGON -> SUPER JUNIOR
+G-DRAGON -> Epik High
+G-DRAGON -> BTOB
+G-DRAGON -> 2PM
+Block B -> MINO
+Block B -> WINNER
+Block B -> ZICO
+BTOB -> AILEE
+BTOB -> G-DRAGON
+BTOB -> SHINee
+Sik-K -> DPR LIVE
+Sik-K -> Hoody
+Sik-K -> DEAN
+Sik-K -> Colde
+Sik-K -> Crush
+2NE1 -> Jay Park
+2NE1 -> G-DRAGON
+DPR LIVE -> Hoody
+DPR LIVE -> Sik-K
+DPR LIVE -> GRAY
+DPR LIVE -> Crush
+DPR LIVE -> HEIZE
+DPR LIVE -> DEAN
+DPR LIVE -> Zion.T
+DPR LIVE -> Colde
+DPR LIVE -> GSoul
+fromis_9 -> OH MY GIRL
+fromis_9 -> MOMOLAND
+fromis_9 -> LOONA
+AILEE -> BTOB
+AILEE -> 2NE1
+LeeHi -> AKMU
+LeeHi -> AILEE
+LeeHi -> Zion.T
+LeeHi -> Epik High
+LeeHi -> MINO
+LeeHi -> HEIZE
+LeeHi -> WINNER
+LeeHi -> GRAY
+LeeHi -> Jamie
+LeeHi -> Yerin Baek
+LeeHi -> B.I
+LeeHi -> Crush
+LeeHi -> GSoul
+LeeHi -> ZICO
+CHEN -> CHANYEOL
+CHEN -> LAY
+CHEN -> D.O.
+CHEN -> TAEYEON
+CHEN -> BAEKHYUN
+CHEN -> JOY
+CHEN -> WENDY
+CHEN -> SuperM
+CHANYEOL -> D.O.
+CHANYEOL -> BAEKHYUN
+CHANYEOL -> LAY
+CHANYEOL -> SuperM
+CHANYEOL -> KEY
+CHANYEOL -> WENDY
+CHANYEOL -> CHEN
+CHANYEOL -> TAEYEON
+CHANYEOL -> JOY
+D.O. -> BAEKHYUN
+D.O. -> CHEN
+D.O. -> SuperM
+D.O. -> NCT
+D.O. -> CHANYEOL
+D.O. -> LAY
+D.O. -> NCT U
+D.O. -> JOY
+D.O. -> EXO
+D.O. -> WENDY
+D.O. -> NCT DREAM
+D.O. -> TAEMIN
+D.O. -> NCT 127
+D.O. -> TAEYEON
+D.O. -> KEY
+WENDY -> TAEYEON
+WENDY -> JOY
+WENDY -> CHEN
+WENDY -> aespa
+JOY -> WENDY
+JOY -> TAEYEON
+JOY -> Yerin Baek
+JOY -> KEY
+JOY -> Weeekly
+JOY -> fromis_9
+JOY -> JEON SOYEON
+JOY -> aespa
+STAYC -> Weeekly
+STAYC -> Brave Girls
+STAYC -> fromis_9
+STAYC -> OH MY GIRL
+TAEYEON -> WENDY
+TAEYEON -> Girls' Generation
+TAEYEON -> JOY
+TAEYEON -> KEY
+TAEYEON -> DAVICHI
+TAEYEON -> BAEKHYUN
+TAEYEON -> CHEN
+TAEYEON -> AILEE
+Weeekly -> fromis_9
+JEON SOMI -> CHUNG HA
+JEON SOMI -> CLC
+JEON SOMI -> Brave Girls
+JEON SOMI -> OH MY GIRL
+JEON SOMI -> STAYC
+JEON SOMI -> Weeekly
+JEON SOMI -> SUNMI
+JEON SOMI -> JEON SOYEON
+JEON SOMI -> EVERGLOW
+JEON SOMI -> aespa
+JEON SOMI -> IZ*ONE
+JEON SOMI -> (G)I-DLE
+IZ*ONE -> OH MY GIRL
+IZ*ONE -> CLC
+IZ*ONE -> fromis_9
+IZ*ONE -> Girls Planet 999
+IZ*ONE -> GFRIEND
+IZ*ONE -> Weeekly
+Brave Girls -> fromis_9
+Brave Girls -> OH MY GIRL
+KAI -> CHANYEOL
+KAI -> CHEN
+KAI -> BAEKHYUN
+KAI -> SuperM
+KAI -> TAEMIN
+KAI -> KEY
+KAI -> D.O.
+KAI -> WOODZ
+KAI -> LAY
+K/DA -> MAMAMOO
+K/DA -> LOONA
+K/DA -> Hwa Sa
+K/DA -> JEON SOYEON
+K/DA -> (G)I-DLE
+K/DA -> BLACKPINK
+K/DA -> MOMOLAND
+K/DA -> Jamie
+K/DA -> Red Velvet
+K/DA -> CLC
+K/DA -> fromis_9
+K/DA -> TWICE
+BLACKPINK -> (G)I-DLE
+BLACKPINK -> Hwa Sa
+BLACKPINK -> MAMAMOO
+BLACKPINK -> K/DA
+BLACKPINK -> LOONA
+BLACKPINK -> MOMOLAND
+BLACKPINK -> Red Velvet
+BLACKPINK -> TWICE
+BLACKPINK -> TREASURE
+BLACKPINK -> JEON SOYEON
+BLACKPINK -> CLC
+BLACKPINK -> ROSÉ
+BLACKPINK -> OH MY GIRL
+BLACKPINK -> Girls' Generation
+BLACKPINK -> 2NE1
+BLACKPINK -> HyunA
+BLACKPINK -> fromis_9
+SUNMI -> CLC
+SUNMI -> CHUNG HA
+SUNMI -> HyunA
+SUNMI -> Dreamcatcher
+SUNMI -> KARD
+SUNMI -> (G)I-DLE
+SUPER JUNIOR -> SHINee
+SUPER JUNIOR -> G-DRAGON
+SUPER JUNIOR -> 2NE1
+SUPER JUNIOR -> 2PM
+2PM -> SUPER JUNIOR
+2PM -> SHINee
+2PM -> 2NE1
+2PM -> G-DRAGON
+2PM -> BTOB
+TREASURE -> WINNER
+TREASURE -> THE BOYZ
+TREASURE -> iKON
+TREASURE -> ONEUS
+TREASURE -> PENTAGON
+TREASURE -> B.I
+BIGBANG -> 2PM
+BIGBANG -> 2NE1
+BIGBANG -> Epik High
+BIGBANG -> G-DRAGON
+BIGBANG -> WINNER
+BIGBANG -> Jay Park
+BIGBANG -> SUPER JUNIOR
+BIGBANG -> SHINee
+GRAY -> Hoody
+GRAY -> DPR LIVE
+GRAY -> Zion.T
+GRAY -> GIRIBOY
+GRAY -> Loco
+B.I -> Epik High
+B.I -> WINNER
+B.I -> TREASURE
+B.I -> GRAY
+B.I -> LeeHi
+B.I -> MINO
+B.I -> WOODZ
+B.I -> iKON
+EXO -> BTOB
+EXO -> TAEMIN
+EXO -> CHEN
+EXO -> SUPER JUNIOR
+EXO -> SHINee
+EXO -> D.O.
+EXO -> BAEKHYUN
+EXO -> GOT7
+EXO -> NCT U
+EXO -> Jay Park
+EXO -> Block B
+Girls' Generation -> SUPER JUNIOR
+Girls' Generation -> 2NE1
+DAVICHI -> 2NE1
+DAVICHI -> AILEE
+EVERGLOW -> CHUNG HA
+EVERGLOW -> CLC
+EVERGLOW -> (G)I-DLE
+EVERGLOW -> IZ*ONE
+EVERGLOW -> Dreamcatcher
+EVERGLOW -> MOMOLAND
+EVERGLOW -> KARD
+EVERGLOW -> SUNMI
+EVERGLOW -> OH MY GIRL
+EVERGLOW -> fromis_9
+EVERGLOW -> ONEUS
+GFRIEND -> CLC
+GFRIEND -> OH MY GIRL
+GFRIEND -> fromis_9
+GFRIEND -> IZ*ONE
+Girls Planet 999 -> fromis_9
+ROSÉ -> TREASURE
+ROSÉ -> LISA
+ROSÉ -> LeeHi
+ROSÉ -> CL
+ROSÉ -> TAEYANG
+ROSÉ -> Hwa Sa
+ROSÉ -> JEON SOMI
+ROSÉ -> (G)I-DLE
+ROSÉ -> JENNIE
+ROSÉ -> G-DRAGON
+ROSÉ -> JEON SOYEON
+ROSÉ -> aespa
+ROSÉ -> AKMU
+ROSÉ -> WENDY
+ROSÉ -> EVERGLOW
+ROSÉ -> JOY
+ROSÉ -> 2NE1
+ROSÉ -> B.I
+ROSÉ -> STAYC
+iKON -> WINNER
+iKON -> MINO
+iKON -> TREASURE
+iKON -> B.I
+iKON -> PENTAGON
+iKON -> BTOB
+iKON -> G-DRAGON
+iKON -> ZICO
+iKON -> ONEUS
+iKON -> Block B
+Loco -> Hoody
+Loco -> Zion.T
+Loco -> Sik-K
+Loco -> Crush
+Loco -> GRAY
+Loco -> GSoul
+Loco -> GIRIBOY
+Loco -> Colde
+Loco -> pH-1
+JENNIE -> LISA
+JENNIE -> TREASURE
+JENNIE -> Hwa Sa
+JENNIE -> TAEYANG
+JENNIE -> G-DRAGON
+JENNIE -> CL
+JENNIE -> ROSÉ
+JENNIE -> JEON SOMI
+JENNIE -> 2NE1
+JENNIE -> aespa
+JENNIE -> (G)I-DLE
+JENNIE -> MOMOLAND
+JENNIE -> Jessi
+JENNIE -> BLACKPINK
+JENNIE -> JEON SOYEON
+JENNIE -> EVERGLOW
+JENNIE -> SUNMI
+JENNIE -> ITZY
+JENNIE -> CLC
+LISA -> JENNIE
+LISA -> JEON SOMI
+LISA -> LeeHi
+LISA -> ROSÉ
+LISA -> ITZY
+LISA -> CL
+LISA -> Red Velvet
+LISA -> aespa
+LISA -> TREASURE
+LISA -> STAYC
+LISA -> Jessi
+LISA -> (G)I-DLE
+LISA -> TAEYEON
+LISA -> IU
+LISA -> 2NE1
+LISA -> BLACKPINK
+LISA -> iKON
+LISA -> B.I
+TAEYANG -> 2NE1
+TAEYANG -> G-DRAGON
+TAEYANG -> WINNER
+TAEYANG -> MINO
+TAEYANG -> BIGBANG
+TAEYANG -> Epik High
+pH-1 -> Sik-K
+pH-1 -> GIRIBOY
+pH-1 -> CHANGMO
+pH-1 -> GRAY
+ITZY -> CLC
+ITZY -> EVERGLOW
+ITZY -> CHUNG HA
+ITZY -> (G)I-DLE
+ITZY -> JEON SOMI
+ITZY -> STAYC
+ITZY -> OH MY GIRL
+ITZY -> SUNMI
+ITZY -> fromis_9
+ITZY -> aespa
+ITZY -> GFRIEND
+ITZY -> LOONA
+ITZY -> Red Velvet
+ITZY -> Dreamcatcher
+ITZY -> MOMOLAND
+ITZY -> Weeekly
+ITZY -> IZ*ONE
+ITZY -> HyunA
+IU -> DAVICHI
+IU -> G-DRAGON
+IU -> AILEE
+IU -> SHINee
+IU -> 2PM
+IU -> 2NE1
+IU -> Girls' Generation
+IU -> BTOB
+IU -> Jay Park
+IU -> Epik High
