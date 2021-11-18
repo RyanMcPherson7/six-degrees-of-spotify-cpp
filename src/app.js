@@ -4,7 +4,7 @@ import setPopulator from './populate-artist-set.js';
 // https://open.spotify.com/playlist/33Re55lSgkd5XzB6YMhFZA
 
 const SOURCE = [
-  // ['Justin Bieber', '1uNFoZAHBGtllmzznpCI3s'],
+  ['Justin Bieber', '1uNFoZAHBGtllmzznpCI3s'],
   // ['Vance Joy', '10exVja0key0uqUkk6LJRT'],
   // ['Dominic Fike', '6USv9qhCn6zfxlBQIYJ9qs'],
   // ['Ed Sheeran', '6eUKZXaKkcviH0Ku9w2n3V'],
@@ -46,14 +46,14 @@ const SOURCE = [
   // ['John Newman', '34v5MVKeQnIo0CWYMbbrPf'], 
   // ['Twenty One Pilots', '3YQKmKGau1PzlVlkL1iodx'],
   // ['Joji', '3MZsBdqDrRTJihTHQrO6Dq'],
-  ['BTS', '3Nrfpe0tUJi4K4DXYWgMUX'],
+  // ['BTS', '3Nrfpe0tUJi4K4DXYWgMUX'],
 ];
 
-const ARTIST_SET_ID_FILE = './data/artist-set-id.txt';
-const CONNECTIONS_FILE = './data/connections.txt';
+const ARTIST_SET_ID_FILE = './data/artist-set-id55.txt';
+const CONNECTIONS_FILE = './data/connections55.txt';
 const ARTIST_ID_SET = setPopulator(ARTIST_SET_ID_FILE);
 const NUM_ARTISTS = 10000;
-const POPULARITY = 60;
+const POPULARITY = 55;
 
 setTimeout(() => {
   populateConnections(

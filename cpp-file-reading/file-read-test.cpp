@@ -8,7 +8,7 @@ using namespace std;
 int main() {
 
     fstream inputFile;
-    inputFile.open("../data/connections.txt", ios::in);
+    inputFile.open("../data/connections60.txt", ios::in);
     unordered_set<string> artists;
 
     if (inputFile.is_open()) {
