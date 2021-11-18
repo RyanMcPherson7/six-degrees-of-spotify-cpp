@@ -1,9 +1,10 @@
 import getRelatedArtists from './get-related-artists.js';
+import Queue from 'yocto-queue';
 import fs from 'fs';
 
 // writes specified # artists connections to connections.txt
 const populateConnections = async (
-  processingQueue,
+  source,
   artistIdSet,
   artistIdSetFile,
   connectionsFile,
@@ -12,9 +13,14 @@ const populateConnections = async (
 ) => {
   let count = 0;
 
+  // loading data into queue from source
+  let processingQueue = new Queue();
+  source.forEach((artist) => {
+    processingQueue.enqueue(artist);
+  });
+
   // processing artists
   while (count != numArtists && processingQueue.size != 0) {
-
     // processing each id in processing queue
     const qSize = processingQueue.size;
     for (let i = 0; i < qSize; i++) {
@@ -46,7 +52,7 @@ const populateConnections = async (
                 if (err) throw err;
               }
             );
-          } 
+          }
         });
       }
       console.log(`# artists processed: ${count}`);
@@ -56,8 +62,7 @@ const populateConnections = async (
   // exit status
   if (processingQueue.size == 0) {
     console.log('processing queue is empty');
-  }
-  else {
+  } else {
     console.log(`${numArtists} found and processed`);
   }
 };
