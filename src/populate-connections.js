@@ -19,6 +19,8 @@ const populateConnections = async (
     processingQueue.enqueue(artist);
   });
 
+  console.log('# already processed artists', artistIdSet.size);
+
   // processing artists
   while (count != numArtists && processingQueue.size != 0) {
     // processing each id in processing queue
@@ -55,7 +57,7 @@ const populateConnections = async (
           }
         });
       }
-      console.log(`# artists processed: ${count}`);
+      console.log('# artists processed: ', count);
     }
   }
 
