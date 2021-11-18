@@ -5,11 +5,14 @@ import fs from 'fs';
 const populateConnections = async (
   processingQueue,
   artistIdSet,
+  artistIdSetFile,
+  connectionsFile,
   numArtists,
   popularityThreshold
 ) => {
   let count = 0;
 
+  // processing artists
   while (count != numArtists && processingQueue.size != 0) {
 
     // processing each id in processing queue
@@ -24,7 +27,7 @@ const populateConnections = async (
       // process id if not already processed
       if (!artistIdSet.has(currentId)) {
         artistIdSet.add(currentId);
-        fs.appendFile('./data/artist-set-id.txt', `${currentId},`, (err) => {
+        fs.appendFile(artistIdSetFile, `${currentId},`, (err) => {
           if (err) throw err;
         });
 
@@ -37,7 +40,7 @@ const populateConnections = async (
           if (artist.popularity >= popularityThreshold) {
             processingQueue.enqueue([artist.name, artist.id]);
             fs.appendFile(
-              './data/connections.txt',
+              connectionsFile,
               `${currentName} -> ${artist.name}\n`,
               (err) => {
                 if (err) throw err;
@@ -46,11 +49,17 @@ const populateConnections = async (
           } 
         });
       }
-      console.log('# artists processed: ', count);
+      console.log(`# artists processed: ${count}`);
     }
   }
 
-  console.log('processing queue is empty');
+  // exit status
+  if (processingQueue.size == 0) {
+    console.log('processing queue is empty');
+  }
+  else {
+    console.log(`${numArtists} found and processed`);
+  }
 };
 
 export default populateConnections;

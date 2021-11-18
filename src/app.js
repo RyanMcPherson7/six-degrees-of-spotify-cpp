@@ -1,17 +1,6 @@
 import populateConnections from './populate-connections.js';
+import setPopulator from './populate-artist-set.js'
 import Queue from 'yocto-queue';
-import fs from 'fs';
-
-// reading already processed artists
-let artistIdSet = new Set();
-fs.readFile('./data/artist-set-id.txt', 'utf8', (err, data) => {
-  if (err) throw err;
-
-  data = data.split(',');
-  data.forEach((id) => {
-    artistIdSet.add(id);
-  });
-});
 
 // initial seeding
 let processQ = new Queue();
@@ -43,8 +32,19 @@ processQ.enqueue(['Bad Bunny', '4q3ewBCX7sLwd24euuV69X']);
 // TODO: lady gaga, pink floyd, and artists listed on this page
 // https://open.spotify.com/playlist/33Re55lSgkd5XzB6YMhFZA
 
-console.log('loading processed artists...');
+const ARTIST_SET_ID_FILE = './data/artist-set-id.txt';
+const CONNECTIONS_FILE = './data/connections.txt';
+const artistIdSet = setPopulator(ARTIST_SET_ID_FILE);
+const NUM_ARTISTS = 10000;
+const POPULARITY = 50;
+
 setTimeout(() => {
-  console.log('initialize scraping');
-  populateConnections(processQ, artistIdSet, 10000, 50);
-}, 10000);
+  populateConnections(
+    processQ,
+    artistIdSet,
+    ARTIST_SET_ID_FILE,
+    CONNECTIONS_FILE,
+    NUM_ARTISTS,
+    POPULARITY
+  );
+}, 5000);
