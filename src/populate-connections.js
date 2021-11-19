@@ -8,7 +8,6 @@ const populateConnections = async (
   artistIdSet,
   artistIdSetFile,
   connectionsFile,
-  numArtists,
   popularityThreshold
 ) => {
   let count = 0;
@@ -22,11 +21,10 @@ const populateConnections = async (
   console.log('# already processed artists', artistIdSet.size);
 
   // processing artists
-  while (count != numArtists && processingQueue.size != 0) {
+  while (processingQueue.size != 0) {
     // processing each id in processing queue
     const qSize = processingQueue.size;
     for (let i = 0; i < qSize; i++) {
-      if (count === numArtists) break;
 
       count++;
       let currentName, currentId;
@@ -61,12 +59,7 @@ const populateConnections = async (
     }
   }
 
-  // exit status
-  if (processingQueue.size == 0) {
-    console.log('processing queue is empty');
-  } else {
-    console.log(`${numArtists} found and processed`);
-  }
+  console.log('processing queue is empty');
 };
 
 export default populateConnections;

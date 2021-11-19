@@ -4,13 +4,13 @@ import setPopulator from './populate-artist-set.js';
 // https://open.spotify.com/playlist/33Re55lSgkd5XzB6YMhFZA
 
 const SOURCE = [
-  ['Justin Bieber', '1uNFoZAHBGtllmzznpCI3s'],
+  // ['Justin Bieber', '1uNFoZAHBGtllmzznpCI3s'],
   // ['Vance Joy', '10exVja0key0uqUkk6LJRT'],
   // ['Dominic Fike', '6USv9qhCn6zfxlBQIYJ9qs'],
   // ['Ed Sheeran', '6eUKZXaKkcviH0Ku9w2n3V'],
   // ['Pitbull', '0TnOYISbd1XYRBk9myaseg'],
   // ['Tame Impala', '5INjqkS1o8h1imAzPqGZBb'],
-  // ['Avicci', '1vCWHaC5f2uS3yhpwWbIA6'],
+  // ['Avicii', '1vCWHaC5f2uS3yhpwWbIA6'],
   // ['Kanye West', '5K4W6rqBFWDnAN6FQUkS6x'],
   // ['Drake', '3TVXtAsR1Inumwj472S9r4'],
   // ['Anderson .Paak', '3jK9MiCrA42lLAdMGUZpwa'],
@@ -47,13 +47,13 @@ const SOURCE = [
   // ['Twenty One Pilots', '3YQKmKGau1PzlVlkL1iodx'],
   // ['Joji', '3MZsBdqDrRTJihTHQrO6Dq'],
   // ['BTS', '3Nrfpe0tUJi4K4DXYWgMUX'],
+  ['Weston Estate', '18CPEToK1OfjJ5B5vDBDKa'],
 ];
 
-const ARTIST_SET_ID_FILE = './data/artist-set-id55.txt';
-const CONNECTIONS_FILE = './data/connections55.txt';
+const ARTIST_SET_ID_FILE = './data/artist-set-id60.txt';
+const CONNECTIONS_FILE = './data/connections60.txt';
 const ARTIST_ID_SET = setPopulator(ARTIST_SET_ID_FILE);
-const NUM_ARTISTS = 10000;
-const POPULARITY = 55;
+const POPULARITY = 60;
 
 setTimeout(() => {
   populateConnections(
@@ -61,7 +61,6 @@ setTimeout(() => {
     ARTIST_ID_SET,
     ARTIST_SET_ID_FILE,
     CONNECTIONS_FILE,
-    NUM_ARTISTS,
     POPULARITY
   );
 }, 10000);

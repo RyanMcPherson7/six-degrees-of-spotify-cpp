@@ -20411,26 +20411,26 @@ Tame Impala -> The Growlers
 Tame Impala -> Yellow Days
 Tame Impala -> Alvvays
 Tame Impala -> The Drums
-Avicci -> Alesso
-Avicci -> Nicky Romero
-Avicci -> Hardwell
-Avicci -> Swedish House Mafia
-Avicci -> Galantis
-Avicci -> Axwell /\ Ingrosso
-Avicci -> Zedd
-Avicci -> Afrojack
-Avicci -> Martin Garrix
-Avicci -> Martin Jensen
-Avicci -> Mike Perry
-Avicci -> Vigiland
-Avicci -> R3HAB
-Avicci -> Jonas Blue
-Avicci -> Sebastian Ingrosso
-Avicci -> Lucas & Steve
-Avicci -> Martin Solveig
-Avicci -> Sigala
-Avicci -> Don Diablo
-Avicci -> Steve Aoki
+Avicii -> Alesso
+Avicii -> Nicky Romero
+Avicii -> Hardwell
+Avicii -> Swedish House Mafia
+Avicii -> Galantis
+Avicii -> Axwell /\ Ingrosso
+Avicii -> Zedd
+Avicii -> Afrojack
+Avicii -> Martin Garrix
+Avicii -> Martin Jensen
+Avicii -> Mike Perry
+Avicii -> Vigiland
+Avicii -> R3HAB
+Avicii -> Jonas Blue
+Avicii -> Sebastian Ingrosso
+Avicii -> Lucas & Steve
+Avicii -> Martin Solveig
+Avicii -> Sigala
+Avicii -> Don Diablo
+Avicii -> Steve Aoki
 Khruangbin -> Mild High Club
 Khruangbin -> Whitney
 Khruangbin -> Unknown Mortal Orchestra
@@ -40410,3 +40410,6 @@ IU -> Girls' Generation
 IU -> BTOB
 IU -> Jay Park
 IU -> Epik High
+Weston Estate -> ASTN
+Weston Estate -> Peach Tree Rascals
+Weston Estate -> ODIE

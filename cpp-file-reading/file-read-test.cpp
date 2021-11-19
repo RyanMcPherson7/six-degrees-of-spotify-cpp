@@ -1,7 +1,7 @@
 #include <iostream>
 #include <fstream>
 #include <string>
-#include <unordered_set>
+#include <unordered_map>
 
 using namespace std;
 
@@ -9,7 +9,7 @@ int main() {
 
     fstream inputFile;
     inputFile.open("../data/connections60.txt", ios::in);
-    unordered_set<string> artists;
+    unordered_map<string, int> artists;
 
     if (inputFile.is_open()) {
 
@@ -21,10 +21,8 @@ int main() {
             string first = line.substr(0, i);
             string second = line.substr(i + delimiter.length());
 
-            artists.insert(first);
-            artists.insert(second);
-
-            // cout << first << " " << second << endl;
+            artists[first]++;
+            artists[second]++;
         }
 
         inputFile.close();
@@ -34,6 +32,10 @@ int main() {
     }
 
     cout << "there are " << artists.size() << " artists listed" << endl;
+    cout << "artists who have not been processed: " << endl;
+    for (auto i : artists) 
+        if (i.second < 5)
+            cout << i.first << endl;
 
     return 0;
 }
