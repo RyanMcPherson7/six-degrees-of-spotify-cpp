@@ -40413,3 +40413,3225 @@ IU -> Epik High
 Weston Estate -> ASTN
 Weston Estate -> Peach Tree Rascals
 Weston Estate -> ODIE
+Marshmello -> Cheat Codes
+Marshmello -> The Chainsmokers
+Marshmello -> Gryffin
+Marshmello -> Mike Perry
+Marshmello -> Loud Luxury
+Marshmello -> Martin Jensen
+Marshmello -> Lost Kings
+Marshmello -> benny blanco
+Marshmello -> Seeb
+Marshmello -> Matoma
+Marshmello -> Jonas Blue
+Marshmello -> Sigala
+Marshmello -> DVBBS
+Marshmello -> Slushii
+Marshmello -> Kygo
+Marshmello -> Cash Cash
+Marshmello -> Hailee Steinfeld
+Marshmello -> ILLENIUM
+Marshmello -> San Holo
+Marshmello -> NGHTMRE
+ILLENIUM -> William Black
+ILLENIUM -> Said The Sky
+ILLENIUM -> Slushii
+ILLENIUM -> Seven Lions
+ILLENIUM -> Zeds Dead
+ILLENIUM -> Dabin
+ILLENIUM -> Lost Kings
+ILLENIUM -> NGHTMRE
+ILLENIUM -> Jai Wolf
+Vanessa Mai -> Stereoact
+Gilsons -> Jovem Dionisio
+Gilsons -> Rubel
+Gilsons -> Silva
+Gilsons -> DUDA BEAT
+Gilsons -> Ana Gabriela
+Silva -> Rubel
+Silva -> Mariana Nolasco
+Silva -> Roberta Campos
+Silva -> Gilsons
+Silva -> Ana Gabriela
+Silva -> Zeeba
+Silva -> DUDA BEAT
+Ana Gabriela -> Gabriel Elias
+Ana Gabriela -> Mariana Nolasco
+Ana Gabriela -> Roberta Campos
+Ana Gabriela -> Zeeba
+Ana Gabriela -> Malibu
+Ana Gabriela -> Sandy
+Mariana Nolasco -> Gabriel Elias
+Mariana Nolasco -> ANAVITÓRIA
+Mariana Nolasco -> Melim
+Mariana Nolasco -> Roberta Campos
+Mariana Nolasco -> Sandy
+Mariana Nolasco -> TIAGO IORC
+Mariana Nolasco -> Lagum
+Roberta Campos -> Vanessa Da Mata
+Roberta Campos -> Maria Gadú
+Roberta Campos -> Nando Reis
+Zeeba -> JØRD
+Zeeba -> Sevenn
+Zeeba -> Bhaskar
+Zeeba -> Cat Dealers
+Zeeba -> Bruno Martini
+Zeeba -> KVSH
+Zeeba -> Vitor Kley
+Zeeba -> Chemical Surf
+Zeeba -> Dubdogz
+Gabriel Elias -> Sandy
+Gabriel Elias -> Mariana Nolasco
+Gabriel Elias -> ANAVITÓRIA
+Gabriel Elias -> Roberta Campos
+Gabriel Elias -> Lagum
+Gabriel Elias -> Vitor Kley
+Gabriel Elias -> Ana Gabriela
+Gabriel Elias -> TIAGO IORC
+Gabriel Elias -> Melim
+Malibu -> Lourena
+Malibu -> Delacruz
+Malibu -> Mãolee
+Malibu -> Pelé MilFlows
+Malibu -> Gaab
+Malibu -> Vitão
+Malibu -> Pk
+Malibu -> Cynthia Luz
+Sandy -> ANAVITÓRIA
+Sandy -> Mariana Nolasco
+Sandy -> TIAGO IORC
+Sandy -> Gabriel Elias
+Sandy -> Roberta Campos
+Sandy -> Claudia Leitte
+Sandy -> Sandy e Junior
+Sandy -> Melim
+Sandy -> Maria Gadú
+ANAVITÓRIA -> Sandy
+ANAVITÓRIA -> Mariana Nolasco
+ANAVITÓRIA -> Roberta Campos
+ANAVITÓRIA -> Gabriel Elias
+ANAVITÓRIA -> IZA
+ANAVITÓRIA -> Lagum
+ANAVITÓRIA -> TIAGO IORC
+ANAVITÓRIA -> Maria Gadú
+ANAVITÓRIA -> Rubel
+ANAVITÓRIA -> Vitor Kley
+ANAVITÓRIA -> Luísa Sonza
+ANAVITÓRIA -> Melim
+Lagum -> Melim
+Lagum -> Mariana Nolasco
+Lagum -> 1Kilo
+Lagum -> Zeeba
+Lagum -> Sandy
+Lagum -> Jão
+Lagum -> IZA
+Lagum -> ANAVITÓRIA
+Lagum -> Gabriel Elias
+Lagum -> Vitor Kley
+Melim -> IZA
+Melim -> Gabriel Elias
+Melim -> ANAVITÓRIA
+Melim -> Sandy
+Melim -> Luísa Sonza
+Melim -> LUDMILLA
+Melim -> Mariana Nolasco
+Melim -> Lexa
+Melim -> Lagum
+Melim -> Gloria Groove
+Melim -> Pabllo Vittar
+Melim -> Jão
+Melim -> Vitor Kley
+TIAGO IORC -> Roberta Campos
+TIAGO IORC -> Nando Reis
+TIAGO IORC -> Jota Quest
+TIAGO IORC -> Mariana Nolasco
+TIAGO IORC -> Sandy
+TIAGO IORC -> Los Hermanos
+TIAGO IORC -> Gabriel Elias
+TIAGO IORC -> Maria Gadú
+Maria Gadú -> Vanessa Da Mata
+Maria Gadú -> Maria Rita
+Maria Gadú -> Cássia Eller
+Maria Gadú -> Roberta Campos
+Maria Gadú -> Marisa Monte
+Maria Gadú -> Ana Carolina
+Maria Gadú -> Nando Reis
+Nando Reis -> Os Paralamas Do Sucesso
+Nando Reis -> Lulu Santos
+Nando Reis -> Cazuza
+Nando Reis -> Jota Quest
+Nando Reis -> Capital Inicial
+Nando Reis -> Kid Abelha
+Nando Reis -> Legião Urbana
+Nando Reis -> Titãs
+Nando Reis -> Barão Vermelho
+Nando Reis -> Engenheiros Do Hawaii
+Nando Reis -> Cidade Negra
+Nando Reis -> Cássia Eller
+Nando Reis -> Skank
+Vanessa Da Mata -> Maria Rita
+Vanessa Da Mata -> Maria Gadú
+Vanessa Da Mata -> Zeca Baleiro
+Vanessa Da Mata -> Rita Lee
+Vanessa Da Mata -> Marisa Monte
+Vanessa Da Mata -> Lenine
+JØRD -> Sevenn
+JØRD -> Bhaskar
+JØRD -> Zeeba
+JØRD -> Dubdogz
+JØRD -> Cat Dealers
+JØRD -> Chemical Surf
+JØRD -> KVSH
+Sevenn -> Zeeba
+Sevenn -> JØRD
+Sevenn -> Dubdogz
+Sevenn -> Bhaskar
+Sevenn -> KVSH
+Sevenn -> Chemical Surf
+Sevenn -> Cat Dealers
+Dubdogz -> Sevenn
+Dubdogz -> JØRD
+Dubdogz -> Bhaskar
+Dubdogz -> Zeeba
+Dubdogz -> Cat Dealers
+Dubdogz -> Chemical Surf
+Dubdogz -> Bruno Martini
+Dubdogz -> KVSH
+Dubdogz -> Vintage Culture
+Bhaskar -> JØRD
+Bhaskar -> Dubdogz
+Bhaskar -> Cat Dealers
+Bhaskar -> KVSH
+Bhaskar -> Sevenn
+Bhaskar -> Chemical Surf
+Bhaskar -> Vintage Culture
+Bhaskar -> Bruno Martini
+Bhaskar -> Zeeba
+KVSH -> Zeeba
+KVSH -> Sevenn
+KVSH -> Dubdogz
+KVSH -> Cat Dealers
+KVSH -> Chemical Surf
+KVSH -> Vintage Culture
+KVSH -> Bhaskar
+KVSH -> Bruno Martini
+KVSH -> JØRD
+Cat Dealers -> Vintage Culture
+Cat Dealers -> Bhaskar
+Cat Dealers -> Sevenn
+Cat Dealers -> KVSH
+Cat Dealers -> JØRD
+Cat Dealers -> Zeeba
+Cat Dealers -> Vitor Kley
+Cat Dealers -> Liu
+Cat Dealers -> Chemical Surf
+Cat Dealers -> Bruno Martini
+Cat Dealers -> Dubdogz
+Vitor Kley -> Cat Dealers
+Vitor Kley -> Zeeba
+Vitor Kley -> Atitude 67
+Vitor Kley -> Gabriel Elias
+Vitor Kley -> Mariana Nolasco
+Vitor Kley -> IZA
+Vitor Kley -> Melim
+Vitor Kley -> Bruno Martini
+Vitor Kley -> Sandy
+Vitor Kley -> João Gustavo e Murilo
+Vitor Kley -> Lagum
+Chemical Surf -> JØRD
+Chemical Surf -> Sevenn
+Chemical Surf -> Bhaskar
+Chemical Surf -> KVSH
+Chemical Surf -> Zeeba
+Chemical Surf -> Cat Dealers
+Chemical Surf -> Dubdogz
+Chemical Surf -> Oriente
+Lourena -> Azzy
+Lourena -> Malibu
+Lourena -> Delacruz
+Lourena -> Pelé MilFlows
+Lourena -> Cynthia Luz
+Delacruz -> Malibu
+Delacruz -> Chris MC
+Delacruz -> Cynthia Luz
+Delacruz -> Pk
+Delacruz -> Luccas Carlos
+Delacruz -> Mãolee
+Delacruz -> Papatinho
+Delacruz -> Pelé MilFlows
+Delacruz -> 1Kilo
+Delacruz -> Luiz Lins
+Delacruz -> Konai
+Delacruz -> Gaab
+Delacruz -> Oriente
+Pelé MilFlows -> Chris MC
+Pelé MilFlows -> Cynthia Luz
+Pelé MilFlows -> Luccas Carlos
+Pelé MilFlows -> MC Cabelinho
+Pelé MilFlows -> Papatinho
+Pelé MilFlows -> Mãolee
+Pelé MilFlows -> Gaab
+Pelé MilFlows -> 1Kilo
+Pelé MilFlows -> Luiz Lins
+Pk -> Mãolee
+Pk -> WC no Beat
+Pk -> Luccas Carlos
+Pk -> Gaab
+Pk -> Delacruz
+Pk -> Pelé MilFlows
+Pk -> Vitão
+Pk -> 1Kilo
+Pk -> Papatinho
+Pk -> Malibu
+Vitão -> Gaab
+Vitão -> Malibu
+Vitão -> Luccas Carlos
+Vitão -> Ana Gabriela
+Vitão -> WC no Beat
+Vitão -> Zeeba
+Vitão -> Pk
+Vitão -> Gabriel Elias
+Mãolee -> Pelé MilFlows
+Mãolee -> Felp 22
+Mãolee -> Knust
+Mãolee -> Papatinho
+Mãolee -> Mainstreet
+Mãolee -> MC Cabelinho
+Mãolee -> Luccas Carlos
+Mãolee -> Kayuá
+Mãolee -> WC no Beat
+Gaab -> Luccas Carlos
+Gaab -> MC Cabelinho
+Gaab -> Mc Pedrinho
+Gaab -> Pelé MilFlows
+Gaab -> Cynthia Luz
+Gaab -> 1Kilo
+Gaab -> Papatinho
+Gaab -> MC G15
+Gaab -> Oriente
+Gaab -> Haikaiss
+Cynthia Luz -> Haikaiss
+Cynthia Luz -> Luccas Carlos
+Cynthia Luz -> Froid
+Cynthia Luz -> Costa Gold
+Cynthia Luz -> Pineapple StormTv
+Cynthia Luz -> 1Kilo
+Cynthia Luz -> Filipe Ret
+Cynthia Luz -> Konai
+Cynthia Luz -> Chris MC
+Cynthia Luz -> Luiz Lins
+IZA -> Gloria Groove
+IZA -> Pabllo Vittar
+IZA -> Melim
+IZA -> Lexa
+IZA -> LUDMILLA
+IZA -> Luísa Sonza
+IZA -> Manu Gavassi
+IZA -> PEDRO SAMPAIO
+IZA -> Jão
+IZA -> Vitor Kley
+Luísa Sonza -> IZA
+Luísa Sonza -> Lexa
+Luísa Sonza -> Jão
+Luísa Sonza -> Pabllo Vittar
+Luísa Sonza -> Melim
+Luísa Sonza -> Gloria Groove
+Luísa Sonza -> PEDRO SAMPAIO
+Luísa Sonza -> Anitta
+Luísa Sonza -> LUDMILLA
+Luísa Sonza -> DUDA BEAT
+Luísa Sonza -> Manu Gavassi
+1Kilo -> Cynthia Luz
+1Kilo -> Costa Gold
+1Kilo -> Froid
+1Kilo -> Filipe Ret
+1Kilo -> Luccas Carlos
+1Kilo -> Haikaiss
+1Kilo -> Pineapple StormTv
+1Kilo -> Chris MC
+1Kilo -> Gaab
+1Kilo -> Oriente
+Lexa -> Gloria Groove
+Lexa -> Luísa Sonza
+Lexa -> PEDRO SAMPAIO
+Lexa -> Pabllo Vittar
+Lexa -> Jão
+Lexa -> IZA
+Lexa -> LUDMILLA
+LUDMILLA -> Lexa
+LUDMILLA -> PEDRO SAMPAIO
+LUDMILLA -> Luísa Sonza
+LUDMILLA -> Gloria Groove
+LUDMILLA -> IZA
+LUDMILLA -> Jão
+LUDMILLA -> Anitta
+LUDMILLA -> Pabllo Vittar
+LUDMILLA -> MC Kevinho
+LUDMILLA -> Melim
+Gloria Groove -> Pabllo Vittar
+Gloria Groove -> Lexa
+Gloria Groove -> IZA
+Gloria Groove -> Jão
+Gloria Groove -> LUDMILLA
+Gloria Groove -> Luísa Sonza
+Gloria Groove -> PEDRO SAMPAIO
+Pabllo Vittar -> Gloria Groove
+Pabllo Vittar -> IZA
+Pabllo Vittar -> Luísa Sonza
+Pabllo Vittar -> LUDMILLA
+Pabllo Vittar -> Jão
+Pabllo Vittar -> PEDRO SAMPAIO
+Pabllo Vittar -> DUDA BEAT
+Pabllo Vittar -> Lexa
+Jota Quest -> Capital Inicial
+Jota Quest -> Skank
+Jota Quest -> Cidade Negra
+Jota Quest -> Os Paralamas Do Sucesso
+Jota Quest -> Legião Urbana
+Jota Quest -> Lulu Santos
+Jota Quest -> Titãs
+Jota Quest -> Nando Reis
+Jota Quest -> Engenheiros Do Hawaii
+Los Hermanos -> Nando Reis
+Los Hermanos -> Zeca Baleiro
+Los Hermanos -> Cazuza
+Ana Carolina -> Maria Gadú
+Ana Carolina -> Vanessa Da Mata
+Ana Carolina -> Djavan
+Ana Carolina -> Maria Rita
+Ana Carolina -> Kid Abelha
+Ana Carolina -> Cássia Eller
+Ana Carolina -> Ivete Sangalo
+Ana Carolina -> Nando Reis
+Maria Rita -> Lenine
+Maria Rita -> Maria Gadú
+Maria Rita -> Maria Bethânia
+Maria Rita -> Vanessa Da Mata
+Maria Rita -> Marisa Monte
+Cássia Eller -> Legião Urbana
+Cássia Eller -> Os Paralamas Do Sucesso
+Cássia Eller -> Cazuza
+Cássia Eller -> Kid Abelha
+Cássia Eller -> Nando Reis
+Cássia Eller -> Barão Vermelho
+Cássia Eller -> Lulu Santos
+Cássia Eller -> Capital Inicial
+Cássia Eller -> Skank
+Cássia Eller -> Titãs
+Cássia Eller -> Maria Gadú
+Cássia Eller -> Zeca Baleiro
+Marisa Monte -> Vanessa Da Mata
+Marisa Monte -> Rita Lee
+Marisa Monte -> Maria Bethânia
+Marisa Monte -> Maria Gadú
+Marisa Monte -> Maria Rita
+Marisa Monte -> Cássia Eller
+Marisa Monte -> Caetano Veloso
+Marisa Monte -> Lenine
+Marisa Monte -> Djavan
+Marisa Monte -> Zeca Baleiro
+Os Paralamas Do Sucesso -> Titãs
+Os Paralamas Do Sucesso -> Nando Reis
+Os Paralamas Do Sucesso -> Legião Urbana
+Os Paralamas Do Sucesso -> Barão Vermelho
+Os Paralamas Do Sucesso -> Engenheiros Do Hawaii
+Os Paralamas Do Sucesso -> Lulu Santos
+Os Paralamas Do Sucesso -> Cidade Negra
+Os Paralamas Do Sucesso -> Capital Inicial
+Os Paralamas Do Sucesso -> Cazuza
+Os Paralamas Do Sucesso -> Jota Quest
+Os Paralamas Do Sucesso -> Skank
+Skank -> Os Paralamas Do Sucesso
+Skank -> Capital Inicial
+Skank -> Titãs
+Skank -> Jota Quest
+Skank -> Cidade Negra
+Skank -> Legião Urbana
+Skank -> Engenheiros Do Hawaii
+Skank -> Barão Vermelho
+Skank -> Lulu Santos
+Skank -> Nando Reis
+Lulu Santos -> Skank
+Lulu Santos -> Nando Reis
+Lulu Santos -> Cidade Negra
+Lulu Santos -> Os Paralamas Do Sucesso
+Lulu Santos -> Capital Inicial
+Lulu Santos -> Titãs
+Lulu Santos -> Kid Abelha
+Lulu Santos -> Barão Vermelho
+Lulu Santos -> Cazuza
+Lulu Santos -> Cássia Eller
+Lulu Santos -> Jota Quest
+Lulu Santos -> Legião Urbana
+Cazuza -> Cássia Eller
+Cazuza -> Os Paralamas Do Sucesso
+Cazuza -> Legião Urbana
+Cazuza -> Skank
+Cazuza -> Barão Vermelho
+Cazuza -> Titãs
+Cazuza -> Capital Inicial
+Cazuza -> Engenheiros Do Hawaii
+Cazuza -> Lulu Santos
+Cazuza -> Kid Abelha
+Cazuza -> Nando Reis
+Cazuza -> Zeca Baleiro
+Kid Abelha -> Nando Reis
+Kid Abelha -> Lulu Santos
+Kid Abelha -> Skank
+Kid Abelha -> Jota Quest
+Kid Abelha -> Capital Inicial
+Kid Abelha -> Os Paralamas Do Sucesso
+Kid Abelha -> Barão Vermelho
+Kid Abelha -> Cazuza
+Kid Abelha -> Cássia Eller
+Kid Abelha -> Cidade Negra
+Capital Inicial -> Skank
+Capital Inicial -> Jota Quest
+Capital Inicial -> Os Paralamas Do Sucesso
+Capital Inicial -> Titãs
+Capital Inicial -> Legião Urbana
+Capital Inicial -> Barão Vermelho
+Capital Inicial -> Cidade Negra
+Capital Inicial -> Engenheiros Do Hawaii
+Legião Urbana -> Capital Inicial
+Legião Urbana -> Engenheiros Do Hawaii
+Legião Urbana -> Skank
+Legião Urbana -> Barão Vermelho
+Legião Urbana -> Nando Reis
+Legião Urbana -> Jota Quest
+Legião Urbana -> Cássia Eller
+Legião Urbana -> Raimundos
+Legião Urbana -> Cazuza
+Legião Urbana -> Os Paralamas Do Sucesso
+Legião Urbana -> Titãs
+Titãs -> Legião Urbana
+Titãs -> Os Paralamas Do Sucesso
+Titãs -> Capital Inicial
+Titãs -> Barão Vermelho
+Titãs -> Raimundos
+Titãs -> Raul Seixas
+Titãs -> Nando Reis
+Titãs -> Jota Quest
+Titãs -> Engenheiros Do Hawaii
+Titãs -> Skank
+Barão Vermelho -> Legião Urbana
+Barão Vermelho -> Os Paralamas Do Sucesso
+Barão Vermelho -> Capital Inicial
+Barão Vermelho -> Engenheiros Do Hawaii
+Barão Vermelho -> Titãs
+Barão Vermelho -> Cidade Negra
+Barão Vermelho -> Jota Quest
+Barão Vermelho -> Cazuza
+Barão Vermelho -> Skank
+Barão Vermelho -> Nando Reis
+Engenheiros Do Hawaii -> Capital Inicial
+Engenheiros Do Hawaii -> Os Paralamas Do Sucesso
+Engenheiros Do Hawaii -> Legião Urbana
+Engenheiros Do Hawaii -> Skank
+Engenheiros Do Hawaii -> Nando Reis
+Engenheiros Do Hawaii -> Raimundos
+Engenheiros Do Hawaii -> Titãs
+Engenheiros Do Hawaii -> Barão Vermelho
+Cidade Negra -> Skank
+Cidade Negra -> Capital Inicial
+Cidade Negra -> Os Paralamas Do Sucesso
+Cidade Negra -> Jota Quest
+Cidade Negra -> Nando Reis
+Cidade Negra -> Lulu Santos
+Cidade Negra -> O Rappa
+Cidade Negra -> Natiruts
+Lenine -> Vanessa Da Mata
+Lenine -> Zeca Baleiro
+Lenine -> Maria Rita
+Zeca Baleiro -> Nando Reis
+Zeca Baleiro -> Cássia Eller
+Zeca Baleiro -> Cazuza
+Zeca Baleiro -> Lenine
+Zeca Baleiro -> Vanessa Da Mata
+Rita Lee -> Marisa Monte
+Rita Lee -> Vanessa Da Mata
+Rita Lee -> Lenine
+Rita Lee -> Zeca Baleiro
+Rita Lee -> Maria Bethânia
+Rita Lee -> Elis Regina
+Rita Lee -> Cazuza
+Rita Lee -> Kid Abelha
+Rita Lee -> Gal Costa
+Rita Lee -> Maria Rita
+Rita Lee -> Cássia Eller
+Vintage Culture -> Cat Dealers
+Vintage Culture -> Dubdogz
+Vintage Culture -> JØRD
+Vintage Culture -> Bhaskar
+Vintage Culture -> Vitor Kley
+Vintage Culture -> Sevenn
+Vintage Culture -> Atitude 67
+Vintage Culture -> Chemical Surf
+Vintage Culture -> KVSH
+Vintage Culture -> Zeeba
+Vintage Culture -> DENNIS
+Vintage Culture -> Mc Livinho
+Atitude 67 -> Vitinho
+Atitude 67 -> João Gustavo e Murilo
+Atitude 67 -> Wesley Safadão
+Atitude 67 -> Dilsinho
+Atitude 67 -> Vitor Kley
+Atitude 67 -> Lauana Prado
+Atitude 67 -> Yasmin Santos
+Atitude 67 -> Ferrugem
+Atitude 67 -> Felipe Araújo
+Atitude 67 -> Mumuzinho
+Atitude 67 -> Turma do Pagode
+Atitude 67 -> Pixote
+Atitude 67 -> Zeeba
+João Gustavo e Murilo -> Yasmin Santos
+João Gustavo e Murilo -> Felipe Araújo
+João Gustavo e Murilo -> Diego & Arnaldo
+João Gustavo e Murilo -> Mano Walter
+João Gustavo e Murilo -> Gustavo Mioto
+João Gustavo e Murilo -> Maiara & Maraisa
+João Gustavo e Murilo -> Diego & Victor Hugo
+João Gustavo e Murilo -> Lucas Lucco
+João Gustavo e Murilo -> Lauana Prado
+João Gustavo e Murilo -> Humberto & Ronaldo
+João Gustavo e Murilo -> Atitude 67
+João Gustavo e Murilo -> Loubet
+João Gustavo e Murilo -> George Henrique & Rodrigo
+Oriente -> Emicida
+Oriente -> Black Alien
+Oriente -> Criolo
+Oriente -> Haikaiss
+Oriente -> Projota
+Azzy -> Kawe
+Azzy -> Neo Beats
+Azzy -> Cynthia Luz
+Azzy -> Mãolee
+Azzy -> Knust
+Azzy -> Lourena
+Chris MC -> Sant
+Chris MC -> Pelé MilFlows
+Chris MC -> Froid
+Chris MC -> Luiz Lins
+Chris MC -> Kayuá
+Chris MC -> Luccas Carlos
+Chris MC -> BK
+Chris MC -> Cynthia Luz
+Chris MC -> Konai
+Chris MC -> Papatinho
+Chris MC -> FBC
+Luccas Carlos -> Kayuá
+Luccas Carlos -> Cynthia Luz
+Luccas Carlos -> Sant
+Luccas Carlos -> Haikaiss
+Luccas Carlos -> Froid
+Luccas Carlos -> Filipe Ret
+Luccas Carlos -> BK
+Luccas Carlos -> Chris MC
+Papatinho -> Pelé MilFlows
+Papatinho -> MC Cabelinho
+Papatinho -> Luiz Lins
+Papatinho -> Cynthia Luz
+Papatinho -> Costa Gold
+Papatinho -> 1Kilo
+Papatinho -> Mãolee
+Papatinho -> WC no Beat
+Papatinho -> Froid
+Papatinho -> Chris MC
+Papatinho -> Felp 22
+Papatinho -> Xamã
+Luiz Lins -> Konai
+Luiz Lins -> Chris MC
+Luiz Lins -> Cynthia Luz
+Luiz Lins -> Baco Exu do Blues
+Luiz Lins -> Froid
+Luiz Lins -> Pineapple StormTv
+Luiz Lins -> Luccas Carlos
+Luiz Lins -> Sant
+Luiz Lins -> FBC
+Konai -> Luiz Lins
+Konai -> Cynthia Luz
+Konai -> Chris MC
+Konai -> Pineapple StormTv
+Konai -> Luccas Carlos
+Konai -> Matuê
+Konai -> Baco Exu do Blues
+Konai -> 1Kilo
+Konai -> kamaitachi
+MC Cabelinho -> Pelé MilFlows
+MC Cabelinho -> Papatinho
+MC Cabelinho -> Luccas Carlos
+MC Cabelinho -> WC no Beat
+MC Cabelinho -> Mc IG
+MC Cabelinho -> MC Menor da VG
+MC Cabelinho -> Felp 22
+MC Cabelinho -> Filipe Ret
+MC Cabelinho -> BK
+MC Cabelinho -> Mãolee
+MC Cabelinho -> Mainstreet
+MC Cabelinho -> Costa Gold
+MC Cabelinho -> Sant
+MC Cabelinho -> Chris MC
+Knust -> Mãolee
+Felp 22 -> Sueth
+Felp 22 -> Caio Luccas
+Felp 22 -> MC Cabelinho
+Felp 22 -> Mãolee
+Mainstreet -> Sueth
+Mainstreet -> Mãolee
+Mainstreet -> DomLaike
+Mainstreet -> MC Cabelinho
+Mainstreet -> Felp 22
+Mainstreet -> Borges
+Mainstreet -> PL Quest
+Kayuá -> Luccas Carlos
+Kayuá -> BK
+Kayuá -> Sant
+Kayuá -> Chris MC
+Haikaiss -> Costa Gold
+Haikaiss -> Luccas Carlos
+Haikaiss -> Sant
+Haikaiss -> 1Kilo
+Haikaiss -> Cynthia Luz
+Haikaiss -> Oriente
+Haikaiss -> Filipe Ret
+Haikaiss -> Froid
+Mc Pedrinho -> Mc Gw
+Mc Pedrinho -> Mc Livinho
+Mc Pedrinho -> MC L da Vinte
+Mc Pedrinho -> Mc IG
+Mc Pedrinho -> MC G15
+Mc Pedrinho -> Mc Don Juan
+Mc Pedrinho -> Mc Th
+Mc Pedrinho -> MC Menor da VG
+Mc Pedrinho -> Mc Kevin
+MC G15 -> MC Kevinho
+MC G15 -> Mc Livinho
+MC G15 -> Mc Zaac
+MC G15 -> Mc Th
+MC G15 -> Nego do Borel
+MC G15 -> Mc Gw
+MC G15 -> MC L da Vinte
+MC G15 -> Mc IG
+MC G15 -> Mc Don Juan
+MC G15 -> Mc Pedrinho
+Froid -> Sant
+Froid -> Cynthia Luz
+Froid -> BK
+Froid -> Chris MC
+Froid -> Kayuá
+Froid -> Luiz Lins
+Froid -> Luccas Carlos
+Costa Gold -> Haikaiss
+Costa Gold -> Filipe Ret
+Costa Gold -> Froid
+Costa Gold -> Cynthia Luz
+Costa Gold -> Sant
+Costa Gold -> Luccas Carlos
+Costa Gold -> 1Kilo
+Costa Gold -> Chris MC
+Costa Gold -> Matuê
+Pineapple StormTv -> Cynthia Luz
+Pineapple StormTv -> Luiz Lins
+Pineapple StormTv -> Konai
+Pineapple StormTv -> Haikaiss
+Pineapple StormTv -> Froid
+Pineapple StormTv -> Matuê
+Pineapple StormTv -> Filipe Ret
+Pineapple StormTv -> Luccas Carlos
+Pineapple StormTv -> 1Kilo
+Pineapple StormTv -> Costa Gold
+Pineapple StormTv -> Baco Exu do Blues
+Pineapple StormTv -> Xamã
+Pineapple StormTv -> Chris MC
+Pineapple StormTv -> Sant
+Pineapple StormTv -> WC no Beat
+Filipe Ret -> Costa Gold
+Filipe Ret -> Luccas Carlos
+Filipe Ret -> Cynthia Luz
+Filipe Ret -> BK
+Filipe Ret -> Haikaiss
+Filipe Ret -> 1Kilo
+Filipe Ret -> Froid
+Filipe Ret -> Sant
+Filipe Ret -> Chris MC
+Filipe Ret -> Matuê
+Filipe Ret -> Pineapple StormTv
+Filipe Ret -> Baco Exu do Blues
+PEDRO SAMPAIO -> Lexa
+PEDRO SAMPAIO -> Gloria Groove
+PEDRO SAMPAIO -> Pabllo Vittar
+PEDRO SAMPAIO -> LUDMILLA
+PEDRO SAMPAIO -> IZA
+PEDRO SAMPAIO -> MC Kevinho
+PEDRO SAMPAIO -> MC G15
+PEDRO SAMPAIO -> WC no Beat
+PEDRO SAMPAIO -> Luísa Sonza
+PEDRO SAMPAIO -> Mc Zaac
+PEDRO SAMPAIO -> MC Rick
+PEDRO SAMPAIO -> DENNIS
+Anitta -> LUDMILLA
+Anitta -> Manu Gavassi
+Anitta -> IZA
+Anitta -> Gloria Groove
+Anitta -> Luísa Sonza
+Anitta -> Lexa
+Anitta -> Thiaguinho
+MC Kevinho -> Mc Zaac
+MC Kevinho -> Mc Don Juan
+MC Kevinho -> Mc Livinho
+MC Kevinho -> Mc Th
+MC Kevinho -> Mc Pedrinho
+MC Kevinho -> Nego do Borel
+MC Kevinho -> LUDMILLA
+MC Kevinho -> MC L da Vinte
+MC Kevinho -> Jerry Smith
+MC Kevinho -> PEDRO SAMPAIO
+MC Kevinho -> Mc Gw
+MC Kevinho -> MC G15
+Djavan -> Vanessa Da Mata
+Djavan -> Maria Rita
+Djavan -> Cássia Eller
+Djavan -> Maria Gadú
+Djavan -> Zeca Baleiro
+Djavan -> Marisa Monte
+Djavan -> Lenine
+Djavan -> Rita Lee
+Ivete Sangalo -> Claudia Leitte
+Ivete Sangalo -> Harmonia Do Samba
+Ivete Sangalo -> Ana Carolina
+Ivete Sangalo -> Leo Santana
+Maria Bethânia -> Maria Rita
+Maria Bethânia -> Elis Regina
+Maria Bethânia -> Gal Costa
+Caetano Veloso -> Gilberto Gil
+Caetano Veloso -> Jorge Ben Jor
+Caetano Veloso -> Gal Costa
+Caetano Veloso -> Milton Nascimento
+Caetano Veloso -> Chico Buarque
+Caetano Veloso -> Maria Bethânia
+Caetano Veloso -> Lenine
+Caetano Veloso -> Elis Regina
+Raimundos -> Engenheiros Do Hawaii
+Raimundos -> Capital Inicial
+Raimundos -> Titãs
+Raimundos -> O Rappa
+Raimundos -> Legião Urbana
+Raimundos -> Barão Vermelho
+Raimundos -> Charlie Brown Jr.
+Raul Seixas -> Os Paralamas Do Sucesso
+Raul Seixas -> Legião Urbana
+Raul Seixas -> Barão Vermelho
+Raul Seixas -> Raimundos
+Raul Seixas -> Zé Ramalho
+Raul Seixas -> Titãs
+Raul Seixas -> Capital Inicial
+Raul Seixas -> Engenheiros Do Hawaii
+Raul Seixas -> Cazuza
+Raul Seixas -> Skank
+Natiruts -> O Rappa
+Natiruts -> Cidade Negra
+Natiruts -> Raimundos
+Natiruts -> Marcelo D2
+Natiruts -> Charlie Brown Jr.
+Natiruts -> Armandinho
+O Rappa -> Raimundos
+O Rappa -> Cidade Negra
+O Rappa -> Capital Inicial
+O Rappa -> Skank
+O Rappa -> Natiruts
+O Rappa -> Os Paralamas Do Sucesso
+O Rappa -> Marcelo D2
+O Rappa -> Barão Vermelho
+O Rappa -> Titãs
+O Rappa -> Engenheiros Do Hawaii
+O Rappa -> Legião Urbana
+O Rappa -> Charlie Brown Jr.
+Elis Regina -> Maria Bethânia
+Elis Regina -> Toquinho
+Elis Regina -> Caetano Veloso
+Elis Regina -> Gal Costa
+Elis Regina -> Jorge Ben Jor
+Elis Regina -> Gilberto Gil
+Elis Regina -> Maria Rita
+Gal Costa -> Maria Bethânia
+Gal Costa -> Elis Regina
+Gal Costa -> Caetano Veloso
+Gal Costa -> Milton Nascimento
+Gal Costa -> Gilberto Gil
+Mc Livinho -> MC G15
+Mc Livinho -> Mc Don Juan
+Mc Livinho -> Mc Th
+Mc Livinho -> Mc Pedrinho
+Mc Livinho -> Mc Zaac
+Mc Livinho -> MC Kevinho
+Mc Livinho -> MC L da Vinte
+Mc Livinho -> Mc IG
+Mc Livinho -> Mc Kevin
+Mc Livinho -> MC Menor da VG
+Mc Livinho -> Mc Gw
+Mc Livinho -> MC Rick
+DENNIS -> MC G15
+DENNIS -> Mc Livinho
+DENNIS -> Mc Don Juan
+DENNIS -> Mc Zaac
+DENNIS -> Mc Th
+DENNIS -> MC L da Vinte
+DENNIS -> Mc Gw
+DENNIS -> MC Kevinho
+Vitinho -> Mumuzinho
+Vitinho -> Dilsinho
+Vitinho -> Belo
+Vitinho -> Ferrugem
+Vitinho -> Turma do Pagode
+Vitinho -> Thiaguinho
+Vitinho -> Sorriso Maroto
+Vitinho -> Péricles
+Dilsinho -> Vitinho
+Dilsinho -> Ferrugem
+Dilsinho -> Mumuzinho
+Dilsinho -> Turma do Pagode
+Dilsinho -> Pixote
+Dilsinho -> Thiaguinho
+Dilsinho -> Atitude 67
+Dilsinho -> Belo
+Dilsinho -> Sorriso Maroto
+Dilsinho -> Péricles
+Dilsinho -> Exaltasamba
+Wesley Safadão -> Yasmin Santos
+Wesley Safadão -> Atitude 67
+Wesley Safadão -> Zé Felipe
+Wesley Safadão -> Jonas Esticado
+Wesley Safadão -> Márcia Fellipe
+Wesley Safadão -> Mano Walter
+Wesley Safadão -> João Gustavo e Murilo
+Wesley Safadão -> Diego & Victor Hugo
+Wesley Safadão -> Lauana Prado
+Wesley Safadão -> Felipe Araújo
+Wesley Safadão -> Maiara & Maraisa
+Wesley Safadão -> Matheus & Kauan
+Wesley Safadão -> Avine Vinny
+Wesley Safadão -> Diego & Arnaldo
+Wesley Safadão -> George Henrique & Rodrigo
+Wesley Safadão -> Cleber & Cauan
+Lauana Prado -> Yasmin Santos
+Lauana Prado -> Felipe Araújo
+Lauana Prado -> Maiara & Maraisa
+Lauana Prado -> Gustavo Mioto
+Lauana Prado -> Diego & Victor Hugo
+Lauana Prado -> Mano Walter
+Lauana Prado -> Matheus & Kauan
+Lauana Prado -> Zé Neto & Cristiano
+Lauana Prado -> João Gustavo e Murilo
+Lauana Prado -> Bruno & Barretto
+Lauana Prado -> Marília Mendonça
+Lauana Prado -> Diego & Arnaldo
+Ferrugem -> Dilsinho
+Ferrugem -> Mumuzinho
+Ferrugem -> Turma do Pagode
+Ferrugem -> Vitinho
+Ferrugem -> Sorriso Maroto
+Ferrugem -> Atitude 67
+Ferrugem -> Thiaguinho
+Ferrugem -> Exaltasamba
+Ferrugem -> Pixote
+Ferrugem -> Péricles
+Ferrugem -> Belo
+Yasmin Santos -> Lauana Prado
+Yasmin Santos -> Felipe Araújo
+Yasmin Santos -> Gustavo Mioto
+Yasmin Santos -> Maiara & Maraisa
+Yasmin Santos -> Mano Walter
+Yasmin Santos -> Matheus & Kauan
+Yasmin Santos -> Diego & Arnaldo
+Yasmin Santos -> Zé Neto & Cristiano
+Yasmin Santos -> Loubet
+Yasmin Santos -> Marília Mendonça
+Yasmin Santos -> Diego & Victor Hugo
+Yasmin Santos -> João Gustavo e Murilo
+Pixote -> Exaltasamba
+Pixote -> Turma do Pagode
+Pixote -> Dilsinho
+Pixote -> Sorriso Maroto
+Pixote -> Belo
+Pixote -> Grupo Revelação
+Mumuzinho -> Dilsinho
+Mumuzinho -> Ferrugem
+Mumuzinho -> Thiaguinho
+Mumuzinho -> Turma do Pagode
+Mumuzinho -> Vitinho
+Mumuzinho -> Belo
+Mumuzinho -> Pixote
+Felipe Araújo -> Lauana Prado
+Felipe Araújo -> Yasmin Santos
+Felipe Araújo -> João Gustavo e Murilo
+Felipe Araújo -> Diego & Arnaldo
+Felipe Araújo -> Maiara & Maraisa
+Felipe Araújo -> Diego & Victor Hugo
+Felipe Araújo -> Gustavo Mioto
+Felipe Araújo -> Marília Mendonça
+Felipe Araújo -> Mano Walter
+Felipe Araújo -> Matheus & Kauan
+Felipe Araújo -> Zé Neto & Cristiano
+Felipe Araújo -> George Henrique & Rodrigo
+Turma do Pagode -> Exaltasamba
+Turma do Pagode -> Sorriso Maroto
+Turma do Pagode -> Belo
+Turma do Pagode -> Thiaguinho
+Turma do Pagode -> Ferrugem
+Turma do Pagode -> Grupo Revelação
+Turma do Pagode -> Pixote
+Turma do Pagode -> Dilsinho
+Mano Walter -> Felipe Araújo
+Mano Walter -> Márcia Fellipe
+Mano Walter -> João Gustavo e Murilo
+Mano Walter -> Avine Vinny
+Mano Walter -> Lauana Prado
+Mano Walter -> Diego & Arnaldo
+Mano Walter -> Gustavo Mioto
+Mano Walter -> Matheus Fernandes
+Mano Walter -> Yasmin Santos
+Mano Walter -> Jonas Esticado
+Diego & Arnaldo -> Diego & Victor Hugo
+Diego & Arnaldo -> Yasmin Santos
+Diego & Arnaldo -> Felipe Araújo
+Diego & Arnaldo -> Maiara & Maraisa
+Diego & Arnaldo -> João Gustavo e Murilo
+Diego & Arnaldo -> Matheus & Kauan
+Diego & Arnaldo -> George Henrique & Rodrigo
+Diego & Arnaldo -> Lauana Prado
+Diego & Arnaldo -> Cleber & Cauan
+Diego & Arnaldo -> Gustavo Mioto
+Diego & Arnaldo -> Loubet
+Diego & Arnaldo -> Humberto & Ronaldo
+Diego & Victor Hugo -> Diego & Arnaldo
+Diego & Victor Hugo -> Maiara & Maraisa
+Diego & Victor Hugo -> Yasmin Santos
+Diego & Victor Hugo -> Lauana Prado
+Diego & Victor Hugo -> Felipe Araújo
+Diego & Victor Hugo -> Marília Mendonça
+Diego & Victor Hugo -> Zé Neto & Cristiano
+Diego & Victor Hugo -> João Gustavo e Murilo
+Diego & Victor Hugo -> Henrique & Juliano
+Diego & Victor Hugo -> George Henrique & Rodrigo
+Diego & Victor Hugo -> Loubet
+Diego & Victor Hugo -> Cleber & Cauan
+Diego & Victor Hugo -> Matheus & Kauan
+Diego & Victor Hugo -> Lucas Lucco
+Diego & Victor Hugo -> Gustavo Mioto
+Gustavo Mioto -> Felipe Araújo
+Gustavo Mioto -> Maiara & Maraisa
+Gustavo Mioto -> Diego & Victor Hugo
+Gustavo Mioto -> Yasmin Santos
+Gustavo Mioto -> Bruno & Barretto
+Gustavo Mioto -> Diego & Arnaldo
+Gustavo Mioto -> Lauana Prado
+Gustavo Mioto -> Matheus & Kauan
+Gustavo Mioto -> Mano Walter
+Gustavo Mioto -> João Gustavo e Murilo
+Gustavo Mioto -> Henrique & Juliano
+Gustavo Mioto -> Zé Neto & Cristiano
+Gustavo Mioto -> George Henrique & Rodrigo
+Gustavo Mioto -> Marília Mendonça
+Maiara & Maraisa -> Diego & Victor Hugo
+Maiara & Maraisa -> Matheus & Kauan
+Maiara & Maraisa -> Zé Neto & Cristiano
+Maiara & Maraisa -> Yasmin Santos
+Maiara & Maraisa -> Lauana Prado
+Maiara & Maraisa -> Gustavo Mioto
+Maiara & Maraisa -> Felipe Araújo
+Maiara & Maraisa -> Diego & Arnaldo
+Maiara & Maraisa -> Marília Mendonça
+Maiara & Maraisa -> Bruno & Barretto
+Maiara & Maraisa -> Henrique & Juliano
+Maiara & Maraisa -> George Henrique & Rodrigo
+Maiara & Maraisa -> João Gustavo e Murilo
+Maiara & Maraisa -> Lucas Lucco
+Humberto & Ronaldo -> Cristiano Araújo
+Humberto & Ronaldo -> Fernando & Sorocaba
+Humberto & Ronaldo -> Gusttavo Lima
+Humberto & Ronaldo -> João Bosco & Vinicius
+Humberto & Ronaldo -> Michel Teló
+Humberto & Ronaldo -> Marcos & Belutti
+Humberto & Ronaldo -> Israel & Rodolffo
+George Henrique & Rodrigo -> Loubet
+George Henrique & Rodrigo -> Cleber & Cauan
+George Henrique & Rodrigo -> Lucas Lucco
+George Henrique & Rodrigo -> Matheus & Kauan
+George Henrique & Rodrigo -> Diego & Arnaldo
+George Henrique & Rodrigo -> Zé Neto & Cristiano
+George Henrique & Rodrigo -> Henrique & Juliano
+George Henrique & Rodrigo -> Diego & Victor Hugo
+George Henrique & Rodrigo -> Cristiano Araújo
+George Henrique & Rodrigo -> Maiara & Maraisa
+George Henrique & Rodrigo -> Marcos & Belutti
+Lucas Lucco -> George Henrique & Rodrigo
+Lucas Lucco -> Maiara & Maraisa
+Lucas Lucco -> Matheus & Kauan
+Lucas Lucco -> Zé Neto & Cristiano
+Lucas Lucco -> Diego & Victor Hugo
+Lucas Lucco -> Marcos & Belutti
+Lucas Lucco -> Fernando & Sorocaba
+Lucas Lucco -> Cristiano Araújo
+Lucas Lucco -> Cleber & Cauan
+Loubet -> Diego & Arnaldo
+Loubet -> Bruno & Barretto
+Loubet -> George Henrique & Rodrigo
+Loubet -> Yasmin Santos
+Loubet -> Humberto & Ronaldo
+Loubet -> Lucas Lucco
+Loubet -> Cleber & Cauan
+Projota -> Emicida
+Projota -> Racionais MC's
+Projota -> Marcelo D2
+Projota -> Maneva
+Projota -> Cynthia Luz
+Projota -> Charlie Brown Jr.
+Projota -> Haikaiss
+Projota -> Armandinho
+Projota -> Oriente
+Projota -> 1Kilo
+Emicida -> Projota
+Emicida -> Black Alien
+Emicida -> Criolo
+Emicida -> Racionais MC's
+Emicida -> Marcelo D2
+Emicida -> Oriente
+Black Alien -> Marcelo D2
+Black Alien -> Racionais MC's
+Black Alien -> Emicida
+Black Alien -> Criolo
+Criolo -> Emicida
+Criolo -> Black Alien
+Criolo -> Racionais MC's
+Criolo -> Marcelo D2
+Kawe -> Duzz
+Kawe -> UCLÃ
+Kawe -> Jovem Dex
+Kawe -> Kyan
+Kawe -> Mc Magal
+Kawe -> Salvador Da Rima
+Kawe -> Dfideliz
+Kawe -> Dudu
+Kawe -> MC PH
+Kawe -> KayBlack
+Neo Beats -> Azzy
+Neo Beats -> Kawe
+Neo Beats -> Knust
+Sant -> BK
+Sant -> Froid
+Sant -> Luccas Carlos
+Sant -> Kayuá
+Sant -> Chris MC
+Sant -> FBC
+BK -> Luccas Carlos
+BK -> Sant
+BK -> FBC
+BK -> Kayuá
+BK -> Froid
+FBC -> Sant
+FBC -> Kayuá
+FBC -> BK
+Xamã -> Cynthia Luz
+Xamã -> Froid
+Xamã -> Luccas Carlos
+Xamã -> Pineapple StormTv
+Xamã -> Costa Gold
+Xamã -> Chris MC
+Xamã -> Filipe Ret
+Xamã -> Luiz Lins
+Xamã -> 1Kilo
+Xamã -> Haikaiss
+Xamã -> Konai
+Xamã -> Baco Exu do Blues
+Xamã -> WC no Beat
+Xamã -> Matuê
+Baco Exu do Blues -> Luiz Lins
+Baco Exu do Blues -> Froid
+Baco Exu do Blues -> Cynthia Luz
+Baco Exu do Blues -> BK
+Baco Exu do Blues -> Sant
+Baco Exu do Blues -> FBC
+Matuê -> Costa Gold
+Matuê -> Pineapple StormTv
+Matuê -> Konai
+Matuê -> Haikaiss
+Matuê -> WC no Beat
+Matuê -> Froid
+Matuê -> Cynthia Luz
+Matuê -> Chris MC
+Matuê -> 1Kilo
+Matuê -> Luiz Lins
+Matuê -> Filipe Ret
+kamaitachi -> Matuê
+kamaitachi -> Konai
+kamaitachi -> Luiz Lins
+kamaitachi -> Sadstation
+kamaitachi -> VMZ
+MC Menor da VG -> Mc Gw
+MC Menor da VG -> Mc Magrinho
+MC Menor da VG -> MC Rick
+MC Menor da VG -> Mc Don Juan
+MC Menor da VG -> MC Neguinho do Kaxeta
+MC Menor da VG -> Mc IG
+MC Menor da VG -> Mc Kevin
+MC Menor da VG -> Mc Pedrinho
+MC Menor da VG -> MC G15
+MC Menor da VG -> MC L da Vinte
+MC Menor da VG -> Mc PP da VS
+MC Menor da VG -> MC Kapela
+MC Menor da VG -> Mc Th
+Mc IG -> MC L da Vinte
+Mc IG -> MC Menor da VG
+Mc IG -> Mc Th
+Mc IG -> Mc Gw
+Mc IG -> MC Neguinho do Kaxeta
+Mc IG -> Mc Kevin
+Mc IG -> Mc Don Juan
+Mc IG -> MC Kapela
+Mc IG -> Mc PP da VS
+Mc IG -> MC Rick
+Mc IG -> Mc Livinho
+Mc IG -> Mc Pedrinho
+Mc IG -> MC G15
+Caio Luccas -> Yunk Vino
+Caio Luccas -> Dudu
+Sueth -> Duzz
+Sueth -> Dudu
+PL Quest -> Mainstreet
+PL Quest -> Kayuá
+PL Quest -> Caio Luccas
+PL Quest -> MC Cabelinho
+PL Quest -> Mãolee
+PL Quest -> Sueth
+PL Quest -> DomLaike
+DomLaike -> Sueth
+DomLaike -> Caio Luccas
+Borges -> Kyan
+Borges -> Dfideliz
+Borges -> Caio Luccas
+Borges -> Mainstreet
+Borges -> MC Igu
+Borges -> Derek
+Borges -> Major RD
+Mc Gw -> Mc Th
+Mc Gw -> Mc Don Juan
+Mc Gw -> MC Menor da VG
+Mc Gw -> Mc Pedrinho
+Mc Gw -> Mc Zaac
+Mc Gw -> MC L da Vinte
+Mc Gw -> MC G15
+Mc Gw -> Mc Livinho
+Mc Gw -> Mc IG
+Mc Gw -> Mc Magrinho
+Mc Don Juan -> Mc Gw
+Mc Don Juan -> Mc Livinho
+Mc Don Juan -> Mc Pedrinho
+Mc Don Juan -> MC L da Vinte
+Mc Don Juan -> MC Menor da VG
+Mc Don Juan -> MC G15
+Mc Don Juan -> Mc Zaac
+Mc Don Juan -> MC Kevinho
+Mc Don Juan -> Mc Kevin
+Mc Don Juan -> MC Neguinho do Kaxeta
+Mc Don Juan -> MC Rick
+Mc Don Juan -> Mc Th
+Mc Don Juan -> Mc IG
+Mc Th -> MC G15
+Mc Th -> MC L da Vinte
+Mc Th -> Mc Gw
+Mc Th -> Mc Pedrinho
+Mc Th -> Mc Livinho
+Mc Th -> Mc Don Juan
+Mc Th -> MC Rick
+Mc Th -> Mc Magrinho
+Mc Th -> Mc IG
+MC L da Vinte -> Mc Th
+MC L da Vinte -> MC G15
+MC L da Vinte -> Mc Don Juan
+MC L da Vinte -> Mc Livinho
+MC L da Vinte -> MC Rick
+MC L da Vinte -> MC Menor da VG
+MC L da Vinte -> Mc Pedrinho
+MC L da Vinte -> MC Kapela
+MC L da Vinte -> Mc IG
+MC L da Vinte -> MC Neguinho do Kaxeta
+MC L da Vinte -> Mc Kevin
+MC L da Vinte -> Mc Gw
+Mc Kevin -> Mc Livinho
+Mc Kevin -> Mc Pedrinho
+Mc Kevin -> MC G15
+Mc Kevin -> Mc PP da VS
+Mc Kevin -> Mc IG
+Mc Kevin -> Mc Don Juan
+Mc Kevin -> MC Neguinho do Kaxeta
+Mc Kevin -> MC L da Vinte
+Mc Kevin -> MC Menor da VG
+Mc Kevin -> Mc Th
+Mc Kevin -> MC Kapela
+Mc Kevin -> Mc Kelvinho
+Mc Kevin -> MC Rick
+Mc Kevin -> Mc Gw
+Mc Zaac -> Mc Livinho
+Mc Zaac -> Mc Don Juan
+Mc Zaac -> Nego do Borel
+Mc Zaac -> Mc Gw
+Mc Zaac -> MC Kevinho
+Mc Zaac -> Mc Pedrinho
+Mc Zaac -> MC G15
+Mc Zaac -> Mc Th
+Nego do Borel -> Mc Zaac
+Nego do Borel -> MC Kevinho
+Nego do Borel -> Mc Gw
+Nego do Borel -> Mc Livinho
+Nego do Borel -> Mc Don Juan
+Nego do Borel -> Mc Pedrinho
+Nego do Borel -> Mc Th
+Nego do Borel -> MC G15
+MC Rick -> Mc IG
+MC Rick -> MC L da Vinte
+MC Rick -> Mc Don Juan
+MC Rick -> MC Menor da VG
+MC Rick -> Mc Gw
+MC Rick -> Mc Th
+MC Rick -> Mc Magrinho
+MC Rick -> WC no Beat
+MC Rick -> MC Kapela
+MC Rick -> Mc PP da VS
+MC Rick -> Mc Pedrinho
+MC Rick -> MC Neguinho do Kaxeta
+MC Rick -> MC G15
+MC Rick -> Mc Livinho
+Thiaguinho -> Turma do Pagode
+Thiaguinho -> Pixote
+Thiaguinho -> Sorriso Maroto
+Thiaguinho -> Belo
+Thiaguinho -> Vitinho
+Thiaguinho -> Grupo Revelação
+Thiaguinho -> Exaltasamba
+Thiaguinho -> Péricles
+Thiaguinho -> Mumuzinho
+Thiaguinho -> Dilsinho
+Thiaguinho -> Ferrugem
+Jerry Smith -> Mc Zaac
+Jerry Smith -> Mc Livinho
+Jerry Smith -> Mc Gw
+Jerry Smith -> Mc Don Juan
+Jerry Smith -> Mc Th
+Jerry Smith -> MC G15
+Jerry Smith -> Nego do Borel
+Jerry Smith -> Mc Pedrinho
+Jerry Smith -> MC Kevinho
+Leo Santana -> Harmonia Do Samba
+Leo Santana -> Psirico
+Leo Santana -> Claudia Leitte
+Leo Santana -> Ivete Sangalo
+Harmonia Do Samba -> Leo Santana
+Harmonia Do Samba -> Ivete Sangalo
+Harmonia Do Samba -> Psirico
+Gilberto Gil -> Jorge Ben Jor
+Gilberto Gil -> Caetano Veloso
+Gilberto Gil -> Milton Nascimento
+Gilberto Gil -> Gal Costa
+Gilberto Gil -> Elis Regina
+Jorge Ben Jor -> Gilberto Gil
+Jorge Ben Jor -> Caetano Veloso
+Jorge Ben Jor -> Chico Buarque
+Jorge Ben Jor -> Milton Nascimento
+Jorge Ben Jor -> Elis Regina
+Jorge Ben Jor -> Maria Bethânia
+Jorge Ben Jor -> Tim Maia
+Jorge Ben Jor -> Gal Costa
+Jorge Ben Jor -> Seu Jorge
+Milton Nascimento -> Caetano Veloso
+Milton Nascimento -> Gal Costa
+Milton Nascimento -> Jorge Ben Jor
+Milton Nascimento -> Gilberto Gil
+Chico Buarque -> Gal Costa
+Chico Buarque -> Elis Regina
+Chico Buarque -> Gilberto Gil
+Chico Buarque -> Caetano Veloso
+Chico Buarque -> Jorge Ben Jor
+Chico Buarque -> Toquinho
+Chico Buarque -> Milton Nascimento
+Charlie Brown Jr. -> O Rappa
+Charlie Brown Jr. -> Natiruts
+Charlie Brown Jr. -> Skank
+Charlie Brown Jr. -> Raimundos
+Charlie Brown Jr. -> Jota Quest
+Charlie Brown Jr. -> Capital Inicial
+Charlie Brown Jr. -> Engenheiros Do Hawaii
+Charlie Brown Jr. -> Cidade Negra
+Charlie Brown Jr. -> Armandinho
+Charlie Brown Jr. -> Marcelo D2
+Zé Ramalho -> Titãs
+Zé Ramalho -> Os Paralamas Do Sucesso
+Zé Ramalho -> Raul Seixas
+Zé Ramalho -> Barão Vermelho
+Zé Ramalho -> Cidade Negra
+Zé Ramalho -> Cazuza
+Zé Ramalho -> Engenheiros Do Hawaii
+Zé Ramalho -> Nando Reis
+Zé Ramalho -> Legião Urbana
+Zé Ramalho -> Zeca Baleiro
+Zé Ramalho -> Cássia Eller
+Armandinho -> Natiruts
+Armandinho -> Jota Quest
+Armandinho -> Capital Inicial
+Armandinho -> Charlie Brown Jr.
+Armandinho -> O Rappa
+Armandinho -> Cidade Negra
+Armandinho -> Skank
+Marcelo D2 -> Black Alien
+Marcelo D2 -> Criolo
+Marcelo D2 -> Natiruts
+Marcelo D2 -> Racionais MC's
+Marcelo D2 -> O Rappa
+Marcelo D2 -> Emicida
+Toquinho -> Elis Regina
+Toquinho -> Gilberto Gil
+Toquinho -> Jorge Ben Jor
+Péricles -> Mumuzinho
+Péricles -> Thiaguinho
+Péricles -> Vitinho
+Péricles -> Ferrugem
+Péricles -> Dilsinho
+Péricles -> Turma do Pagode
+Péricles -> Pixote
+Péricles -> Exaltasamba
+Péricles -> Sorriso Maroto
+Péricles -> Belo
+Belo -> Sorriso Maroto
+Belo -> Exaltasamba
+Belo -> Grupo Revelação
+Belo -> Pixote
+Belo -> Mumuzinho
+Belo -> Turma do Pagode
+Sorriso Maroto -> Turma do Pagode
+Sorriso Maroto -> Belo
+Sorriso Maroto -> Pixote
+Sorriso Maroto -> Grupo Revelação
+Sorriso Maroto -> Dilsinho
+Sorriso Maroto -> Exaltasamba
+Exaltasamba -> Turma do Pagode
+Exaltasamba -> Grupo Revelação
+Exaltasamba -> Belo
+Exaltasamba -> Pixote
+Exaltasamba -> Só Pra Contrariar
+Exaltasamba -> Sorriso Maroto
+Zé Felipe -> Yasmin Santos
+Zé Felipe -> Wesley Safadão
+Zé Felipe -> Atitude 67
+Zé Felipe -> João Gustavo e Murilo
+Zé Felipe -> Lauana Prado
+Zé Felipe -> Diego & Victor Hugo
+Zé Felipe -> Cleber & Cauan
+Zé Felipe -> Felipe Araújo
+Zé Felipe -> Zé Neto & Cristiano
+Zé Felipe -> Diego & Arnaldo
+Zé Felipe -> Mano Walter
+Zé Felipe -> Matheus & Kauan
+Zé Felipe -> George Henrique & Rodrigo
+Zé Felipe -> Loubet
+Jonas Esticado -> Márcia Fellipe
+Jonas Esticado -> Mano Walter
+Jonas Esticado -> Avine Vinny
+Jonas Esticado -> Yasmin Santos
+Jonas Esticado -> João Gustavo e Murilo
+Jonas Esticado -> Matheus Fernandes
+Jonas Esticado -> Felipe Araújo
+Jonas Esticado -> Diego & Arnaldo
+Jonas Esticado -> Lauana Prado
+Jonas Esticado -> Wesley Safadão
+Jonas Esticado -> Eric Land
+Márcia Fellipe -> Avine Vinny
+Márcia Fellipe -> Jonas Esticado
+Márcia Fellipe -> Matheus Fernandes
+Márcia Fellipe -> João Gustavo e Murilo
+Márcia Fellipe -> Mano Walter
+Márcia Fellipe -> Yasmin Santos
+Márcia Fellipe -> Lauana Prado
+Avine Vinny -> Márcia Fellipe
+Avine Vinny -> João Gustavo e Murilo
+Avine Vinny -> Matheus Fernandes
+Avine Vinny -> Jonas Esticado
+Avine Vinny -> Mano Walter
+Avine Vinny -> Yasmin Santos
+Avine Vinny -> Diego & Arnaldo
+Avine Vinny -> Japinha Conde
+Matheus & Kauan -> Yasmin Santos
+Matheus & Kauan -> Zé Neto & Cristiano
+Matheus & Kauan -> Maiara & Maraisa
+Matheus & Kauan -> Henrique & Juliano
+Matheus & Kauan -> Diego & Arnaldo
+Matheus & Kauan -> Diego & Victor Hugo
+Matheus & Kauan -> Gustavo Mioto
+Matheus & Kauan -> Loubet
+Matheus & Kauan -> Felipe Araújo
+Matheus & Kauan -> George Henrique & Rodrigo
+Matheus & Kauan -> Lucas Lucco
+Matheus & Kauan -> Lauana Prado
+Matheus & Kauan -> Cleber & Cauan
+Matheus & Kauan -> Bruno & Barretto
+Matheus & Kauan -> Israel & Rodolffo
+Cleber & Cauan -> Diego & Arnaldo
+Cleber & Cauan -> George Henrique & Rodrigo
+Cleber & Cauan -> Loubet
+Cleber & Cauan -> Matheus & Kauan
+Cleber & Cauan -> Maiara & Maraisa
+Cleber & Cauan -> Cristiano Araújo
+Cleber & Cauan -> Henrique & Juliano
+Cleber & Cauan -> Marcos & Belutti
+Cleber & Cauan -> Diego & Victor Hugo
+Cleber & Cauan -> Zé Neto & Cristiano
+Cleber & Cauan -> Lucas Lucco
+Marília Mendonça -> Lauana Prado
+Marília Mendonça -> Diego & Victor Hugo
+Marília Mendonça -> Maiara & Maraisa
+Marília Mendonça -> Yasmin Santos
+Marília Mendonça -> Gustavo Mioto
+Marília Mendonça -> Felipe Araújo
+Marília Mendonça -> Matheus & Kauan
+Marília Mendonça -> Zé Neto & Cristiano
+Marília Mendonça -> Henrique & Juliano
+Marília Mendonça -> João Gustavo e Murilo
+Marília Mendonça -> Lucas Lucco
+Marília Mendonça -> Diego & Arnaldo
+Marília Mendonça -> Mano Walter
+Marília Mendonça -> Marcos & Belutti
+Marília Mendonça -> George Henrique & Rodrigo
+Marília Mendonça -> Cristiano Araújo
+Marília Mendonça -> Wesley Safadão
+Marília Mendonça -> Atitude 67
+Zé Neto & Cristiano -> Maiara & Maraisa
+Zé Neto & Cristiano -> Diego & Victor Hugo
+Zé Neto & Cristiano -> Lauana Prado
+Zé Neto & Cristiano -> Yasmin Santos
+Zé Neto & Cristiano -> Henrique & Juliano
+Zé Neto & Cristiano -> Felipe Araújo
+Zé Neto & Cristiano -> Diego & Arnaldo
+Zé Neto & Cristiano -> Marília Mendonça
+Zé Neto & Cristiano -> Bruno & Barretto
+Zé Neto & Cristiano -> George Henrique & Rodrigo
+Zé Neto & Cristiano -> Cleber & Cauan
+Zé Neto & Cristiano -> Matheus & Kauan
+Zé Neto & Cristiano -> João Gustavo e Murilo
+Zé Neto & Cristiano -> Gustavo Mioto
+Zé Neto & Cristiano -> Lucas Lucco
+Zé Neto & Cristiano -> Marcos & Belutti
+Zé Neto & Cristiano -> Israel & Rodolffo
+Zé Neto & Cristiano -> Loubet
+Bruno & Barretto -> Loubet
+Bruno & Barretto -> Gustavo Mioto
+Bruno & Barretto -> George Henrique & Rodrigo
+Bruno & Barretto -> Maiara & Maraisa
+Bruno & Barretto -> Lauana Prado
+Bruno & Barretto -> Jads & Jadson
+Bruno & Barretto -> Fernando & Sorocaba
+Bruno & Barretto -> Yasmin Santos
+Bruno & Barretto -> Humberto & Ronaldo
+Bruno & Barretto -> Cleber & Cauan
+Bruno & Barretto -> Diego & Arnaldo
+Grupo Revelação -> Exaltasamba
+Grupo Revelação -> Turma do Pagode
+Grupo Revelação -> Só Pra Contrariar
+Grupo Revelação -> Pixote
+Grupo Revelação -> Sorriso Maroto
+Grupo Revelação -> Belo
+Grupo Revelação -> Raça Negra
+Matheus Fernandes -> Mano Walter
+Matheus Fernandes -> Jonas Esticado
+Matheus Fernandes -> Eric Land
+Matheus Fernandes -> João Gustavo e Murilo
+Matheus Fernandes -> Mari Fernandez
+Matheus Fernandes -> Max e Luan
+Matheus Fernandes -> Japinha Conde
+Matheus Fernandes -> João Bosco e Gabriel
+Matheus Fernandes -> Márcia Fellipe
+Matheus Fernandes -> Josué Bom de Faixa
+Matheus Fernandes -> Vitinho Imperador
+Matheus Fernandes -> Avine Vinny
+Henrique & Juliano -> Matheus & Kauan
+Henrique & Juliano -> Maiara & Maraisa
+Henrique & Juliano -> Bruno & Barretto
+Henrique & Juliano -> Zé Neto & Cristiano
+Henrique & Juliano -> Diego & Arnaldo
+Henrique & Juliano -> Diego & Victor Hugo
+Henrique & Juliano -> Gustavo Mioto
+Henrique & Juliano -> George Henrique & Rodrigo
+Henrique & Juliano -> Yasmin Santos
+Henrique & Juliano -> Felipe Araújo
+Henrique & Juliano -> Israel & Rodolffo
+Henrique & Juliano -> Lauana Prado
+Henrique & Juliano -> Cleber & Cauan
+Henrique & Juliano -> Marília Mendonça
+Henrique & Juliano -> Jonas Esticado
+Henrique & Juliano -> Lucas Lucco
+Henrique & Juliano -> Loubet
+Cristiano Araújo -> Marcos & Belutti
+Cristiano Araújo -> Fernando & Sorocaba
+Cristiano Araújo -> Humberto & Ronaldo
+Cristiano Araújo -> Lucas Lucco
+Cristiano Araújo -> Gusttavo Lima
+Cristiano Araújo -> João Bosco & Vinicius
+Cristiano Araújo -> Jorge & Mateus
+Cristiano Araújo -> Michel Teló
+Marcos & Belutti -> Fernando & Sorocaba
+Marcos & Belutti -> Gusttavo Lima
+Marcos & Belutti -> Michel Teló
+Marcos & Belutti -> César Menotti & Fabiano
+Marcos & Belutti -> Cristiano Araújo
+Marcos & Belutti -> Humberto & Ronaldo
+Marcos & Belutti -> Edson & Hudson
+Marcos & Belutti -> Jorge & Mateus
+Marcos & Belutti -> João Bosco & Vinicius
+Fernando & Sorocaba -> Jorge & Mateus
+Fernando & Sorocaba -> Marcos & Belutti
+Fernando & Sorocaba -> João Bosco & Vinicius
+Fernando & Sorocaba -> Gusttavo Lima
+Fernando & Sorocaba -> César Menotti & Fabiano
+Fernando & Sorocaba -> Michel Teló
+Fernando & Sorocaba -> Cristiano Araújo
+Fernando & Sorocaba -> Edson & Hudson
+Fernando & Sorocaba -> Bruno & Marrone
+João Bosco & Vinicius -> Marcos & Belutti
+João Bosco & Vinicius -> Fernando & Sorocaba
+João Bosco & Vinicius -> Edson & Hudson
+João Bosco & Vinicius -> Michel Teló
+João Bosco & Vinicius -> Eduardo Costa
+João Bosco & Vinicius -> Humberto & Ronaldo
+João Bosco & Vinicius -> César Menotti & Fabiano
+João Bosco & Vinicius -> Jorge & Mateus
+João Bosco & Vinicius -> Gusttavo Lima
+Gusttavo Lima -> Fernando & Sorocaba
+Gusttavo Lima -> Jorge & Mateus
+Gusttavo Lima -> Cristiano Araújo
+Gusttavo Lima -> Michel Teló
+Gusttavo Lima -> César Menotti & Fabiano
+Gusttavo Lima -> João Bosco & Vinicius
+Gusttavo Lima -> Marcos & Belutti
+Gusttavo Lima -> Edson & Hudson
+Gusttavo Lima -> Bruno & Marrone
+Gusttavo Lima -> Humberto & Ronaldo
+Gusttavo Lima -> Luan Santana
+Israel & Rodolffo -> Matheus & Kauan
+Israel & Rodolffo -> Humberto & Ronaldo
+Israel & Rodolffo -> Zé Neto & Cristiano
+Israel & Rodolffo -> Loubet
+Israel & Rodolffo -> Diego & Arnaldo
+Israel & Rodolffo -> Henrique & Juliano
+Israel & Rodolffo -> George Henrique & Rodrigo
+Israel & Rodolffo -> Cristiano Araújo
+Israel & Rodolffo -> João Bosco & Vinicius
+Israel & Rodolffo -> Diego & Victor Hugo
+Israel & Rodolffo -> Lucas Lucco
+Israel & Rodolffo -> Maiara & Maraisa
+Israel & Rodolffo -> Cleber & Cauan
+Israel & Rodolffo -> Marcos & Belutti
+Michel Teló -> Gusttavo Lima
+Michel Teló -> Fernando & Sorocaba
+Michel Teló -> João Bosco & Vinicius
+Michel Teló -> César Menotti & Fabiano
+Michel Teló -> Marcos & Belutti
+Michel Teló -> Jorge & Mateus
+Michel Teló -> Cristiano Araújo
+Michel Teló -> Edson & Hudson
+Michel Teló -> Paula Fernandes
+Michel Teló -> Victor & Leo
+Racionais MC's -> Black Alien
+Racionais MC's -> Projota
+Racionais MC's -> Marcelo D2
+Racionais MC's -> Criolo
+Racionais MC's -> Emicida
+Maneva -> Natiruts
+Maneva -> Armandinho
+Maneva -> Cynthia Luz
+Maneva -> Haikaiss
+Maneva -> Oriente
+Maneva -> Projota
+Maneva -> Cidade Negra
+Duzz -> UCLÃ
+Duzz -> Sueth
+Duzz -> Dudu
+UCLÃ -> Duzz
+UCLÃ -> Sueth
+UCLÃ -> Kawe
+UCLÃ -> Derek
+UCLÃ -> Caio Luccas
+UCLÃ -> Dudu
+UCLÃ -> Yunk Vino
+UCLÃ -> Dfideliz
+UCLÃ -> MC Igu
+Mc Magal -> MC GP
+Mc Magal -> MC Leozinho ZS
+Mc Magal -> MC Kapela
+Mc Magal -> Mc Kadu
+Mc Magal -> MC PH
+Mc Magal -> MC Cebezinho
+KayBlack -> MC PH
+KayBlack -> Vulgo FK
+KayBlack -> Yunk Vino
+KayBlack -> Caio Luccas
+KayBlack -> MC Cebezinho
+KayBlack -> Kyan
+KayBlack -> Dfideliz
+KayBlack -> Mc IG
+KayBlack -> MC GP
+KayBlack -> UCLÃ
+KayBlack -> Mc Kelvinho
+KayBlack -> MC Igu
+KayBlack -> Jovem Dex
+KayBlack -> Borges
+KayBlack -> Derek
+Jovem Dex -> MC Igu
+Jovem Dex -> Yunk Vino
+Jovem Dex -> Caio Luccas
+Jovem Dex -> Dfideliz
+Jovem Dex -> Kyan
+Jovem Dex -> Derek
+Jovem Dex -> WIU
+Jovem Dex -> Dudu
+Jovem Dex -> Duzz
+Jovem Dex -> Japa
+Kyan -> Dfideliz
+Kyan -> Derek
+Kyan -> MC PH
+Kyan -> Caio Luccas
+Kyan -> Yunk Vino
+Kyan -> Borges
+Kyan -> MC Igu
+Salvador Da Rima -> MC Cebezinho
+Salvador Da Rima -> MC PH
+Salvador Da Rima -> Mc Kadu
+Salvador Da Rima -> MC Leozinho ZS
+Salvador Da Rima -> MC Joãozinho VT
+Salvador Da Rima -> Mc Kako
+Salvador Da Rima -> Mc Kelvinho
+Salvador Da Rima -> MC Menor da VG
+Salvador Da Rima -> DJ BOY
+Salvador Da Rima -> MC GP
+Salvador Da Rima -> Mc Magal
+Salvador Da Rima -> Mc Lele JP
+Dudu -> Duzz
+Dudu -> Derek
+Dudu -> MC Igu
+Dudu -> Yunk Vino
+Dfideliz -> Duzz
+Dfideliz -> Derek
+Dfideliz -> MC Igu
+Dfideliz -> Dudu
+Dfideliz -> Kayuá
+Dfideliz -> Yunk Vino
+Dfideliz -> Caio Luccas
+Dfideliz -> Kyan
+MC PH -> MC Marks
+MC PH -> MC Cebezinho
+MC PH -> MC GP
+MC PH -> Mc Kelvinho
+MC PH -> Mc Magal
+MC PH -> MC Leozinho ZS
+MC PH -> Dj Victor
+MC PH -> Mc Kadu
+MC PH -> Vulgo FK
+Sadstation -> Konai
+Sadstation -> Knust
+Sadstation -> VMZ
+VMZ -> Sadstation
+VMZ -> MHRAP
+Mc Magrinho -> MC Menor da VG
+Mc Magrinho -> Mc Th
+Mc Magrinho -> Mc Don Juan
+Mc Magrinho -> Mc IG
+Mc Magrinho -> MC G15
+Mc Magrinho -> Mc Pedrinho
+Mc Magrinho -> MC Rick
+Mc Magrinho -> MC Neguinho do Kaxeta
+Mc Magrinho -> Mc Gw
+MC Neguinho do Kaxeta -> MC Kapela
+MC Neguinho do Kaxeta -> Mc PP da VS
+MC Neguinho do Kaxeta -> MC L da Vinte
+MC Neguinho do Kaxeta -> MC Menor da VG
+MC Neguinho do Kaxeta -> Mc Pedrinho
+MC Neguinho do Kaxeta -> Mc IG
+MC Neguinho do Kaxeta -> Mc Kevin
+MC Neguinho do Kaxeta -> MC Rick
+MC Neguinho do Kaxeta -> Mc Don Juan
+MC Neguinho do Kaxeta -> MC G15
+MC Neguinho do Kaxeta -> Mc Livinho
+MC Neguinho do Kaxeta -> Mc Th
+Mc PP da VS -> Mc Pedrinho
+Mc PP da VS -> MC Kapela
+Mc PP da VS -> MC Neguinho do Kaxeta
+Mc PP da VS -> MC Rick
+Mc PP da VS -> Mc IG
+Mc PP da VS -> MC Menor da VG
+Mc PP da VS -> MC Cebezinho
+Mc PP da VS -> MC L da Vinte
+Mc PP da VS -> Mc Don Juan
+Mc PP da VS -> Mc Gw
+Mc PP da VS -> Mc Kevin
+Mc PP da VS -> Mc Kelvinho
+MC Kapela -> MC Neguinho do Kaxeta
+MC Kapela -> Mc IG
+MC Kapela -> Mc Pedrinho
+MC Kapela -> Mc Gw
+MC Kapela -> MC Rick
+MC Kapela -> WC no Beat
+MC Kapela -> MC L da Vinte
+MC Kapela -> Mc Kevin
+MC Kapela -> Mc PP da VS
+MC Kapela -> Mc Th
+Yunk Vino -> Derek
+Yunk Vino -> MC Igu
+Yunk Vino -> Duzz
+Yunk Vino -> Japa
+Yunk Vino -> Dudu
+Yunk Vino -> Caio Luccas
+Derek -> MC Igu
+Derek -> Dfideliz
+Derek -> Yunk Vino
+Derek -> Duzz
+Derek -> Dudu
+Major RD -> Sant
+Major RD -> Kayuá
+MC Igu -> Derek
+MC Igu -> Yunk Vino
+MC Igu -> Dudu
+MC Igu -> Dfideliz
+MC Igu -> Japa
+MC Igu -> Duzz
+Mc Kelvinho -> MC Cebezinho
+Mc Kelvinho -> Mc IG
+Mc Kelvinho -> Mc PP da VS
+Mc Kelvinho -> MC Kapela
+Mc Kelvinho -> MC PH
+Mc Kelvinho -> MC Marks
+Mc Kelvinho -> Mc Kadu
+Mc Kelvinho -> MC Joãozinho VT
+Mc Kelvinho -> MC GP
+Mc Kelvinho -> Mc Magal
+Mc Kelvinho -> MC Leozinho ZS
+Psirico -> Leo Santana
+Psirico -> Harmonia Do Samba
+Psirico -> Claudia Leitte
+Tim Maia -> Gilberto Gil
+Tim Maia -> Jorge Ben Jor
+Tim Maia -> Caetano Veloso
+Seu Jorge -> Diogo Nogueira
+Seu Jorge -> Tim Maia
+Seu Jorge -> Marcelo D2
+Seu Jorge -> Zeca Baleiro
+Seu Jorge -> Jorge Ben Jor
+Seu Jorge -> Vanessa Da Mata
+Seu Jorge -> Maria Rita
+Seu Jorge -> Djavan
+Seu Jorge -> Gilberto Gil
+Seu Jorge -> Zeca Pagodinho
+Seu Jorge -> Lenine
+Só Pra Contrariar -> Raça Negra
+Só Pra Contrariar -> Alexandre Pires
+Só Pra Contrariar -> Grupo Revelação
+Só Pra Contrariar -> Belo
+Só Pra Contrariar -> Exaltasamba
+Eric Land -> Avine Vinny
+Eric Land -> Matheus Fernandes
+Eric Land -> Jonas Esticado
+Eric Land -> Márcia Fellipe
+Eric Land -> Josué Bom de Faixa
+Eric Land -> Japinha Conde
+Eric Land -> Mari Fernandez
+Eric Land -> João Bosco e Gabriel
+Eric Land -> Max e Luan
+Eric Land -> Felipe Amorim
+Eric Land -> Mano Walter
+Eric Land -> Vitinho Imperador
+Eric Land -> Xand Avião
+Japinha Conde -> Avine Vinny
+Japinha Conde -> Josué Bom de Faixa
+Japinha Conde -> Márcia Fellipe
+Jads & Jadson -> Di Paullo & Paulino
+Jads & Jadson -> Tião Carreiro & Pardinho
+Jads & Jadson -> Matogrosso & Mathias
+Raça Negra -> Só Pra Contrariar
+Raça Negra -> Exaltasamba
+Raça Negra -> Grupo Fundo De Quintal
+Raça Negra -> Pixote
+Raça Negra -> Belo
+Raça Negra -> Grupo Revelação
+Mari Fernandez -> Josué Bom de Faixa
+Mari Fernandez -> Eric Land
+Mari Fernandez -> Felipe Amorim
+Mari Fernandez -> Vitinho Imperador
+Mari Fernandez -> Avine Vinny
+Mari Fernandez -> Japinha Conde
+Mari Fernandez -> Japãozin
+Mari Fernandez -> Jonas Esticado
+Mari Fernandez -> MC Rogerinho
+Mari Fernandez -> Matheus Fernandes
+Mari Fernandez -> Márcia Fellipe
+Max e Luan -> Luíza & Maurílio
+Max e Luan -> Hugo & Guilherme
+Max e Luan -> Léo & Raphael
+Max e Luan -> Douglas & Vinicius
+Max e Luan -> Antony & Gabriel
+João Bosco e Gabriel -> Douglas & Vinicius
+João Bosco e Gabriel -> João Gustavo e Murilo
+João Bosco e Gabriel -> Fiduma & Jeca
+João Bosco e Gabriel -> Max e Luan
+João Bosco e Gabriel -> Diego & Arnaldo
+João Bosco e Gabriel -> Murilo Huff
+João Bosco e Gabriel -> Cleber & Cauan
+João Bosco e Gabriel -> Humberto & Ronaldo
+João Bosco e Gabriel -> Luíza & Maurílio
+João Bosco e Gabriel -> Jonas Esticado
+João Bosco e Gabriel -> Avine Vinny
+João Bosco e Gabriel -> Vitor e Luan
+João Bosco e Gabriel -> Yasmin Santos
+Vitinho Imperador -> Josué Bom de Faixa
+Vitinho Imperador -> Japãozin
+Vitinho Imperador -> Thiago Jhonathan (TJ)
+Vitinho Imperador -> Nêgo Jhá
+Josué Bom de Faixa -> Felipe Amorim
+Josué Bom de Faixa -> Vitinho Imperador
+Josué Bom de Faixa -> Japãozin
+Jorge & Mateus -> Fernando & Sorocaba
+Jorge & Mateus -> Michel Teló
+Jorge & Mateus -> Marcos & Belutti
+Jorge & Mateus -> César Menotti & Fabiano
+Jorge & Mateus -> Luan Santana
+Jorge & Mateus -> Gusttavo Lima
+Jorge & Mateus -> Edson & Hudson
+Jorge & Mateus -> João Bosco & Vinicius
+Jorge & Mateus -> Bruno & Marrone
+Jorge & Mateus -> Cristiano Araújo
+Jorge & Mateus -> Zezé Di Camargo & Luciano
+Jorge & Mateus -> Eduardo Costa
+Jorge & Mateus -> Victor & Leo
+César Menotti & Fabiano -> Zezé Di Camargo & Luciano
+César Menotti & Fabiano -> Rick & Renner
+César Menotti & Fabiano -> Rionegro & Solimões
+César Menotti & Fabiano -> Chitãozinho & Xororó
+César Menotti & Fabiano -> Eduardo Costa
+César Menotti & Fabiano -> Bruno & Marrone
+César Menotti & Fabiano -> Fernando & Sorocaba
+César Menotti & Fabiano -> Edson & Hudson
+César Menotti & Fabiano -> João Bosco & Vinicius
+César Menotti & Fabiano -> Michel Teló
+César Menotti & Fabiano -> Victor & Leo
+César Menotti & Fabiano -> Jorge & Mateus
+Edson & Hudson -> Zezé Di Camargo & Luciano
+Edson & Hudson -> Rick & Renner
+Edson & Hudson -> Rionegro & Solimões
+Edson & Hudson -> César Menotti & Fabiano
+Edson & Hudson -> Chitãozinho & Xororó
+Edson & Hudson -> Jorge & Mateus
+Edson & Hudson -> Bruno & Marrone
+Edson & Hudson -> Fernando & Sorocaba
+Edson & Hudson -> João Bosco & Vinicius
+Edson & Hudson -> Eduardo Costa
+Edson & Hudson -> Leonardo
+Bruno & Marrone -> Zezé Di Camargo & Luciano
+Bruno & Marrone -> Edson & Hudson
+Bruno & Marrone -> Milionário & José Rico
+Bruno & Marrone -> Rionegro & Solimões
+Bruno & Marrone -> César Menotti & Fabiano
+Bruno & Marrone -> Matogrosso & Mathias
+Bruno & Marrone -> Leonardo
+Bruno & Marrone -> Chitãozinho & Xororó
+Bruno & Marrone -> João Bosco & Vinicius
+Bruno & Marrone -> Trio Parada Dura
+Bruno & Marrone -> Leandro & Leonardo
+Bruno & Marrone -> Rick & Renner
+Bruno & Marrone -> Eduardo Costa
+Eduardo Costa -> Zezé Di Camargo & Luciano
+Eduardo Costa -> César Menotti & Fabiano
+Eduardo Costa -> Rionegro & Solimões
+Eduardo Costa -> Edson & Hudson
+Eduardo Costa -> Rick & Renner
+Eduardo Costa -> Chitãozinho & Xororó
+Eduardo Costa -> Trio Parada Dura
+Eduardo Costa -> Milionário & José Rico
+Eduardo Costa -> Leonardo
+Eduardo Costa -> João Bosco & Vinicius
+Eduardo Costa -> Bruno & Marrone
+Eduardo Costa -> Leandro & Leonardo
+Victor & Leo -> César Menotti & Fabiano
+Victor & Leo -> Fernando & Sorocaba
+Victor & Leo -> Edson & Hudson
+Victor & Leo -> Zezé Di Camargo & Luciano
+Victor & Leo -> João Bosco & Vinicius
+Victor & Leo -> Michel Teló
+Victor & Leo -> Rick & Renner
+Victor & Leo -> Paula Fernandes
+Victor & Leo -> Rionegro & Solimões
+Victor & Leo -> Chitãozinho & Xororó
+Victor & Leo -> Leandro & Leonardo
+Victor & Leo -> Bruno & Marrone
+Victor & Leo -> Eduardo Costa
+Paula Fernandes -> Michel Teló
+Paula Fernandes -> César Menotti & Fabiano
+Paula Fernandes -> Fernando & Sorocaba
+Paula Fernandes -> Victor & Leo
+Paula Fernandes -> Edson & Hudson
+Paula Fernandes -> Claudia Leitte
+Paula Fernandes -> Leandro & Leonardo
+Paula Fernandes -> Eduardo Costa
+Paula Fernandes -> Rionegro & Solimões
+Paula Fernandes -> Chitãozinho & Xororó
+Paula Fernandes -> João Bosco & Vinicius
+Paula Fernandes -> Zezé Di Camargo & Luciano
+Paula Fernandes -> Marcos & Belutti
+Paula Fernandes -> Rick & Renner
+MC Leozinho ZS -> MC Joãozinho VT
+MC Leozinho ZS -> Mc Kako
+MC Leozinho ZS -> Mc Kadu
+MC Leozinho ZS -> Dj Victor
+MC Leozinho ZS -> Mc Magal
+MC Leozinho ZS -> MC GP
+MC Leozinho ZS -> DJ BOY
+MC Leozinho ZS -> Mc Lele JP
+MC Leozinho ZS -> MC Cebezinho
+MC Leozinho ZS -> MC PH
+MC GP -> MC Leozinho ZS
+MC GP -> MC Joãozinho VT
+MC GP -> Mc Kadu
+MC GP -> Dj Victor
+MC GP -> MC Cebezinho
+MC GP -> Mc Kako
+MC GP -> Mc Magal
+MC GP -> Mc Kelvinho
+MC GP -> MC PH
+MC GP -> DJ BOY
+Mc Kadu -> MC GP
+Mc Kadu -> MC Leozinho ZS
+Mc Kadu -> MC Joãozinho VT
+Mc Kadu -> Mc Kako
+Mc Kadu -> MC Cebezinho
+Mc Kadu -> Mc Magal
+Mc Kadu -> Mc Kelvinho
+Mc Kadu -> Dj Victor
+MC Cebezinho -> Mc Kelvinho
+MC Cebezinho -> Mc PP da VS
+MC Cebezinho -> MC PH
+MC Cebezinho -> MC Leozinho ZS
+MC Cebezinho -> MC GP
+MC Cebezinho -> Mc Kadu
+MC Cebezinho -> MC Joãozinho VT
+MC Cebezinho -> Mc Magal
+MC Cebezinho -> MC Neguinho do Kaxeta
+MC Cebezinho -> DJ BOY
+Vulgo FK -> MC Cebezinho
+Vulgo FK -> MC Joãozinho VT
+Vulgo FK -> MC PH
+Vulgo FK -> Pedro Lotto
+Vulgo FK -> Mc Kelvinho
+Vulgo FK -> Caio Luccas
+Vulgo FK -> MC GP
+Vulgo FK -> KayBlack
+Vulgo FK -> Dj Victor
+Vulgo FK -> Mc IG
+Vulgo FK -> Mc Kako
+Vulgo FK -> Kyan
+Vulgo FK -> DJ BOY
+WIU -> Caio Luccas
+WIU -> Japa
+WIU -> Dudu
+WIU -> Duzz
+Japa -> Dudu
+Japa -> Derek
+Japa -> MC Igu
+Japa -> Yunk Vino
+Japa -> Duzz
+Japa -> Caio Luccas
+Japa -> WIU
+MC Joãozinho VT -> MC GP
+MC Joãozinho VT -> MC Leozinho ZS
+MC Joãozinho VT -> MC Cebezinho
+MC Joãozinho VT -> DJ BOY
+MC Joãozinho VT -> Mc Kadu
+MC Joãozinho VT -> Mc Kelvinho
+MC Joãozinho VT -> Mc Lele JP
+MC Joãozinho VT -> Mc Magal
+MC Joãozinho VT -> Dj Victor
+MC Joãozinho VT -> MC PH
+MC Joãozinho VT -> Mc Kako
+MC Joãozinho VT -> MC Menor da VG
+Mc Kako -> MC Leozinho ZS
+Mc Kako -> MC Joãozinho VT
+Mc Kako -> MC GP
+Mc Kako -> DJ BOY
+Mc Kako -> Mc Magal
+Mc Kako -> Mc Kelvinho
+Mc Kako -> MC PH
+Mc Kako -> Mc Kadu
+Mc Kako -> Dj Victor
+Mc Kako -> MC Cebezinho
+Mc Kako -> Mc Lele JP
+Mc Lele JP -> Mc Magal
+Mc Lele JP -> MC Leozinho ZS
+Mc Lele JP -> MC Joãozinho VT
+Mc Lele JP -> MC GP
+Mc Lele JP -> Mc Kelvinho
+Mc Lele JP -> MC Cebezinho
+Mc Lele JP -> DJ BOY
+Mc Lele JP -> Mc Kako
+Mc Lele JP -> MC Menor da VG
+Mc Lele JP -> Mc Kadu
+Mc Lele JP -> MC PH
+DJ BOY -> MC Leozinho ZS
+DJ BOY -> MC GP
+DJ BOY -> MC Joãozinho VT
+DJ BOY -> Mc Magal
+DJ BOY -> Mc Kelvinho
+DJ BOY -> Mc Lele JP
+DJ BOY -> Dj Victor
+DJ BOY -> MC PH
+DJ BOY -> MC Menor da VG
+DJ BOY -> Mc Kadu
+DJ BOY -> Mc Kako
+DJ BOY -> MC Cebezinho
+MC Marks -> MC PH
+MC Marks -> Mc Kelvinho
+MC Marks -> MC Joãozinho VT
+MC Marks -> MC Neguinho do Kaxeta
+MC Marks -> Mc Lipi
+MC Marks -> Mc Lele JP
+MC Marks -> Mc Kadu
+MC Marks -> Mc IG
+MC Marks -> Mc Kako
+MC Marks -> MC Cebezinho
+MC Marks -> MC Menor da VG
+MC Marks -> MC GP
+MC Marks -> Mc Magal
+MC Marks -> DJ BOY
+Dj Victor -> MC GP
+Dj Victor -> MC Leozinho ZS
+Dj Victor -> MC Joãozinho VT
+Dj Victor -> MC PH
+Dj Victor -> MC Cebezinho
+Dj Victor -> Mc Kako
+Dj Victor -> Mc Kadu
+MHRAP -> 7 Minutoz
+MHRAP -> Sadstation
+MHRAP -> VMZ
+Diogo Nogueira -> Jorge Aragão
+Diogo Nogueira -> Arlindo Cruz
+Diogo Nogueira -> Zeca Pagodinho
+Diogo Nogueira -> Alcione
+Diogo Nogueira -> Grupo Fundo De Quintal
+Diogo Nogueira -> Martinho Da Vila
+Zeca Pagodinho -> Jorge Aragão
+Zeca Pagodinho -> Grupo Fundo De Quintal
+Zeca Pagodinho -> Arlindo Cruz
+Zeca Pagodinho -> Martinho Da Vila
+Zeca Pagodinho -> Alcione
+Zeca Pagodinho -> Diogo Nogueira
+Alexandre Pires -> Só Pra Contrariar
+Alexandre Pires -> Belo
+Alexandre Pires -> Grupo Revelação
+Alexandre Pires -> Exaltasamba
+Alexandre Pires -> Pixote
+Felipe Amorim -> Josué Bom de Faixa
+Felipe Amorim -> Japãozin
+Felipe Amorim -> Vitinho Imperador
+Felipe Amorim -> Eric Land
+Felipe Amorim -> Nêgo Jhá
+Felipe Amorim -> Mari Fernandez
+Xand Avião -> Jonas Esticado
+Xand Avião -> Eric Land
+Xand Avião -> Avine Vinny
+Xand Avião -> Márcia Fellipe
+Xand Avião -> Raí Saia Rodada
+Xand Avião -> Mano Walter
+Xand Avião -> Japinha Conde
+Xand Avião -> Matheus Fernandes
+Xand Avião -> Vitor Fernandes
+Xand Avião -> Vitinho Imperador
+Xand Avião -> NATTAN
+Xand Avião -> Mari Fernandez
+Di Paullo & Paulino -> Tião Carreiro & Pardinho
+Di Paullo & Paulino -> Matogrosso & Mathias
+Matogrosso & Mathias -> Di Paullo & Paulino
+Matogrosso & Mathias -> Milionário & José Rico
+Matogrosso & Mathias -> Tião Carreiro & Pardinho
+Matogrosso & Mathias -> Jads & Jadson
+Tião Carreiro & Pardinho -> Di Paullo & Paulino
+Tião Carreiro & Pardinho -> Matogrosso & Mathias
+Grupo Fundo De Quintal -> Diogo Nogueira
+Grupo Fundo De Quintal -> Arlindo Cruz
+Grupo Fundo De Quintal -> Jorge Aragão
+Grupo Fundo De Quintal -> Alcione
+Grupo Fundo De Quintal -> Martinho Da Vila
+Grupo Fundo De Quintal -> Zeca Pagodinho
+Japãozin -> Felipe Amorim
+Japãozin -> Josué Bom de Faixa
+Japãozin -> Nêgo Jhá
+Japãozin -> Vitinho Imperador
+MC Rogerinho -> Nêgo Jhá
+MC Rogerinho -> Josué Bom de Faixa
+MC Rogerinho -> Mari Fernandez
+MC Rogerinho -> Avine Vinny
+MC Rogerinho -> Japinha Conde
+MC Rogerinho -> Max e Luan
+MC Rogerinho -> Felipe Amorim
+MC Rogerinho -> Vitinho Imperador
+MC Rogerinho -> Eric Land
+MC Rogerinho -> Márcia Fellipe
+MC Rogerinho -> Matheus Fernandes
+Luíza & Maurílio -> Max e Luan
+Luíza & Maurílio -> Hugo & Guilherme
+Luíza & Maurílio -> Léo & Raphael
+Luíza & Maurílio -> Antony & Gabriel
+Luíza & Maurílio -> Douglas & Vinicius
+Luíza & Maurílio -> João Gustavo e Murilo
+Luíza & Maurílio -> Murilo Huff
+Douglas & Vinicius -> Max e Luan
+Douglas & Vinicius -> Luíza & Maurílio
+Douglas & Vinicius -> Antony & Gabriel
+Douglas & Vinicius -> Léo & Raphael
+Douglas & Vinicius -> Hugo & Guilherme
+Douglas & Vinicius -> Clayton & Romário
+Hugo & Guilherme -> Luíza & Maurílio
+Hugo & Guilherme -> Max e Luan
+Hugo & Guilherme -> Léo & Raphael
+Hugo & Guilherme -> George Henrique & Rodrigo
+Hugo & Guilherme -> Cleber & Cauan
+Hugo & Guilherme -> Antony & Gabriel
+Hugo & Guilherme -> Douglas & Vinicius
+Hugo & Guilherme -> Humberto & Ronaldo
+Hugo & Guilherme -> Diego & Arnaldo
+Antony & Gabriel -> Douglas & Vinicius
+Antony & Gabriel -> Léo & Raphael
+Antony & Gabriel -> Fiduma & Jeca
+Antony & Gabriel -> Max e Luan
+Antony & Gabriel -> Clayton & Romário
+Antony & Gabriel -> Luíza & Maurílio
+Léo & Raphael -> Antony & Gabriel
+Léo & Raphael -> Douglas & Vinicius
+Léo & Raphael -> Hugo & Guilherme
+Léo & Raphael -> Luíza & Maurílio
+Léo & Raphael -> Max e Luan
+Fiduma & Jeca -> Loubet
+Fiduma & Jeca -> Antony & Gabriel
+Fiduma & Jeca -> Humberto & Ronaldo
+Fiduma & Jeca -> Bruno & Barretto
+Fiduma & Jeca -> João Gustavo e Murilo
+Fiduma & Jeca -> Max e Luan
+Fiduma & Jeca -> Léo & Raphael
+Murilo Huff -> João Gustavo e Murilo
+Murilo Huff -> Luíza & Maurílio
+Murilo Huff -> João Bosco e Gabriel
+Murilo Huff -> Douglas & Vinicius
+Murilo Huff -> Yasmin Santos
+Murilo Huff -> George Henrique & Rodrigo
+Murilo Huff -> Diego & Arnaldo
+Murilo Huff -> Humberto & Ronaldo
+Murilo Huff -> Avine Vinny
+Murilo Huff -> Lauana Prado
+Murilo Huff -> Fiduma & Jeca
+Murilo Huff -> Cleber & Cauan
+Murilo Huff -> Vitor e Luan
+Murilo Huff -> Max e Luan
+Murilo Huff -> Jonas Esticado
+Vitor e Luan -> Max e Luan
+Vitor e Luan -> João Gustavo e Murilo
+Vitor e Luan -> Douglas & Vinicius
+Nêgo Jhá -> Japãozin
+Nêgo Jhá -> Josué Bom de Faixa
+Nêgo Jhá -> Felipe Amorim
+Nêgo Jhá -> Vitinho Imperador
+Thiago Jhonathan (TJ) -> Brisa Star
+Zezé Di Camargo & Luciano -> César Menotti & Fabiano
+Zezé Di Camargo & Luciano -> Edson & Hudson
+Zezé Di Camargo & Luciano -> Rick & Renner
+Zezé Di Camargo & Luciano -> Rionegro & Solimões
+Zezé Di Camargo & Luciano -> Chitãozinho & Xororó
+Zezé Di Camargo & Luciano -> Leandro & Leonardo
+Zezé Di Camargo & Luciano -> Leonardo
+Zezé Di Camargo & Luciano -> Milionário & José Rico
+Zezé Di Camargo & Luciano -> Bruno & Marrone
+Zezé Di Camargo & Luciano -> Eduardo Costa
+Zezé Di Camargo & Luciano -> Trio Parada Dura
+Rionegro & Solimões -> Chitãozinho & Xororó
+Rionegro & Solimões -> César Menotti & Fabiano
+Rionegro & Solimões -> Zezé Di Camargo & Luciano
+Rionegro & Solimões -> Edson & Hudson
+Rionegro & Solimões -> Milionário & José Rico
+Rionegro & Solimões -> Trio Parada Dura
+Rionegro & Solimões -> Eduardo Costa
+Rionegro & Solimões -> Bruno & Marrone
+Rionegro & Solimões -> Leandro & Leonardo
+Rionegro & Solimões -> Rick & Renner
+Rick & Renner -> Rionegro & Solimões
+Rick & Renner -> Zezé Di Camargo & Luciano
+Rick & Renner -> Milionário & José Rico
+Rick & Renner -> Eduardo Costa
+Rick & Renner -> Edson & Hudson
+Rick & Renner -> Matogrosso & Mathias
+Rick & Renner -> Chitãozinho & Xororó
+Rick & Renner -> César Menotti & Fabiano
+Rick & Renner -> Trio Parada Dura
+Rick & Renner -> Leandro & Leonardo
+Rick & Renner -> Bruno & Marrone
+Chitãozinho & Xororó -> Zezé Di Camargo & Luciano
+Chitãozinho & Xororó -> Rionegro & Solimões
+Chitãozinho & Xororó -> Rick & Renner
+Chitãozinho & Xororó -> Leandro & Leonardo
+Chitãozinho & Xororó -> Edson & Hudson
+Chitãozinho & Xororó -> César Menotti & Fabiano
+Chitãozinho & Xororó -> Leonardo
+Chitãozinho & Xororó -> Bruno & Marrone
+Chitãozinho & Xororó -> Eduardo Costa
+Chitãozinho & Xororó -> Trio Parada Dura
+Leonardo -> Chitãozinho & Xororó
+Leonardo -> Zezé Di Camargo & Luciano
+Leonardo -> Rionegro & Solimões
+Leonardo -> César Menotti & Fabiano
+Leonardo -> Eduardo Costa
+Leonardo -> Trio Parada Dura
+Leonardo -> Milionário & José Rico
+Leonardo -> Bruno & Marrone
+Leonardo -> Leandro & Leonardo
+Leonardo -> Matogrosso & Mathias
+Leonardo -> Rick & Renner
+Leonardo -> Edson & Hudson
+Milionário & José Rico -> Matogrosso & Mathias
+Milionário & José Rico -> Rionegro & Solimões
+Milionário & José Rico -> Bruno & Marrone
+Milionário & José Rico -> Trio Parada Dura
+Milionário & José Rico -> Di Paullo & Paulino
+Milionário & José Rico -> Rick & Renner
+Milionário & José Rico -> Zezé Di Camargo & Luciano
+Trio Parada Dura -> Rionegro & Solimões
+Trio Parada Dura -> Milionário & José Rico
+Trio Parada Dura -> Zezé Di Camargo & Luciano
+Trio Parada Dura -> Chitãozinho & Xororó
+Trio Parada Dura -> Leonardo
+Trio Parada Dura -> Matogrosso & Mathias
+Trio Parada Dura -> Eduardo Costa
+Trio Parada Dura -> Rick & Renner
+Trio Parada Dura -> Bruno & Marrone
+Leandro & Leonardo -> Rick & Renner
+Leandro & Leonardo -> Chitãozinho & Xororó
+Leandro & Leonardo -> César Menotti & Fabiano
+Leandro & Leonardo -> Zezé Di Camargo & Luciano
+Leandro & Leonardo -> Bruno & Marrone
+Leandro & Leonardo -> Rionegro & Solimões
+Leandro & Leonardo -> Eduardo Costa
+Leandro & Leonardo -> Trio Parada Dura
+Leandro & Leonardo -> Milionário & José Rico
+Leandro & Leonardo -> Edson & Hudson
+Pedro Lotto -> André Nine
+Pedro Lotto -> Salvador Da Rima
+Pedro Lotto -> MC PH
+Pedro Lotto -> Kawe
+Pedro Lotto -> Kyan
+Pedro Lotto -> Vulgo FK
+Pedro Lotto -> Haikaiss
+Pedro Lotto -> Costa Gold
+Mc Lipi -> Mc Lele JP
+Mc Lipi -> MC Joãozinho VT
+Mc Lipi -> Mc Magal
+Mc Lipi -> MC Paulin da Capital
+Mc Lipi -> MC Cebezinho
+Mc Lipi -> MC Menor da VG
+Mc Lipi -> Mc Kelvinho
+Mc Lipi -> Mc IG
+Mc Lipi -> Mc Kadu
+Mc Lipi -> DJ BOY
+Mc Lipi -> MC Marks
+Mc Lipi -> MC Neguinho do Kaxeta
+Mc Lipi -> MC Kapela
+Mc Lipi -> Mc Kako
+Mc Lipi -> MC PH
+Mc Lipi -> Mc PP da VS
+Mc Lipi -> MC GP
+7 Minutoz -> MHRAP
+7 Minutoz -> Sadstation
+7 Minutoz -> VMZ
+Arlindo Cruz -> Jorge Aragão
+Arlindo Cruz -> Diogo Nogueira
+Arlindo Cruz -> Zeca Pagodinho
+Arlindo Cruz -> Martinho Da Vila
+Arlindo Cruz -> Grupo Fundo De Quintal
+Arlindo Cruz -> Alcione
+Jorge Aragão -> Zeca Pagodinho
+Jorge Aragão -> Diogo Nogueira
+Jorge Aragão -> Alcione
+Jorge Aragão -> Grupo Fundo De Quintal
+Jorge Aragão -> Arlindo Cruz
+Jorge Aragão -> Martinho Da Vila
+Alcione -> Diogo Nogueira
+Alcione -> Martinho Da Vila
+Alcione -> Arlindo Cruz
+Alcione -> Zeca Pagodinho
+Alcione -> Jorge Aragão
+Martinho Da Vila -> Alcione
+Martinho Da Vila -> Diogo Nogueira
+Martinho Da Vila -> Jorge Aragão
+Raí Saia Rodada -> Eric Land
+Raí Saia Rodada -> Mano Walter
+Raí Saia Rodada -> Márcia Fellipe
+Raí Saia Rodada -> Xand Avião
+Raí Saia Rodada -> Jonas Esticado
+Raí Saia Rodada -> Matheus Fernandes
+Raí Saia Rodada -> Vitor Fernandes
+Raí Saia Rodada -> Avine Vinny
+Raí Saia Rodada -> Mari Fernandez
+Raí Saia Rodada -> Vitinho Imperador
+Raí Saia Rodada -> Japinha Conde
+Raí Saia Rodada -> Tierry
+Raí Saia Rodada -> MC Rogerinho
+Raí Saia Rodada -> NATTAN
+NATTAN -> Eric Land
+NATTAN -> Felipe Amorim
+NATTAN -> Jonas Esticado
+NATTAN -> Josué Bom de Faixa
+NATTAN -> Mari Fernandez
+NATTAN -> Márcia Fellipe
+NATTAN -> Vitinho Imperador
+NATTAN -> Marcynho Sensação
+NATTAN -> Xand Avião
+NATTAN -> Vitor Fernandes
+NATTAN -> Avine Vinny
+NATTAN -> Matheus Fernandes
+NATTAN -> MC Rogerinho
+Vitor Fernandes -> NATTAN
+Vitor Fernandes -> Eric Land
+Vitor Fernandes -> Xand Avião
+Vitor Fernandes -> Jonas Esticado
+Vitor Fernandes -> Mari Fernandez
+Vitor Fernandes -> Márcia Fellipe
+Vitor Fernandes -> Matheus Fernandes
+Vitor Fernandes -> Raí Saia Rodada
+Vitor Fernandes -> Avine Vinny
+Vitor Fernandes -> Vitinho Imperador
+Vitor Fernandes -> Marcynho Sensação
+Vitor Fernandes -> Japinha Conde
+Vitor Fernandes -> Josué Bom de Faixa
+Vitor Fernandes -> Tarcísio do Acordeon
+Vitor Fernandes -> Tierry
+Vitor Fernandes -> MC Rogerinho
+Clayton & Romário -> Cleber & Cauan
+Clayton & Romário -> George Henrique & Rodrigo
+Clayton & Romário -> Humberto & Ronaldo
+Clayton & Romário -> Douglas & Vinicius
+Brisa Star -> Thiago Jhonathan (TJ)
+Brisa Star -> Mari Fernandez
+Brisa Star -> Vitinho Imperador
+Brisa Star -> Josué Bom de Faixa
+Brisa Star -> Japinha Conde
+Brisa Star -> Márcia Fellipe
+André Nine -> Sueth
+André Nine -> Pedro Lotto
+André Nine -> Rap Box
+André Nine -> Haikaiss
+André Nine -> JayA Luuck
+André Nine -> Dudu
+André Nine -> Duzz
+MC Paulin da Capital -> Mc Lele JP
+MC Paulin da Capital -> Mc Kelvinho
+MC Paulin da Capital -> MC Joãozinho VT
+MC Paulin da Capital -> Mc Lipi
+MC Paulin da Capital -> Mc IG
+MC Paulin da Capital -> MC Cebezinho
+MC Paulin da Capital -> MC Menor da VG
+MC Paulin da Capital -> Mc Magal
+MC Paulin da Capital -> MC Neguinho do Kaxeta
+MC Paulin da Capital -> Mc PP da VS
+MC Paulin da Capital -> Mc Kadu
+MC Paulin da Capital -> MC Marks
+MC Paulin da Capital -> MC Kapela
+MC Paulin da Capital -> MC Ryan SP
+MC Paulin da Capital -> MC GP
+MC Paulin da Capital -> DJ BOY
+MC Paulin da Capital -> Salvador Da Rima
+MC Paulin da Capital -> Mc Kako
+Tierry -> Eric Land
+Tierry -> Avine Vinny
+Tierry -> Japinha Conde
+Tierry -> Jonas Esticado
+Tierry -> Matheus Fernandes
+Tierry -> MC Rogerinho
+Tierry -> Márcia Fellipe
+Tierry -> Mari Fernandez
+Tierry -> Xand Avião
+Tierry -> João Bosco e Gabriel
+Tierry -> Yasmin Santos
+Tierry -> Mano Walter
+Tierry -> Tayrone
+Marcynho Sensação -> Japãozin
+Marcynho Sensação -> Vitinho Imperador
+Marcynho Sensação -> Nêgo Jhá
+Marcynho Sensação -> Mari Fernandez
+Marcynho Sensação -> Eric Land
+Marcynho Sensação -> Felipe Amorim
+Marcynho Sensação -> Josué Bom de Faixa
+Tarcísio do Acordeon -> Eric Land
+Tarcísio do Acordeon -> NATTAN
+Tarcísio do Acordeon -> Marcynho Sensação
+Tarcísio do Acordeon -> Mari Fernandez
+Tarcísio do Acordeon -> Vitor Fernandes
+Tarcísio do Acordeon -> Xand Avião
+Tarcísio do Acordeon -> Raí Saia Rodada
+Tarcísio do Acordeon -> Matheus Fernandes
+Tarcísio do Acordeon -> Vitinho Imperador
+Tarcísio do Acordeon -> Márcia Fellipe
+Tarcísio do Acordeon -> Felipe Amorim
+Tarcísio do Acordeon -> Jonas Esticado
+Tarcísio do Acordeon -> MC Rogerinho
+Tarcísio do Acordeon -> Avine Vinny
+Tarcísio do Acordeon -> Tierry
+Rap Box -> JayA Luuck
+JayA Luuck -> WIU
+JayA Luuck -> Rap Box
+JayA Luuck -> Duzz
+JayA Luuck -> Dudu
+MC Ryan SP -> Mc IG
+MC Ryan SP -> MC Cebezinho
+MC Ryan SP -> MC Menor da VG
+MC Ryan SP -> Mc Kelvinho
+MC Ryan SP -> MC Joãozinho VT
+MC Ryan SP -> MC GP
+MC Ryan SP -> Mc PP da VS
+MC Ryan SP -> Mc Lele JP
+MC Ryan SP -> Mc Magal
+MC Ryan SP -> Salvador Da Rima
+MC Ryan SP -> Mc Kadu
+MC Ryan SP -> MC Kapela
+MC Ryan SP -> MC Paulin da Capital
+MC Ryan SP -> DJ BOY
+MC Ryan SP -> MC Neguinho do Kaxeta
+MC Ryan SP -> Mc Davi
+MC Ryan SP -> MC PH
+MC Ryan SP -> Mc Lipi
+Tayrone -> Márcia Fellipe
+Tayrone -> Japinha Conde
+Mc Davi -> MC Ryan SP
+Mc Davi -> MC Menor da VG
+Mc Davi -> Mc Kelvinho
+Mc Davi -> Mc Pedrinho
+Mc Davi -> MC Cebezinho
+Mc Davi -> MC Luan da BS
+Mc Davi -> Mc IG
+Mc Davi -> Mc Lele JP
+Mc Davi -> MC Kapela
+Mc Davi -> Mc PP da VS
+Mc Davi -> Mc Magal
+Mc Davi -> Mc Don Juan
+Mc Davi -> MC Paulin da Capital
+Mc Davi -> MC Joãozinho VT
+Mc Davi -> MC Hariel
+Mc Davi -> MC Neguinho do Kaxeta
+Mc Davi -> MC GP
+Mc Davi -> MC L da Vinte
+Mc Davi -> Mc Lipi
+MC Luan da BS -> MC L da Vinte
+MC Luan da BS -> GORDÃO DO PC
+MC Luan da BS -> Dj Scar
+MC Luan da BS -> Mc Frog
+MC Luan da BS -> MC Rick
+MC Luan da BS -> Mc Anjim
+MC Luan da BS -> Mc Kaio
+MC Hariel -> MC Menor da VG
+MC Hariel -> Mc Kelvinho
+MC Hariel -> MC Neguinho do Kaxeta
+MC Hariel -> MC Cebezinho
+MC Hariel -> MC Ryan SP
+MC Hariel -> Mc PP da VS
+MC Hariel -> Mc IG
+MC Hariel -> Mc Lele JP
+MC Hariel -> MC Paulin da Capital
+MC Hariel -> MC Joãozinho VT
+MC Hariel -> Salvador Da Rima
+MC Hariel -> MC Marks
+MC Hariel -> Mc Magal
+MC Hariel -> MC PH
+MC Hariel -> MC Kapela
+MC Hariel -> Mc Kadu
+MC Hariel -> Mc Davi
+MC Hariel -> Mc Lipi
+MC Hariel -> MC GP
+Mc Kaio -> Dj Scar
+Mc Kaio -> MC L da Vinte
+Mc Kaio -> GORDÃO DO PC
+Mc Kaio -> DJ PH DA SERRA
+Mc Kaio -> Mc Frog
+Mc Kaio -> MC Luan da BS
+Mc Anjim -> MC Luan da BS
+Mc Anjim -> DJ PH DA SERRA
+Mc Anjim -> Mc Kaio
+Mc Anjim -> Mc Laranjinha
+Mc Anjim -> Dj Scar
+Mc Anjim -> MC L da Vinte
+Mc Anjim -> Mc Frog
+Mc Anjim -> GORDÃO DO PC
+Mc Anjim -> MC Rick
+GORDÃO DO PC -> Dj Scar
+GORDÃO DO PC -> Mc Laranjinha
+GORDÃO DO PC -> Mc Kaio
+Dj Scar -> GORDÃO DO PC
+Dj Scar -> Mc Frog
+Dj Scar -> MC L da Vinte
+Dj Scar -> Mc Kaio
+Mc Frog -> Mc Kaio
+Mc Frog -> Dj Scar
+Mc Frog -> DJ Patrick Muniz
+Mc Frog -> MC PR
+Mc Frog -> MC L da Vinte
+Mc Frog -> GORDÃO DO PC
+DJ PH DA SERRA -> Dj Lv Mdp
+Mc Laranjinha -> DJ PH DA SERRA
+Mc Laranjinha -> GORDÃO DO PC
+Mc Laranjinha -> Mc Mika
+DJ Patrick Muniz -> MC PR
+DJ Patrick Muniz -> Mc Delux
+MC PR -> DJ Patrick Muniz
+MC PR -> Mc Gw
+MC PR -> Mc Frog
+MC PR -> GORDÃO DO PC
+Dj Lv Mdp -> DJ PH DA SERRA
+Mc Mika -> Mc Laranjinha
+Mc Mika -> DJ PH DA SERRA
+Mc Delux -> DJ Roca
+Mc Delux -> DJ Patrick Muniz
+DJ Roca -> Mc Delux
+Porter Robinson -> Said The Sky
+Porter Robinson -> Seven Lions
+Porter Robinson -> Dabin
+Porter Robinson -> Madeon
+Porter Robinson -> Dillon Francis
+Porter Robinson -> Zeds Dead
+Porter Robinson -> Rezz
+Porter Robinson -> Jason Ross
+Porter Robinson -> Jai Wolf
+Granger Smith -> Eli Young Band
+Granger Smith -> Cody Johnson
+Granger Smith -> Colt Ford
+Granger Smith -> Randy Houser
+Cody Johnson -> Whiskey Myers
+Cody Johnson -> Turnpike Troubadours
+Cody Johnson -> Eli Young Band
+Cody Johnson -> Granger Smith
+Whiskey Myers -> Turnpike Troubadours
+Turnpike Troubadours -> Whiskey Myers
+100 gecs -> Kero Kero Bonito
+100 gecs -> Laura Les
+100 gecs -> Ecco2k
+Ecco2k -> Bladee
+Ecco2k -> Yung Lean
+Bladee -> Ecco2k
+Bladee -> Yung Lean
+Bladee -> Yves Tumor
+Bladee -> Corbin
+Corbin -> Yung Lean
+Corbin -> Yunggoth✰
+Corbin -> Ecco2k
+Corbin -> Bladee
+Sido -> Kool Savas
+Sido -> Bushido
+Sido -> K.I.Z
+Sido -> Marteria
+Sido -> Kitty Kat
+Sido -> Genetikk
+Sido -> Kollegah
+Sido -> Kay One
+Bushido -> Sido
+Bushido -> Kollegah
+Bushido -> Kool Savas
+Bushido -> Summer Cem
+Bushido -> Farid Bang
+Bushido -> Kay One
+Kool Savas -> Sido
+Kool Savas -> Bushido
+Kool Savas -> K.I.Z
+Kool Savas -> Genetikk
+Kool Savas -> Kollegah
+Marteria -> Casper
+Marteria -> Genetikk
+Marteria -> K.I.Z
+Marteria -> Sido
+Marteria -> Kool Savas
+Marteria -> Alligatoah
+Marteria -> Kraftklub
+Kitty Kat -> Bushido
+Kitty Kat -> Kool Savas
+Kitty Kat -> Sido
+Kollegah -> Genetikk
+Kollegah -> Kool Savas
+Kollegah -> Celo & Abdi
+Kollegah -> Haftbefehl
+Kollegah -> K.I.Z
+Kollegah -> Farid Bang
+Kollegah -> Sido
+Kollegah -> Bushido
+Kay One -> Summer Cem
+Kay One -> PA Sports
+Kay One -> Kitty Kat
+Kay One -> Bushido
+Kay One -> Farid Bang
+Farid Bang -> Kollegah
+Farid Bang -> Celo & Abdi
+Farid Bang -> Haftbefehl
+Farid Bang -> PA Sports
+Farid Bang -> Summer Cem
+Farid Bang -> Bushido
+Farid Bang -> Genetikk
+Farid Bang -> Kay One
+Farid Bang -> Kurdo
+Summer Cem -> Haftbefehl
+Summer Cem -> Celo & Abdi
+Summer Cem -> Bushido
+Summer Cem -> Farid Bang
+Summer Cem -> PA Sports
+Summer Cem -> RAF Camora
+Summer Cem -> Kollegah
+Summer Cem -> Kay One
+Summer Cem -> Kurdo
+Celo & Abdi -> Olexesh
+Celo & Abdi -> Haftbefehl
+Celo & Abdi -> Kurdo
+Celo & Abdi -> Farid Bang
+Celo & Abdi -> SSIO
+Celo & Abdi -> Summer Cem
+Celo & Abdi -> Genetikk
+Celo & Abdi -> Kollegah
+Celo & Abdi -> Zuna
+Haftbefehl -> Celo & Abdi
+Haftbefehl -> Farid Bang
+Haftbefehl -> Genetikk
+Haftbefehl -> Summer Cem
+Haftbefehl -> SSIO
+Haftbefehl -> Kurdo
+Haftbefehl -> RAF Camora
+Haftbefehl -> PA Sports
+Haftbefehl -> Kollegah
+PA Sports -> Olexesh
+PA Sports -> Kurdo
+PA Sports -> Zuna
+PA Sports -> Dardan
+PA Sports -> Farid Bang
+PA Sports -> Veysel
+PA Sports -> Celo & Abdi
+Kurdo -> Celo & Abdi
+Kurdo -> Olexesh
+Kurdo -> Zuna
+Kurdo -> PA Sports
+Kurdo -> Veysel
+Kurdo -> SSIO
+Kurdo -> Haftbefehl
+Kurdo -> Dardan
+RAF Camora -> Summer Cem
+RAF Camora -> Celo & Abdi
+RAF Camora -> Kollegah
+RAF Camora -> Bushido
+RAF Camora -> PA Sports
+RAF Camora -> Farid Bang
+RAF Camora -> Haftbefehl
+RAF Camora -> Kay One
+SSIO -> Celo & Abdi
+SSIO -> Veysel
+SSIO -> Haftbefehl
+SSIO -> Genetikk
+SSIO -> Olexesh
+SSIO -> Trettmann
+SSIO -> KC Rebell
+SSIO -> Summer Cem
+SSIO -> Kurdo
+SSIO -> KALIM
+SSIO -> Farid Bang
+SSIO -> Zuna
+Dardan -> Olexesh
+Dardan -> PA Sports
+Dardan -> Bausa
+Dardan -> Kurdo
+Dardan -> Veysel
+Dardan -> Nimo
+Dardan -> reezy
+Dardan -> Bonez MC
+Dardan -> Summer Cem
+Dardan -> KALIM
+Dardan -> KC Rebell
+Dardan -> Zuna
+Veysel -> Dardan
+Veysel -> PA Sports
+Veysel -> KC Rebell
+Veysel -> Zuna
+Veysel -> Kurdo
+Veysel -> Celo & Abdi
+Veysel -> Olexesh
+Veysel -> KALIM
+Veysel -> SSIO
+KC Rebell -> Celo & Abdi
+KC Rebell -> PA Sports
+KC Rebell -> Summer Cem
+KC Rebell -> Bausa
+KC Rebell -> Farid Bang
+KC Rebell -> Kurdo
+KC Rebell -> Haftbefehl
+KC Rebell -> Kontra K
+KC Rebell -> Veysel
+KC Rebell -> Olexesh
+KC Rebell -> RAF Camora
+KC Rebell -> SSIO
+KC Rebell -> Dardan
+KC Rebell -> Zuna
+Nimo -> Dardan
+Nimo -> Olexesh
+Nimo -> Zuna
+Nimo -> Bausa
+Nimo -> PA Sports
+Nimo -> Veysel
+Nimo -> Kurdo
+Nimo -> reezy
+Bonez MC -> Dardan
+Bonez MC -> Olexesh
+Bonez MC -> Zuna
+Bonez MC -> PA Sports
+Bonez MC -> Kurdo
+Bonez MC -> Veysel
+Bonez MC -> RAF Camora
+Bonez MC -> Gzuz
+Bonez MC -> 187 Strassenbande
+Bonez MC -> Shindy
+Bonez MC -> KC Rebell
+Bonez MC -> Bausa
+Bonez MC -> Summer Cem
+Kontra K -> KC Rebell
+Kontra K -> Kollegah
+Kontra K -> RAF Camora
+Kontra K -> Olexesh
+Kontra K -> Genetikk
+Kontra K -> Farid Bang
+Kontra K -> 187 Strassenbande
+Kontra K -> PA Sports
+Kontra K -> Celo & Abdi
+Kontra K -> Ufo361
+Kontra K -> Summer Cem
+Kontra K -> Veysel
+Kontra K -> Bushido
+187 Strassenbande -> Celo & Abdi
+187 Strassenbande -> Olexesh
+187 Strassenbande -> PA Sports
+187 Strassenbande -> Haftbefehl
+187 Strassenbande -> Veysel
+187 Strassenbande -> SSIO
+187 Strassenbande -> Farid Bang
+187 Strassenbande -> RAF Camora
+187 Strassenbande -> Sa4
+187 Strassenbande -> Kurdo
+187 Strassenbande -> Summer Cem
+187 Strassenbande -> KC Rebell
+187 Strassenbande -> Gzuz
+187 Strassenbande -> Kollegah
+Gzuz -> KALIM
+Gzuz -> Celo & Abdi
+Gzuz -> 187 Strassenbande
+Gzuz -> SSIO
+Gzuz -> Veysel
+Gzuz -> Olexesh
+Gzuz -> KC Rebell
+Gzuz -> Bonez MC
+Gzuz -> Sa4
+Shindy -> reezy
+Shindy -> Dardan
+Shindy -> Summer Cem
+Shindy -> PA Sports
+Shindy -> KALIM
+Shindy -> Olexesh
+Shindy -> Kurdo
+Shindy -> Monet192
+Shindy -> Farid Bang
+Shindy -> Miksu / Macloud
+Shindy -> Celo & Abdi
+Shindy -> Capo
+Shindy -> Zuna
+Ufo361 -> KitschKrieg
+Ufo361 -> Dardan
+Ufo361 -> Olexesh
+Ufo361 -> Celo & Abdi
+Ufo361 -> Trettmann
+Ufo361 -> Kurdo
+Ufo361 -> Zuna
+Ufo361 -> SSIO
+Ufo361 -> PA Sports
+Ufo361 -> Veysel
+Ufo361 -> KC Rebell
+Ufo361 -> SXTN
+Ufo361 -> Summer Cem
+Ufo361 -> 187 Strassenbande
+Ufo361 -> Haftbefehl
+Ufo361 -> reezy
+Ufo361 -> Bausa
+Sa4 -> KALIM
+Sa4 -> 18 Karat
+Sa4 -> Celo & Abdi
+Sa4 -> 187 Strassenbande
+Sa4 -> Gzuz
+Sa4 -> Maxwell
+Sa4 -> Veysel
+Miksu / Macloud -> Monet192
+Miksu / Macloud -> Scorpion Gang
+Miksu / Macloud -> Jamule
+Miksu / Macloud -> PA Sports
+Miksu / Macloud -> reezy
+Miksu / Macloud -> Kianush
+Miksu / Macloud -> FOURTY
+Miksu / Macloud -> Veysel
+Miksu / Macloud -> Bozza
+Miksu / Macloud -> KALIM
+Miksu / Macloud -> Zuna
+Capo -> Zuna
+Capo -> Kurdo
+Capo -> Eno
+Capo -> NGEE
+18 Karat -> Hemso
+18 Karat -> Musso
+Maxwell -> 18 Karat
+Maxwell -> LX
+Maxwell -> Sa4
+FOURTY -> Monet192
+FOURTY -> Miksu / Macloud
+FOURTY -> reezy
+FOURTY -> PA Sports
+FOURTY -> Jamule
+FOURTY -> Scorpion Gang
+FOURTY -> Kianush
+FOURTY -> Montez
+FOURTY -> Bozza
+Jamule -> Monet192
+Jamule -> Veysel
+Jamule -> FOURTY
+Jamule -> Miksu / Macloud
+Jamule -> reezy
+Jamule -> KALIM
+Jamule -> Kianush
+Jamule -> Dardan
+Jamule -> PA Sports
+Jamule -> Capo
+Jamule -> Zuna
+Scorpion Gang -> Faroon
+Scorpion Gang -> BOJAN
+Scorpion Gang -> GRiNGO
+Scorpion Gang -> reezy
+Scorpion Gang -> KALIM
+Kianush -> Mudi
+Kianush -> 18 Karat
+Kianush -> Hemso
+Bozza -> BOJAN
+Bozza -> Kianush
+Bozza -> PA Sports
+Eno -> Kurdo
+Eno -> GRiNGO
+Eno -> Zuna
+NGEE -> 18 Karat
+NGEE -> O.G.
+NGEE -> Hemso
+Hemso -> Musso
+Hemso -> 18 Karat
+Musso -> 18 Karat
+Musso -> Hemso
+LX -> Sa4
+LX -> Gzuz
+LX -> 187 Strassenbande
+LX -> Hemso
+LX -> 18 Karat
+LX -> Maxwell
+Montez -> KAYEF
+Montez -> KC Rebell
+Montez -> RAF Camora
+GRiNGO -> Hemso
+GRiNGO -> Alberto Stylee
+Mudi -> Kianush
+Mudi -> Hava
+Mudi -> Hemso
+O.G. -> Musso
+O.G. -> Hemso
+KAYEF -> Kay One
+KAYEF -> Stereoact
+KAYEF -> Adel Tawil
+KAYEF -> ELIF
+KAYEF -> Montez
+Hava -> Mudi
+Hava -> Monet192
+Hava -> Lune
+ELIF -> Katja Krasavice
+ELIF -> LEA
+ELIF -> KAYEF
+ELIF -> CÉLINE
+ELIF -> Montez
+ELIF -> LUNA
+ELIF -> JORIS
+ELIF -> Wincent Weiss
+Adel Tawil -> Johannes Oerding
+Adel Tawil -> Max Giesinger
+Adel Tawil -> JORIS
+Adel Tawil -> Wincent Weiss
+Lune -> Mudi
+Lune -> Monet192
+Lune -> CÉLINE
+Lune -> Hava
+LEA -> Wincent Weiss
+LEA -> Nico Santos
+LEA -> JORIS
+LEA -> Max Giesinger
+LEA -> Katja Krasavice
+LEA -> Pietro Lombardi
+LEA -> Michael Patrick Kelly
+LEA -> Johannes Oerding
+LEA -> ELIF
+LEA -> Stereoact
+LEA -> Mark Forster
+Katja Krasavice -> LEA
+Katja Krasavice -> ELIF
+Katja Krasavice -> Wincent Weiss
+Katja Krasavice -> Pietro Lombardi
+Katja Krasavice -> CÉLINE
+Katja Krasavice -> badmómzjay
+Katja Krasavice -> SXTN
+Katja Krasavice -> Juju
+Katja Krasavice -> Kitty Kat
+Katja Krasavice -> Shirin David
+Katja Krasavice -> Culcha Candela
+Katja Krasavice -> Mario Novembre
+Katja Krasavice -> Nura
+Katja Krasavice -> KAYEF
+Wincent Weiss -> Max Giesinger
+Wincent Weiss -> Nico Santos
+Wincent Weiss -> Mark Forster
+Wincent Weiss -> JORIS
+Wincent Weiss -> Johannes Oerding
+Wincent Weiss -> Michael Patrick Kelly
+Wincent Weiss -> LEA
+Wincent Weiss -> Katja Krasavice
+Wincent Weiss -> Pietro Lombardi
+Wincent Weiss -> Adel Tawil
+CÉLINE -> Lune
+CÉLINE -> ELIF
+CÉLINE -> Hava
+CÉLINE -> LUNA
+CÉLINE -> Montez
+CÉLINE -> badmómzjay
+CÉLINE -> Monet192
+LUNA -> CÉLINE
+LUNA -> ELIF
+LUNA -> KAYEF
+Max Giesinger -> Wincent Weiss
+Max Giesinger -> Michael Schulte
+Max Giesinger -> LEA
+Max Giesinger -> Rea Garvey
+Max Giesinger -> Johannes Oerding
+Max Giesinger -> JORIS
+Max Giesinger -> Mark Forster
+Mark Forster -> Wincent Weiss
+Mark Forster -> Max Giesinger
+Mark Forster -> Johannes Oerding
+Mark Forster -> JORIS
+Mark Forster -> Michael Schulte
+Mark Forster -> Rea Garvey
+Mark Forster -> Nico Santos
+Mark Forster -> LEA
+Michael Patrick Kelly -> LEA
+Michael Patrick Kelly -> Max Giesinger
+Michael Patrick Kelly -> Johannes Oerding
+Michael Patrick Kelly -> Rea Garvey
+Michael Patrick Kelly -> JORIS
+Michael Patrick Kelly -> Nico Santos
+Michael Patrick Kelly -> Michael Schulte
+Michael Patrick Kelly -> Wincent Weiss
+Michael Patrick Kelly -> Adel Tawil
+Michael Patrick Kelly -> Kelvin Jones
+Michael Patrick Kelly -> Milow
+badmómzjay -> Monet192
+badmómzjay -> Montez
+badmómzjay -> Hava
+badmómzjay -> CÉLINE
+badmómzjay -> Miksu / Macloud
+badmómzjay -> Katja Krasavice
+badmómzjay -> Lune
+badmómzjay -> Juju
+badmómzjay -> Nura
+badmómzjay -> FOURTY
+Juju -> Nura
+Juju -> CÉLINE
+Juju -> SXTN
+Juju -> Katja Krasavice
+Juju -> Bausa
+Juju -> KitschKrieg
+Juju -> FOURTY
+Juju -> Loredana
+Juju -> Shirin David
+Juju -> Montez
+Juju -> Miksu / Macloud
+Juju -> badmómzjay
+Juju -> ELIF
+Juju -> Monet192
+Shirin David -> badmómzjay
+Shirin David -> Katja Krasavice
+Shirin David -> CÉLINE
+Shirin David -> Lune
+Shirin David -> Loredana
+Shirin David -> Monet192
+Shirin David -> Juju
+Shirin David -> Montez
+Shirin David -> Nura
+Shirin David -> Jamule
+Shirin David -> Miksu / Macloud
+Shirin David -> Hava
+Shirin David -> Zuna
+Shirin David -> Shindy
+Shirin David -> Nimo
+Mario Novembre -> KAYEF
+Loredana -> Mozzik
+Loredana -> Ardian Bujupi
+Loredana -> Monet192
+Loredana -> Lune
+Loredana -> Butrint Imeri
+Loredana -> Zuna
+Loredana -> badmómzjay
+Loredana -> CÉLINE
+Loredana -> Azet
+Loredana -> FOURTY
+Loredana -> Miksu / Macloud
+Loredana -> Hava
+Mozzik -> Butrint Imeri
+Ardian Bujupi -> Dhurata Dora
+Ardian Bujupi -> Butrint Imeri
+Ardian Bujupi -> Mozzik
+Ardian Bujupi -> Zuna
+Butrint Imeri -> Mozzik
+Azet -> Kurdo
+Azet -> Zuna
+Azet -> NGEE
+Azet -> Mozzik
+Azet -> Ardian Bujupi
+Azet -> Capo
+Azet -> Veysel
+Azet -> Eno
+Dhurata Dora -> Noizy
+Dhurata Dora -> Butrint Imeri
+Noizy -> Dhurata Dora
+CJ -> Fivio Foreign
+CJ -> DUSTY LOCANE
+CJ -> Rowdy Rebel
+CJ -> Bizzy Banks
+CJ -> Lil Eazzyy
+CJ -> 22Gz
+CJ -> Bobby Shmurda
+CJ -> DDG
+CJ -> Chucky73
+CJ -> Desiigner
+CJ -> Only The Family
+Blue October -> Badflower
+Blue October -> Fuel
+Blue October -> Sick Puppies
+Blue October -> 10 Years
+Blue October -> Lifehouse
+Blue October -> Seether
+Blue October -> Trapt
+Blue October -> Hinder
+Blue October -> Chevelle
+Blue October -> Staind
+Blue October -> Hoobastank
+Blue October -> Finger Eleven
+Chucky73 -> El Cherry Scom
+Chucky73 -> Quimico Ultra Mega
+El Cherry Scom -> Atomic Otro Way
+El Cherry Scom -> Lirico En La Casa
+El Cherry Scom -> Quimico Ultra Mega
+El Cherry Scom -> Jc La Nevula
+Quimico Ultra Mega -> Atomic Otro Way
+Quimico Ultra Mega -> Lirico En La Casa
+Quimico Ultra Mega -> Jc La Nevula
+Quimico Ultra Mega -> El Cherry Scom
+Lirico En La Casa -> El Cherry Scom
+Lirico En La Casa -> Quimico Ultra Mega
+Lirico En La Casa -> Mozart La Para
+Lirico En La Casa -> Jc La Nevula
+Lirico En La Casa -> Maffio
+Lirico En La Casa -> Atomic Otro Way
+Atomic Otro Way -> Lirico En La Casa
+Atomic Otro Way -> Quimico Ultra Mega
+Atomic Otro Way -> Chimbala
+Atomic Otro Way -> El Cherry Scom
+Atomic Otro Way -> Jc La Nevula
+Atomic Otro Way -> Mozart La Para
+Jc La Nevula -> Atomic Otro Way
+Jc La Nevula -> Quimico Ultra Mega
+Jc La Nevula -> Trap Capos
+Jc La Nevula -> Lirico En La Casa
+Jc La Nevula -> El Cherry Scom
+Maffio -> Lirico En La Casa
+Maffio -> Chimbala
+Maffio -> Mozart La Para
+Maffio -> El Cherry Scom
+Maffio -> Atomic Otro Way
+Maffio -> DJ Nelson
+Maffio -> Don Miguelo
+Maffio -> Rafa Pabön
+Mozart La Para -> Chimbala
+Mozart La Para -> Don Miguelo
+Mozart La Para -> El Alfa
+Chimbala -> Mozart La Para
+Chimbala -> El Alfa
+Chimbala -> Don Miguelo
+Don Miguelo -> Don Chezina
+Don Miguelo -> Mozart La Para
+El Alfa -> Chimbala
+El Alfa -> Mozart La Para
+El Alfa -> Brytiago
+El Alfa -> Miky Woodz
+El Alfa -> Bryant Myers
+El Alfa -> Lary Over
+El Alfa -> Don Miguelo
+El Alfa -> Revol
+El Alfa -> Rvssian
+El Alfa -> Casper Magico
+El Alfa -> Yiyo Sarante
+El Alfa -> Jory Boy
+El Alfa -> Noriel
+Tiago PZK -> Rusherking
+Tiago PZK -> FMK
+Tiago PZK -> Seven Kayne
+Tiago PZK -> Luck Ra
+Tiago PZK -> Dani Ribba
+Tiago PZK -> Rei
+Tiago PZK -> LIT killah
+Tiago PZK -> Asan
+Tiago PZK -> Lucho SSJ
+Tiago PZK -> Neo Pistea
+Tiago PZK -> Bhavi
+Tiago PZK -> Mesita
+Tiago PZK -> YSY A
+Tiago PZK -> Emilia
+harmless -> salvia palth
+harmless -> Surf Curse
+harmless -> Teen Suicide
+harmless -> Strawberry Guy
+harmless -> Bedroom
+harmless -> Her's
+Rusherking -> FMK
+Rusherking -> Tiago PZK
+Rusherking -> Seven Kayne
+Rusherking -> Luck Ra
+Rusherking -> Emilia
+Rusherking -> Rei
+Rusherking -> Asan
+Rusherking -> LIT killah
+Rusherking -> Dani Ribba
+Rusherking -> Bhavi
+Rusherking -> Neo Pistea
+Rusherking -> 3AM
+Rusherking -> Lucho SSJ
+Emilia -> FMK
+Emilia -> Lali
+Emilia -> Rusherking
+Emilia -> Sael
+Emilia -> BANDIDO
+Emilia -> Luck Ra
+Emilia -> El Reja
+Emilia -> Migrantes
+Emilia -> MYA
+Yung Bae -> Home
+Yung Bae -> Moe Shop
+Moe Shop -> Yung Bae
+Home -> Yung Bae

@@ -34,7 +34,7 @@ int main() {
     cout << "there are " << artists.size() << " artists listed" << endl;
     cout << "artists who have not been processed: " << endl;
     for (auto i : artists) 
-        if (i.second < 5)
+        if (i.second < 3)
             cout << i.first << endl;
 
     return 0;
