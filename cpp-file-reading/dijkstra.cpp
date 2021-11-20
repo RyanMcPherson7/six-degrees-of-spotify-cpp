@@ -17,7 +17,7 @@ public:
 };
 
 
-unordered_map<string, int> dijkstra(Graph& graph, string src) {
+unordered_map<string, int> dijkstraDist(Graph& graph, string src) {
    
    unordered_set<string> computed;
    unordered_set<string> unprocessed;
@@ -61,7 +61,48 @@ unordered_map<string, int> dijkstra(Graph& graph, string src) {
 }
 
 
+unordered_map<string, string> dijkstraParent(Graph& graph, string src) {
+   
+   unordered_set<string> computed;
+   unordered_set<string> unprocessed;
+   unordered_map<string, int> dist;
+   unordered_map<string, string> parent;   
 
+    // initial seeding
+    for (auto edge : graph.adjList) {
+        unprocessed.insert(edge.first);
+        dist[edge.first] = INT_MAX;
+        parent[edge.first] = "-1";
+    }
+
+    dist[src] = 0;
+
+    // filling out distances and parents
+    while (!unprocessed.empty()) {
+
+        // finding smallest distance
+        string curr = "";
+        int currDist = INT_MAX;
+        for (auto vertex : unprocessed) 
+            if (currDist > dist[vertex]) {
+                curr = vertex;
+                currDist = dist[vertex];
+            }
+
+        // processing vertex
+        computed.insert(curr);
+        unprocessed.erase(curr);
+
+        // relaxing
+        for (auto edge : graph.adjList[curr]) 
+            if (dist[edge] > dist[curr] + 1) {
+                dist[edge] = dist[curr] + 1;
+                parent[edge] = curr;
+            }
+    }
+
+   return parent;
+}
 
 
 int main() {
@@ -87,13 +128,34 @@ int main() {
         inputFile.close();
     }
 
-    // dijkstra's algorithm
-    unordered_map<string, int> shortestPath = dijkstra(graph, "Kanye West");
 
-    for (auto i : shortestPath) 
-        cout << i.first << " ----- " << i.second << endl;
+    cout << "---------------------------------------------------" << endl;
+    string start, end;
+    cout << "Enter start vertex: ";
+    getline(cin, start);
+    cout << "Enter end vertex: ";
+    getline(cin, end);
+    unordered_map<string, string> parents = dijkstraParent(graph, start);
+    vector<string> response;
+    string target = end;
+    while (parents[target] != start) {
+        response.push_back(target);
+        target = parents[target];
+    }
 
+    response.push_back(target);
+    response.push_back(start);
+    reverse(response.begin(), response.end());
 
+    cout << "It took " << response.size() - 1 
+    << " fans to connect " << start << " to " << end << endl;
+
+    cout << "Path: " << endl;
+
+    for (auto s : response) 
+        cout << s << endl;
+
+    cout << "---------------------------------------------------" << endl;
 
     return 0;
 }
