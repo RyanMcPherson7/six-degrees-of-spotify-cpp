@@ -10,8 +10,6 @@ int main() {
     // loading data into graph
     populateGraph(graph, "../data/connections60.txt");
 
-    cout << "--------------------------------------" << endl;
-
     cout << "# of operations: ";
     getline(cin, numOp);
     for (int i = 0; i < stoi(numOp); i++) {

@@ -4,7 +4,14 @@
 // prints formatted info returned from Dijkstra's algorithm 
 void displayDijkstra(Graph& graph, const string& start, const string& end) {
 
+    // running Dijkstra's and timing
+    auto startTime = chrono::high_resolution_clock::now();
     unordered_map<string, string> parents = dijkstra(graph, start);
+    auto endTime = chrono::high_resolution_clock::now();
+    chrono::duration<float> duration = endTime - startTime;
+    cout << "Executed in " << duration.count() << " seconds." << endl;
+
+    // responding to user
     vector<string> response;
     string target = end;
 
@@ -20,7 +27,7 @@ void displayDijkstra(Graph& graph, const string& start, const string& end) {
     reverse(response.begin(), response.end());
 
     cout << "It took " << response.size() - 2 << 
-    " artists to connect " << start << " to " << end << endl;
+    " artists to connect " << start << " to " << end << "." << endl;
 
     cout << "Path: " << endl;
 
