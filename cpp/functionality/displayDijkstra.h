@@ -1,5 +1,15 @@
 #pragma once
+#include <windows.h>
 #include "dijkstra.h"
+
+#define NC "\e[0m"
+#define RED "\e[0;31m"
+#define GRN "\e[0;32m"
+#define YEL "\e[0;33m"
+#define BLU "\e[0;34m"
+#define PRP "\e[0;35m"
+#define CYN "\e[0;36m"
+#define WHT "\e[0;37m"
 
 // prints formatted info returned from Dijkstra's algorithm 
 void displayDijkstra(Graph& graph, const string& start, const string& end) {
@@ -9,9 +19,9 @@ void displayDijkstra(Graph& graph, const string& start, const string& end) {
     unordered_map<string, string> parents = dijkstra(graph, start);
     auto endTime = chrono::high_resolution_clock::now();
     chrono::duration<float> duration = endTime - startTime;
-    cout << "Executed in " << duration.count() << " seconds." << endl;
+    cout << BLU "Executed in " CYN << duration.count() << BLU " seconds." << endl;
 
-    // responding to user
+    // finding path
     vector<string> response;
     string target = end;
 
@@ -26,11 +36,21 @@ void displayDijkstra(Graph& graph, const string& start, const string& end) {
     response.push_back(start);
     reverse(response.begin(), response.end());
 
-    cout << "It took " << response.size() - 2 << 
-    " artists to connect " << start << " to " << end << "." << endl;
+    cout << BLU "It took " CYN << response.size() - 2 << 
+    BLU " artists to connect " CYN << start << BLU " to " CYN << end << BLU "." << endl;
 
-    cout << "Path: " << endl;
+    cout << BLU "Path: " << endl;
 
-    for (auto s : response) 
-        cout << s << endl;
+    // displaying path
+    for (int i = 0; i < response.size(); i++) {
+
+        Sleep(600);
+        cout << CYN << response[i];
+
+        if (i != response.size() - 1)
+            cout << BLU " -->";
+
+        cout << endl;
+    }
+        
 }
