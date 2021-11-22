@@ -36,8 +36,8 @@ void displayDijkstra(Graph& graph, const string& start, const string& end) {
     response.push_back(start);
     reverse(response.begin(), response.end());
 
-    cout << BLU "It took " CYN << response.size() - 2 << 
-    BLU " artists to connect " CYN << start << BLU " to " CYN << end << BLU "." << endl;
+    cout << BLU "It took " CYN << response.size() - 2;
+    cout << BLU " artists to connect " CYN << start << BLU " to " CYN << end << BLU "." << endl;
 
     cout << BLU "Path: " << endl;
 

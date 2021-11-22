@@ -47,7 +47,7 @@ int main() {
         getline(cin, alg);
         system("clear");
 
-        // running shortest path algorithm
+        // running chosen shortest path algorithm
         switch(stoi(alg)) {
             case 1:
                 cout << CYN "Running Dijkstra's Algorithm..." << endl;
