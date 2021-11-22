@@ -17,7 +17,7 @@ int main() {
     string numOp, start, end, alg;
 
     // loading data into graph
-    populateGraph(graph, "../data/connections60.txt");
+    populateGraph(graph, "data-scrapping/data/connections60.txt");
 
     // running user interface
     system("clear");
@@ -33,8 +33,6 @@ int main() {
     system("clear");
 
     for (int i = 0; i < stoi(numOp); i++) {
-
-        cout << WHT "--------------------------------------" << endl;
 
         // collecting user data
         cout << YEL "Enter start artist: " WHT;
@@ -64,7 +62,6 @@ int main() {
         }
     }
 
-    cout << WHT "--------------------------------------" << endl;
     cout << YEL "Thanks for playing!" << endl;
 
     return 0;

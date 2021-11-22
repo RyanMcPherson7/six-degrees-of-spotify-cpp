@@ -52,5 +52,6 @@ void displayDijkstra(Graph& graph, const string& start, const string& end) {
 
         cout << endl;
     }
-        
+
+    cout << endl;
 }
