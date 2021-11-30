@@ -1,6 +1,6 @@
-#include "functionality/populate-graph.h"
-#include "functionality/display-dijkstra.h"
-#include "functionality/check-valid.h"
+#include "functionality/populate-graph.hpp"
+#include "functionality/display-dijkstra.hpp"
+#include "functionality/check-valid.hpp"
 
 #define NC "\e[0m"
 #define RED "\e[0;31m"

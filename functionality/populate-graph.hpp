@@ -1,5 +1,5 @@
 #pragma once
-#include "graph.h"
+#include "graph.hpp"
 
 void populateGraph(Graph& graph, const string& file) {
 

@@ -1,5 +1,5 @@
 #pragma once
-#include "graph.h"
+#include "graph.hpp"
 
 #define PRP "\e[0;35m"
 

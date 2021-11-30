@@ -1,6 +1,6 @@
 #pragma once
 #include <windows.h>
-#include "dijkstra.h"
+#include "dijkstra.hpp"
 
 #define NC "\e[0m"
 #define RED "\e[0;31m"
