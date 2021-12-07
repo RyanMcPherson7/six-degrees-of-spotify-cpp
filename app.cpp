@@ -1,13 +1,11 @@
 #include "functionality/populate-graph.hpp"
-#include "functionality/display-dijkstra.hpp"
 #include "functionality/check-valid.hpp"
+#include "functionality/display-dijkstra.hpp"
+#include "functionality/display-BFS.hpp"
 
-#define NC "\e[0m"
-#define RED "\e[0;31m"
 #define GRN "\e[0;32m"
 #define YEL "\e[0;33m"
 #define BLU "\e[0;34m"
-#define PRP "\e[0;35m"
 #define CYN "\e[0;36m"
 #define WHT "\e[0;37m"
 
@@ -55,7 +53,7 @@ int main() {
                 break;
             case 2:
                 cout << GRN "Running BFS..." << endl;
-                cout << "Feature not impimented yet" << endl;
+                displayBFS(graph, start, end);
                 break;
             default:
                 cout << "Invalid command" << endl;
